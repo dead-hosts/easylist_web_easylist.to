@@ -1,9 +1,18 @@
-# About [repository-name]
+# About easylist_web_easylist.to
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/easylist_web_easylist.to.svg?branch=master)](https://travis-ci.org/dead-hosts/easylist_web_easylist.to)
 
 ```
-[description]
+! Title: EasyList
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! 
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
 ```
 
 --------------------------------------------------------------------------------
