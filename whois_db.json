@@ -9799,6 +9799,11 @@
         "expiration_date": "02-oct-2019",
         "state": "future"
     },
+    "independent.co.uk": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
     "indepthafrica.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -9947,6 +9952,11 @@
     "insidercdn.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "insideyork.co.uk": {
+        "epoch": 1682985600,
+        "expiration_date": "02-may-2023",
         "state": "future"
     },
     "inspirefirst.com": {
@@ -10214,6 +10224,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "itpro.co.uk": {
+        "epoch": 1570320000,
+        "expiration_date": "06-oct-2019",
+        "state": "future"
+    },
     "itservicesthatworkforyou.com": {
         "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
@@ -10417,6 +10432,11 @@
     "jewishexponent.com": {
         "epoch": 1657843200,
         "expiration_date": "15-jul-2022",
+        "state": "future"
+    },
+    "jewishnews.co.uk": {
+        "epoch": 1627430400,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "jewishtimes-sj.com": {
@@ -10749,6 +10769,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "kentonline.co.uk": {
+        "epoch": 1626998400,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
+    },
     "kephyr.com": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
@@ -10844,6 +10869,11 @@
         "expiration_date": "23-mar-2024",
         "state": "future"
     },
+    "kitz.co.uk": {
+        "epoch": 1741996800,
+        "expiration_date": "15-mar-2025",
+        "state": "future"
+    },
     "kiwi-offers.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
@@ -10862,6 +10892,11 @@
     "klav1230am.com": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "klfm967.co.uk": {
+        "epoch": 1611878400,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "klm.com": {
@@ -11814,6 +11849,11 @@
         "expiration_date": "17-mar-2029",
         "state": "future"
     },
+    "lucidsponge.pl": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "lucky-dating.net": {
         "epoch": 1591056000,
         "expiration_date": "02-jun-2020",
@@ -11952,6 +11992,11 @@
     "macupdate.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "macworld.co.uk": {
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "macworld.com": {
@@ -12234,6 +12279,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "mauritiusnews.co.uk": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "maxconsole.com": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -12412,7 +12462,7 @@
     "meetsexygirls.org": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "megacloud.com": {
         "epoch": 1590969600,
@@ -12502,6 +12552,16 @@
     "meteomedia.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "meteovista.co.uk": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "meteox.co.uk": {
+        "epoch": 1628294400,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "meteox.com": {
@@ -12709,6 +12769,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "moneywise.co.uk": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "monijorb.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
@@ -12782,6 +12847,11 @@
     "morningpost.dk": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "morningstaronline.co.uk": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "mosso.com": {
@@ -12907,6 +12977,11 @@
     "mtoon.com": {
         "epoch": 1591142400,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "mtv.co.uk": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "muchmusic.com": {
@@ -13074,6 +13149,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "myhpf.co.uk": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "myip.ms": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -13152,6 +13232,11 @@
     "mysuncoast.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "mytyres.co.uk": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "myusenet.net": {
@@ -13454,6 +13539,11 @@
         "expiration_date": "08-feb-2021",
         "state": "future"
     },
+    "newburytoday.co.uk": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "newipnow.com": {
         "epoch": 1607212800,
         "expiration_date": "06-dec-2020",
@@ -13577,6 +13667,11 @@
     "niholaev.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "nijobfinder.co.uk": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "nimbb.com": {
@@ -13719,6 +13814,11 @@
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
+    "nudebabes.ws": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
     "nudemix.com": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -13762,6 +13862,11 @@
     "nzbstars.com": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "nznewsuk.co.uk": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "o333o.com": {
@@ -13977,6 +14082,11 @@
     "oriongadgets.com": {
         "epoch": 1598659200,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "osobnosti.cz": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "ouo.io": {
