@@ -4399,6 +4399,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "comparestoreprices.co.uk": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
     "compassnewspaper.com": {
         "epoch": 1579564800,
         "expiration_date": "21-jan-2020",
@@ -4612,6 +4617,11 @@
     "cpmterra.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "cpub.co.uk": {
+        "epoch": 1785715200,
+        "expiration_date": "03-aug-2026",
         "state": "future"
     },
     "cpvadvertise.com": {
@@ -4889,6 +4899,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "dailymail.co.uk": {
+        "epoch": 1844812800,
+        "expiration_date": "17-jun-2028",
+        "state": "future"
+    },
     "dailymotion.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
@@ -4942,6 +4957,11 @@
     "dapatwang.com": {
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "darknet.org.uk": {
+        "epoch": 1684800000,
+        "expiration_date": "23-may-2023",
         "state": "future"
     },
     "data18.com": {
@@ -5052,7 +5072,7 @@
     "defenceweb.co.za": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "defensereview.com": {
         "epoch": 1585008000,
@@ -5087,6 +5107,11 @@
     "demerarawaves.com": {
         "epoch": 1611705600,
         "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "dennis.co.uk": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "denza.pro": {
@@ -5124,9 +5149,19 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "desixpress.co.uk": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "deskbabes.com": {
         "epoch": 1598313600,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "desperateseller.co.uk": {
+        "epoch": 1619222400,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "detnews.com": {
@@ -5334,6 +5369,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "djmag.co.uk": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
     "djmag.com": {
         "epoch": 1613088000,
         "expiration_date": "12-feb-2021",
@@ -5427,6 +5467,11 @@
     "dorapodorasham.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "dot.tk": {
+        "epoch": 1735689600,
+        "expiration_date": "01-jan-2025",
         "state": "future"
     },
     "dota-trade.com": {
@@ -5547,6 +5592,11 @@
     "drive360.co.za": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "drivearchive.co.uk": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "driverdb.com": {
@@ -5687,6 +5737,11 @@
     "earthlink.net": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "earthmoversmagazine.co.uk": {
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "easy-share.com": {
@@ -5872,6 +5927,11 @@
     "egolina.com": {
         "epoch": 1573257600,
         "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "ehow.co.uk": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "ehow.com": {
@@ -6099,6 +6159,11 @@
         "expiration_date": "31-oct-2019",
         "state": "future"
     },
+    "espn.co.uk": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "espn1320.net": {
         "epoch": 1613088000,
         "expiration_date": "12-feb-2021",
@@ -6249,6 +6314,11 @@
         "expiration_date": "19-jan-2028",
         "state": "future"
     },
+    "exchangerates.org.uk": {
+        "epoch": 1734912000,
+        "expiration_date": "23-dec-2024",
+        "state": "future"
+    },
     "excite.com": {
         "epoch": 1631923200,
         "expiration_date": "18-sep-2021",
@@ -6289,6 +6359,11 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "expertreviews.co.uk": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "explainidentifycoding.info": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
@@ -6302,6 +6377,11 @@
     "exposedwebcams.com": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "express.co.uk": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
         "state": "future"
     },
     "expressmilwaukee.com": {
@@ -6427,6 +6507,11 @@
     "fallout3nexus.com": {
         "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
+    "familylawweek.co.uk": {
+        "epoch": 1745366400,
+        "expiration_date": "23-apr-2025",
         "state": "future"
     },
     "familytreedna.com": {
@@ -6612,6 +6697,11 @@
     "ffiles.com": {
         "epoch": 1584835200,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "fgfx.co.uk": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "fgn.me": {
@@ -6800,9 +6890,9 @@
         "state": "past"
     },
     "finance-reporting.org": {
-        "epoch": 1568160000,
-        "expiration_date": "11-sep-2019",
-        "state": "past"
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
     },
     "financialnewsandtalk.com": {
         "epoch": 1582416000,
@@ -6862,7 +6952,7 @@
     "firestormmedia.tv": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "firingsquad.com": {
         "epoch": 1571616000,
@@ -7049,6 +7139,11 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "foreignersinuk.co.uk": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "forexpeacearmy.com": {
         "epoch": 1730419200,
         "expiration_date": "01-nov-2024",
@@ -7157,6 +7252,11 @@
     "free-webhosts.com": {
         "epoch": 1783641600,
         "expiration_date": "10-jul-2026",
+        "state": "future"
+    },
+    "freeads.co.uk": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
         "state": "future"
     },
     "freeappaday.com": {
@@ -7277,6 +7377,11 @@
     "freshremix.ru": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "friday-ad.co.uk": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
         "state": "future"
     },
     "fritchy.com": {
@@ -7447,6 +7552,11 @@
     "futuboxhd.com": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "future.net.uk": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
         "state": "future"
     },
     "fux.com": {
@@ -7874,6 +7984,11 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "getreading.co.uk": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
     "getresponse.com": {
         "epoch": 1636416000,
         "expiration_date": "09-nov-2021",
@@ -7892,6 +8007,11 @@
     "getsurl.com": {
         "epoch": 1707436800,
         "expiration_date": "09-feb-2024",
+        "state": "future"
+    },
+    "getsurrey.co.uk": {
+        "epoch": 1612137600,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "gettraff.com": {
@@ -8224,6 +8344,11 @@
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "gooster.co.uk": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "gopride.com": {
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
@@ -8354,6 +8479,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "graphicdesignforums.co.uk": {
+        "epoch": 1616803200,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "grateful.io": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
@@ -8422,6 +8552,11 @@
     "gtweekly.com": {
         "epoch": 1571097600,
         "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "guim.co.uk": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "gulf-daily-news.com": {
@@ -8612,6 +8747,11 @@
     "hdpornphotos.com": {
         "epoch": 1579737600,
         "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "hdtvtest.co.uk": {
+        "epoch": 1611100800,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "hdzog.com": {
@@ -8954,6 +9094,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "hostratings.co.uk": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "hostsearch.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
@@ -9152,6 +9297,11 @@
     "huluads.info": {
         "epoch": 1594857600,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "hummy.org.uk": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "hungangels.com": {
