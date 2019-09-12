@@ -19889,6 +19889,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "warrantydirect.co.uk": {
+        "epoch": 1573689600,
+        "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
     "warriorforum.com": {
         "epoch": 1713398400,
         "expiration_date": "18-apr-2024",
@@ -20109,6 +20114,11 @@
         "expiration_date": "27-oct-2023",
         "state": "future"
     },
+    "websitehome.co.uk": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "webstatschecker.com": {
         "epoch": 1570492800,
         "expiration_date": "08-oct-2019",
@@ -20252,6 +20262,11 @@
     "whatsonstage.com": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "whatsontv.co.uk": {
+        "epoch": 1626912000,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "whatsthescore.com": {
@@ -20534,6 +20549,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "worddictionary.co.uk": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "wordreference.com": {
         "epoch": 1740441600,
         "expiration_date": "25-feb-2025",
@@ -20694,6 +20714,11 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "wysara.pw": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "x3xtube.com": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
@@ -20784,6 +20809,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "xigen.co.uk": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
     "ximagehost.org": {
         "epoch": 1593993600,
         "expiration_date": "06-jul-2020",
@@ -20854,9 +20884,19 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "xsreviews.co.uk": {
+        "epoch": 1641254400,
+        "expiration_date": "04-jan-2022",
+        "state": "future"
+    },
     "xtendmedia.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "xtrasize.pl": {
+        "epoch": 1665360000,
+        "expiration_date": "10-oct-2022",
         "state": "future"
     },
     "xtremesystems.org": {
@@ -21052,6 +21092,11 @@
     "yimg.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "yllasatra.xyz": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "ynaija.com": {
