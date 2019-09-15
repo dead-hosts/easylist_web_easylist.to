@@ -113009,6 +113009,86 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "webike.fi": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "webike.fr": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "webike.hk": {
+        "epoch": 1768348800,
+        "expiration_date": "14-jan-2026",
+        "state": "future"
+    },
+    "webike.id": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "webike.in": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "webike.la": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "webike.mx": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "webike.net": {
+        "epoch": 1690848000,
+        "expiration_date": "01-aug-2023",
+        "state": "future"
+    },
+    "webike.net.br": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "webike.net.pl": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "webike.ng": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "webike.sg": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "webike.tw": {
+        "epoch": 1655510400,
+        "expiration_date": "18-jun-2022",
+        "state": "future"
+    },
+    "webinspector.se": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "webmail.co.za": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "webmaster-source.com": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "webmastercrunch.com": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -113019,9 +113099,24 @@
         "expiration_date": "28-dec-2019",
         "state": "future"
     },
+    "webmasterspub.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "webmd.com": {
         "epoch": 1680652800,
         "expiration_date": "05-apr-2023",
+        "state": "future"
+    },
+    "webmfile.tv": {
+        "epoch": 1573516800,
+        "expiration_date": "12-nov-2019",
+        "state": "future"
+    },
+    "webmusic.live": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
         "state": "future"
     },
     "webnewswire.com": {
@@ -113034,9 +113129,69 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "webopedia.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "weborama.fr": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "weborama.io": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "webosnation.com": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "webpagetest.org": {
+        "epoch": 1702252800,
+        "expiration_date": "11-dec-2023",
+        "state": "future"
+    },
+    "webphunu.net": {
+        "epoch": 1564099200,
+        "expiration_date": "26-jul-2019",
+        "state": "past"
+    },
+    "webpronews.com": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "webpushcloud.info": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "webreference.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "webscribble.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "websearchers.net": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "webseeds.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "webshots.com": {
+        "epoch": 1658188800,
+        "expiration_date": "19-jul-2022",
         "state": "future"
     },
     "website.ws": {
@@ -113044,9 +113199,34 @@
         "expiration_date": "27-oct-2023",
         "state": "future"
     },
+    "websitedhoome.com": {
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
     "websitehome.co.uk": {
         "epoch": 1583971200,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "websitelooker.com": {
+        "epoch": 1606262400,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "websitepromoserver.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "websleuths.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "webssearches.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "webstatschecker.com": {
@@ -113054,9 +113234,19 @@
         "expiration_date": "08-oct-2019",
         "state": "future"
     },
+    "webteaser.ru": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "webtrackerplus.com": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "webtradehub.com": {
+        "epoch": 1576454400,
+        "expiration_date": "16-dec-2019",
         "state": "future"
     },
     "webtv.ws": {
@@ -113064,14 +113254,69 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "webupd8.org": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "webuser.co.uk": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "weddingchannel.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "weddingmuseum.com": {
+        "epoch": 1722038400,
+        "expiration_date": "27-jul-2024",
+        "state": "future"
+    },
+    "weddingsite.co.uk": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "weddingspot.co.uk": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "weddingtv.com": {
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "wedwcmjo.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "weebls-stuff.com": {
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "weedazou.net": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "weedhire.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "weedwatch.com": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "weegy.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "weei.com": {
@@ -113089,9 +113334,59 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "weekendspecial.co.za": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
+    "weekherald.com": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "weeklyworldnews.com": {
+        "epoch": 1681516800,
+        "expiration_date": "15-apr-2023",
+        "state": "future"
+    },
+    "weepbvhyoo.com": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "weepjoejkqadi.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "wegetpaid.net": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "wego.com": {
+        "epoch": 1605398400,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "wegotads.co.za": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "wegoted.com": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "wegotmedia.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "wegotthiscovered.com": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "wegrin.com": {
@@ -113099,9 +113394,24 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "weibo.com": {
+        "epoch": 1773964800,
+        "expiration_date": "20-mar-2026",
+        "state": "future"
+    },
+    "wejjmtywsne.com": {
+        "epoch": 1561852800,
+        "expiration_date": "30-jun-2019",
+        "state": "past"
+    },
     "weknowmemes.com": {
         "epoch": 1587513600,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "wel-wel-fie.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
         "state": "future"
     },
     "weliketofuckstrangers.com": {
@@ -113109,9 +113419,99 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "wellcommons.com": {
+        "epoch": 1612396800,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "wellhello.com": {
         "epoch": 1598832000,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "welllwrite.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "wellmov.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "wellness.com": {
+        "epoch": 1671062400,
+        "expiration_date": "15-dec-2022",
+        "state": "future"
+    },
+    "wellsfargo.com": {
+        "epoch": 1651190400,
+        "expiration_date": "29-apr-2022",
+        "state": "future"
+    },
+    "wellsjournal.co.uk": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "wellsphere.com": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "welovethe90s.fi": {
+        "epoch": 1638576000,
+        "expiration_date": "04-dec-2021",
+        "state": "future"
+    },
+    "wemineltc.com": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "wendi.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "wenn.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "wenpsnpqher.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "weoukcpr.com": {
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "weownthetraffic.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "wepmmzpypfwq.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "wepyyttx.com": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "weqfcudxrrbwn.com": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "weqwdwdda.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "werlv.com": {
@@ -113119,9 +113519,124 @@
         "expiration_date": "26-dec-2020",
         "state": "future"
     },
+    "weselltraffic.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "wesh.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "westatess.info": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "westbriton.co.uk": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "westbromnews.com": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "westcapenews.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "westerndailypress.co.uk": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "westerngazette.co.uk": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
+        "state": "future"
+    },
+    "westernjournal.com": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
+        "state": "future"
+    },
+    "westernmorningnews.co.uk": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "westernpeople.com": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "westerntelegraph.co.uk": {
+        "epoch": 1618185600,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "westessexlife.co.uk": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "westislandchronicle.com": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "westmountexaminer.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "westportnow.com": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "westside-eldos.co.za": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "westword.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "weta.org": {
+        "epoch": 1871337600,
+        "expiration_date": "20-apr-2029",
+        "state": "future"
+    },
     "wetandpuffy.com": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "wetcanvas.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "wetpaint.com": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "wetpeachcash.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "wetplace.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "wetpussygames.com": {
@@ -113129,9 +113644,174 @@
         "expiration_date": "28-jan-2023",
         "state": "future"
     },
+    "wetunfdnruy.com": {
+        "epoch": 1569715200,
+        "expiration_date": "29-sep-2019",
+        "state": "future"
+    },
+    "wetv.com": {
+        "epoch": 1776556800,
+        "expiration_date": "19-apr-2026",
+        "state": "future"
+    },
+    "weufdhsas.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "wfaa.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "wfc.tv": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "wfcxcblmy.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "wffiuoyzo.com": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "wfghrgscs.com": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "wfjdmkjetpbgv.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "wfjlpnmuzoazy.com": {
+        "epoch": 1563235200,
+        "expiration_date": "16-jul-2019",
+        "state": "past"
+    },
+    "wfls.com": {
+        "epoch": 1700438400,
+        "expiration_date": "20-nov-2023",
+        "state": "future"
+    },
+    "wfmynews2.com": {
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "wfmz.com": {
+        "epoch": 1633305600,
+        "expiration_date": "04-oct-2021",
+        "state": "future"
+    },
+    "wfnetwork.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "wfnt.com": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "wfqeqnvqdjvs.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "wftduglf.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "wftlsports.com": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "wftv.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "wfvmifcnwd.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "wfwualyxdb.com": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "wfxkcimqvt.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "wfyqdhypgmscy.com": {
+        "epoch": 1563667200,
+        "expiration_date": "21-jul-2019",
+        "state": "past"
+    },
+    "wfzpkmduyvx.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "wfzvjbdicihe.com": {
+        "epoch": 1587513600,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "wgaycnmfz.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "wgbh.org": {
+        "epoch": 1830470400,
+        "expiration_date": "03-jan-2028",
+        "state": "future"
+    },
     "wgfaradio.com": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "wghmgbjpxmlxa.com": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "wglbucuhxxxj.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "wgno.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "wgnradio.com": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "wgnt.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "wgntv.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
         "state": "future"
     },
     "wgpartner.com": {
@@ -113139,9 +113819,94 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "wgr550.com": {
+        "epoch": 1649203200,
+        "expiration_date": "06-apr-2022",
+        "state": "future"
+    },
+    "wgrbdqucfoieha.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "wgrz.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "wgssxjoac.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "wgxa.tv": {
+        "epoch": 1627084800,
+        "expiration_date": "24-jul-2021",
+        "state": "future"
+    },
+    "wh5kb0u4.com": {
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "wha8q7pevj.com": {
+        "epoch": 1564099200,
+        "expiration_date": "26-jul-2019",
+        "state": "past"
+    },
+    "whaleads.com": {
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "whalecashads.com": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
     "whalepp.com": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "wharf.co.uk": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "wharfedaleobserver.co.uk": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
+    "whas11.com": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
+    "whatculture.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "whatdigitalcamera.com": {
+        "epoch": 1608595200,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "whathifi.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "whatifeelishot.com": {
+        "epoch": 1570147200,
+        "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
+    "whatismybrowser.com": {
+        "epoch": 1636502400,
+        "expiration_date": "10-nov-2021",
         "state": "future"
     },
     "whatismyip.com": {
@@ -113152,6 +113917,11 @@
     "whatismyip.org": {
         "epoch": 1637193600,
         "expiration_date": "18-nov-2021",
+        "state": "future"
+    },
+    "whatismyipaddress.com": {
+        "epoch": 1767484800,
+        "expiration_date": "04-jan-2026",
         "state": "future"
     },
     "whatismyreferer.com": {
@@ -113174,9 +113944,19 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "whatsmyip.org": {
+        "epoch": 1776124800,
+        "expiration_date": "14-apr-2026",
+        "state": "future"
+    },
     "whatsnewonnetflix.com": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
+    "whatsock.com": {
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
         "state": "future"
     },
     "whatson.co.za": {
@@ -113204,9 +113984,29 @@
         "expiration_date": "26-apr-2021",
         "state": "future"
     },
+    "whattoexpect.com": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "whatuni.com": {
+        "epoch": 1625529600,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "whdh.com": {
         "epoch": 1856822400,
         "expiration_date": "03-nov-2028",
+        "state": "future"
+    },
+    "wheels.ca": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "wheels24.co.za": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "wheninmanila.com": {
@@ -113214,14 +114014,124 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "whenitdrops.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "where.ca": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "where.com": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "whereis.com": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "wheremilan.com": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "wherever.tv": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "whgvyswets.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "whiotv.com": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "whispersinthecorridors.com": {
         "epoch": 1644710400,
         "expiration_date": "13-feb-2022",
         "state": "future"
     },
+    "whistleout.com": {
+        "epoch": 1611360000,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "whistlestopper.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "whiteboardnez.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "whitehalljournal.com": {
+        "epoch": 1625961600,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "whitehavennews.co.uk": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "whitepages.ca": {
+        "epoch": 1649721600,
+        "expiration_date": "12-apr-2022",
+        "state": "future"
+    },
+    "whitepages.com": {
+        "epoch": 1649462400,
+        "expiration_date": "09-apr-2022",
+        "state": "future"
+    },
+    "whizzco.com": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "whjibbprhng.com": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "whjwcghg.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "whlugpfcuvryx.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "whlvjuprdpkg.com": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "whnt.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "who.is": {
         "epoch": 1686528000,
         "expiration_date": "12-jun-2023",
+        "state": "future"
+    },
+    "whodoyouthinkyouaremagazine.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "whoer.net": {
@@ -113234,9 +114144,19 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "wholelifestylenutrition.com": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "wholesomehealthshop.com": {
         "epoch": 1596240000,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "whoownes.com": {
+        "epoch": 1624233600,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "whoownsfacebook.com": {
@@ -113244,9 +114164,64 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "whosampled.com": {
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
+    "whosay.com": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "whoscored.com": {
+        "epoch": 1741046400,
+        "expiration_date": "04-mar-2025",
+        "state": "future"
+    },
+    "whotv.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "whowhatwear.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "whptv.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "whs82908.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
+        "state": "future"
+    },
+    "whsihagyyhj.com": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "whtimes.co.uk": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
     "whtop.com": {
         "epoch": 1606262400,
         "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "whtuzkvpeer.com": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
+        "state": "past"
+    },
+    "whukroal.net": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "whynopadlock.com": {
@@ -113254,9 +114229,74 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "whysayanything.com": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
+    "whzavlaamjcnt.com": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "whziccxv.com": {
+        "epoch": 1561766400,
+        "expiration_date": "29-jun-2019",
+        "state": "past"
+    },
+    "wiazkkjbeqr.com": {
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
+        "state": "future"
+    },
+    "wibc.com": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "wichnqeikfdp.com": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "wickedlocal.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "wicktrown.co": {
+        "epoch": 1562976000,
+        "expiration_date": "13-jul-2019",
+        "state": "past"
+    },
+    "wide6.com": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "wideopenspaces.com": {
+        "epoch": 1617667200,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "widestream.io": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "widgeo.net": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "widgetadvertising.biz": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "widgetbucks.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "widih.org": {
@@ -113264,14 +114304,59 @@
         "expiration_date": "03-oct-2021",
         "state": "future"
     },
+    "widpzvyx.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "wiezvhxoqhnn.com": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "wifelovers.com": {
+        "epoch": 1624492800,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
+    "wiffqhum.com": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "wifinetnews.com": {
+        "epoch": 1585612800,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "wigantoday.net": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "wigetmedia.com": {
         "epoch": 1604793600,
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "wigflip.com": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
+    "wihspueerhpw.com": {
+        "epoch": 1561939200,
+        "expiration_date": "01-jul-2019",
+        "state": "past"
+    },
     "wiilovemario.com": {
         "epoch": 1574294400,
         "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
+    "wiiuiso.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "wiki-stars.com": {
@@ -113279,9 +114364,54 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "wikifeet.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "wikigta.org": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
+        "state": "future"
+    },
+    "wikihoops.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "wikihow.com": {
+        "epoch": 1718150400,
+        "expiration_date": "12-jun-2024",
+        "state": "future"
+    },
+    "wikimedia.org": {
+        "epoch": 1647388800,
+        "expiration_date": "16-mar-2022",
+        "state": "future"
+    },
     "wikinvest.com": {
         "epoch": 1645488000,
         "expiration_date": "22-feb-2022",
+        "state": "future"
+    },
+    "wikiporno.org": {
+        "epoch": 1610323200,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "wiklrrrwqqf.com": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "wiklweefcuorh.com": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "wil92.com": {
+        "epoch": 1613347200,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "wildamaginations.com": {
@@ -113289,9 +114419,114 @@
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
+    "wildhookups.com": {
+        "epoch": 1581724800,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "wildmatch.com": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "wildsnow.com": {
+        "epoch": 1724716800,
+        "expiration_date": "27-aug-2024",
+        "state": "future"
+    },
     "wildtangent.com": {
         "epoch": 1599696000,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "wildxxxparties.com": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "willfumyqwnkuq.com": {
+        "epoch": 1562112000,
+        "expiration_date": "03-jul-2019",
+        "state": "past"
+    },
+    "willyoupressthebutton.com": {
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
+    "willyweather.com": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "wilmslowguardian.co.uk": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "wilrjvvmmplp.com": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "wiltsglosstandard.co.uk": {
+        "epoch": 1618185600,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "wiltshirebusinessonline.co.uk": {
+        "epoch": 1628380800,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
+    },
+    "wiltshiremagazine.co.uk": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "wiltshiretimes.co.uk": {
+        "epoch": 1575763200,
+        "expiration_date": "08-dec-2019",
+        "state": "future"
+    },
+    "wilv.com": {
+        "epoch": 1643846400,
+        "expiration_date": "03-feb-2022",
+        "state": "future"
+    },
+    "wimbledonguardian.co.uk": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "wimp.com": {
+        "epoch": 1757980800,
+        "expiration_date": "16-sep-2025",
+        "state": "future"
+    },
+    "winaero.com": {
+        "epoch": 1720483200,
+        "expiration_date": "09-jul-2024",
+        "state": "future"
+    },
+    "winamp.com": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "winbeta.org": {
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "winbuyer.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "wincustomize.com": {
+        "epoch": 1615507200,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "windcdna.com": {
@@ -113299,9 +114534,49 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "windfm.com": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "windowmentaria.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "windows.net": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "windows2universe.org": {
+        "epoch": 1617235200,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "windows7gadgets.net": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "windows7themes.net": {
+        "epoch": 1788134400,
+        "expiration_date": "31-aug-2026",
+        "state": "future"
+    },
+    "windowsbbs.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "windowscentral.com": {
+        "epoch": 1732320000,
+        "expiration_date": "23-nov-2024",
+        "state": "future"
+    },
+    "windowsecurity.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "windowsitpro.com": {
@@ -113309,9 +114584,49 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "windowslatest.com": {
+        "epoch": 1607126400,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "windowsnetworking.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "windscribe.com": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "windsorite.ca": {
+        "epoch": 1629936000,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
+    },
+    "windsorobserver.co.uk": {
+        "epoch": 1629331200,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
+    },
+    "windsorstar.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "windycitymediagroup.com": {
         "epoch": 1691971200,
         "expiration_date": "14-aug-2023",
+        "state": "future"
+    },
+    "windycitytimes.com": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "wine-searcher.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "wine-searcher.net": {
@@ -113319,9 +114634,29 @@
         "expiration_date": "11-nov-2019",
         "state": "future"
     },
+    "winewizard.co.za": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "wingads.com": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "wingsbirdpro.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "winhugebonus.com": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "winkeyfinder.com": {
+        "epoch": 1612915200,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "winkit.info": {
@@ -113334,6 +114669,16 @@
         "expiration_date": "20-apr-2021",
         "state": "future"
     },
+    "winnipegfreepress.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "winnipeggasprices.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
     "winpalace.com": {
         "epoch": 1590710400,
         "expiration_date": "29-may-2020",
@@ -113342,6 +114687,16 @@
     "winpcap.org": {
         "epoch": 1696377600,
         "expiration_date": "04-oct-2023",
+        "state": "future"
+    },
+    "winrumors.com": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "winscp.net": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "winsms.co.za": {
@@ -113354,14 +114709,34 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "winteriscoming.net": {
+        "epoch": 1627084800,
+        "expiration_date": "24-jul-2021",
+        "state": "future"
+    },
     "wipfilms.net": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
+    "wired.co.uk": {
+        "epoch": 1628812800,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
     "wired.com": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "wirefm.com": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "wirelessforums.org": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "wirenh.com": {
@@ -113374,9 +114749,49 @@
         "expiration_date": "16-may-2023",
         "state": "future"
     },
+    "wirralglobe.co.uk": {
+        "epoch": 1621900800,
+        "expiration_date": "25-may-2021",
+        "state": "future"
+    },
+    "wisbechstandard.co.uk": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "wisconsinrapidstribune.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "wisebread.com": {
+        "epoch": 1638230400,
+        "expiration_date": "30-nov-2021",
+        "state": "future"
+    },
+    "wishfm.net": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "wishlistproducts.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "wistia.net": {
         "epoch": 1662076800,
         "expiration_date": "02-sep-2022",
+        "state": "future"
+    },
+    "witalfieldt.com": {
+        "epoch": 1627948800,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "witbanknews.co.za": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "witbankspurs.co.za": {
@@ -113394,9 +114809,69 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "witifyooqkumwn.com": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "past"
+    },
+    "witneygazette.co.uk": {
+        "epoch": 1615852800,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
     "witteringsfromwitney.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "wiykefcon.com": {
+        "epoch": 1562716800,
+        "expiration_date": "10-jul-2019",
+        "state": "past"
+    },
+    "wiywlvkwwwrms.com": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "wiz1.net": {
+        "epoch": 1621036800,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "wizhdsports.is": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "wizzed.com": {
+        "epoch": 1571702400,
+        "expiration_date": "22-oct-2019",
+        "state": "future"
+    },
+    "wjactv.com": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
+        "state": "future"
+    },
+    "wjavelurhgx.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "wjevvjxwg.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "wjgddzpvx.com": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "past"
+    },
+    "wjglgkuyqhaguq.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "wjie.org": {
@@ -113404,14 +114879,94 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "wjla.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "wjmckfsdcxpj.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "wjpdgueqasdgeq.com": {
+        "epoch": 1570320000,
+        "expiration_date": "06-oct-2019",
+        "state": "future"
+    },
+    "wjr.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "wjunction.com": {
         "epoch": 1750636800,
         "expiration_date": "23-jun-2025",
         "state": "future"
     },
+    "wjuowevxibmg.com": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "wjvwxcnavjodj.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "wjwontqlqchq.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "wkdyvxuornxnh.com": {
+        "epoch": 1563840000,
+        "expiration_date": "23-jul-2019",
+        "state": "past"
+    },
+    "wkhkffefck.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "wklh.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "wkloqctyiyow.com": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "wkrg.com": {
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "wkrq.com": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "wksninbav.com": {
+        "epoch": 1563840000,
+        "expiration_date": "23-jul-2019",
+        "state": "past"
+    },
     "wksu.org": {
         "epoch": 1603497600,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "wkwakmsttsehi.com": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "wkyc.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "wkyt.com": {
@@ -113424,9 +114979,64 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "wlds.com": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "wlezfkwtv.com": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
+    "wlhbgwzgep.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "wlhgopaqpmwah.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "wlj.net": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "wlmarketing.com": {
+        "epoch": 1702512000,
+        "expiration_date": "14-dec-2023",
+        "state": "future"
+    },
     "wlrfm.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "wlrzptntiqez.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "wlszodcfwqk.com": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "wltx.com": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
+    "wlvjwquv.com": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "wlwootzzijp.com": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "wm.co.za": {
@@ -113434,9 +115044,99 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "wma.io": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "wmagazine.com": {
+        "epoch": 1627862400,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
+    },
+    "wmal.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "wmbgmyyxyz.com": {
+        "epoch": 1562371200,
+        "expiration_date": "06-jul-2019",
+        "state": "past"
+    },
+    "wmca.com": {
+        "epoch": 1608508800,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "wmfsbxjcdsbkrw.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "wmjj2vke66.com": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "past"
+    },
+    "wmmediacorp.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "wmqdgaptep.com": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "wmrlljpj.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "wmtyrdrpjbhnj.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "wmur.com": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
+        "state": "future"
+    },
+    "wn.com": {
+        "epoch": 1869004800,
+        "expiration_date": "24-mar-2029",
+        "state": "future"
+    },
+    "wnbdbmqyerfqs.com": {
+        "epoch": 1562371200,
+        "expiration_date": "06-jul-2019",
+        "state": "past"
+    },
+    "wnd.com": {
+        "epoch": 1663804800,
+        "expiration_date": "22-sep-2022",
+        "state": "future"
+    },
     "wned.org": {
         "epoch": 1603584000,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "wnep.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wnmtmdlvqqscs.com": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "wnp.com": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "wnpv1440.com": {
@@ -113449,6 +115149,36 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "wnstpoiqrv.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "wntpgjzwg.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "wnuvhicameqiso.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "wnxyusrvcoosqi.com": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "wnzmauurgol.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
+    "woai.com": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "wodipaca.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
@@ -113459,15 +115189,65 @@
         "expiration_date": "09-nov-2019",
         "state": "future"
     },
+    "woghqyjpiwddme.com": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "past"
+    },
     "wolf-howl.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "wolf1051.com": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "wolqstldvfkuhp.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "womanandhome.com": {
+        "epoch": 1633478400,
+        "expiration_date": "06-oct-2021",
+        "state": "future"
+    },
+    "womansday.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "women24.com": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "womenshealthmag.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "womenspress.com": {
+        "epoch": 1686700800,
+        "expiration_date": "14-jun-2023",
+        "state": "future"
+    },
+    "wonclick.com": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
         "state": "future"
     },
     "wonderfulproductives.com": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
         "state": "past"
+    },
+    "wonderhowto.com": {
+        "epoch": 1848441600,
+        "expiration_date": "29-jul-2028",
+        "state": "future"
     },
     "wonderlabs.com": {
         "epoch": 1865808000,
@@ -113479,9 +115259,84 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "wonderwall.com": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "wonkette.com": {
+        "epoch": 1666915200,
+        "expiration_date": "28-oct-2022",
+        "state": "future"
+    },
+    "wood-pen.com": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "woodburybulletin.com": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "woodfordtimes.com": {
+        "epoch": 1622505600,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
+    "woodrocket.com": {
+        "epoch": 1640131200,
+        "expiration_date": "22-dec-2021",
+        "state": "future"
+    },
+    "woodwardnews.net": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "woot.com": {
+        "epoch": 1705017600,
+        "expiration_date": "12-jan-2024",
+        "state": "future"
+    },
+    "wootmedia.net": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "wopertific.info": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "worcesternews.co.uk": {
+        "epoch": 1614556800,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "worcesterobserver.co.uk": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "worcestershirelife.co.uk": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "worddictionary.co.uk": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "wordego.com": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "wordpress.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "wordreference.com": {
@@ -113494,9 +115349,99 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "work-day.co.uk": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "workably.club": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "workawesome.com": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "workforce.com": {
+        "epoch": 1614038400,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
+    "workhound.co.uk": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "workingdays.ca": {
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
+    "workingdays.org": {
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "workswithu.com": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "worktruckonline.com": {
+        "epoch": 1706486400,
+        "expiration_date": "29-jan-2024",
+        "state": "future"
+    },
+    "world-airport-codes.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "world4free.in": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "worldairlineawards.com": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "worldcdn.net": {
         "epoch": 1593993600,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "worldclock.com": {
+        "epoch": 1628553600,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
+    },
+    "worldcrunch.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "worlddatinghere.com": {
+        "epoch": 1577232000,
+        "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "worldfree4u.lol": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "worldgatas.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "worldissues360.com": {
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "worldnow.com": {
@@ -113504,9 +115449,49 @@
         "expiration_date": "23-jan-2026",
         "state": "future"
     },
+    "worldofgnome.org": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "worldofjudaica.com": {
         "epoch": 1632182400,
         "expiration_date": "21-sep-2021",
+        "state": "future"
+    },
+    "worldoftanks-wot.com": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "worldometers.info": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "worldpress.org": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "worldreview.info": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
+        "state": "future"
+    },
+    "worldsbestcams.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "worldscreen.com": {
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "worldsearchpro.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "worldsex.com": {
@@ -113514,9 +115499,124 @@
         "expiration_date": "24-nov-2022",
         "state": "future"
     },
+    "worldsnooker.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
     "worldstadiums.com": {
         "epoch": 1575676800,
         "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "worldstarhiphop.com": {
+        "epoch": 1628467200,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
+    "worldtimebuddy.com": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "worldtimeserver.com": {
+        "epoch": 1618876800,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "worldtimezone.com": {
+        "epoch": 1667088000,
+        "expiration_date": "30-oct-2022",
+        "state": "future"
+    },
+    "worldtribune.com": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "worldtvpc.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "worldweatheronline.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "worldweb.com": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "worldwidemailer.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "worldwideweirdnews.com": {
+        "epoch": 1724630400,
+        "expiration_date": "26-aug-2024",
+        "state": "future"
+    },
+    "wornandwound.com": {
+        "epoch": 1681084800,
+        "expiration_date": "10-apr-2023",
+        "state": "future"
+    },
+    "worstpreviews.com": {
+        "epoch": 1641686400,
+        "expiration_date": "09-jan-2022",
+        "state": "future"
+    },
+    "worthathousandwords.com": {
+        "epoch": 1657843200,
+        "expiration_date": "15-jul-2022",
+        "state": "future"
+    },
+    "worthplaying.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "worthyadvertising.com": {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "wow-europe.com": {
+        "epoch": 1617062400,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "wow.com": {
+        "epoch": 1611705600,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "wow247.co.uk": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "wowhead.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "wowheadnews.com": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "woxvgdtje.com": {
+        "epoch": 1562112000,
+        "expiration_date": "03-jul-2019",
+        "state": "past"
+    },
+    "wozltvfxtntaqk.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "wp-script.com": {
@@ -113534,6 +115634,21 @@
         "expiration_date": "24-apr-2022",
         "state": "future"
     },
+    "wpbf.com": {
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "wpbhnyjej.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "wpbt2.org": {
+        "epoch": 1608681600,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "wpcomwidgets.com": {
         "epoch": 1576022400,
         "expiration_date": "11-dec-2019",
@@ -113549,9 +115664,79 @@
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
+    "wpdailythemes.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "wphostingdiscount.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "wpkcfajkeytrro.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "wplqgfpj.com": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "wpncdn.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "wpnjs.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "wprugby.com": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "wpswyoyev.com": {
+        "epoch": 1563235200,
+        "expiration_date": "16-jul-2019",
+        "state": "past"
+    },
     "wptmag.com": {
         "epoch": 1598832000,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "wptpoker.com": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "wptv.com": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "wpxi.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "wpxowkmaeyrte.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "wpzoom.com": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "wqad.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "wqah.com": {
@@ -113564,9 +115749,79 @@
         "expiration_date": "01-sep-2021",
         "state": "future"
     },
+    "wqgdajjozr.com": {
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "wqhmpzjvdmvm.com": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "wqkpadciw.com": {
+        "epoch": 1576713600,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "wqkqrmzldk.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "wqlkp.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "wqnpcflbcv.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "wqobjrevtkqym.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "wqpyqirgzfqsc.com": {
+        "epoch": 1571356800,
+        "expiration_date": "18-oct-2019",
+        "state": "future"
+    },
+    "wqtdtstdxg.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "wqtsvqzthaoq.com": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "wqvfhbwr.com": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "wqxe.com": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "wqypgiakfbxb.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "wral.com": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "wraltechwire.com": {
+        "epoch": 1634169600,
+        "expiration_date": "14-oct-2021",
         "state": "future"
     },
     "wranglerforum.com": {
@@ -113584,9 +115839,119 @@
         "expiration_date": "12-dec-2023",
         "state": "future"
     },
+    "wreg.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wrestlezone.com": {
+        "epoch": 1575763200,
+        "expiration_date": "08-dec-2019",
+        "state": "future"
+    },
+    "wrestlinginc.com": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "wrestlingnewsworld.com": {
+        "epoch": 1625961600,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
+    "wretch.cc": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "wrhpnrkdkbqi.com": {
+        "epoch": 1563321600,
+        "expiration_date": "17-jul-2019",
+        "state": "past"
+    },
+    "wric.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "wrierville.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "wrip979.com": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "wrkxchcsdw.com": {
+        "epoch": 1563667200,
+        "expiration_date": "21-jul-2019",
+        "state": "past"
+    },
+    "wrmcfyzl.com": {
+        "epoch": 1574035200,
+        "expiration_date": "18-nov-2019",
+        "state": "future"
+    },
     "wrmf.com": {
         "epoch": 1644796800,
         "expiration_date": "14-feb-2022",
+        "state": "future"
+    },
+    "wrmj.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "wrno.com": {
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "wrnrxzstxtjsn.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "wrongdiagnosis.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "wrrytjtsyhrnfg.com": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "wrwwvymy.com": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "wrxivlclw.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "wrytestuff.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "wsbtv.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "wscountytimes.co.uk": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "wshechicago.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "wshh.me": {
@@ -113594,9 +115959,114 @@
         "expiration_date": "09-jun-2027",
         "state": "future"
     },
+    "wsj.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
     "wsj.net": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "wsjs.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "wsockd.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "wsoctv.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "wsof.com": {
+        "epoch": 1742860800,
+        "expiration_date": "25-mar-2025",
+        "state": "future"
+    },
+    "wsowkqnxs.com": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "wsoyam.com": {
+        "epoch": 1632614400,
+        "expiration_date": "26-sep-2021",
+        "state": "future"
+    },
+    "wsrkpjfs.com": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "wssejwluqthda.com": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "wstvcgfkvc.com": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
+        "state": "future"
+    },
+    "wsucuzkmnd.com": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "wszpjhuosjeexj.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "wtae.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "wtf1.co.uk": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "wtgkustlgat.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "wthqlngtcgwxrp.com": {
+        "epoch": 1563753600,
+        "expiration_date": "22-jul-2019",
+        "state": "past"
+    },
+    "wtkplay.pl": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "wtkr.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wtmx.com": {
+        "epoch": 1706745600,
+        "expiration_date": "01-feb-2024",
+        "state": "future"
+    },
+    "wtop.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "wtov9.com": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "wtprn.com": {
@@ -113604,9 +116074,44 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "wtrzjadunrzx.com": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "wtsp.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
     "wttrend.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "wtvr.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wtvz.net": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
+        "state": "future"
+    },
+    "wtybgaghcqxoae.com": {
+        "epoch": 1562803200,
+        "expiration_date": "11-jul-2019",
+        "state": "past"
+    },
+    "wtyruwwvjloyk.com": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "wuaefxberbqcv.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "wunderground.com": {
