@@ -100319,6 +100319,41 @@
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "the-new-lagoon.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "the-news.net": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "the-numbers.com": {
+        "epoch": 1613088000,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "the-peak.ca": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "the-scientist.com": {
+        "epoch": 1573430400,
+        "expiration_date": "11-nov-2019",
+        "state": "future"
+    },
+    "the-star.co.ke": {
+        "epoch": 1605398400,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "the-tls.co.uk": {
+        "epoch": 1620950400,
+        "expiration_date": "14-may-2021",
+        "state": "future"
+    },
     "the18.com": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
@@ -101174,9 +101209,94 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "thejournal.co.uk": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "thekit.ca": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "thekitchn.com": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
+        "state": "future"
+    },
+    "theladbible.com": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "thelakewoodscoop.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "thelancasterandmorecambecitizen.co.uk": {
+        "epoch": 1625356800,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
+    "thelandonline.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "theleafchronicle.com": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "theledger.com": {
+        "epoch": 1615075200,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "thelibertarianrepublic.com": {
+        "epoch": 1728345600,
+        "expiration_date": "08-oct-2024",
+        "state": "future"
+    },
+    "thelifefiles.com": {
+        "epoch": 1569456000,
+        "expiration_date": "26-sep-2019",
+        "state": "future"
+    },
+    "thelincolnianonline.com": {
+        "epoch": 1670544000,
+        "expiration_date": "09-dec-2022",
+        "state": "future"
+    },
+    "thelivetvjunction.com": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "thelocal.dk": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "thelocal.fr": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "thelocal.it": {
+        "epoch": 1573603200,
+        "expiration_date": "13-nov-2019",
+        "state": "future"
+    },
+    "thelocal.se": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "thelocalweb.net": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "thelodownny.com": {
@@ -101184,9 +101304,119 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "thelog.com": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "theloop.ca": {
+        "epoch": 1654214400,
+        "expiration_date": "03-jun-2022",
+        "state": "future"
+    },
+    "theloungenet.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "them0vieblog.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "themaineedge.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "themalaysianinsider.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "themarknews.com": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "themarysue.com": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "themediafire.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "themediaonline.co.za": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "themeditelegraph.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "themiddlemarket.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "themify.me": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "themirrorbay.com": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
     "themis-media.com": {
         "epoch": 1575417600,
         "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "themittani.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "themonitor.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "themoreheadnews.com": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "themorningnews.org": {
+        "epoch": 1636243200,
+        "expiration_date": "07-nov-2021",
+        "state": "future"
+    },
+    "themoscowtimes.com": {
+        "epoch": 1612310400,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "themoviedb.org": {
+        "epoch": 1631664000,
+        "expiration_date": "15-sep-2021",
+        "state": "future"
+    },
+    "themoviespoiler.com": {
+        "epoch": 1761177600,
+        "expiration_date": "23-oct-2025",
+        "state": "future"
+    },
+    "themtn.tv": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
         "state": "future"
     },
     "themuslimweekly.com": {
@@ -101194,9 +101424,124 @@
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
+    "thenassauguardian.com": {
+        "epoch": 1616371200,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "thenation.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "thenational.scot": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "thenationalsentinel.com": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "thenationalstudent.com": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
+    "thenationonlineng.net": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "thenewamerican.com": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "thenewboston.com": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "theneweuropean.co.uk": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
     "thenewporn.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "thenews-messenger.com": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "thenewslens.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "thenewsnigeria.com.ng": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "thenewsstar.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "thenewstribe.com": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "thenewstribune.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "thenextmiami.com": {
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "thenextweb.com": {
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "thenipslip.com": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "thenokiablog.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "thenorthernecho.co.uk": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "thenorthwestern.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "theoaklandpress.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "theobserver.ca": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "theoldie.co.uk": {
@@ -101204,9 +101549,79 @@
         "expiration_date": "13-nov-2019",
         "state": "future"
     },
+    "theology.edu": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "theolympian.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "theonecdn.com": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
+    "theonion.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "theoswatch.com": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "theoutline.com": {
+        "epoch": 1784332800,
+        "expiration_date": "18-jul-2026",
+        "state": "future"
+    },
+    "thepacket.ca": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "thepatriot.co.bw": {
+        "epoch": 1605830400,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "thepayporn.com": {
+        "epoch": 1572566400,
+        "expiration_date": "01-nov-2019",
+        "state": "future"
+    },
+    "thepcguild.com": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "thepeoplesperson.com": {
+        "epoch": 1619481600,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
+    "thepeterboroughexaminer.com": {
+        "epoch": 1616112000,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "thephuketnews.com": {
         "epoch": 1574121600,
         "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
+    "thepiratebay.org": {
+        "epoch": 1656374400,
+        "expiration_date": "28-jun-2022",
+        "state": "future"
+    },
+    "thepittsburghchannel.com": {
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "theporncore.com": {
@@ -101229,9 +101644,34 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "thepressnews.co.uk": {
+        "epoch": 1617321600,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "theprojectmanager.co.za": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "theprospectordaily.com": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "theprovince.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "thequint.com": {
         "epoch": 1715990400,
         "expiration_date": "18-may-2024",
+        "state": "future"
+    },
+    "therainbowtimesmass.com": {
+        "epoch": 1573776000,
+        "expiration_date": "15-nov-2019",
         "state": "future"
     },
     "thereadystore.com": {
@@ -101239,9 +101679,99 @@
         "expiration_date": "08-feb-2024",
         "state": "future"
     },
+    "therealdeal.com": {
+        "epoch": 1634256000,
+        "expiration_date": "15-oct-2021",
+        "state": "future"
+    },
+    "therealpornwikileaks.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "therecord.com": {
+        "epoch": 1645574400,
+        "expiration_date": "23-feb-2022",
+        "state": "future"
+    },
+    "theregister.co.uk": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "therep.co.za": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "theresurgent.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
     "therewardsurvey.com": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "theringer.com": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "therneserutybin.info": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "theroanoketribune.org": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "theroot.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "therses.com": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "therubiqube.com": {
+        "epoch": 1633910400,
+        "expiration_date": "11-oct-2021",
+        "state": "future"
+    },
+    "thesaurus.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "thescarboroughnews.co.uk": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "thescoopng.com": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "thescore.com": {
+        "epoch": 1770768000,
+        "expiration_date": "11-feb-2026",
+        "state": "future"
+    },
+    "thescottishfarmer.co.uk": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "thesearchenginelist.com": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "theseblogs.com": {
@@ -101254,9 +101784,104 @@
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
+    "theselfdefenseco.com": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "thesentinel.com": {
+        "epoch": 1656028800,
+        "expiration_date": "24-jun-2022",
+        "state": "future"
+    },
     "theseoultimes.com": {
         "epoch": 1582848000,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "theserverside.com": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "thesimsresource.com": {
+        "epoch": 1613174400,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "theskanner.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "theslap.com": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "theslingshot.com": {
+        "epoch": 1578182400,
+        "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "thesmokinggun.com": {
+        "epoch": 1613260800,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
+    "thesnaponline.com": {
+        "epoch": 1636070400,
+        "expiration_date": "05-nov-2021",
+        "state": "future"
+    },
+    "thesocialsexnetwork.com": {
+        "epoch": 1605052800,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "thesoundla.com": {
+        "epoch": 1679616000,
+        "expiration_date": "24-mar-2023",
+        "state": "future"
+    },
+    "thesource.com": {
+        "epoch": 1857772800,
+        "expiration_date": "14-nov-2028",
+        "state": "future"
+    },
+    "thespacereporter.com": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "thespec.com": {
+        "epoch": 1576713600,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "thespectrum.com": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "thespiritsbusiness.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "thespoof.com": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "thesportreview.com": {
+        "epoch": 1625702400,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
+    "thesportsmanchannel.com": {
+        "epoch": 1729123200,
+        "expiration_date": "17-oct-2024",
         "state": "future"
     },
     "thesportstream.com": {
@@ -101264,9 +101889,184 @@
         "expiration_date": "30-nov-2023",
         "state": "future"
     },
+    "thessdreview.com": {
+        "epoch": 1629849600,
+        "expiration_date": "25-aug-2021",
+        "state": "future"
+    },
+    "thestack.com": {
+        "epoch": 1616544000,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "thestandard.com": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "thestandard.com.hk": {
+        "epoch": 1648080000,
+        "expiration_date": "24-mar-2022",
+        "state": "future"
+    },
+    "thestar.co.uk": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "thestar.com": {
+        "epoch": 1636156800,
+        "expiration_date": "06-nov-2021",
+        "state": "future"
+    },
+    "thestarphoenix.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "thestarpress.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "thestate.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "thestatesman.com": {
+        "epoch": 1771027200,
+        "expiration_date": "14-feb-2026",
+        "state": "future"
+    },
+    "thestonedsociety.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "thestranger.com": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "thestreet.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "thesuburban.com": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "thesudburystar.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "thesun.co.uk": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "thesuntimes.com": {
+        "epoch": 1634169600,
+        "expiration_date": "14-oct-2021",
+        "state": "future"
+    },
+    "thesurvivalistblog.net": {
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "thetandd.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "theteachercorner.net": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "theteacherscorner.net": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "thetechherald.com": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "thetechjournal.com": {
+        "epoch": 1619481600,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "thetechnologyblog.net": {
         "epoch": 1609200000,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "thetechpoint.org": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "thetelegram.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "thetelegraphandargus.co.uk": {
+        "epoch": 1615680000,
+        "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "thetfordandbrandontimes.co.uk": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "thethingswesay.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "thetimes.co.uk": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "thetimesherald.com": {
+        "epoch": 1576454400,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
+    "thetimesnews.com": {
+        "epoch": 1576281600,
+        "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "thetobagonews.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "thetottenhamindependent.co.uk": {
+        "epoch": 1631923200,
+        "expiration_date": "18-sep-2021",
+        "state": "future"
+    },
+    "thetowner.com": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "thetowntalk.com": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "thetraderinpajamas.com": {
@@ -101274,9 +102074,89 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "thetriangle.org": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
+    "thetribunepapers.com": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "thetrumptimes.com": {
+        "epoch": 1607990400,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "thetruthaboutguns.com": {
+        "epoch": 1693180800,
+        "expiration_date": "28-aug-2023",
+        "state": "future"
+    },
+    "thetruthwins.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "thetvdb.com": {
+        "epoch": 1649548800,
+        "expiration_date": "10-apr-2022",
+        "state": "future"
+    },
+    "theurbandaily.com": {
+        "epoch": 1606435200,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "theuspatriot.com": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
+        "state": "future"
+    },
+    "thevanguard.ca": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "thevarguy.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "theverge.com": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
+    "thevid.tv": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "thevideo.me": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "thevideos.tv": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "thevillager.co.uk": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "thevoicebw.com": {
+        "epoch": 1615507200,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "thewalkingmemes.com": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "thewatchcartoononline.tv": {
@@ -101284,9 +102164,119 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "thewave.co.uk": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "theweathernetwork.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "thewebgemnetwork.com": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "theweedblog.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "theweek.co.uk": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "theweek.com": {
+        "epoch": 1714435200,
+        "expiration_date": "30-apr-2024",
+        "state": "future"
+    },
+    "thewesternstar.com": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "thewestmorlandgazette.co.uk": {
+        "epoch": 1625356800,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
+    "thewestonmercury.co.uk": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "thewheelof.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "thewhir.com": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "thewhizmarketing.com": {
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "thewillnigeria.com": {
+        "epoch": 1695686400,
+        "expiration_date": "26-sep-2023",
+        "state": "future"
+    },
     "thewindowsclub.com": {
         "epoch": 1762041600,
         "expiration_date": "02-nov-2025",
+        "state": "future"
+    },
+    "thewire.com": {
+        "epoch": 1844899200,
+        "expiration_date": "18-jun-2028",
+        "state": "future"
+    },
+    "thewirecutter.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "theworld.org": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "theworldwidewolf.com": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "thewrap.com": {
+        "epoch": 1788480000,
+        "expiration_date": "04-sep-2026",
+        "state": "future"
+    },
+    "thexfactorusa.com": {
+        "epoch": 1578787200,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "theyeshivaworld.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "theync.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "thinkbabynames.com": {
+        "epoch": 1732838400,
+        "expiration_date": "29-nov-2024",
         "state": "future"
     },
     "thinkbroadband.com": {
@@ -101294,9 +102284,49 @@
         "expiration_date": "26-jan-2029",
         "state": "future"
     },
+    "thinkcomputers.org": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "thinkexist.com": {
         "epoch": 1882828800,
         "expiration_date": "31-aug-2029",
+        "state": "future"
+    },
+    "thinksteroids.com": {
+        "epoch": 1830297600,
+        "expiration_date": "01-jan-2028",
+        "state": "future"
+    },
+    "thirdage.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "thirdforcenews.org.uk": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "this.org": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "thisav.com": {
+        "epoch": 1632528000,
+        "expiration_date": "25-sep-2021",
+        "state": "future"
+    },
+    "thiscdn.com": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "thisdaylive.com": {
+        "epoch": 1648252800,
+        "expiration_date": "26-mar-2022",
         "state": "future"
     },
     "thisgengaming.com": {
@@ -101304,14 +102334,179 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "thisisads.co.uk": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "thisisanfield.com": {
+        "epoch": 1607212800,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "thisisf1.com": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "thisisfutbol.com": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "thisislondon.co.uk": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "thisismoney.co.uk": {
+        "epoch": 1850256000,
+        "expiration_date": "19-aug-2028",
+        "state": "future"
+    },
+    "thisisnotporn.net": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "thisisthehive.net": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "thisisthewestcountry.co.uk": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "thisiswaldo.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "thisiswhyimbroke.com": {
+        "epoch": 1653436800,
+        "expiration_date": "25-may-2022",
+        "state": "future"
+    },
+    "thismetric.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
+    "thistv.com": {
+        "epoch": 1621123200,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "thivsxubn.com": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "thjlnyagmxrbt.com": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "thnqemehtyfe.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "thnslhajvfmd.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "thogethoffic.co": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "thomasnet.com": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "thomhartmann.com": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "thonline.com": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "thoseads.com": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "thoughtcatalog.com": {
+        "epoch": 1754956800,
+        "expiration_date": "12-aug-2025",
+        "state": "future"
+    },
+    "thoughtleadr.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "thoughtsondance.info": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "thowytaoo.com": {
+        "epoch": 1561766400,
+        "expiration_date": "29-jun-2019",
+        "state": "past"
+    },
+    "thqwivyhdpoem.com": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "past"
+    },
+    "threatpost.com": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
     "threepercenternation.com": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "thriftyfun.com": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "thrillist.com": {
+        "epoch": 1574035200,
+        "expiration_date": "18-nov-2019",
+        "state": "future"
+    },
+    "thriveforums.org": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "thrixxx.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "thrnt.com": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "ths9j89.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "thterras.com": {
@@ -101324,6 +102519,76 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "thumbnail-galleries.net": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "thumbzilla.com": {
+        "epoch": 1616112000,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "thurnflfant.com": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "thurrockgazette.co.uk": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "thurrott.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "thv11.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "thxczhfzad.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "ti583.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "tibacta.com": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "tiberowheddidn.info": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "tibzpgmogjqa.com": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "tic-tic-bam.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "tic-tic-toc.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "ticgn.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "ticketkai.com": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
@@ -101334,9 +102599,94 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "ticketsnow.com": {
+        "epoch": 1622678400,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
+    "ticketweb.com": {
+        "epoch": 1585094400,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "tickld.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "tickles.co.uk": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
     "ticktockhealth.com": {
         "epoch": 1599264000,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "ticotimes.net": {
+        "epoch": 1681862400,
+        "expiration_date": "19-apr-2023",
+        "state": "future"
+    },
+    "ticpqxnv.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "ticrite.com": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "tictacti.com": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "tidaltv.com": {
+        "epoch": 1643673600,
+        "expiration_date": "01-feb-2022",
+        "state": "future"
+    },
+    "tidbits.com": {
+        "epoch": 1746403200,
+        "expiration_date": "05-may-2025",
+        "state": "future"
+    },
+    "tidnqztumpnk.com": {
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "tielsdhblnmiv.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "tieyggub.com": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "tiff.net": {
+        "epoch": 1651276800,
+        "expiration_date": "30-apr-2022",
+        "state": "future"
+    },
+    "tiftongazette.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "tifzusomh.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "tigerdirect.ca": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "tigerdirect.com": {
@@ -101344,14 +102694,34 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "tigerdroppings.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "tijorari.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "tikjbfpd.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "tikrailijorj.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "tikuedobxa.com": {
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "tiller.co": {
+        "epoch": 1569715200,
+        "expiration_date": "29-sep-2019",
         "state": "future"
     },
     "tilosman.com": {
@@ -101364,9 +102734,124 @@
         "expiration_date": "18-nov-2019",
         "state": "future"
     },
+    "time.is": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "time4hemp.com": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "time4tv.com": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "timeanddate.com": {
+        "epoch": 1679875200,
+        "expiration_date": "27-mar-2023",
+        "state": "future"
+    },
+    "timefm.ca": {
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "timelinecoverbanner.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
     "timeout.com": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "timeoutabudhabi.com": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "timeoutbahrain.com": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "timeoutbengaluru.net": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "timeoutdelhi.net": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "timeoutdoha.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "timeoutdubai.com": {
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "times-news.com": {
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "times-series.co.uk": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "times.co.zm": {
+        "epoch": 1565740800,
+        "expiration_date": "14-aug-2019",
+        "state": "past"
+    },
+    "times247.com": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "timesandstar.co.uk": {
+        "epoch": 1638489600,
+        "expiration_date": "03-dec-2021",
+        "state": "future"
+    },
+    "timescall.com": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "timescolonist.com": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "timesdispatch.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "timesenterprise.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "timesfreepress.com": {
+        "epoch": 1587513600,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "timeshighereducation.co.uk": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "timesinternet.in": {
@@ -101374,9 +102859,94 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "timeslive.co.za": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "timesofindia.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "timesofisrael.com": {
+        "epoch": 1767312000,
+        "expiration_date": "02-jan-2026",
+        "state": "future"
+    },
+    "timesofmalta.com": {
+        "epoch": 1622505600,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
+    "timesofoman.com": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
+    "timesrecordnews.com": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "timessentinel.com": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
+    "timestalks.com": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
+    "timesunion.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "timeswv.com": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "timpul.md": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "timteen.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "tin-tin-win.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "tinbuadserv.com": {
+        "epoch": 1609804800,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "tingrinter.com": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "tinkercad.com": {
+        "epoch": 1623283200,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "tinkerta.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "tiny.cc": {
+        "epoch": 1647043200,
+        "expiration_date": "12-mar-2022",
         "state": "future"
     },
     "tinypic.com": {
@@ -101384,9 +102954,64 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "tinyurl.com": {
+        "epoch": 1864166400,
+        "expiration_date": "27-jan-2029",
+        "state": "future"
+    },
+    "tinyvid.net": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "tinyweene.com": {
+        "epoch": 1564704000,
+        "expiration_date": "02-aug-2019",
+        "state": "past"
+    },
+    "tiphkuloov.com": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
     "tipico.com": {
         "epoch": 1584748800,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "tips.net": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "tiptwfbksobui.com": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "tiqiq.com": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "tirebusiness.com": {
+        "epoch": 1709251200,
+        "expiration_date": "01-mar-2024",
+        "state": "future"
+    },
+    "tiresandparts.net": {
+        "epoch": 1688169600,
+        "expiration_date": "01-jul-2023",
+        "state": "future"
+    },
+    "tiser.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "tissage-extension.com": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "titanbrowser.com": {
@@ -101394,9 +103019,69 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "titantv.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "titsintops.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "tivioyfstcdlce.com": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "tivocommunity.com": {
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
+    "tixati.com": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "tizernet.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "tjaqsjnrvmt.com": {
+        "epoch": 1562889600,
+        "expiration_date": "12-jul-2019",
+        "state": "past"
+    },
+    "tjcorfsynjppv.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "tjdasfdssd.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "tjdrxdsto.com": {
+        "epoch": 1564617600,
+        "expiration_date": "01-aug-2019",
+        "state": "past"
+    },
+    "tjdvqkis.com": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "tjhjyiylc.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "tjhkdxzzxyb.com": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "tjoob.com": {
@@ -101409,9 +103094,129 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "tjpnews.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "tjsioyarnnxmj.com": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "tjtukeaszrqco.com": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "tjyoznaozivi.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "tkekbn5sfk.com": {
+        "epoch": 1564012800,
+        "expiration_date": "25-jul-2019",
+        "state": "past"
+    },
+    "tkewsaesxhf.com": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "tkhoazslm.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "tkncbgwor.com": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "tkqlhce.com": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "tktyinaabq.com": {
+        "epoch": 1564704000,
+        "expiration_date": "02-aug-2019",
+        "state": "past"
+    },
+    "tlagvdqrsarf.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "tlavideo.com": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "tlbsearch.com": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "tldrlegal.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "tlecwkrygjas.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "tlgprhsl.com": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "tlkqzjvyujb.com": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "tlootas.org": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "tluwjhtsvoz.com": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "tlvfeylwod.com": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "tlvmedia.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "tlxspilyxsfx.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "tm-core.net": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
     "tmbattle.com": {
         "epoch": 1596412800,
         "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "tmblaeivephb.com": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
         "state": "future"
     },
     "tmcs.net": {
@@ -101424,9 +103229,104 @@
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
+    "tmearn.com": {
+        "epoch": 1673827200,
+        "expiration_date": "16-jan-2023",
+        "state": "future"
+    },
+    "tmfkuesmlpto.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "tmhfbwgpvzcxly.com": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "tmhgsorajits.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "tmi.me": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "tmmpiibtfi.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "tmn.today": {
+        "epoch": 1651449600,
+        "expiration_date": "02-may-2022",
+        "state": "future"
+    },
+    "tmrsjdxavhjgww.com": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "tmrzoo.com": {
+        "epoch": 1618012800,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
+    "tmserver-1.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "tmserver-2.net": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "tmtrck.com": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "tmtuohxkv.com": {
+        "epoch": 1561852800,
+        "expiration_date": "30-jun-2019",
+        "state": "past"
+    },
+    "tmxhub.com": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "tmxmckanu.com": {
+        "epoch": 1592092800,
+        "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "tmz.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "tnacywet.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
     "tnaflix.com": {
         "epoch": 1739836800,
         "expiration_date": "18-feb-2025",
+        "state": "future"
+    },
+    "tnawrestling.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "tncexvzu.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "tncred.com": {
@@ -101439,7 +103339,167 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "tnkexchange.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "tnkqfatbtlaw.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
+    "tnlfupvrlr.com": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "tnlshxmc.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "tnp.sg": {
+        "epoch": 1609632000,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "tnt.tv": {
+        "epoch": 1708041600,
+        "expiration_date": "16-feb-2024",
+        "state": "future"
+    },
+    "tntyellow.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "tnvghrlg.com": {
+        "epoch": 1570579200,
+        "expiration_date": "09-oct-2019",
+        "state": "future"
+    },
+    "tnwjldvivhgr.com": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "tnxiuvjtplhhdy.com": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "tny.cz": {
+        "epoch": 1628812800,
+        "expiration_date": "13-aug-2021",
+        "state": "future"
+    },
+    "tnznswilqtni.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "toads.id": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "toalhjpw.com": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "toarqsglo.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "tobarandualchais.co.uk": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "toblender.com": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "toboads.com": {
+        "epoch": 1700870400,
+        "expiration_date": "25-nov-2023",
+        "state": "future"
+    },
+    "today.com": {
+        "epoch": 1680739200,
+        "expiration_date": "06-apr-2023",
+        "state": "future"
+    },
+    "todayfm.com": {
+        "epoch": 1798588800,
+        "expiration_date": "30-dec-2026",
+        "state": "future"
+    },
+    "todayonline.com": {
+        "epoch": 1667606400,
+        "expiration_date": "05-nov-2022",
+        "state": "future"
+    },
+    "todaypk.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "todaysbigthing.com": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "todaysfinder.com": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "past"
+    },
+    "todaysgeneralcounsel.com": {
+        "epoch": 1669680000,
+        "expiration_date": "29-nov-2022",
+        "state": "future"
+    },
+    "todaysparent.com": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "todaystmj4.com": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "toffeeweb.com": {
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "toget.ru": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "togroltu.net": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "tok-dan-host.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "tokaripupsi.com": {
+        "epoch": 1577750400,
+        "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "tokenads.com": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
         "state": "future"
@@ -101449,9 +103509,74 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "tokyohive.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
+    "toledofreepress.com": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "tolethembehisy.club": {
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "tollfreeforwarding.com": {
+        "epoch": 1703980800,
+        "expiration_date": "31-dec-2023",
+        "state": "future"
+    },
     "tollibolli.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "tolonews.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "tomekas.com": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "tomopop.com": {
+        "epoch": 1796428800,
+        "expiration_date": "05-dec-2026",
+        "state": "future"
+    },
+    "tompkinsweekly.com": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "tomsguide.com": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "tomshardware.co.uk": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "tomshardware.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "tomwans.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "tonawanda-news.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "tonefuse.com": {
@@ -101459,9 +103584,159 @@
         "expiration_date": "31-dec-2019",
         "state": "future"
     },
+    "tonsterandhantan.info": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "toodlepork.com": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "toofab.com": {
+        "epoch": 1632096000,
+        "expiration_date": "20-sep-2021",
+        "state": "future"
+    },
+    "tool-site.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "toolslib.net": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "toolsvoid.com": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
+        "state": "future"
+    },
+    "toonix.com": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
+        "state": "future"
+    },
+    "toonjokes.com": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "tooorgle.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "toorgle.net": {
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "tooshocking.com": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "top-sponsor.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "top1walls.com": {
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "top26.net": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
     "top5result.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "top9space.com": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "topacity.info": {
+        "epoch": 1574208000,
+        "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "topad.mobi": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "topamateursexvideos.com": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "topauto10.com": {
+        "epoch": 1607731200,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "topbananaad.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "topbucks.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "topcasino10.com": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "topclassifieds.info": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "topclickguru.com": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "topcultured.com": {
+        "epoch": 1569715200,
+        "expiration_date": "29-sep-2019",
+        "state": "future"
+    },
+    "topdocumentaryfilms.com": {
+        "epoch": 1661990400,
+        "expiration_date": "01-sep-2022",
+        "state": "future"
+    },
+    "topescortbabes.com": {
+        "epoch": 1695513600,
+        "expiration_date": "24-sep-2023",
+        "state": "future"
+    },
+    "topeuro.biz": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "topfox.co.uk": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "topgear.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
         "state": "future"
     },
     "topgreatxoffers.com": {
@@ -101469,9 +103744,39 @@
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
+    "tophentai.biz": {
+        "epoch": 1616630400,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "topix.com": {
+        "epoch": 1740960000,
+        "expiration_date": "03-mar-2025",
+        "state": "future"
+    },
+    "topmarques.co.uk": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "topmedia.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "topoffers.com": {
+        "epoch": 1781395200,
+        "expiration_date": "14-jun-2026",
+        "state": "future"
+    },
+    "topprepperwebsites.com": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "topqualitylink.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
         "state": "future"
     },
     "topservers200.com": {
@@ -101484,9 +103789,19 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "topsite.com": {
+        "epoch": 1621987200,
+        "expiration_date": "26-may-2021",
+        "state": "future"
+    },
     "topspin.net": {
         "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
+    "toptechnews.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "toptenreviews.com": {
@@ -101494,9 +103809,49 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "toptenwholesale.com": {
+        "epoch": 1645228800,
+        "expiration_date": "19-feb-2022",
+        "state": "future"
+    },
+    "toptenz.net": {
+        "epoch": 1652572800,
+        "expiration_date": "15-may-2022",
+        "state": "future"
+    },
+    "toptipstricks.com": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "toptrailers.net": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "toptut.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "topzone.lt": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "tor-cr.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "torconpro.com": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "torfinder.net": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "torguard.net": {
@@ -101504,14 +103859,89 @@
         "expiration_date": "05-mar-2023",
         "state": "future"
     },
+    "tormovies.org": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "tornadomovies.co": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "torntv-tvv.org": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "toro-tags.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "toroadvertising.com": {
+        "epoch": 1673136000,
+        "expiration_date": "08-jan-2023",
+        "state": "future"
+    },
     "toroadvertisingmedia.com": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "toronto.com": {
+        "epoch": 1704585600,
+        "expiration_date": "07-jan-2024",
+        "state": "future"
+    },
+    "torontogasprices.com": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
+        "state": "future"
+    },
+    "torontoist.com": {
+        "epoch": 1805328000,
+        "expiration_date": "18-mar-2027",
+        "state": "future"
+    },
+    "torontolife.com": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "torontosun.com": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
+        "state": "future"
+    },
+    "tororango.com": {
+        "epoch": 1578787200,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "torpsol.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "torquayheraldexpress.co.uk": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "torrango.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "torrent-invites.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "torrentbar.com": {
+        "epoch": 1574985600,
+        "expiration_date": "29-nov-2019",
         "state": "future"
     },
     "torrentdownloads.me": {
@@ -101524,9 +103954,114 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "torrentfreak.com": {
+        "epoch": 1659916800,
+        "expiration_date": "08-aug-2022",
+        "state": "future"
+    },
+    "torrentfreak.tv": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "torrentfunk.com": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "torrentfunk2.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "torrentpond.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "torrentportal.com": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "torrentproject2.se": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "torrentresource.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "torrentroom.com": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "torrentroom.net": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "torrents.me": {
+        "epoch": 1661731200,
+        "expiration_date": "29-aug-2022",
+        "state": "future"
+    },
+    "torrentsgroup.com": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "torrentv.org": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "torrentz2.is": {
+        "epoch": 1629072000,
+        "expiration_date": "16-aug-2021",
+        "state": "future"
+    },
+    "torrida.net": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "torvind.com": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "toseesulbvbe.com": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "tosfeed.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "tossoffads.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "tostega.ru": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "tostickad.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "tota2.com": {
+        "epoch": 1604793600,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "totachrl.com": {
@@ -101539,9 +104074,24 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "total-media.net": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
     "totaladperformance.com": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "totalcmd.pl": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "totalfark.com": {
+        "epoch": 1576540800,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "totalguitar.net": {
@@ -101549,9 +104099,89 @@
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
+    "totallifeguru.com": {
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "totallycrap.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "totalprofitplan.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "totalscifionline.com": {
+        "epoch": 1709510400,
+        "expiration_date": "04-mar-2024",
+        "state": "future"
+    },
+    "totaltele.com": {
+        "epoch": 1570492800,
+        "expiration_date": "08-oct-2019",
+        "state": "future"
+    },
+    "totalxbox.com": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "totdorancaltert.club": {
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "totemcash.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "tothepc.com": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "totifiquo.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "totrack.ru": {
         "epoch": 1581724800,
         "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "touraadhdnfgsa.com": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "past"
+    },
+    "touringcartimes.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "tourofbritain.co.uk": {
+        "epoch": 1621468800,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
+    "towersearch.com": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
+    "townandcountrymag.com": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "townhall.com": {
+        "epoch": 1614729600,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "townnews.com": {
@@ -101564,6 +104194,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "toynews-online.biz": {
+        "epoch": 1622678400,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
     "toynewsi.com": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
@@ -101574,9 +104209,74 @@
         "expiration_date": "07-nov-2019",
         "state": "future"
     },
+    "tpb.run": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "tpdpidgyjhjn.com": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "tphwlmybvamq.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "tpjhxvondqzult.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "tpkmwnwbzetzbj.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
+    "tpkpnyiaylp.com": {
+        "epoch": 1562889600,
+        "expiration_date": "12-jul-2019",
+        "state": "past"
+    },
     "tplpages.com": {
         "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
+        "state": "future"
+    },
+    "tpmrwyhloretut.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "tpn134.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "tpnaabdwy.com": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
+    "tpnads.com": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "tpqweavlol.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "tpranctof.com": {
+        "epoch": 1563235200,
+        "expiration_date": "16-jul-2019",
+        "state": "past"
+    },
+    "tptfopotrzg.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "tracki112.com": {

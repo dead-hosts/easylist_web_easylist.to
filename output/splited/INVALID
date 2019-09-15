@@ -60,3 +60,7 @@ serve.*                                                                         
 sextronix.*.cdnaccess.com                                                                            SYNTAX     XXX        Sun 15 Sep 00:09:09 UTC 2019
 static.*.criteo.net                                                                                  SYNTAX     XXX        Sun 15 Sep 00:09:53 UTC 2019
 t8.*.com                                                                                             SYNTAX     XXX        Sun 15 Sep 00:09:54 UTC 2019
+thepiratebay.                                                                                        SYNTAX     XXX        Sun 15 Sep 01:09:52 UTC 2019
+tipico.*                                                                                             SYNTAX     XXX        Sun 15 Sep 01:09:52 UTC 2019
+tipico.*?affiliateId=                                                                                SYNTAX     XXX        Sun 15 Sep 01:09:52 UTC 2019
+torrentz.*                                                                                           SYNTAX     XXX        Sun 15 Sep 01:09:52 UTC 2019
