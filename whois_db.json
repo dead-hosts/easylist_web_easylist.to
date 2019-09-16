@@ -121695,9 +121695,9 @@
         "state": "future"
     },
     "zjhnmbfqylme.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "zjk24.com": {
         "epoch": 1583193600,
@@ -121852,7 +121852,7 @@
     "zlxfpawyyoq.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "zm232.com": {
         "epoch": 1562976000,
@@ -122132,7 +122132,7 @@
     "zoszujvvlu.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "zotjktpk.com": {
         "epoch": 1587945600,
@@ -122637,6 +122637,11 @@
     "zylom.com": {
         "epoch": 1577923200,
         "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
+    "zylstina.xyz": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "zymic.com": {
