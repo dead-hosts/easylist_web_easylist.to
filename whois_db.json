@@ -30615,8 +30615,8 @@
         "state": "future"
     },
     "double-check.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "double.net": {
@@ -31770,8 +31770,8 @@
         "state": "future"
     },
     "dvdyicsndqbqo.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "dvhznawcuacblo.com": {
@@ -31999,6 +31999,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "dynsrvbaa.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "dynsrvtbg.com": {
         "epoch": 1585440000,
         "expiration_date": "29-mar-2020",
@@ -32107,7 +32112,7 @@
     "e-find.co": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "e-generator.com": {
         "epoch": 1574812800,
@@ -34010,8 +34015,8 @@
         "state": "future"
     },
     "emzxewhgjt.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "enca.com": {
