@@ -43664,6 +43664,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "gleechie.net": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "gleechood.com": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
@@ -44639,6 +44644,11 @@
         "expiration_date": "07-feb-2029",
         "state": "future"
     },
+    "gottanut.com": {
+        "epoch": 1607040000,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "gotupload.com": {
         "epoch": 1599955200,
         "expiration_date": "13-sep-2020",
@@ -44687,6 +44697,11 @@
     "government-fleet.com": {
         "epoch": 1738108800,
         "expiration_date": "29-jan-2025",
+        "state": "future"
+    },
+    "goverua.com": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "govevents.com": {
@@ -45897,6 +45912,11 @@
     "gxxkrzrvy.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
+        "state": "past"
+    },
+    "gxyrnjtgtwll.com": {
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "gxzfpusmd.com": {
@@ -46417,7 +46437,7 @@
     "hasrijwnxtn.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hastingsobserver.co.uk": {
         "epoch": 1589241600,
