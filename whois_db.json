@@ -11835,8 +11835,8 @@
         "state": "future"
     },
     "assetbar.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "assetize.com": {
@@ -11965,9 +11965,9 @@
         "state": "future"
     },
     "atadserver.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1631577600,
+        "expiration_date": "14-sep-2021",
+        "state": "future"
     },
     "atarshaboor.com": {
         "epoch": 1575504000,
@@ -12732,7 +12732,7 @@
     "awrxkucpfbsq.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "aws-ajax.com": {
         "epoch": 1592092800,
@@ -12972,7 +12972,7 @@
     "azgwyeyjufdqc.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "azgyimccolyyo.com": {
         "epoch": 1573430400,
@@ -14704,6 +14704,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "bestdeals.ws": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "bestforexpartners.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -15370,9 +15375,9 @@
         "state": "future"
     },
     "bigpoint.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "bigpond.com": {
         "epoch": 1571616000,
@@ -15754,6 +15759,11 @@
         "expiration_date": "17-oct-2019",
         "state": "future"
     },
+    "bitcoin.cz": {
+        "epoch": 1604793600,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "bitcoinadvertisers.com": {
         "epoch": 1591920000,
         "expiration_date": "12-jun-2020",
@@ -15925,8 +15935,8 @@
         "state": "future"
     },
     "bixolsoqluvzpu.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "biz1190.com": {
