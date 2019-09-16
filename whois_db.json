@@ -7659,6 +7659,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "adxbid.me": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "adxchg.com": {
         "epoch": 1600646400,
         "expiration_date": "21-sep-2020",
@@ -8077,6 +8082,11 @@
     "affifix.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "affili.st": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "affiliate-b.com": {
@@ -11037,7 +11047,7 @@
     "apportium.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "approp.pro": {
         "epoch": 1580342400,
