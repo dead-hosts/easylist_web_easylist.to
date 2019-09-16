@@ -4754,6 +4754,11 @@
         "expiration_date": "24-sep-2019",
         "state": "future"
     },
+    "adca.st": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
+        "state": "future"
+    },
     "adcade.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
