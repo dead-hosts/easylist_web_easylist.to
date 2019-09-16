@@ -60694,6 +60694,11 @@
         "expiration_date": "15-nov-2019",
         "state": "future"
     },
+    "less-css.site": {
+        "epoch": 1569196800,
+        "expiration_date": "23-sep-2019",
+        "state": "future"
+    },
     "lessemf.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -61092,6 +61097,11 @@
     "lifehacker.co.in": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "lifeideas.site": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "lifeinqueensland.com": {
@@ -61852,6 +61862,11 @@
     "livescience.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "livescore.cz": {
+        "epoch": 1829001600,
+        "expiration_date": "17-dec-2027",
         "state": "future"
     },
     "livescore.in": {
@@ -63442,7 +63457,7 @@
     "lxlisrvzz.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "lxnimmyikuekn.com": {
         "epoch": 1570924800,
@@ -64774,6 +64789,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "marvin.pw": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "mary.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
@@ -64832,6 +64852,11 @@
     "masterani.me": {
         "epoch": 1576281600,
         "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "masternodes.online": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
         "state": "future"
     },
     "masterwanker.com": {
