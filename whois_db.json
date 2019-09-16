@@ -75304,6 +75304,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "ogsi.it": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "ogvrdxjcgzst.com": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
@@ -76927,11 +76932,16 @@
     "outlookmoney.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "outlooktraveller.com": {
         "epoch": 1602633600,
         "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "outseeltor.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "outspark.com": {
@@ -77057,7 +77067,7 @@
     "ovkihcbxsbfeo.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ovmeaxabvfor.com": {
         "epoch": 1579910400,
