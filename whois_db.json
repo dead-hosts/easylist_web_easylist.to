@@ -100160,9 +100160,9 @@
         "state": "future"
     },
     "tennisworldusa.org": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "tentekuzi.com": {
         "epoch": 1595116800,
@@ -100302,7 +100302,7 @@
     "text-link-ads.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "textlinks.com": {
         "epoch": 1571443200,
@@ -101139,6 +101139,11 @@
         "expiration_date": "23-nov-2019",
         "state": "future"
     },
+    "thefappening.wiki": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "thefappeningblog.com": {
         "epoch": 1712448000,
         "expiration_date": "07-apr-2024",
@@ -101702,6 +101707,11 @@
     "thenationonlineng.net": {
         "epoch": 1582848000,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "thenelis.pw": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "thenewamerican.com": {
@@ -102715,9 +102725,9 @@
         "state": "past"
     },
     "thqwivyhdpoem.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "threatpost.com": {
         "epoch": 1577059200,
@@ -104545,9 +104555,9 @@
         "state": "future"
     },
     "tqlypenbt.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "tqmricveyxphfo.com": {
         "epoch": 1599523200,
@@ -104637,6 +104647,11 @@
     "trackmackweldon.com": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "trackmkxoffers.se": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "trackpath.biz": {
