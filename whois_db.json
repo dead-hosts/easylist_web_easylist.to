@@ -106550,9 +106550,9 @@
         "state": "future"
     },
     "twnkpjhbgcp.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "twofuckers.com": {
         "epoch": 1592352000,
@@ -107075,9 +107075,9 @@
         "state": "future"
     },
     "uemjnvyn.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
-        "state": "past"
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "uenpibqyjvim.com": {
         "epoch": 1599523200,
@@ -108307,7 +108307,7 @@
     "usabit.com": {
         "epoch": 1568592000,
         "expiration_date": "16-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "usacryptocoins.com": {
         "epoch": 1583798400,
