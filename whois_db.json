@@ -79579,6 +79579,11 @@
         "expiration_date": "11-oct-2019",
         "state": "future"
     },
+    "pisucbaart.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "pitatagata.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
@@ -79942,7 +79947,7 @@
     "platinumdown.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "play-asia.com": {
         "epoch": 1635379200,
@@ -80087,6 +80092,11 @@
     "playwire.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "plbfuyckzn.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "pleasantonweekly.com": {
@@ -82202,7 +82212,7 @@
     "prepperwebsite.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "presatisfy.com": {
         "epoch": 1586908800,
@@ -82407,7 +82417,7 @@
     "primaryads.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "prime.ms": {
         "epoch": 1599091200,
@@ -82802,7 +82812,7 @@
     "promotion-campaigns.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "promotools.biz": {
         "epoch": 1618099200,
