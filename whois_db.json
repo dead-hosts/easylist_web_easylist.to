@@ -17369,6 +17369,11 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "bowells.com": {
+        "epoch": 1663459200,
+        "expiration_date": "18-sep-2022",
+        "state": "future"
+    },
     "boweryboogie.com": {
         "epoch": 1598659200,
         "expiration_date": "29-aug-2020",
@@ -19250,8 +19255,8 @@
         "state": "future"
     },
     "caaqyzbpsbtk.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "caarewards.ca": {
