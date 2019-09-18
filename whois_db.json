@@ -11505,8 +11505,8 @@
         "state": "future"
     },
     "arti-mediagroup.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "articlealley.com": {
@@ -11612,6 +11612,11 @@
     "asciiribbon.org": {
         "epoch": 1607299200,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "asdad.xyz": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "asdtwttky.com": {
@@ -12735,9 +12740,9 @@
         "state": "future"
     },
     "awrxkucpfbsq.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "aws-ajax.com": {
         "epoch": 1592092800,
@@ -12975,9 +12980,9 @@
         "state": "future"
     },
     "azgwyeyjufdqc.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "azgyimccolyyo.com": {
         "epoch": 1573430400,
@@ -13719,6 +13724,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "bannertgt.com": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
     "bannertracker-script.com": {
         "epoch": 1597449600,
         "expiration_date": "15-aug-2020",
@@ -14457,6 +14467,11 @@
     "beinsports.com": {
         "epoch": 1633564800,
         "expiration_date": "07-oct-2021",
+        "state": "future"
+    },
+    "beiren.xyz": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "bejotlmrijxvor.com": {
