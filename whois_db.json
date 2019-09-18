@@ -25215,8 +25215,8 @@
         "state": "future"
     },
     "countytimes.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "coupon2buy.com": {
@@ -26129,6 +26129,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "cryptoads.space": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "cryptoarticles.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
@@ -26229,6 +26234,11 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "csport.xyz": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "cspyozjbwb.com": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
@@ -26322,6 +26332,11 @@
     "ctrhub.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "ctrl.blog": {
+        "epoch": 1642896000,
+        "expiration_date": "23-jan-2022",
         "state": "future"
     },
     "ctrmanager.com": {
@@ -27129,6 +27144,11 @@
         "expiration_date": "30-jan-2023",
         "state": "future"
     },
+    "daecan.xyz": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "daemon-tools.cc": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -27579,6 +27599,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "danhhmhxkrm.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
     "daniweb.com": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
@@ -27690,9 +27715,9 @@
         "state": "future"
     },
     "dashbida.com": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "dashboardad.net": {
         "epoch": 1572307200,
@@ -28820,8 +28845,8 @@
         "state": "future"
     },
     "detroitindependent.net": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "detroitmedia.com": {
