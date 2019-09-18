@@ -98334,6 +98334,11 @@
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
+    "surveyend.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "surveymonkey.com": {
         "epoch": 1604620800,
         "expiration_date": "06-nov-2020",
@@ -99554,6 +99559,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "tcatkrccxgc.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
     "tchmemnasaxpt.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
@@ -100535,9 +100545,9 @@
         "state": "future"
     },
     "text-link-ads.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "textlinks.com": {
         "epoch": 1571443200,
@@ -100658,6 +100668,11 @@
         "epoch": 1562198400,
         "expiration_date": "04-jul-2019",
         "state": "past"
+    },
+    "tgbdjyryn.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "tgbjtcgkdu.com": {
         "epoch": 1595289600,
