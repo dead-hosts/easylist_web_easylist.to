@@ -108560,9 +108560,9 @@
         "state": "future"
     },
     "usabit.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "usacryptocoins.com": {
         "epoch": 1583798400,
@@ -108875,9 +108875,9 @@
         "state": "future"
     },
     "utrehter.com": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "utrend.tv": {
         "epoch": 1573430400,
@@ -109072,6 +109072,11 @@
     "uxkkltrrxlowzo.com": {
         "epoch": 1583020800,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "uxlkqeiez.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "uxmatters.com": {
@@ -109755,8 +109760,8 @@
         "state": "future"
     },
     "venturebeatprofiles.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "ventureburn.com": {
@@ -111145,8 +111150,8 @@
         "state": "future"
     },
     "vmmphpamtigpbi.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "vmn.net": {
@@ -111207,7 +111212,7 @@
     "vnfdwoljzoaer.com": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "vngztuqon.com": {
         "epoch": 1595894400,
@@ -111454,6 +111459,11 @@
         "expiration_date": "22-jul-2019",
         "state": "past"
     },
+    "vouzgwau.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "vovhiwr.com": {
         "epoch": 1600560000,
         "expiration_date": "20-sep-2020",
@@ -111650,8 +111660,8 @@
         "state": "future"
     },
     "vrewpywootyu.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "vrheads.com": {
