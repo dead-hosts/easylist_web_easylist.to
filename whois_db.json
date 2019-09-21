@@ -5745,9 +5745,9 @@
         "state": "future"
     },
     "adminpromotion.com": {
-        "epoch": 1562198400,
-        "expiration_date": "04-jul-2019",
-        "state": "past"
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
     },
     "admission.net": {
         "epoch": 1574985600,
@@ -6445,8 +6445,8 @@
         "state": "future"
     },
     "adscpm.net": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "adsdk.com": {
