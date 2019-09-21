@@ -1529,6 +1529,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "3dots.co.il": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "3dtin.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
