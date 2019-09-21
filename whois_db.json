@@ -6660,8 +6660,8 @@
         "state": "future"
     },
     "adsmarket.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "adsmoon.com": {
@@ -6690,9 +6690,9 @@
         "state": "future"
     },
     "adsomi.com": {
-        "epoch": 1561852800,
-        "expiration_date": "30-jun-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "adsonar.com": {
         "epoch": 1623196800,
@@ -7030,8 +7030,8 @@
         "state": "future"
     },
     "adtrgt.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "adtrieval.com": {
@@ -7355,8 +7355,8 @@
         "state": "future"
     },
     "adversalservers.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "adverserve.net": {
