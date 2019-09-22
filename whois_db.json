@@ -47760,8 +47760,8 @@
         "state": "future"
     },
     "hgbxmqyqoplpif.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "hgdat.com": {
@@ -47829,6 +47829,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "hhdwgxmrvwyg.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "hheeffxjz.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
@@ -47837,6 +47842,11 @@
     "hhffiibyamkvyu.com": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "hhit.xyz": {
+        "epoch": 1573430400,
+        "expiration_date": "11-nov-2019",
         "state": "future"
     },
     "hhleomgyiruth.com": {
@@ -48214,6 +48224,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "hitopadxdz.xyz": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "hitsquad.com": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
@@ -48537,7 +48552,7 @@
     "hogylomirfc.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hohrnldconk.com": {
         "epoch": 1588204800,
@@ -48925,13 +48940,13 @@
         "state": "future"
     },
     "horsered.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "hortestoz.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "horvmygebyg.com": {
