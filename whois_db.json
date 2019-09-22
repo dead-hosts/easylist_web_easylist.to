@@ -33594,6 +33594,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "eiuuiormjc.com": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "eiwdnygfwl.com": {
         "epoch": 1562889600,
         "expiration_date": "12-jul-2019",
@@ -33765,8 +33770,8 @@
         "state": "future"
     },
     "elcolpplwua.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "electnext.com": {
