@@ -24780,8 +24780,8 @@
         "state": "future"
     },
     "contentr.net": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "contenture.com": {
@@ -25142,7 +25142,7 @@
     "cosmjs.com": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cosmopolitan.co.uk": {
         "epoch": 1579824000,
@@ -25597,7 +25597,7 @@
     "cqhxrlnhzlda.com": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "cqjnxsbuplcqri.com": {
         "epoch": 1569456000,
@@ -25985,8 +25985,8 @@
         "state": "future"
     },
     "crjsrbyybipozq.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "crm4d.com": {
@@ -26197,6 +26197,11 @@
     "cryptoinfinity.com": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "cryptomedia.me": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "cryptomining-blog.com": {
