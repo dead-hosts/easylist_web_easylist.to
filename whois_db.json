@@ -67805,9 +67805,9 @@
         "state": "past"
     },
     "mm-syringe.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "mma-core.com": {
         "epoch": 1662422400,
@@ -68115,8 +68115,8 @@
         "state": "future"
     },
     "mobilerevamp.org": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "mobilerevenu.com": {
