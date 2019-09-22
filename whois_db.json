@@ -81685,8 +81685,8 @@
         "state": "future"
     },
     "pornizer.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "pornjam.com": {
@@ -82397,7 +82397,7 @@
     "practively.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "praguemonitor.com": {
         "epoch": 1583971200,
@@ -82565,9 +82565,9 @@
         "state": "future"
     },
     "prepperwebsite.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "presatisfy.com": {
         "epoch": 1586908800,
@@ -82770,9 +82770,9 @@
         "state": "future"
     },
     "primaryads.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "prime.ms": {
         "epoch": 1599091200,
@@ -83165,9 +83165,9 @@
         "state": "future"
     },
     "promotion-campaigns.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "promotools.biz": {
         "epoch": 1618099200,
@@ -83314,6 +83314,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "protoawe.com": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
     "proudfm.com": {
         "epoch": 1579219200,
         "expiration_date": "17-jan-2020",
@@ -83437,6 +83442,11 @@
     "prulogzjtyksnh.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
+        "state": "future"
+    },
+    "prxio.pw": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "pryordailytimes.com": {
@@ -83667,7 +83677,7 @@
     "ptiniretm.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ptkgzsqf.com": {
         "epoch": 1571356800,
@@ -84205,8 +84215,8 @@
         "state": "future"
     },
     "pussl33.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "pussl37.com": {
@@ -84215,18 +84225,18 @@
         "state": "future"
     },
     "pussl38.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "pussl39.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "pussl40.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "pussl48.com": {
