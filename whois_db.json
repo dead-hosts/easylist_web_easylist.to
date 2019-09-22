@@ -56837,7 +56837,7 @@
     "jsfuz.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "jsmentry.com": {
         "epoch": 1606003200,
@@ -57350,8 +57350,13 @@
         "state": "future"
     },
     "jzbutifk.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "jzeigwioirde.com": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "jzfzgkepkjcf.com": {
@@ -57372,7 +57377,7 @@
     "jzjhcpdf.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "jzkznpleaqshdj.com": {
         "epoch": 1584921600,
@@ -57802,7 +57807,7 @@
     "kbwortdqjbns.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "kbx1sth37s.com": {
         "epoch": 1587772800,
