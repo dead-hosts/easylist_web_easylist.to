@@ -93420,8 +93420,8 @@
         "state": "future"
     },
     "shapzwwy.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "sharaget.com": {
@@ -93507,7 +93507,7 @@
     "sharelinks.xyz": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "sharemods.com": {
         "epoch": 1612051200,
@@ -94757,6 +94757,11 @@
     "skyligh.co": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "skymedia.co.uk": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "skymetweather.com": {
