@@ -69910,9 +69910,9 @@
         "state": "future"
     },
     "music-desktop.com": {
-        "epoch": 1562371200,
-        "expiration_date": "06-jul-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "music-news.com": {
         "epoch": 1696032000,
@@ -69945,8 +69945,8 @@
         "state": "future"
     },
     "musicpleer.la": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "musicradar.com": {
@@ -70109,6 +70109,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "mwaiqeefj.com": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
     "mwfzoumik.com": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -70155,8 +70160,8 @@
         "state": "future"
     },
     "mxpzslze.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "mxsads.com": {
@@ -70200,8 +70205,8 @@
         "state": "future"
     },
     "myaarzoo.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "myabc50.com": {
@@ -70525,8 +70530,8 @@
         "state": "future"
     },
     "mykhtesikvuz.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "mykocam.com": {
