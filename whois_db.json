@@ -119162,7 +119162,7 @@
     "xvijskugh.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "xvika.com": {
         "epoch": 1587945600,
@@ -119455,9 +119455,9 @@
         "state": "future"
     },
     "xxxwebtraffic.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "xxxxsextube.com": {
         "epoch": 1598832000,
@@ -120325,8 +120325,8 @@
         "state": "future"
     },
     "yisscbyq.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "yjctwdeuz.com": {
@@ -120562,6 +120562,11 @@
     "ynaija.com": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "ynet.co.il": {
+        "epoch": 1572566400,
+        "expiration_date": "01-nov-2019",
         "state": "future"
     },
     "ynetnews.com": {
@@ -121307,7 +121312,7 @@
     "yu21uy.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yuanaayutyd.com": {
         "epoch": 1571011200,
@@ -121417,6 +121422,11 @@
     "yuvutu.com": {
         "epoch": 1653436800,
         "expiration_date": "25-may-2022",
+        "state": "future"
+    },
+    "yuwxounw.com": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "yuyxslrprv.com": {
