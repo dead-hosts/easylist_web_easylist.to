@@ -117762,7 +117762,7 @@
     "xbidflare.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "xbinjxvdnjqllh.com": {
         "epoch": 1593820800,
@@ -117902,6 +117902,11 @@
     "xcjelwzs.com": {
         "epoch": 1574553600,
         "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
+    "xclgusxcdjd.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "xclicks.net": {
@@ -118590,8 +118595,8 @@
         "state": "future"
     },
     "xnjsdpohkgn.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "xnkmmbfpyokevaxsjtky.com": {
@@ -118872,12 +118877,12 @@
     "xroonucyaoqljf.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "xrpcbukuwdvkc.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "xruuohzpxmmw.com": {
         "epoch": 1584144000,
@@ -118937,6 +118942,11 @@
     "xsnqhzbiqdmqw.com": {
         "epoch": 1593648000,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "xsortxrmtpykh.com": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "xsportnews.com": {
