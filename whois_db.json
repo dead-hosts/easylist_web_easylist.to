@@ -8034,6 +8034,11 @@
         "expiration_date": "14-nov-2019",
         "state": "future"
     },
+    "afedmag.com": {
+        "epoch": 1576713600,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
     "afeeknuueaztxt.com": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
@@ -8784,6 +8789,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "aiidbowoj.com": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "aiiukvzjtsc.com": {
         "epoch": 1599868800,
         "expiration_date": "12-sep-2020",
@@ -8850,8 +8860,8 @@
         "state": "future"
     },
     "aipmedia.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "air1.com": {
@@ -8880,8 +8890,8 @@
         "state": "future"
     },
     "airlineroute.net": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "airliners.net": {
