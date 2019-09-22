@@ -79104,6 +79104,11 @@
         "expiration_date": "05-dec-2021",
         "state": "future"
     },
+    "petri.co.il": {
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "petri.com": {
         "epoch": 1717632000,
         "expiration_date": "06-jun-2024",
@@ -79167,7 +79172,7 @@
     "pfiuzxey.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "pfltlwftndq.com": {
         "epoch": 1563580800,
@@ -79207,6 +79212,11 @@
     "pgatour.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "pgdhapctt.com": {
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "pgepkagfndl.com": {
@@ -80280,9 +80290,9 @@
         "state": "past"
     },
     "platinumdown.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "play-asia.com": {
         "epoch": 1635379200,
