@@ -6414,6 +6414,11 @@
         "expiration_date": "06-oct-2021",
         "state": "future"
     },
+    "adsblockkpush.com": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "adsbookie.com": {
         "epoch": 1602288000,
         "expiration_date": "10-oct-2020",
@@ -7062,6 +7067,11 @@
     "adtruism.com": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "adtunes.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "adtwbjs.com": {
@@ -7935,9 +7945,9 @@
         "state": "future"
     },
     "aeobzaii.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "aepwqsajypyti.com": {
         "epoch": 1562284800,
