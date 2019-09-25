@@ -17115,9 +17115,9 @@
         "state": "future"
     },
     "bonxsqstn.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "bonzuna.com": {
         "epoch": 1619395200,
@@ -17262,7 +17262,7 @@
     "borazita.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "bordernode.com": {
         "epoch": 1578528000,
@@ -17475,8 +17475,8 @@
         "state": "future"
     },
     "boxlotto.com": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "boxoffice.com": {
@@ -17515,9 +17515,9 @@
         "state": "future"
     },
     "bpasyspro.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "bpath.com": {
         "epoch": 1612915200,
@@ -17595,8 +17595,8 @@
         "state": "future"
     },
     "bqvgpuvjwhjggp.com": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "bqyzesmanfucq.com": {
@@ -18540,8 +18540,8 @@
         "state": "future"
     },
     "bumblecash.com": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "bumpshack.com": {
@@ -18907,6 +18907,11 @@
     "buyt.in": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "buywing.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
         "state": "future"
     },
     "buznews.com": {
