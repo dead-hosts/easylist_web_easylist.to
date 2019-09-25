@@ -28040,8 +28040,8 @@
         "state": "future"
     },
     "davidsilverspares.co.uk": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "davthnojr.com": {
@@ -28570,9 +28570,9 @@
         "state": "future"
     },
     "dehardward.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "deicslktis.com": {
         "epoch": 1595116800,
@@ -30672,6 +30672,11 @@
     "dooyoo.co.uk": {
         "epoch": 1574985600,
         "expiration_date": "29-nov-2019",
+        "state": "future"
+    },
+    "dopc.cz": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "dopor.info": {
