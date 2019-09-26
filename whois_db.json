@@ -75477,7 +75477,7 @@
     "oamhzvwle.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "oann.com": {
         "epoch": 1597190400,
@@ -76384,6 +76384,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "ololen.pw": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "olrmwkarcwfbjz.com": {
         "epoch": 1600473600,
         "expiration_date": "19-sep-2020",
@@ -76635,8 +76640,8 @@
         "state": "future"
     },
     "onetime.com": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
+        "epoch": 1632614400,
+        "expiration_date": "26-sep-2021",
         "state": "future"
     },
     "onetravel.com": {
@@ -77179,6 +77184,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "optimole.com": {
+        "epoch": 1625356800,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "optimum.net": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -77302,7 +77312,7 @@
     "organizedwisdom.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "orgasm.com": {
         "epoch": 1608508800,
@@ -77445,9 +77455,9 @@
         "state": "future"
     },
     "ostatic.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "ostyfayab.com": {
         "epoch": 1595203200,
@@ -77480,8 +77490,8 @@
         "state": "future"
     },
     "othere.info": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "otherprofit.com": {
@@ -77574,9 +77584,19 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "oughaoxixcfe.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "ouhdgmzajfaop.com": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "oujlnbyavjhy.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "ouloutso.net": {
@@ -77747,6 +77767,11 @@
     "overdrive.in": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "overhaps.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "overreare.co": {
