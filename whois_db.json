@@ -399,6 +399,11 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "123tvnow.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "123vidz.com": {
         "epoch": 1579219200,
         "expiration_date": "17-jan-2020",
@@ -1077,6 +1082,11 @@
     "2d7bd9e6eb370143.com": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "2ddl.vg": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "2delllwrite.com": {
