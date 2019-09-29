@@ -81065,8 +81065,8 @@
         "state": "future"
     },
     "plista.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "pllblrapagrvn.com": {
@@ -81980,9 +81980,9 @@
         "state": "future"
     },
     "poratav.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "poredii.com": {
         "epoch": 1585440000,
@@ -82812,6 +82812,11 @@
     "poxcldtepiulo.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "poyecjzk.com": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "poynter.org": {
