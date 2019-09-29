@@ -71124,6 +71124,11 @@
         "expiration_date": "19-nov-2021",
         "state": "future"
     },
+    "myornamenti.com": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "mypaper.sg": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
@@ -71215,9 +71220,9 @@
         "state": "future"
     },
     "myregeneaf.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "myretrotv.com": {
         "epoch": 1576540800,
@@ -71459,6 +71464,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "mzmtpdcouoa.com": {
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "mznzltgotp.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -71547,6 +71557,11 @@
     "nabbr.com": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
+    "nadinthimmeled.pro": {
+        "epoch": 1624320000,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "nag.co.za": {
@@ -71720,9 +71735,9 @@
         "state": "future"
     },
     "namitol.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "nampa.org": {
         "epoch": 1595462400,
@@ -72282,7 +72297,7 @@
     "ndilzwjgblea.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ndprxvzgy.com": {
         "epoch": 1574380800,
@@ -73080,8 +73095,8 @@
         "state": "future"
     },
     "news919.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "news92fm.com": {
@@ -73090,8 +73105,8 @@
         "state": "future"
     },
     "news957.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "newsadst.com": {
@@ -73490,9 +73505,9 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "next-gen.biz": {
         "epoch": 1592006400,
@@ -73819,6 +73834,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "nieveni.com": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "nifty.org": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -73987,6 +74007,11 @@
     "nitropdf.com": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "nittlopp.online": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "niufm.com": {
