@@ -47187,7 +47187,7 @@
     "hcmafnawzxfnam.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hcmjlsxhebb.com": {
         "epoch": 1578873600,
@@ -47432,7 +47432,7 @@
     "heaaizwhm.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "headforpoints.com": {
         "epoch": 1590796800,
@@ -48400,8 +48400,8 @@
         "state": "future"
     },
     "hinckleytimes.net": {
-        "epoch": 1569628800,
-        "expiration_date": "28-sep-2019",
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "hindustantimes.com": {
@@ -48662,7 +48662,7 @@
     "hkjxihngzlmwc.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hknepaliradio.com": {
         "epoch": 1575072000,
@@ -48675,8 +48675,8 @@
         "state": "future"
     },
     "hkoxlirf.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "hkoxznukwpdhxu.com": {
@@ -48757,7 +48757,7 @@
     "hlvvlouaeicp.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hlvzvisiwbtuwv.com": {
         "epoch": 1582416000,
@@ -48770,9 +48770,9 @@
         "state": "future"
     },
     "hmepgymo.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "hmgozryqbc.com": {
         "epoch": 1582761600,
@@ -49440,8 +49440,8 @@
         "state": "future"
     },
     "hotcaracum.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "hotchatdate.com": {
@@ -49495,8 +49495,8 @@
         "state": "future"
     },
     "hotfile.mobi": {
-        "epoch": 1569628800,
-        "expiration_date": "28-sep-2019",
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "hotfilesearch.com": {
@@ -50095,8 +50095,8 @@
         "state": "future"
     },
     "hsqvofrzwluvns.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "hsslx.com": {
@@ -50257,7 +50257,7 @@
     "hubvotrpjios.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "huccrlctmgifs.com": {
         "epoch": 1597795200,
@@ -50457,6 +50457,11 @@
     "hvqqergvbpvetq.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "hvtlipnbfwu.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "hvulkudamh.com": {
@@ -50662,6 +50667,11 @@
     "hypertrackeraff.com": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "hyperurl.co": {
+        "epoch": 1569801600,
+        "expiration_date": "30-sep-2019",
         "state": "future"
     },
     "hypervre.com": {
