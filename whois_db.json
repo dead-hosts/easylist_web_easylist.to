@@ -74459,6 +74459,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "norteevu.com": {
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
     "northampton-news-hp.co.uk": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
@@ -75760,9 +75765,9 @@
         "state": "future"
     },
     "oamhzvwle.com": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
-        "state": "past"
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "oann.com": {
         "epoch": 1597190400,
@@ -75780,8 +75785,8 @@
         "state": "future"
     },
     "oarqgvtkco.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "oartozvwzv.com": {
@@ -76709,9 +76714,19 @@
         "expiration_date": "10-nov-2019",
         "state": "future"
     },
+    "olx.pt": {
+        "epoch": 1707091200,
+        "expiration_date": "05-feb-2024",
+        "state": "future"
+    },
     "olympicchannel.com": {
         "epoch": 1651881600,
         "expiration_date": "07-may-2022",
+        "state": "future"
+    },
+    "omaceran.pw": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "omafaren.pw": {
@@ -76782,7 +76797,7 @@
     "omni-ads.com": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "omnitagjs.com": {
         "epoch": 1575417600,
@@ -77595,9 +77610,9 @@
         "state": "future"
     },
     "organizedwisdom.com": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
-        "state": "past"
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "orgasm.com": {
         "epoch": 1608508800,
