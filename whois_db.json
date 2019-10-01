@@ -50325,9 +50325,9 @@
         "state": "future"
     },
     "hubvotrpjios.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "huccrlctmgifs.com": {
         "epoch": 1597795200,
@@ -50405,8 +50405,8 @@
         "state": "past"
     },
     "hulkload.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "hulkshare.com": {
@@ -50740,8 +50740,8 @@
         "state": "future"
     },
     "hyperurl.co": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "hypervre.com": {
@@ -51567,7 +51567,7 @@
     "ifecuwzjajkiq.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ifeuddaywa.com": {
         "epoch": 1592179200,
@@ -51642,6 +51642,11 @@
     "ifuvjvbyjir.com": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "ig0nr8hhhb.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
         "state": "future"
     },
     "ig8al3mkou.com": {
