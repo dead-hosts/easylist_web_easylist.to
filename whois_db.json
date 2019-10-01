@@ -60429,6 +60429,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "kxbpvlptnkrqvt.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "kxcdn.com": {
         "epoch": 1643500800,
         "expiration_date": "30-jan-2022",
@@ -60545,9 +60550,9 @@
         "state": "future"
     },
     "l2b.co.za": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "l4dmaps.com": {
         "epoch": 1813881600,
@@ -61095,8 +61100,8 @@
         "state": "past"
     },
     "lbkprcoosfgk.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "lbo-news.com": {
@@ -61192,6 +61197,11 @@
     "ldgozccnwgtuya.com": {
         "epoch": 1595548800,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "ldpubkzh.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "ldqxdxtkepveg.com": {
@@ -61524,9 +61534,19 @@
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
+    "leijsdpbkgobg.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "leitesculinaria.com": {
         "epoch": 1679097600,
         "expiration_date": "18-mar-2023",
+        "state": "future"
+    },
+    "lejhdbxl.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "lemetri.info": {
@@ -61920,9 +61940,9 @@
         "state": "future"
     },
     "liakiadlbs.com": {
-        "epoch": 1562284800,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "libertyblitzkrieg.com": {
         "epoch": 1583193600,
