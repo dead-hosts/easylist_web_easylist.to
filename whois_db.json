@@ -64,6 +64,11 @@
         "expiration_date": "20-jul-2019",
         "state": "past"
     },
+    "04426f8b7ce9b069431.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "04stream.com": {
         "epoch": 1579132800,
         "expiration_date": "16-jan-2020",
@@ -1310,8 +1315,8 @@
         "state": "future"
     },
     "33across.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "33ae985c0ea917.com": {
