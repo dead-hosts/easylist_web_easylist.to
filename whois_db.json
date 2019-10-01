@@ -17487,7 +17487,7 @@
     "bostonwall.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "botiviga.com": {
         "epoch": 1564012800,
@@ -18035,8 +18035,8 @@
         "state": "future"
     },
     "brightsideofnews.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "brila.net": {
@@ -18325,8 +18325,8 @@
         "state": "future"
     },
     "bsmryjou.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "bsplayer.com": {
