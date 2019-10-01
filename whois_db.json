@@ -28105,8 +28105,8 @@
         "state": "future"
     },
     "datingadnetwork.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "datingamateurs.com": {
@@ -28270,8 +28270,8 @@
         "state": "future"
     },
     "dbuwkhpggim.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "dbvault.net": {
@@ -28302,6 +28302,11 @@
     "dcfc.co.uk": {
         "epoch": 1728777600,
         "expiration_date": "13-oct-2024",
+        "state": "future"
+    },
+    "dchnguasrxubf.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "dcist.com": {
@@ -29012,6 +29017,11 @@
     "desimartini.com": {
         "epoch": 1620000000,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "desinode.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "desipearl.com": {
@@ -30587,7 +30597,7 @@
     "doge-dice.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "dogechain.info": {
         "epoch": 1607472000,
