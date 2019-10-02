@@ -111190,8 +111190,8 @@
         "state": "future"
     },
     "version2.dk": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "versus.com": {
@@ -111307,7 +111307,7 @@
     "vfnemtpehzmzwc.com": {
         "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "vfousvlr.com": {
         "epoch": 1595721600,
@@ -111390,8 +111390,8 @@
         "state": "future"
     },
     "vgsgaming-ads.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1664496000,
+        "expiration_date": "30-sep-2022",
         "state": "future"
     },
     "vgyakiejafjjj.com": {
@@ -111740,8 +111740,8 @@
         "state": "future"
     },
     "videozed.net": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "videozoo.me": {
@@ -112385,8 +112385,8 @@
         "state": "future"
     },
     "vkrgljxqn.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "vkudpjuvg.com": {
@@ -112485,8 +112485,8 @@
         "state": "future"
     },
     "vlyqzdsucomih.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "vlyuopulvewg.com": {
@@ -112572,6 +112572,11 @@
     "vnlqgiuul.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "vnrapyiaxxj.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "vntcxqxuqki.com": {
@@ -113077,6 +113082,11 @@
     "vs3.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "vs4.com": {
+        "epoch": 1658793600,
+        "expiration_date": "26-jul-2022",
         "state": "future"
     },
     "vs4family.com": {
