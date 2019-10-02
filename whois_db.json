@@ -100710,8 +100710,8 @@
         "state": "future"
     },
     "tblaqgify.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "tbmwhcyfapzjre.com": {
@@ -101395,8 +101395,8 @@
         "state": "future"
     },
     "tehvids.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "tei-c.org": {
@@ -101737,7 +101737,7 @@
     "texasboston.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "texasmonthly.com": {
         "epoch": 1676160000,
@@ -101787,7 +101787,7 @@
     "tezfiles.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tf2maps.net": {
         "epoch": 1600560000,
@@ -102007,7 +102007,7 @@
     "thbuhcnpt.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "thdragate.info": {
         "epoch": 1579564800,
