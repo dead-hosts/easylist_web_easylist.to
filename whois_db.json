@@ -89925,8 +89925,8 @@
         "state": "future"
     },
     "rjeksrigwzm.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "rjirxadtq.com": {
@@ -90665,9 +90665,9 @@
         "state": "future"
     },
     "rpzcwgrpbkltp.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "rqaobxvj.com": {
         "epoch": 1576368000,
@@ -90805,8 +90805,8 @@
         "state": "future"
     },
     "rscqizsukecevh.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "rsgazdyuycbm.com": {
@@ -91644,6 +91644,11 @@
         "expiration_date": "30-apr-2021",
         "state": "future"
     },
+    "sadbads.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "sadeempc.com": {
         "epoch": 1577404800,
         "expiration_date": "27-dec-2019",
@@ -91755,9 +91760,9 @@
         "state": "future"
     },
     "sailboatdata.com": {
-        "epoch": 1569628800,
-        "expiration_date": "28-sep-2019",
-        "state": "past"
+        "epoch": 1695859200,
+        "expiration_date": "28-sep-2023",
+        "state": "future"
     },
     "sailif.com": {
         "epoch": 1580601600,
