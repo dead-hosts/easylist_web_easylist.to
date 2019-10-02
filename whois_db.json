@@ -107457,7 +107457,7 @@
     "tuggbdzprgudk.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tukuterus.com": {
         "epoch": 1574121600,
@@ -107627,6 +107627,11 @@
     "tutiempo.net": {
         "epoch": 1662336000,
         "expiration_date": "05-sep-2022",
+        "state": "future"
+    },
+    "tutorial45.com": {
+        "epoch": 1580256000,
+        "expiration_date": "29-jan-2020",
         "state": "future"
     },
     "tutorial9.net": {
@@ -108285,9 +108290,9 @@
         "state": "future"
     },
     "uabdikmdwqdbr.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "uafgymcern.com": {
         "epoch": 1599955200,
@@ -108760,8 +108765,8 @@
         "state": "future"
     },
     "ugzpvflxa.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "uherdmjkbqic.com": {
@@ -108917,7 +108922,7 @@
     "ukksghzwxha.com": {
         "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "uklvebsp.com": {
         "epoch": 1597968000,
@@ -109019,6 +109024,11 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "ultimedia.com": {
+        "epoch": 1605312000,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "ultjaimlrjlfl.com": {
         "epoch": 1570147200,
         "expiration_date": "04-oct-2019",
@@ -109050,8 +109060,8 @@
         "state": "future"
     },
     "umbro.com": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "umebiggestern.club": {
@@ -109455,9 +109465,9 @@
         "state": "future"
     },
     "uoarbhxfyygn.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "uoccvsdh.com": {
         "epoch": 1573344000,
@@ -109505,9 +109515,9 @@
         "state": "future"
     },
     "uorhedemxtni.com": {
-        "epoch": 1562889600,
-        "expiration_date": "12-jul-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "uoyznzsggodnl.com": {
         "epoch": 1592697600,
@@ -109775,9 +109785,9 @@
         "state": "future"
     },
     "urfdvrrg.com": {
-        "epoch": 1569628800,
-        "expiration_date": "28-sep-2019",
-        "state": "past"
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
     },
     "urgames.com": {
         "epoch": 1748563200,
