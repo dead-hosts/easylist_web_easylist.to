@@ -7706,8 +7706,6 @@
         },
         "1569698836": {},
         "1569957232": {
-            "193.34.134.18": "INACTIVE",
-            "193.34.134.74": "INACTIVE",
             "194.71.107.25": "INACTIVE",
             "195.228.74.26": "INACTIVE",
             "19980ad7c3fa568e092.com": "INACTIVE",
@@ -17523,7 +17521,9 @@
             "174.142.194.177": "INACTIVE",
             "17a898b9.info": "INACTIVE",
             "17a898bb.info": "INACTIVE",
-            "180upload.nl": "INACTIVE"
+            "180upload.nl": "INACTIVE",
+            "193.34.134.18": "INACTIVE",
+            "193.34.134.74": "INACTIVE"
         }
     }
 }
