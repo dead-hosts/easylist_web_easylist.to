@@ -7671,9 +7671,6 @@
             "||amazonaws.com^*/funders-$domain=globalvoices.org": "INVALID",
             "||amazonaws.com^*/player_request_*/get_affiliate_": "INVALID"
         },
-        "1568488108": {},
-        "1568629401": {},
-        "1568833674": {},
         "1569093696": {
             "ablacrack.com": "INACTIVE",
             "ads.pheedo.com": "INACTIVE",
@@ -7704,7 +7701,6 @@
         "1569439108": {
             "pc.thevideo.me": "INACTIVE"
         },
-        "1569698836": {},
         "1569957232": {
             "a-k.tel": "INACTIVE",
             "a.centerwebicemeta.biz": "INACTIVE",
@@ -17546,6 +17542,35 @@
             "acceletor.net": "INACTIVE",
             "acceptableads.pw": "INACTIVE",
             "acceptableads.space": "INACTIVE"
+        },
+        "1571138161": {
+            "173.245.86.115": "INACTIVE"
+        },
+        "1571138182": {
+            "209.15.224.6": "INACTIVE"
+        },
+        "1571138184": {
+            "213.174.130.10": "INACTIVE"
+        },
+        "1571138185": {
+            "213.174.130.8": "INACTIVE",
+            "213.174.130.9": "INACTIVE"
+        },
+        "1571138186": {
+            "216.41.211.36": "INACTIVE"
+        },
+        "1571138379": {
+            "2ptxxjjzpy.com": "INACTIVE"
+        },
+        "1571138513": {
+            "2ssltome.ga": "INACTIVE",
+            "2taa9ib4ib.com": "INACTIVE"
+        },
+        "1571138518": {
+            "30daychange.co": "INACTIVE"
+        },
+        "1571138520": {
+            "320157981.world": "INACTIVE"
         }
     }
 }
