@@ -58085,13 +58085,18 @@
         "state": "future"
     },
     "juvqtttkhz.com": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
-        "state": "past"
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
     },
     "juxtapoz.com": {
         "epoch": 1651449600,
         "expiration_date": "02-may-2022",
+        "state": "future"
+    },
+    "jvcswgskvw.com": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "jvffngzl.com": {
@@ -59307,6 +59312,11 @@
     "kickass2.biz": {
         "epoch": 1577577600,
         "expiration_date": "29-dec-2019",
+        "state": "future"
+    },
+    "kickassanime.rs": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "kicknews.com": {
