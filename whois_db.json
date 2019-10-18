@@ -82950,9 +82950,9 @@
         "state": "future"
     },
     "pornevo.com": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
-        "state": "past"
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
     },
     "pornfanplace.com": {
         "epoch": 1575417600,
@@ -85052,6 +85052,11 @@
     "ptclassic.com": {
         "epoch": 1832889600,
         "expiration_date": "31-jan-2028",
+        "state": "future"
+    },
+    "ptefautu.net": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "ptinews.com": {
