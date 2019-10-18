@@ -9493,71 +9493,6 @@
             "acceptableads.pw": "INACTIVE",
             "acceptableads.space": "INACTIVE"
         },
-        "1571350090": {
-            "007-gateway.com": "INVALID",
-            "0073dd485d46d930dd9.com": "INVALID"
-        },
-        "1571350091": {
-            "0374adc8c6a6a56.com": "INVALID"
-        },
-        "1571350092": {
-            "04dn8g4f.space": "INVALID",
-            "04v70ab.com": "INVALID"
-        },
-        "1571350093": {
-            "05y2dxmr.top": "INVALID",
-            "073c0cec65916314a.com": "INVALID",
-            "07cdgbg.com": "INVALID"
-        },
-        "1571350094": {
-            "09b950280b055.com": "INVALID",
-            "0b6e714203b6797e8d4.com": "INVALID"
-        },
-        "1571350095": {
-            "0e6fc55ed3d4c2c2ba0.com": "INVALID",
-            "0f12ec21041307c4ddd.com": "INVALID",
-            "0f81i8zmcp.com": "INVALID",
-            "0ff42a1771d8.com": "INVALID"
-        },
-        "1571350096": {
-            "102320fef81194c7b0c7c6bbe64d845d.com": "INVALID",
-            "104.154.": "INVALID"
-        },
-        "1571350097": {
-            "104.197.": "INVALID",
-            "104.198.": "INVALID"
-        },
-        "1571350098": {
-            "109.201.134.110": "INACTIVE",
-            "109.201.146.142": "INACTIVE"
-        },
-        "1571350099": {
-            "10pipsaffiliates.com": "INVALID"
-        },
-        "1571350107": {
-            "110mb.com": "INVALID"
-        },
-        "1571350108": {
-            "11f976743800.com": "INVALID",
-            "121.78.129.103": "INACTIVE"
-        },
-        "1571350109": {
-            "130.211.": "INVALID",
-            "13895df59d98cc.com": "INVALID"
-        },
-        "1571350110": {
-            "142.91.": "INVALID",
-            "14257518e297edf3d2a1.com": "INVALID",
-            "1431f15e2fe8ba0f1f2.com": "INVALID",
-            "14b41d7ec7766122d.com": "INVALID"
-        },
-        "1571350111": {
-            "165a7c15380874ef3.com": "INVALID",
-            "17105392a65.com": "INVALID"
-        },
-        "1571350112": {
-            "173.225.186.54": "INACTIVE"
-        },
         "1571350114": {
             "173.245.86.115": "INACTIVE",
             "174.142.194.177": "INACTIVE"
@@ -28781,6 +28716,57 @@
             "uxvbvwelamufit.bid": "INACTIVE",
             "uxvtglgbeshxn.bid": "INACTIVE",
             "uxwruhzmztyfr.bid": "INACTIVE"
+        },
+        "1571436512": {
+            "007-gateway.com": "INACTIVE",
+            "0073dd485d46d930dd9.com": "INACTIVE"
+        },
+        "1571436519": {
+            "04dn8g4f.space": "INACTIVE",
+            "04v70ab.com": "INACTIVE"
+        },
+        "1571436520": {
+            "05y2dxmr.top": "INACTIVE"
+        },
+        "1571436521": {
+            "073c0cec65916314a.com": "INACTIVE",
+            "07cdgbg.com": "INACTIVE"
+        },
+        "1571436522": {
+            "0e6fc55ed3d4c2c2ba0.com": "INACTIVE",
+            "0f12ec21041307c4ddd.com": "INACTIVE"
+        },
+        "1571436523": {
+            "0f81i8zmcp.com": "INACTIVE",
+            "0ff42a1771d8.com": "INACTIVE",
+            "102320fef81194c7b0c7c6bbe64d845d.com": "INACTIVE",
+            "104.154.": "INVALID"
+        },
+        "1571436524": {
+            "104.197.": "INVALID",
+            "104.198.": "INVALID",
+            "109.201.134.110": "INACTIVE"
+        },
+        "1571436525": {
+            "109.201.146.142": "INACTIVE",
+            "10pipsaffiliates.com": "INACTIVE"
+        },
+        "1571436534": {
+            "11f976743800.com": "INACTIVE",
+            "121.78.129.103": "INACTIVE"
+        },
+        "1571436535": {
+            "130.211.": "INVALID",
+            "142.91.": "INVALID",
+            "14257518e297edf3d2a1.com": "INACTIVE"
+        },
+        "1571436536": {
+            "1431f15e2fe8ba0f1f2.com": "INACTIVE",
+            "165a7c15380874ef3.com": "INACTIVE"
+        },
+        "1571436537": {
+            "17105392a65.com": "INACTIVE",
+            "173.225.186.54": "INACTIVE"
         }
     }
 }
