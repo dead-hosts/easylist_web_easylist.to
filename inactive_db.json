@@ -7825,15 +7825,8 @@
             "tomorrowperegrinemortician.info": "INACTIVE",
             "torrent-anime.ru": "INACTIVE",
             "tracelive.ru": "INACTIVE",
-            "tracker*.bingohall.ag": "INVALID",
-            "tracker*.richcasino.com": "INVALID",
-            "tracker.lotto365.com": "INACTIVE",
             "tracker2kss.eu": "INACTIVE",
             "trackerodss.eu": "INACTIVE",
-            "tracking.crazylead.com": "INACTIVE",
-            "tracking.sportsbet.": "INVALID",
-            "trackingoffer.info": "INACTIVE",
-            "trackingoffer.net": "INACTIVE",
             "trackpromotion.net": "INACTIVE",
             "tradepopups.com": "INACTIVE",
             "trader.erosdlz.com": "INACTIVE",
@@ -28241,6 +28234,27 @@
         },
         "1571426951": {
             "stats.sitesuite.org": "INACTIVE"
+        },
+        "1571428089": {
+            "tracker*.bingohall.ag": "INVALID",
+            "tracker.lotto365.com": "INACTIVE"
+        },
+        "1571428091": {
+            "tracker*.richcasino.com": "INVALID"
+        },
+        "1571428095": {
+            "track.incognitovpn.com": "INACTIVE"
+        },
+        "1571428101": {
+            "tracking.crazylead.com": "INACTIVE"
+        },
+        "1571428102": {
+            "tracking.livingsocial.com": "INACTIVE"
+        },
+        "1571428103": {
+            "tracking.sportsbet.": "INVALID",
+            "trackingoffer.info": "INACTIVE",
+            "trackingoffer.net": "INACTIVE"
         }
     }
 }
