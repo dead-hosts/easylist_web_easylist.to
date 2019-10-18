@@ -12454,6 +12454,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "auqefmhsutnldv.com": {
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "aurhgaees.com": {
         "epoch": 1600560000,
         "expiration_date": "20-sep-2020",
@@ -12822,7 +12827,7 @@
     "awakinatters.co": {
         "epoch": 1570752000,
         "expiration_date": "11-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "awaps.net": {
         "epoch": 1579392000,
@@ -13310,8 +13315,8 @@
         "state": "future"
     },
     "b117f8da23446a91387efea0e428392a.pl": {
-        "epoch": 1570147200,
-        "expiration_date": "04-oct-2019",
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "b142d1440666173b0.com": {
