@@ -103935,8 +103935,8 @@
         "state": "future"
     },
     "theleafchronicle.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "theledger.com": {
@@ -104887,7 +104887,7 @@
     "thewebgemnetwork.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "theweedblog.com": {
         "epoch": 1587427200,
@@ -104927,7 +104927,7 @@
     "thewhir.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "thewhizmarketing.com": {
         "epoch": 1604534400,
@@ -105742,7 +105742,7 @@
     "titsintops.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tivioyfstcdlce.com": {
         "epoch": 1593216000,
