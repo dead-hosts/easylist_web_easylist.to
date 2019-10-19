@@ -14957,7 +14957,7 @@
     "bestcasinopartner.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bestchickshere.com": {
         "epoch": 1597363200,
@@ -15080,8 +15080,8 @@
         "state": "future"
     },
     "bestquickcontentfiles.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "bestresultmob1le.com": {
@@ -16015,9 +16015,9 @@
         "state": "future"
     },
     "bitads.net": {
-        "epoch": 1563408000,
-        "expiration_date": "18-jul-2019",
-        "state": "past"
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "bitadv.co": {
         "epoch": 1607644800,
@@ -16110,8 +16110,8 @@
         "state": "future"
     },
     "bitcoinreviewer.com": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "bitcoinwebhosting.net": {
@@ -16389,6 +16389,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "bkhzwuddpxjmyu.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "bkmag.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
@@ -16655,8 +16660,8 @@
         "state": "future"
     },
     "bloemfonteincourant.co.za": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "blog.co.uk": {
