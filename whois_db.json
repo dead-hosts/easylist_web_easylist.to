@@ -102330,8 +102330,8 @@
         "state": "future"
     },
     "teenvogue.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
+        "epoch": 1634601600,
+        "expiration_date": "19-oct-2021",
         "state": "future"
     },
     "teenwantme.com": {
@@ -102732,7 +102732,7 @@
     "textlinks.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "textmechanic.com": {
         "epoch": 1749254400,
