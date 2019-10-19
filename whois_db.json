@@ -61430,8 +61430,8 @@
         "state": "future"
     },
     "large-format.net": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "largsandmillportnews.com": {
@@ -61517,6 +61517,11 @@
     "latina.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
+        "state": "past"
+    },
+    "latinasheat.online": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "latinchat.com": {
