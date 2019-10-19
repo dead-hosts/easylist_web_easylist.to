@@ -54,3 +54,5 @@
 0.0.0.0 rcm*.amazon.
 0.0.0.0 rdi.*.criteo.com
 0.0.0.0 readthedocs.org*
+0.0.0.0 serve.*
+0.0.0.0 sextronix.*.cdnaccess.com
