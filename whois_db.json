@@ -39757,7 +39757,7 @@
     "foamybox.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "focalex.com": {
         "epoch": 1581724800,
@@ -41035,8 +41035,8 @@
         "state": "future"
     },
     "freetvall.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "freetvstream.in": {
@@ -41307,6 +41307,11 @@
     "frqmnrlqk.com": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "frsqgvwmzjnun.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "frtfwlvwuw.com": {
@@ -42905,9 +42910,9 @@
         "state": "future"
     },
     "gamesforthebrain.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "gamesforwork.com": {
         "epoch": 1573084800,
