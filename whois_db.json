@@ -16717,7 +16717,7 @@
     "bloggerex.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bloggersentral.com": {
         "epoch": 1586563200,
@@ -16932,6 +16932,11 @@
     "bmichkohfqtnvq.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "bmjpxyrpiyq.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "bmoshyiypks.com": {
@@ -17554,6 +17559,11 @@
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "boriouseruwer.info": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "borneobulletin.com.bn": {
         "epoch": 1598400000,
         "expiration_date": "26-aug-2020",
@@ -18097,7 +18107,7 @@
     "breezybath.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "breitbart.com": {
         "epoch": 1773446400,
@@ -18507,7 +18517,7 @@
     "bsrmcmvdoeyzib.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bstatic.com": {
         "epoch": 1619222400,
