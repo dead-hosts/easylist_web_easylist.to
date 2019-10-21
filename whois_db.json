@@ -28404,6 +28404,11 @@
         "expiration_date": "07-aug-2025",
         "state": "future"
     },
+    "datsgirl.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "daum.net": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -28700,8 +28705,8 @@
         "state": "future"
     },
     "deadspin.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "dealbreaker.com": {
@@ -29705,9 +29710,9 @@
         "state": "future"
     },
     "dhtqupvxujyfp.com": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
-        "state": "past"
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
     },
     "dhundora.com": {
         "epoch": 1676937600,
@@ -29825,9 +29830,9 @@
         "state": "future"
     },
     "digiad.co": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
-        "state": "past"
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
     },
     "digiday.com": {
         "epoch": 1615507200,
@@ -30437,6 +30442,11 @@
     "djjckavq.com": {
         "epoch": 1595894400,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "djjyyqgsnnfa.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "djluv.in": {
@@ -31622,6 +31632,11 @@
     "dqekudhbwprx.com": {
         "epoch": 1599782400,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "dqeqsiwc.com": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "dqfpksnabgagc.com": {
