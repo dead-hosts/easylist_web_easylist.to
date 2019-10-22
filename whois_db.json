@@ -102834,6 +102834,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "test1productions.com": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "testcountry.com": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
@@ -102895,9 +102900,9 @@
         "state": "future"
     },
     "textlinks.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "textmechanic.com": {
         "epoch": 1749254400,
@@ -104425,8 +104430,8 @@
         "state": "future"
     },
     "theonecdn.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
         "state": "future"
     },
     "theonion.com": {
@@ -105050,9 +105055,9 @@
         "state": "future"
     },
     "thewebgemnetwork.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "theweedblog.com": {
         "epoch": 1587427200,
@@ -105090,9 +105095,9 @@
         "state": "future"
     },
     "thewhir.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "thewhizmarketing.com": {
         "epoch": 1604534400,
@@ -105372,7 +105377,7 @@
     "thrixxx.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "thrnt.com": {
         "epoch": 1574812800,
@@ -105572,6 +105577,11 @@
     "tigerdroppings.com": {
         "epoch": 1597276800,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "tijoctqry.com": {
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "tijorari.com": {
@@ -105840,9 +105850,9 @@
         "state": "future"
     },
     "tinyweene.com": {
-        "epoch": 1564704000,
-        "expiration_date": "02-aug-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "tiphkuloov.com": {
         "epoch": 1573344000,
@@ -105905,9 +105915,9 @@
         "state": "future"
     },
     "titsintops.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "tivioyfstcdlce.com": {
         "epoch": 1593216000,
