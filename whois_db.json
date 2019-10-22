@@ -107570,8 +107570,8 @@
         "state": "future"
     },
     "trafficrevenue.net": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "trafficsan.com": {
@@ -108152,7 +108152,7 @@
     "trmit.com": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "trmnsite.com": {
         "epoch": 1571961600,
@@ -108709,6 +108709,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "turbocap.net": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "turbofileindir.com": {
         "epoch": 1602374400,
         "expiration_date": "11-oct-2020",
@@ -109140,8 +109145,8 @@
         "state": "future"
     },
     "twincitiesbusinessradio.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
         "state": "future"
     },
     "twinpinenetwork.com": {
@@ -109784,6 +109789,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "ueopjincquazoo.com": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "ueptzgugtxis.com": {
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
@@ -110135,8 +110145,8 @@
         "state": "future"
     },
     "uktv.co.uk": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "ukulelead.com": {
@@ -110510,8 +110520,8 @@
         "state": "future"
     },
     "universityherald.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "universityofinternetscience.com": {
@@ -110734,6 +110744,11 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "upikeoshfhw.com": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "upliftsearch.com": {
         "epoch": 1598313600,
         "expiration_date": "25-aug-2020",
@@ -110840,8 +110855,8 @@
         "state": "future"
     },
     "uptimecdn.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
         "state": "future"
     },
     "uptobox.com": {
@@ -111147,7 +111162,7 @@
     "usenet-crawler.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "usenetbucket.com": {
         "epoch": 1573084800,
