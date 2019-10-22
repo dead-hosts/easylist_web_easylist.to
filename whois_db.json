@@ -18105,9 +18105,9 @@
         "state": "past"
     },
     "breezybath.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
     },
     "breitbart.com": {
         "epoch": 1773446400,
@@ -18515,9 +18515,9 @@
         "state": "future"
     },
     "bsrmcmvdoeyzib.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
     },
     "bstatic.com": {
         "epoch": 1619222400,
@@ -19045,8 +19045,8 @@
         "state": "future"
     },
     "businesslive.co.za": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "businessnewswatch.ca": {
