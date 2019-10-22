@@ -65119,6 +65119,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "lwmwrsfzm.com": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "lwtduavwbep.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -65325,8 +65330,8 @@
         "state": "future"
     },
     "lyyenjcocog.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "lzblbcsemihk.com": {
@@ -65722,6 +65727,11 @@
     "magme.com": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "magnet2torrent.me": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
         "state": "future"
     },
     "magnetdl.com": {
