@@ -76609,6 +76609,11 @@
         "expiration_date": "03-jul-2019",
         "state": "past"
     },
+    "nzcjjhkd.com": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "nzdating.com": {
         "epoch": 1575417600,
         "expiration_date": "04-dec-2019",
@@ -76632,6 +76637,11 @@
     "nzkxmphfbqrfzs.com": {
         "epoch": 1600041600,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "nzlydrgumirn.com": {
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "nznewsuk.co.uk": {
@@ -78000,8 +78010,8 @@
         "state": "future"
     },
     "onlineradiobox.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1634860800,
+        "expiration_date": "22-oct-2021",
         "state": "future"
     },
     "onlineshopping.co.za": {
@@ -78112,7 +78122,7 @@
     "onvid.club": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "onwsys.net": {
         "epoch": 1586476800,
@@ -78280,8 +78290,8 @@
         "state": "future"
     },
     "openjavascript.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "openload.co": {
@@ -78505,8 +78515,8 @@
         "state": "future"
     },
     "orangeleader.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "orarala.com": {
@@ -79867,7 +79877,7 @@
     "patecrafts.com": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "patheos.com": {
         "epoch": 1600214400,
