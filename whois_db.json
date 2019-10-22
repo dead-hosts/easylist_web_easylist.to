@@ -116389,6 +116389,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "websiteseochecker.com": {
+        "epoch": 1610928000,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
     "websleuths.com": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
@@ -118042,7 +118047,7 @@
     "wizzed.com": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "wjactv.com": {
         "epoch": 1573603200,
@@ -118160,9 +118165,9 @@
         "state": "future"
     },
     "wkwakmsttsehi.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "wkyc.com": {
         "epoch": 1584230400,
