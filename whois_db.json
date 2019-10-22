@@ -109894,6 +109894,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "ufvzwshjkhocjn.com": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "ugahbedypf.com": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
@@ -110297,6 +110302,11 @@
     "umvgcqaxmie.com": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "umxxuqpbhylyy.com": {
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "umybobusjo.com": {
@@ -111175,9 +111185,9 @@
         "state": "future"
     },
     "usenet-crawler.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
     },
     "usenetbucket.com": {
         "epoch": 1573084800,
