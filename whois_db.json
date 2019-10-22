@@ -13805,8 +13805,8 @@
         "state": "future"
     },
     "baltimoresun.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1634860800,
+        "expiration_date": "22-oct-2021",
         "state": "future"
     },
     "bam-bam-slam.com": {
@@ -16715,9 +16715,9 @@
         "state": "future"
     },
     "bloggerex.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
     },
     "bloggersentral.com": {
         "epoch": 1586563200,
@@ -17197,7 +17197,7 @@
     "bodelen.com": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bodybuilding.com": {
         "epoch": 1708041600,
