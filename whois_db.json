@@ -121925,8 +121925,8 @@
         "state": "future"
     },
     "yasni.co.uk": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1634860800,
+        "expiration_date": "22-oct-2021",
         "state": "future"
     },
     "yasni.com": {
@@ -123037,7 +123037,7 @@
     "youfck.com": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "yougamers.com": {
         "epoch": 1576022400,
@@ -124649,6 +124649,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "zhqigwbchfnqn.com": {
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "zhrmtsxcdkjj.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -124667,7 +124672,7 @@
     "ziccardia.com": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ziddu.com": {
         "epoch": 1589760000,
@@ -125192,7 +125197,7 @@
     "zonelyrics.net": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "zoneradio.co.za": {
         "epoch": 1580601600,
