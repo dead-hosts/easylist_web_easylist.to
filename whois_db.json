@@ -42139,6 +42139,11 @@
         "expiration_date": "04-jul-2019",
         "state": "past"
     },
+    "fvflgigyryacgp.com": {
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "fvipinzac.com": {
         "epoch": 1562457600,
         "expiration_date": "07-jul-2019",
@@ -42262,7 +42267,7 @@
     "fwzqogrlgsdl.com": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "fxafrica.tv": {
         "epoch": 1573948800,
@@ -42735,8 +42740,8 @@
         "state": "future"
     },
     "galleries-pornstar.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "gallerysense.se": {
@@ -42780,9 +42785,9 @@
         "state": "future"
     },
     "galwayindependent.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "gambling-affiliation.com": {
         "epoch": 1638057600,
@@ -42835,8 +42840,8 @@
         "state": "future"
     },
     "gamecetera.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "gamechix.com": {
@@ -43537,7 +43542,7 @@
     "gca.sh": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gclcehwfvl.com": {
         "epoch": 1599436800,
@@ -44100,8 +44105,8 @@
         "state": "future"
     },
     "getsecuredfiles.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "getsurl.com": {
@@ -44997,6 +45002,11 @@
     "gloucestershireecho.co.uk": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "gloucestershirelive.co.uk": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "gloucestertimes.com": {
