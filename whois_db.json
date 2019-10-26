@@ -93009,6 +93009,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "sadsans.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "sadsims.com": {
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
@@ -93739,6 +93744,11 @@
         "expiration_date": "19-aug-2021",
         "state": "future"
     },
+    "scenbe.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "scenicreflections.com": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
@@ -94325,8 +94335,8 @@
         "state": "future"
     },
     "secretbehindporn.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "secretmaryo.org": {
@@ -94370,8 +94380,8 @@
         "state": "future"
     },
     "securesmrt-dt.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "securesoft.info": {
@@ -94420,9 +94430,9 @@
         "state": "future"
     },
     "secursors.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "sedatorsinted.info": {
         "epoch": 1598140800,
@@ -94755,8 +94765,8 @@
         "state": "future"
     },
     "serialbay.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "serials.ws": {
@@ -94980,8 +94990,8 @@
         "state": "future"
     },
     "sex-techniques-and-positions.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "sex.com": {
@@ -95150,9 +95160,9 @@
         "state": "future"
     },
     "sexsearchcom.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "sexseeimage.com": {
         "epoch": 1588550400,
@@ -95650,8 +95660,8 @@
         "state": "future"
     },
     "shareitpp.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "sharelinks.xyz": {
@@ -96172,7 +96182,7 @@
     "showme.co.za": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "showsport-tv.com": {
         "epoch": 1595635200,
