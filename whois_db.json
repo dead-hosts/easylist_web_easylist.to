@@ -50864,6 +50864,11 @@
         "expiration_date": "30-oct-2019",
         "state": "future"
     },
+    "hsqujerwg.com": {
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "hsqvofrzwluvns.com": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
@@ -51165,8 +51170,8 @@
         "state": "future"
     },
     "hungangels.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "hunktnva.com": {
@@ -52297,7 +52302,7 @@
     "ifgnsrtjcz.com": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ifhxmaazmylfx.com": {
         "epoch": 1603065600,
@@ -53435,9 +53440,9 @@
         "state": "future"
     },
     "inadequal.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "inaruto.net": {
         "epoch": 1589500800,
