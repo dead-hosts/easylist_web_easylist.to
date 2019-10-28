@@ -7090,8 +7090,8 @@
         "state": "future"
     },
     "adtear.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "adtecc.com": {
@@ -7525,9 +7525,9 @@
         "state": "future"
     },
     "adversaldisplay.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "adversalservers.com": {
         "epoch": 1600473600,
@@ -7744,6 +7744,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "advmedia.io": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "advmedialtd.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
@@ -7905,8 +7910,8 @@
         "state": "future"
     },
     "adxprtz.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "adxscope.com": {
@@ -8072,7 +8077,7 @@
     "aeesy.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "aefvxtue.com": {
         "epoch": 1588291200,
