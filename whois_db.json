@@ -22244,6 +22244,11 @@
         "expiration_date": "07-sep-2023",
         "state": "future"
     },
+    "chersoat.com": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
     "cherytso.com": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
@@ -23715,9 +23720,9 @@
         "state": "future"
     },
     "clipdealer.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "cliphunter.com": {
         "epoch": 1596672000,
@@ -23960,8 +23965,8 @@
         "state": "future"
     },
     "cltv.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "clubhyper.com": {
@@ -24275,8 +24280,8 @@
         "state": "future"
     },
     "cocomment.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "codeartlove.com": {
