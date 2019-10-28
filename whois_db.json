@@ -37944,6 +37944,11 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "fbxnqsviqujxv.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "fc2.com": {
         "epoch": 1842393600,
         "expiration_date": "20-may-2028",
@@ -38492,6 +38497,11 @@
     "fhtlyoqzyjjof.com": {
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "fhtoxxda.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "fiaehdnnx.com": {
@@ -39384,6 +39394,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "fkloazpi.com": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "fkrgfktdvta.com": {
         "epoch": 1582070400,
         "expiration_date": "19-feb-2020",
@@ -40020,9 +40035,9 @@
         "state": "future"
     },
     "fofjazpwccc.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "fofxjgrn.com": {
         "epoch": 1602720000,
@@ -40792,7 +40807,7 @@
     "fqldrulyjfnt.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "fqpfvqpptch.com": {
         "epoch": 1586476800,
