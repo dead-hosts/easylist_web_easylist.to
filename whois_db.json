@@ -35224,6 +35224,11 @@
         "expiration_date": "31-aug-2023",
         "state": "future"
     },
+    "eopazyxdkppnz.com": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "eoqsbpvdxllxo.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
@@ -36640,8 +36645,8 @@
         "state": "future"
     },
     "exosrv.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "exoticads.com": {
@@ -36890,8 +36895,8 @@
         "state": "future"
     },
     "extremetube.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "exwp.org": {
