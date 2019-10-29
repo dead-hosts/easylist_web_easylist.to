@@ -115364,6 +115364,11 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "vzbbzzasjtn.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "vzhlsmmboaqxlv.com": {
         "epoch": 1599696000,
         "expiration_date": "10-sep-2020",
@@ -115567,7 +115572,7 @@
     "wakingtimes.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "walesonline.co.uk": {
         "epoch": 1590364800,
@@ -116050,8 +116055,8 @@
         "state": "future"
     },
     "watchreport.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "watchsomuch.info": {
@@ -116352,7 +116357,7 @@
     "wcareviews.com": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "wcbm.com": {
         "epoch": 1858204800,
@@ -116930,8 +116935,8 @@
         "state": "future"
     },
     "webmusic.live": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "webnewswire.com": {
@@ -117597,7 +117602,7 @@
     "wgaycnmfz.com": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "wgbh.org": {
         "epoch": 1830470400,
@@ -117620,8 +117625,8 @@
         "state": "future"
     },
     "wgno.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "wgnradio.com": {
@@ -117635,13 +117640,18 @@
         "state": "future"
     },
     "wgntv.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "wgpartner.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "wgqirxevoh.com": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "wgr550.com": {
@@ -118100,8 +118110,8 @@
         "state": "future"
     },
     "wickedlocal.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1635465600,
+        "expiration_date": "29-oct-2021",
         "state": "future"
     },
     "wicktrown.co": {
@@ -118767,7 +118777,7 @@
     "wjvwxcnavjodj.com": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "wjwontqlqchq.com": {
         "epoch": 1587427200,
@@ -118785,8 +118795,8 @@
         "state": "future"
     },
     "wklh.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "wkloqctyiyow.com": {
@@ -118972,6 +118982,11 @@
     "wnd.com": {
         "epoch": 1663804800,
         "expiration_date": "22-sep-2022",
+        "state": "future"
+    },
+    "wndwhzjmfshthv.com": {
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "wned.org": {
