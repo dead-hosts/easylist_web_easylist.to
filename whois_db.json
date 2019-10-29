@@ -97770,9 +97770,9 @@
         "state": "future"
     },
     "smpbzsjpk.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "smpgfx.com": {
         "epoch": 1617494400,
@@ -100105,8 +100105,8 @@
         "state": "future"
     },
     "staticworld.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "staticxz.com": {
@@ -100154,6 +100154,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "stazumik.net": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "stcatharinesstandard.ca": {
         "epoch": 1613088000,
         "expiration_date": "12-feb-2021",
@@ -100192,7 +100197,7 @@
     "steamtraffic.com": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "steelers.com": {
         "epoch": 1601337600,
@@ -100340,8 +100345,8 @@
         "state": "future"
     },
     "stockingstv.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "stockmarketwire.com": {
