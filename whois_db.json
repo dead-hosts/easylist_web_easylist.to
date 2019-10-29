@@ -121944,6 +121944,11 @@
         "expiration_date": "10-oct-2022",
         "state": "future"
     },
+    "xtremeserve.xyz": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "xtremesystems.org": {
         "epoch": 1574294400,
         "expiration_date": "21-nov-2019",
@@ -122535,9 +122540,9 @@
         "state": "future"
     },
     "yaikleyabl.com": {
-        "epoch": 1564704000,
-        "expiration_date": "02-aug-2019",
-        "state": "past"
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     },
     "yakima-herald.com": {
         "epoch": 1595376000,
@@ -123484,6 +123489,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "ynebbsldruvfb.com": {
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "ynet.co.il": {
         "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
@@ -123495,9 +123505,9 @@
         "state": "future"
     },
     "ynhetcoypgnl.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "ynhhgr2zen.com": {
         "epoch": 1577491200,
@@ -124034,6 +124044,11 @@
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
+    "ypmwkketrdbwn.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "ypnespepnln.com": {
         "epoch": 1574294400,
         "expiration_date": "21-nov-2019",
@@ -124305,8 +124320,8 @@
         "state": "future"
     },
     "yuku.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "yumenetworks.com": {
@@ -125000,8 +125015,8 @@
         "state": "future"
     },
     "zcwjasfrog.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "zcyclbncgubccl.com": {
