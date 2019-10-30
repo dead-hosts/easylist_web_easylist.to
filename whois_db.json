@@ -85300,8 +85300,8 @@
         "state": "future"
     },
     "projectagora.tech": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "projectagoratech.com": {
@@ -87004,6 +87004,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "qbovhtdejygua.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "qbpamfcntbprjw.com": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
@@ -87095,8 +87100,8 @@
         "state": "future"
     },
     "qduijsyonrmfke.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "qdykmiarpuph.com": {
@@ -87180,9 +87185,9 @@
         "state": "future"
     },
     "qfcsljgckvpz.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "qfedsccxccfzut.com": {
         "epoch": 1576108800,
@@ -87527,7 +87532,7 @@
     "qlinks.pro": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "qlmgmgvmiepsb.com": {
         "epoch": 1584921600,
