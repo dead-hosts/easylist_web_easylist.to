@@ -24274,6 +24274,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "coazuthu.net": {
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "cockcheese.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
@@ -24804,6 +24809,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "cominghamer.info": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "comingsoon.net": {
         "epoch": 1630022400,
         "expiration_date": "27-aug-2021",
@@ -25302,7 +25312,7 @@
     "contentclick.co.uk": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "contentdigital.info": {
         "epoch": 1598054400,
@@ -25447,7 +25457,7 @@
     "coolgames.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coolguruji.com": {
         "epoch": 1572652800,
@@ -26144,6 +26154,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "cpzxmrne.com": {
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "cq.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
@@ -26560,8 +26575,8 @@
         "state": "future"
     },
     "crm4d.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "crmbuyer.com": {
