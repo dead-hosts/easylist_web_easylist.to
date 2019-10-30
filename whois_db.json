@@ -87655,9 +87655,9 @@
         "state": "past"
     },
     "qoiagrfbmquek.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     },
     "qolrlwwirf.com": {
         "epoch": 1602547200,
@@ -88322,6 +88322,11 @@
     "qwittqgogiip.com": {
         "epoch": 1601510400,
         "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "qwkiafssml.com": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "qwlckbrwxizg.com": {
@@ -89285,9 +89290,9 @@
         "state": "future"
     },
     "rbfgsoanxw.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "rbhwkfnxhqnri.com": {
         "epoch": 1564099200,
@@ -89432,6 +89437,11 @@
     "rdooybwcuyg.com": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "rdoudrenv.com": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "rdpqiqlirf.com": {
@@ -90387,6 +90397,11 @@
     "reelzchannel.com": {
         "epoch": 1616889600,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "reevaipi.com": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "refatxhcuu.com": {
