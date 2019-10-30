@@ -44735,8 +44735,8 @@
         "state": "future"
     },
     "giveawayoftheday.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "giveaways.club": {
@@ -45342,7 +45342,7 @@
     "gnkpuprxa.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gnomio.com": {
         "epoch": 1604361600,
@@ -47787,7 +47787,7 @@
     "haqbllmvpbqc.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "hardbritlads.com": {
         "epoch": 1592611200,
