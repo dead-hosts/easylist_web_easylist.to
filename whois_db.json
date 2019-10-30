@@ -940,8 +940,8 @@
         "state": "future"
     },
     "247realmedia.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1635552000,
+        "expiration_date": "30-oct-2021",
         "state": "future"
     },
     "247teencash.net": {
@@ -2549,6 +2549,11 @@
         "expiration_date": "07-jul-2019",
         "state": "past"
     },
+    "6zw2rcfd.com": {
+        "epoch": 1606521600,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "6zy9yqe1ew.com": {
         "epoch": 1591401600,
         "expiration_date": "06-jun-2020",
@@ -2827,7 +2832,7 @@
     "7billionworld.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "7cbb237b705ae9361.com": {
         "epoch": 1563580800,
