@@ -76767,7 +76767,7 @@
     "nuxdkxknj.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "nuxsmhexm.com": {
         "epoch": 1578268800,
@@ -78727,6 +78727,11 @@
     "ookiqhfioldxwj.com": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "oonnmaxhz.com": {
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "oopt.fr": {
