@@ -4315,8 +4315,8 @@
         "state": "future"
     },
     "acduswfvyjylzq.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "aceshowbiz.com": {
@@ -4512,7 +4512,7 @@
     "ad-goi.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ad-indicator.com": {
         "epoch": 1588118400,
@@ -5525,8 +5525,8 @@
         "state": "future"
     },
     "adinc.kr": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1635552000,
+        "expiration_date": "30-oct-2021",
         "state": "future"
     },
     "adinch.com": {
