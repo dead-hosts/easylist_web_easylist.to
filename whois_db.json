@@ -120554,6 +120554,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "wyvyikcnalvil.com": {
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "wywrettqmke.com": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
@@ -121307,7 +121312,7 @@
     "xgwslgpad.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xgznkebnjme.com": {
         "epoch": 1599955200,
@@ -121360,9 +121365,9 @@
         "state": "future"
     },
     "xhyjlfbqnbr.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "xiaopan.co": {
         "epoch": 1589414400,
@@ -122132,7 +122137,7 @@
     "xtracker.pro": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xtragfx.com": {
         "epoch": 1592352000,
