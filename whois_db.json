@@ -9280,8 +9280,8 @@
         "state": "future"
     },
     "akiba-online.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1635638400,
+        "expiration_date": "31-oct-2021",
         "state": "future"
     },
     "akihabaranews.com": {
@@ -10135,9 +10135,9 @@
         "state": "future"
     },
     "amauzaqp.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "amazines.com": {
         "epoch": 1603756800,
@@ -10197,7 +10197,7 @@
     "ambra.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ambulance-photos.com": {
         "epoch": 1572739200,
