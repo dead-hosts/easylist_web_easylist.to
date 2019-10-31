@@ -87954,6 +87954,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "qscxylds.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "qsdqpvkuglq.com": {
         "epoch": 1561680000,
         "expiration_date": "28-jun-2019",
@@ -88170,9 +88175,9 @@
         "state": "future"
     },
     "queronamoro.com": {
-        "epoch": 1565740800,
-        "expiration_date": "14-aug-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "querverweis.net": {
         "epoch": 1644796800,
@@ -88377,7 +88382,7 @@
     "qvivzreleolawc.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "qvrpqwrp.com": {
         "epoch": 1603670400,
@@ -88577,6 +88582,11 @@
     "qzaahtgpnb.com": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "qzbnnpotm.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "qzbnokxxvvpwf.com": {
@@ -91825,9 +91835,9 @@
         "state": "future"
     },
     "rnagwksouk.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "rnews.co.za": {
         "epoch": 1589500800,
