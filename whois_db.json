@@ -64902,7 +64902,7 @@
     "lottoelite.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "loudloss.com": {
         "epoch": 1584748800,
@@ -65192,6 +65192,11 @@
     "lseddehpo.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "lsfjfoddezc.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "lshstream.com": {
