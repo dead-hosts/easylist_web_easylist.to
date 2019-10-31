@@ -7165,8 +7165,8 @@
         "state": "future"
     },
     "adtomafusion.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "adtonement.com": {
@@ -7517,7 +7517,7 @@
     "adverkeyz.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adverpub.com": {
         "epoch": 1578096000,
@@ -8700,9 +8700,9 @@
         "state": "future"
     },
     "afrivibes.net": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "afro-ninja.com": {
         "epoch": 1583884800,
