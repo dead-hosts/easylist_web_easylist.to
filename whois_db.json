@@ -72062,7 +72062,7 @@
     "mvxhbajzn.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mvyctyji.com": {
         "epoch": 1582502400,
@@ -72087,6 +72087,11 @@
     "mwggummxeygq.com": {
         "epoch": 1574380800,
         "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "mwhjamwra.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "mwhtoxix.com": {
@@ -75390,8 +75395,8 @@
         "state": "future"
     },
     "niggasbelike.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "nighter.club": {
