@@ -56307,7 +56307,7 @@
     "iyqchvtlklbxm.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "izavihllfvej.com": {
         "epoch": 1600992000,
@@ -56970,9 +56970,9 @@
         "state": "future"
     },
     "jeeh7eet.com": {
-        "epoch": 1563753600,
-        "expiration_date": "22-jul-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "jeepforum.com": {
         "epoch": 1596585600,
@@ -58050,8 +58050,8 @@
         "state": "future"
     },
     "journalpioneer.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "journalrecord.com": {
@@ -58737,6 +58737,11 @@
     "jwofadcwpocm.com": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "jwplayer.space": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "jwuvfovjzwe.com": {
@@ -59932,7 +59937,7 @@
     "kidzworld.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "kieecarfftwf.com": {
         "epoch": 1586736000,
