@@ -4510,9 +4510,9 @@
         "state": "future"
     },
     "ad-goi.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "ad-indicator.com": {
         "epoch": 1588118400,
@@ -6247,7 +6247,7 @@
     "adpdx.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adperfect.com": {
         "epoch": 1595030400,
