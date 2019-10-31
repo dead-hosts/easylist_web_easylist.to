@@ -60170,8 +60170,8 @@
         "state": "future"
     },
     "kitnmedia.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "kitsapsun.com": {
@@ -61564,6 +61564,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "kwzmlceez.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "kxbpvlptnkrqvt.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
@@ -61654,6 +61659,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "kyohmaosn.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "kypost.com": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
@@ -61663,6 +61673,11 @@
         "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
         "state": "past"
+    },
+    "kyugaiei.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "kyvmeizdyb.com": {
         "epoch": 1561852800,
@@ -62937,7 +62952,7 @@
     "lfgcomic.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "lfjmmgorkjoaw.com": {
         "epoch": 1586908800,
@@ -63557,7 +63572,7 @@
     "linksafe.info": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "linksave.in": {
         "epoch": 1582329600,
