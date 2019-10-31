@@ -27617,7 +27617,7 @@
     "czzzwuvvc.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "d-addicts.com": {
         "epoch": 1603756800,
@@ -28657,6 +28657,11 @@
     "db52cc91beabf7e8.com": {
         "epoch": 1602633600,
         "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "db8a41d81b8dfe41de2.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "dbbp1.com": {
@@ -30917,6 +30922,11 @@
     "dmu20vut.com": {
         "epoch": 1602288000,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "dmypkmieippdq.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "dn.se": {
