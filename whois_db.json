@@ -101370,8 +101370,8 @@
         "state": "future"
     },
     "supermonitoring.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "superpages.com": {
@@ -101780,9 +101780,9 @@
         "state": "future"
     },
     "swezbddhwcz.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "swfchan.com": {
         "epoch": 1586822400,
@@ -101867,7 +101867,7 @@
     "swpopynngk.com": {
         "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "swtimes.com": {
         "epoch": 1615507200,
@@ -101912,6 +101912,11 @@
     "sxmmgiuilt.com": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "sxqtqyjlumbro.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "sxwcfnai.com": {
