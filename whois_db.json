@@ -96875,8 +96875,8 @@
         "state": "future"
     },
     "silentera.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "siliconera.com": {
@@ -97402,7 +97402,7 @@
     "skyearnmoney.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "skyligh.co": {
         "epoch": 1594598400,
@@ -97695,9 +97695,9 @@
         "state": "future"
     },
     "smallbusinessbrief.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "smallbusinesscomputing.com": {
         "epoch": 1593561600,
@@ -98365,9 +98365,9 @@
         "state": "future"
     },
     "socialspark.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "society6.com": {
         "epoch": 1579392000,
@@ -99490,8 +99490,8 @@
         "state": "future"
     },
     "sportspickle.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "sportspromedia.com": {
