@@ -109022,7 +109022,7 @@
     "trkpointcloud.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "trkrdel.com": {
         "epoch": 1601596800,
@@ -110057,7 +110057,7 @@
     "twinsporn.net": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "twirlit.com": {
         "epoch": 1601424000,
@@ -111410,8 +111410,8 @@
         "state": "future"
     },
     "unitethecows.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "universalmusic.com": {
@@ -111607,6 +111607,11 @@
     "uorhedemxtni.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "uowpygtwql.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "uoyznzsggodnl.com": {
