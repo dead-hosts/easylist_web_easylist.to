@@ -33475,8 +33475,8 @@
         "state": "future"
     },
     "easybytez.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "easydiy.co.za": {
@@ -34957,6 +34957,11 @@
     "emillionforum.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "emkarto.fun": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "emlifok.info": {
