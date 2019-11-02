@@ -110207,12 +110207,12 @@
     "twinplan.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "twinsporn.net": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "twirlit.com": {
         "epoch": 1601424000,
@@ -112875,8 +112875,8 @@
         "state": "future"
     },
     "vaildaily.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "vajiyqbb.com": {
@@ -113690,9 +113690,9 @@
         "state": "future"
     },
     "vhbyakilp.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "vhdvllhgyrjy.com": {
         "epoch": 1601683200,
