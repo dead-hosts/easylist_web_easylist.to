@@ -95355,9 +95355,9 @@
         "state": "future"
     },
     "sepyqhipq.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "sepyw.top": {
         "epoch": 1592179200,
@@ -97242,7 +97242,7 @@
     "sitcom24.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "site-rips.org": {
         "epoch": 1601942400,
