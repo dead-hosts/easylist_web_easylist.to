@@ -82069,6 +82069,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "pijlvpsqf.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "pilotonline.com": {
         "epoch": 1658620800,
         "expiration_date": "24-jul-2022",
@@ -83845,8 +83850,8 @@
         "state": "future"
     },
     "porn555.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "porn88.net": {
@@ -84560,9 +84565,9 @@
         "state": "future"
     },
     "povqrvsoljy.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "povvideo.net": {
         "epoch": 1583971200,
