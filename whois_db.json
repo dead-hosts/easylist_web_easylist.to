@@ -119215,9 +119215,9 @@
         "state": "future"
     },
     "wjmckfsdcxpj.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "wjodtshzu.com": {
         "epoch": 1601596800,
@@ -120040,9 +120040,9 @@
         "state": "future"
     },
     "wpncdn.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "wpnjs.com": {
         "epoch": 1589500800,
@@ -120175,8 +120175,8 @@
         "state": "future"
     },
     "wral.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "wraltechwire.com": {
