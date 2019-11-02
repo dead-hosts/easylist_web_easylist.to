@@ -4400,8 +4400,8 @@
         "state": "future"
     },
     "acrididae.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "acronym.com": {
@@ -6245,9 +6245,9 @@
         "state": "future"
     },
     "adpdx.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "adperfect.com": {
         "epoch": 1595030400,
@@ -6590,8 +6590,8 @@
         "state": "future"
     },
     "adsbreak.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "adsbrook.com": {
