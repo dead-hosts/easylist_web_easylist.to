@@ -121474,6 +121474,11 @@
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
+    "xevhszzauj.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "xfanz.com": {
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
@@ -121495,9 +121500,9 @@
         "state": "future"
     },
     "xfmjleuaqgnuvv.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "xfqifppx.com": {
         "epoch": 1597017600,
@@ -121725,9 +121730,9 @@
         "state": "future"
     },
     "xirlmiyihvpi.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "xituxufpy.com": {
         "epoch": 1593993600,
@@ -123829,6 +123834,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "ylcgewdtetazek.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "yldbt.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
@@ -123987,7 +123997,7 @@
     "ynet.co.il": {
         "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ynetnews.com": {
         "epoch": 1630022400,
@@ -124525,8 +124535,8 @@
         "state": "future"
     },
     "yplf.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "ypmadserver.com": {
@@ -124609,6 +124619,11 @@
         "expiration_date": "21-may-2020",
         "state": "future"
     },
+    "yrfeurfeacuul.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "yrkozodemantj.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
@@ -124628,6 +124643,11 @@
         "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
         "state": "past"
+    },
+    "yrrvmnimwztv.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "yrsjqzfku.com": {
         "epoch": 1599091200,
