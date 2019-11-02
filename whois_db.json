@@ -97540,9 +97540,9 @@
         "state": "future"
     },
     "skyearnmoney.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "skyligh.co": {
         "epoch": 1594598400,
@@ -98234,6 +98234,11 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "snambepupkjggz.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "snap.com": {
         "epoch": 1676937600,
         "expiration_date": "21-feb-2023",
@@ -98767,7 +98772,7 @@
     "solvater.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "sombes.com": {
         "epoch": 1583539200,
@@ -98842,6 +98847,11 @@
     "songspk.mobi": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "songspk.online": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "sonicnation.ca": {
@@ -99577,6 +99587,11 @@
     "sportpesanews.com": {
         "epoch": 1617753600,
         "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
+    "sportradarserving.com": {
+        "epoch": 1621036800,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "sportschatplace.com": {
@@ -100495,8 +100510,8 @@
         "state": "future"
     },
     "staticxz.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "statigr.am": {
