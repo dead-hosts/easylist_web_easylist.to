@@ -85869,6 +85869,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "pryovpwyimwh.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "przoom.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
@@ -88054,6 +88059,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "qrxkugriqkt.com": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "qryuumwmiupy.com": {
         "epoch": 1563753600,
         "expiration_date": "22-jul-2019",
@@ -88207,6 +88217,11 @@
     "qualoo.net": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "quanta-wave.com": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "quantomcoding.com": {
@@ -88490,9 +88505,9 @@
         "state": "future"
     },
     "qvivzreleolawc.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "qvrpqwrp.com": {
         "epoch": 1603670400,
@@ -88502,6 +88517,11 @@
     "qvsshkcr.com": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "qvvxyuuyinxp.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "qwant.com": {
@@ -88852,7 +88872,7 @@
     "racingjunk.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "racinguk.com": {
         "epoch": 1595203200,
