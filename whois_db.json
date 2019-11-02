@@ -41722,7 +41722,7 @@
     "fruitkings.com": {
         "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "frumforum.com": {
         "epoch": 1668988800,
@@ -43450,8 +43450,8 @@
         "state": "future"
     },
     "gammasites.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "gamovideo.com": {
@@ -44450,8 +44450,8 @@
         "state": "future"
     },
     "gfrevenge.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "gfrlmvxfsvl.com": {
