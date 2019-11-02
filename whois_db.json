@@ -15560,9 +15560,9 @@
         "state": "past"
     },
     "bhfuoayzqqv.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "bhg.com": {
         "epoch": 1586390400,
@@ -15665,8 +15665,8 @@
         "state": "future"
     },
     "bidtheatre.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "bidverdrd.com": {
@@ -15867,6 +15867,11 @@
     "bikuetrh.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "bileth.pw": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "biliqpvehf.com": {
