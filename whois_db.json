@@ -58259,6 +58259,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "jqrbypfxzvkep.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "jqrnfkttwfxbcu.com": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
@@ -59660,8 +59665,8 @@
         "state": "future"
     },
     "keprtv.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "kerg.net": {
@@ -59995,9 +60000,9 @@
         "state": "future"
     },
     "kidzworld.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "kieecarfftwf.com": {
         "epoch": 1586736000,
@@ -60790,8 +60795,8 @@
         "state": "future"
     },
     "koncbabae.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "kongregate.com": {
@@ -60915,8 +60920,8 @@
         "state": "future"
     },
     "kozloiczght.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "kozmetikcerrahi.com": {
@@ -61135,8 +61140,8 @@
         "state": "future"
     },
     "kshp.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "ksihafqopndbq.com": {
