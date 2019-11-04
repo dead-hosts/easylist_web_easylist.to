@@ -35232,7 +35232,7 @@
     "englishtips.org": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "enidnews.com": {
         "epoch": 1574208000,
@@ -35792,7 +35792,7 @@
     "ervinguewty.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "erxalim.xyz": {
         "epoch": 1581120000,
@@ -35820,8 +35820,8 @@
         "state": "future"
     },
     "escapehere.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "escapementmagazine.com": {
@@ -39000,8 +39000,8 @@
         "state": "future"
     },
     "filetarget.net": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "filetie.net": {
