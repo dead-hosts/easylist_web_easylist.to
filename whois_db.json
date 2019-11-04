@@ -75424,6 +75424,11 @@
         "expiration_date": "19-jul-2019",
         "state": "past"
     },
+    "ngyfmghgd.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "ngymzbpjnqra.com": {
         "epoch": 1581379200,
         "expiration_date": "11-feb-2020",
