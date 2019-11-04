@@ -10044,6 +10044,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "alvfzqwkb.com": {
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "alwatanvoice.com": {
         "epoch": 1712620800,
         "expiration_date": "09-apr-2024",
@@ -10235,8 +10240,8 @@
         "state": "future"
     },
     "ambulance-photos.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "ambya.com": {
@@ -11165,8 +11170,8 @@
         "state": "future"
     },
     "apartments.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "apartmenttherapy.com": {
