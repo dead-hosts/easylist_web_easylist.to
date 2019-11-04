@@ -81227,7 +81227,7 @@
     "pedulum.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "peeblesshirenews.com": {
         "epoch": 1590278400,
@@ -81242,6 +81242,11 @@
     "peemee.com": {
         "epoch": 1578787200,
         "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "peepinghunter.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "peer39.com": {
@@ -83455,8 +83460,8 @@
         "state": "future"
     },
     "police-car-photos.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "policeone.com": {
@@ -84465,8 +84470,8 @@
         "state": "future"
     },
     "pornv.org": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "pornvideofile.com": {
@@ -84640,8 +84645,8 @@
         "state": "future"
     },
     "postzambia.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "potchefstroomherald.co.za": {
@@ -84752,6 +84757,11 @@
     "powvideo.net": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "powvideo.xyz": {
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "poxcldtepiulo.com": {
