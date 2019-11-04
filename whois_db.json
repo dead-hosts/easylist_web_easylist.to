@@ -40089,6 +40089,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "fmgdzqpcaliqs.com": {
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "fmkfzc.com": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
@@ -40097,6 +40102,11 @@
     "fmovies.taxi": {
         "epoch": 1577750400,
         "expiration_date": "31-dec-2019",
+        "state": "future"
+    },
+    "fmpevnvced.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "fmpub.net": {
@@ -41785,9 +41795,9 @@
         "state": "future"
     },
     "fruitkings.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "frumforum.com": {
         "epoch": 1668988800,
@@ -42867,6 +42877,11 @@
     "g4058683381.com": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "g4chan.com": {
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "g4p1gtll.com": {
