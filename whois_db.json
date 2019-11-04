@@ -25597,7 +25597,7 @@
     "coolmirage.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "coolmovs.com": {
         "epoch": 1593993600,
@@ -26250,8 +26250,8 @@
         "state": "future"
     },
     "cq.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "cqflplcldh.com": {
@@ -26415,8 +26415,8 @@
         "state": "future"
     },
     "cravenherald.co.uk": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1635984000,
+        "expiration_date": "04-nov-2021",
         "state": "future"
     },
     "craveonline.com": {
@@ -26849,6 +26849,11 @@
         "expiration_date": "28-jul-2019",
         "state": "past"
     },
+    "crwzxtuhvzv.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "crxhbchbd.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
@@ -27020,8 +27025,8 @@
         "state": "future"
     },
     "ct24.cz": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "ctasnet.com": {
