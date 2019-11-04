@@ -60474,6 +60474,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "klayiwpzjk.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "kldyclplx.com": {
         "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
@@ -61175,8 +61180,8 @@
         "state": "future"
     },
     "krnb.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1667433600,
+        "expiration_date": "03-nov-2022",
         "state": "future"
     },
     "kroger.com": {
@@ -61352,7 +61357,7 @@
     "ktradionetwork.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ktrgcpceilj.com": {
         "epoch": 1563235200,
@@ -62735,9 +62740,9 @@
         "state": "future"
     },
     "leasticoulddo.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "lebneeklnuru.com": {
         "epoch": 1600732800,
@@ -62867,6 +62872,11 @@
     "lego.com": {
         "epoch": 1597968000,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "lehfzuosurakj.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "lehighvalleylive.com": {
