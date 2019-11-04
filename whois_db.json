@@ -77279,6 +77279,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "nybsqmqbycmtid.com": {
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
     "nycgo.com": {
         "epoch": 1646697600,
         "expiration_date": "08-mar-2022",
@@ -78700,8 +78705,8 @@
         "state": "future"
     },
     "oncyprus.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "oneangrygamer.net": {
