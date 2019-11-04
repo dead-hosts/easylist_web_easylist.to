@@ -89000,9 +89000,9 @@
         "state": "future"
     },
     "racingjunk.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "racinguk.com": {
         "epoch": 1595203200,
@@ -89602,7 +89602,7 @@
     "rawasy.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "rawstory.com": {
         "epoch": 1580256000,
@@ -91905,8 +91905,8 @@
         "state": "future"
     },
     "rivals.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "rivcash.com": {
