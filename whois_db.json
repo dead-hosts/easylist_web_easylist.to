@@ -5759,6 +5759,11 @@
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
+    "adlipacbrakmjp.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "adlive.io": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
