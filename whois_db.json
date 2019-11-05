@@ -101250,8 +101250,8 @@
         "state": "future"
     },
     "stwnewspress.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "style.com": {
@@ -101992,7 +101992,7 @@
     "swarm.video": {
         "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "swarmjam.com": {
         "epoch": 1580774400,
@@ -103335,8 +103335,8 @@
         "state": "future"
     },
     "techgage.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1667520000,
+        "expiration_date": "04-nov-2022",
         "state": "future"
     },
     "techhamlet.com": {
