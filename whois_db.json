@@ -12980,8 +12980,8 @@
         "state": "future"
     },
     "awecrptjmp.com": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "awejmp.com": {
@@ -13107,7 +13107,7 @@
     "awsclic.com": {
         "epoch": 1573084800,
         "expiration_date": "07-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "awsmer.com": {
         "epoch": 1609286400,
@@ -13137,6 +13137,11 @@
     "ax47mp-xp-21.com": {
         "epoch": 1596153600,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "axadaldlozmqu.com": {
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "axandra.com": {
@@ -13350,13 +13355,13 @@
         "state": "future"
     },
     "azlyrics.com": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "azmobilestore.co": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "aznapoz.info": {
@@ -14830,8 +14835,8 @@
         "state": "future"
     },
     "behance.net": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "behealthydaily.com": {
@@ -15785,9 +15790,9 @@
         "state": "future"
     },
     "bighot.ru": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "bigislandnow.com": {
         "epoch": 1746748800,
@@ -16275,8 +16280,8 @@
         "state": "future"
     },
     "bitcomet.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "bitcoset.com": {
@@ -16350,8 +16355,8 @@
         "state": "future"
     },
     "bittorrent.am": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "bittorrent.com": {
@@ -16677,7 +16682,7 @@
     "blardenso.com": {
         "epoch": 1573084800,
         "expiration_date": "07-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "blasternation.com": {
         "epoch": 1610928000,
