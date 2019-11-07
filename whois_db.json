@@ -61085,8 +61085,8 @@
         "state": "future"
     },
     "koopik.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "koradu.com": {
@@ -61514,10 +61514,15 @@
         "expiration_date": "09-nov-2019",
         "state": "future"
     },
+    "ktqcxbhghxp.com": {
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "ktradionetwork.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "ktrgcpceilj.com": {
         "epoch": 1563235200,
@@ -62010,8 +62015,8 @@
         "state": "past"
     },
     "kzbiz.co": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "kzfinsoee.com": {
@@ -62624,6 +62629,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "lbwtrvpgvqkqc.com": {
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "lcfc.com": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
@@ -62922,7 +62932,7 @@
     "leche69.com": {
         "epoch": 1573084800,
         "expiration_date": "07-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ledburyreporter.co.uk": {
         "epoch": 1593907200,
@@ -65070,8 +65080,8 @@
         "state": "future"
     },
     "londongasprices.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "londonlovesbusiness.com": {
