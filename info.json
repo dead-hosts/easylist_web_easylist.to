@@ -4,18 +4,18 @@
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2019-11-17T22:22:53.731193",
-    "finish_timestamp": 1574029373.731193,
-    "last_download_datetime": "2019-11-17T22:12:52.318832",
-    "last_download_timestamp": 1574028772.318832,
-    "latest_part_finish_datetime": "2019-11-17T22:22:53.731193",
-    "latest_part_finish_timestamp": 1574029373.731193,
-    "latest_part_start_datetime": "2019-11-17T22:12:53.078344",
-    "latest_part_start_timestamp": 1574028773.078344,
+    "finish_datetime": "2019-11-18T10:23:28.553723",
+    "finish_timestamp": 1574072608.553723,
+    "last_download_datetime": "2019-11-18T10:13:27.193016",
+    "last_download_timestamp": 1574072007.193016,
+    "latest_part_finish_datetime": "2019-11-18T10:23:28.553723",
+    "latest_part_finish_timestamp": 1574072608.553723,
+    "latest_part_start_datetime": "2019-11-18T10:13:27.900448",
+    "latest_part_start_timestamp": 1574072007.900448,
     "name": "easylist_web_easylist.to",
     "own_management": false,
     "ping": [],
     "raw_link": "https://easylist.to/easylist/easylist.txt",
-    "start_datetime": "2019-11-17T22:12:53.074585",
-    "start_timestamp": 1574028773.074585
+    "start_datetime": "2019-11-18T10:13:27.896960",
+    "start_timestamp": 1574072007.89696
 }
