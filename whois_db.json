@@ -49152,7 +49152,7 @@
     "herstage.com": {
         "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "hertfordshirelife.co.uk": {
         "epoch": 1590796800,
@@ -50170,9 +50170,9 @@
         "state": "future"
     },
     "hollywoodoops.com": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
-        "state": "past"
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
     },
     "hollywoodreporter.com": {
         "epoch": 1721692800,
@@ -100305,8 +100305,8 @@
         "state": "future"
     },
     "srvpub.com": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "srwww1.com": {
