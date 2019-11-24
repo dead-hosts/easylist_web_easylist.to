@@ -345,7 +345,7 @@
         "state": "future"
     },
     "1130thetiger.com": {
-        "epoch": 1589760000,
+        "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
         "state": "future"
     },
@@ -625,7 +625,7 @@
         "state": "future"
     },
     "1980-games.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
@@ -2540,7 +2540,7 @@
         "state": "future"
     },
     "6scoops.com": {
-        "epoch": 1574726400,
+        "epoch": 1574726400.0,
         "expiration_date": "26-nov-2019",
         "state": "future"
     },
@@ -3210,7 +3210,7 @@
         "state": "future"
     },
     "900amwurd.com": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
@@ -3275,7 +3275,7 @@
         "state": "future"
     },
     "92q.com": {
-        "epoch": 1602633600,
+        "epoch": 1602633600.0,
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
@@ -3555,7 +3555,7 @@
         "state": "future"
     },
     "9gag.tv": {
-        "epoch": 1600473600,
+        "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
@@ -4050,7 +4050,7 @@
         "state": "future"
     },
     "abc22now.com": {
-        "epoch": 1589068800,
+        "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
         "state": "future"
     },
@@ -7750,7 +7750,7 @@
         "state": "future"
     },
     "advisorone.com": {
-        "epoch": 1586217600,
+        "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
@@ -8430,7 +8430,7 @@
         "state": "future"
     },
     "affiliatesrating.com": {
-        "epoch": 1596758400,
+        "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
@@ -8715,7 +8715,7 @@
         "state": "future"
     },
     "africaoilandpower.com": {
-        "epoch": 1594944000,
+        "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
@@ -8800,7 +8800,7 @@
         "state": "future"
     },
     "afullcup.com": {
-        "epoch": 1593820800,
+        "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
@@ -9175,12 +9175,12 @@
         "state": "future"
     },
     "airlineroute.net": {
-        "epoch": 1600560000,
+        "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "airliners.net": {
-        "epoch": 1621814400,
+        "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
         "state": "future"
     },
@@ -9535,7 +9535,7 @@
         "state": "future"
     },
     "alexandriagazette.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -9920,7 +9920,7 @@
         "state": "future"
     },
     "alltheragefaces.com": {
-        "epoch": 1589328000,
+        "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
         "state": "future"
     },
@@ -9950,7 +9950,7 @@
         "state": "future"
     },
     "alluc.com": {
-        "epoch": 1751241600,
+        "epoch": 1751241600.0,
         "expiration_date": "30-jun-2025",
         "state": "future"
     },
@@ -10545,7 +10545,7 @@
         "state": "future"
     },
     "ana-white.com": {
-        "epoch": 1594512000,
+        "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
@@ -10655,7 +10655,7 @@
         "state": "future"
     },
     "andoveradvertiser.co.uk": {
-        "epoch": 1627516800,
+        "epoch": 1627516800.0,
         "expiration_date": "29-jul-2021",
         "state": "future"
     },
@@ -10680,7 +10680,7 @@
         "state": "future"
     },
     "androidbenchmark.net": {
-        "epoch": 1588723200,
+        "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
         "state": "future"
     },
@@ -10830,7 +10830,7 @@
         "state": "future"
     },
     "animecharactersdatabase.com": {
-        "epoch": 1587859200,
+        "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
@@ -10865,7 +10865,7 @@
         "state": "future"
     },
     "animepaper.net": {
-        "epoch": 1583971200,
+        "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
@@ -11340,7 +11340,7 @@
         "state": "future"
     },
     "appadvice.com": {
-        "epoch": 1797465600,
+        "epoch": 1797465600.0,
         "expiration_date": "17-dec-2026",
         "state": "future"
     },
@@ -11440,7 +11440,7 @@
         "state": "future"
     },
     "apptism.com": {
-        "epoch": 1595376000,
+        "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
@@ -11770,7 +11770,7 @@
         "state": "future"
     },
     "arlingtonconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -11930,7 +11930,7 @@
         "state": "future"
     },
     "arto.com": {
-        "epoch": 1796860800,
+        "epoch": 1796860800.0,
         "expiration_date": "10-dec-2026",
         "state": "future"
     },
@@ -12080,7 +12080,7 @@
         "state": "future"
     },
     "asianimage.co.uk": {
-        "epoch": 1634083200,
+        "epoch": 1634083200.0,
         "expiration_date": "13-oct-2021",
         "state": "future"
     },
@@ -12110,7 +12110,7 @@
         "state": "future"
     },
     "asiator.net": {
-        "epoch": 1599523200,
+        "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
@@ -12580,7 +12580,7 @@
         "state": "future"
     },
     "audiforums.com": {
-        "epoch": 1604188800,
+        "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
@@ -12680,7 +12680,7 @@
         "state": "future"
     },
     "austinist.com": {
-        "epoch": 1584489600,
+        "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
@@ -12710,7 +12710,7 @@
         "state": "future"
     },
     "autocarindia.com": {
-        "epoch": 1750550400,
+        "epoch": 1750550400.0,
         "expiration_date": "22-jun-2025",
         "state": "future"
     },
@@ -12725,7 +12725,7 @@
         "state": "future"
     },
     "autoexchange.co.uk": {
-        "epoch": 1635552000,
+        "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
         "state": "future"
     },
@@ -13115,7 +13115,7 @@
         "state": "future"
     },
     "awesomestyles.com": {
-        "epoch": 1591660800,
+        "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
@@ -13170,7 +13170,7 @@
         "state": "future"
     },
     "awpl.lt": {
-        "epoch": 1581033600,
+        "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
@@ -13405,7 +13405,7 @@
         "state": "future"
     },
     "azdailysun.com": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
@@ -13530,7 +13530,7 @@
         "state": "future"
     },
     "b100quadcities.com": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
@@ -14075,7 +14075,7 @@
         "state": "future"
     },
     "banburycake.co.uk": {
-        "epoch": 1612137600,
+        "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
@@ -14335,7 +14335,7 @@
         "state": "future"
     },
     "barnesandnoble.com": {
-        "epoch": 1596931200,
+        "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
@@ -14370,7 +14370,7 @@
         "state": "future"
     },
     "barryanddistrictnews.co.uk": {
-        "epoch": 1586563200,
+        "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
@@ -14400,12 +14400,12 @@
         "state": "future"
     },
     "basildonstandard.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "basingstokegazette.co.uk": {
-        "epoch": 1627948800,
+        "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
@@ -14740,7 +14740,7 @@
         "state": "future"
     },
     "bdlive.co.za": {
-        "epoch": 1583020800,
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
@@ -15375,7 +15375,7 @@
         "state": "future"
     },
     "bestrade.co": {
-        "epoch": 1587427200,
+        "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
@@ -15385,7 +15385,7 @@
         "state": "future"
     },
     "bestreviews.com": {
-        "epoch": 1577836800,
+        "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
@@ -15400,7 +15400,7 @@
         "state": "future"
     },
     "bestvaluelaptops.co.uk": {
-        "epoch": 1598659200,
+        "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
@@ -15565,7 +15565,7 @@
         "state": "future"
     },
     "bexhillobserver.net": {
-        "epoch": 1664668800,
+        "epoch": 1664668800.0,
         "expiration_date": "02-oct-2022",
         "state": "future"
     },
@@ -15830,7 +15830,7 @@
         "state": "future"
     },
     "bicesteradvertiser.net": {
-        "epoch": 1579305600,
+        "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
@@ -15950,7 +15950,7 @@
         "state": "future"
     },
     "bighospitality.co.uk": {
-        "epoch": 1584230400,
+        "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
@@ -16005,7 +16005,7 @@
         "state": "future"
     },
     "bigtennetwork.com": {
-        "epoch": 1619481600,
+        "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
@@ -16390,7 +16390,7 @@
         "state": "future"
     },
     "bitcoinblogger.com": {
-        "epoch": 1596844800,
+        "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
@@ -16545,7 +16545,7 @@
         "state": "future"
     },
     "biv.com": {
-        "epoch": 1582502400,
+        "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
@@ -16805,7 +16805,7 @@
         "state": "future"
     },
     "blackpoolgazette.co.uk": {
-        "epoch": 1580774400,
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
@@ -17020,7 +17020,7 @@
         "state": "future"
     },
     "blogger-index.com": {
-        "epoch": 1607558400,
+        "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
@@ -17085,7 +17085,7 @@
         "state": "future"
     },
     "blogtechnical.com": {
-        "epoch": 1576886400,
+        "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
@@ -17525,7 +17525,7 @@
         "state": "future"
     },
     "bodybuilding.com": {
-        "epoch": 1708041600,
+        "epoch": 1708041600.0,
         "expiration_date": "16-feb-2024",
         "state": "future"
     },
@@ -17545,7 +17545,7 @@
         "state": "future"
     },
     "bognor.co.uk": {
-        "epoch": 1597795200,
+        "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
@@ -17590,7 +17590,7 @@
         "state": "future"
     },
     "bolandrugby.com": {
-        "epoch": 1590883200,
+        "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
         "state": "future"
     },
@@ -17640,7 +17640,7 @@
         "state": "future"
     },
     "bonappetit.com": {
-        "epoch": 1618704000,
+        "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
@@ -17740,7 +17740,7 @@
         "state": "future"
     },
     "bookmyshow.com": {
-        "epoch": 1834704000,
+        "epoch": 1834704000.0,
         "expiration_date": "21-feb-2028",
         "state": "future"
     },
@@ -17880,7 +17880,7 @@
         "state": "future"
     },
     "borehamwoodtimes.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -17960,7 +17960,7 @@
         "state": "future"
     },
     "bostonmagazine.com": {
-        "epoch": 1595548800,
+        "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
@@ -17970,12 +17970,12 @@
         "state": "future"
     },
     "bostonreview.net": {
-        "epoch": 1613433600,
+        "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "bostonstandard.co.uk": {
-        "epoch": 1604275200,
+        "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
@@ -18025,7 +18025,7 @@
         "state": "future"
     },
     "bournemouthecho.co.uk": {
-        "epoch": 1592524800,
+        "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
@@ -18215,7 +18215,7 @@
         "state": "future"
     },
     "braintreeandwithamtimes.co.uk": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -18455,7 +18455,7 @@
         "state": "future"
     },
     "brentwoodlive.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -18505,12 +18505,12 @@
         "state": "future"
     },
     "bridgwatermercury.co.uk": {
-        "epoch": 1609545600,
+        "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "bridportnews.co.uk": {
-        "epoch": 1616457600,
+        "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
         "state": "future"
     },
@@ -18685,7 +18685,7 @@
         "state": "future"
     },
     "bromsgroveadvertiser.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -19055,7 +19055,7 @@
         "state": "future"
     },
     "bucksfreepress.co.uk": {
-        "epoch": 1575849600,
+        "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
@@ -19205,7 +19205,7 @@
         "state": "future"
     },
     "burkeconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -19215,7 +19215,7 @@
         "state": "future"
     },
     "burnhamandhighbridgeweeklynews.co.uk": {
-        "epoch": 1610755200,
+        "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
@@ -19290,8 +19290,8 @@
         "state": "future"
     },
     "burytimes.co.uk": {
-        "epoch": 1573344000,
-        "expiration_date": "10-nov-2019",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
         "state": "future"
     },
     "burzahrane.hr": {
@@ -19350,7 +19350,7 @@
         "state": "future"
     },
     "businessdaytv.co.za": {
-        "epoch": 1587859200,
+        "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
@@ -19450,7 +19450,7 @@
         "state": "future"
     },
     "bustle.com": {
-        "epoch": 1696636800,
+        "epoch": 1696636800.0,
         "expiration_date": "07-oct-2023",
         "state": "future"
     },
@@ -19615,7 +19615,7 @@
         "state": "future"
     },
     "bvblackspin.com": {
-        "epoch": 1617148800,
+        "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
         "state": "future"
     },
@@ -19645,12 +19645,12 @@
         "state": "future"
     },
     "bvonmoney.com": {
-        "epoch": 1617840000,
+        "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "bvonmovies.com": {
-        "epoch": 1617840000,
+        "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
@@ -19985,7 +19985,7 @@
         "state": "future"
     },
     "ca2016.com": {
-        "epoch": 1607126400,
+        "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
@@ -20145,7 +20145,7 @@
         "state": "future"
     },
     "californiareport.org": {
-        "epoch": 1578960000,
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
@@ -20270,7 +20270,7 @@
         "state": "future"
     },
     "campaignseries.co.uk": {
-        "epoch": 1635206400,
+        "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
     },
@@ -20425,7 +20425,7 @@
         "state": "future"
     },
     "canaries.co.uk": {
-        "epoch": 1590624000,
+        "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
         "state": "future"
     },
@@ -20560,9 +20560,9 @@
         "state": "future"
     },
     "capitalkfm.com": {
-        "epoch": 1574467200,
+        "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "capitalnewyork.com": {
         "epoch": 1578182400.0,
@@ -21100,7 +21100,7 @@
         "state": "future"
     },
     "catchvideo.net": {
-        "epoch": 1629072000,
+        "epoch": 1629072000.0,
         "expiration_date": "16-aug-2021",
         "state": "future"
     },
@@ -21110,7 +21110,7 @@
         "state": "past"
     },
     "catholic.net": {
-        "epoch": 1596758400,
+        "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
@@ -21765,7 +21765,7 @@
         "state": "future"
     },
     "celebritynetworth.com": {
-        "epoch": 1629763200,
+        "epoch": 1629763200.0,
         "expiration_date": "24-aug-2021",
         "state": "future"
     },
@@ -21885,7 +21885,7 @@
         "state": "future"
     },
     "centre-view.com": {
-        "epoch": 1580428800,
+        "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
@@ -22335,7 +22335,7 @@
         "state": "future"
     },
     "chardandilminsternews.co.uk": {
-        "epoch": 1596240000,
+        "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
@@ -22390,7 +22390,7 @@
         "state": "future"
     },
     "charter.net": {
-        "epoch": 1628294400,
+        "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
         "state": "future"
     },
@@ -22545,7 +22545,7 @@
         "state": "future"
     },
     "chelmsfordweeklynews.co.uk": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -22595,7 +22595,7 @@
         "state": "future"
     },
     "chesterlestreetadvertiser.co.uk": {
-        "epoch": 1627344000,
+        "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
         "state": "future"
     },
@@ -22630,7 +22630,7 @@
         "state": "future"
     },
     "chicagoist.com": {
-        "epoch": 1616025600,
+        "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
@@ -22670,7 +22670,7 @@
         "state": "future"
     },
     "chichester.co.uk": {
-        "epoch": 1597795200,
+        "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
@@ -22865,7 +22865,7 @@
         "state": "future"
     },
     "chorleycitizen.co.uk": {
-        "epoch": 1587081600,
+        "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
@@ -23070,7 +23070,7 @@
         "state": "future"
     },
     "cinemalebnen.org": {
-        "epoch": 1585094400,
+        "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
@@ -23090,7 +23090,7 @@
         "state": "future"
     },
     "cio-today.com": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
@@ -23190,7 +23190,7 @@
         "state": "past"
     },
     "citizen.co.za": {
-        "epoch": 1600128000,
+        "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
@@ -23420,7 +23420,7 @@
         "state": "future"
     },
     "clactonandfrintongazette.co.uk": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -23535,7 +23535,7 @@
         "state": "future"
     },
     "classifiedextra.ca": {
-        "epoch": 1582675200,
+        "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
@@ -24040,7 +24040,7 @@
         "state": "future"
     },
     "clipart.me": {
-        "epoch": 1657324800,
+        "epoch": 1657324800.0,
         "expiration_date": "09-jul-2022",
         "state": "future"
     },
@@ -24420,7 +24420,7 @@
         "state": "future"
     },
     "cnbc.com": {
-        "epoch": 1632873600,
+        "epoch": 1632873600.0,
         "expiration_date": "29-sep-2021",
         "state": "future"
     },
@@ -24560,7 +24560,7 @@
         "state": "future"
     },
     "co-optimus.com": {
-        "epoch": 1575072000,
+        "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
@@ -24665,9 +24665,9 @@
         "state": "future"
     },
     "codeinspot.com": {
-        "epoch": 1574553600,
+        "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "codenull.net": {
         "epoch": 1591228800.0,
@@ -24690,7 +24690,7 @@
         "state": "future"
     },
     "coderanch.com": {
-        "epoch": 1630022400,
+        "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
         "state": "future"
     },
@@ -25180,7 +25180,7 @@
         "state": "future"
     },
     "commercialtrucktrader.com": {
-        "epoch": 1580860800,
+        "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
@@ -25290,7 +25290,7 @@
         "state": "future"
     },
     "complex.com": {
-        "epoch": 1630454400,
+        "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
         "state": "future"
     },
@@ -25460,7 +25460,7 @@
         "state": "future"
     },
     "connection-sports.com": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
@@ -25530,7 +25530,7 @@
         "state": "future"
     },
     "conservativereview.com": {
-        "epoch": 1587686400,
+        "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
@@ -25540,7 +25540,7 @@
         "state": "future"
     },
     "consettstanleyadvertiser.co.uk": {
-        "epoch": 1627344000,
+        "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
         "state": "future"
     },
@@ -25935,7 +25935,7 @@
         "state": "future"
     },
     "cordcutting.com": {
-        "epoch": 1585872000,
+        "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
@@ -26070,12 +26070,12 @@
         "state": "future"
     },
     "cotswoldessence.co.uk": {
-        "epoch": 1606694400,
+        "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "cotswoldjournal.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -26435,7 +26435,7 @@
         "state": "future"
     },
     "cpubenchmark.net": {
-        "epoch": 1682899200,
+        "epoch": 1682899200.0,
         "expiration_date": "01-may-2023",
         "state": "future"
     },
@@ -26660,7 +26660,7 @@
         "state": "future"
     },
     "cravenherald.co.uk": {
-        "epoch": 1635984000,
+        "epoch": 1635984000.0,
         "expiration_date": "04-nov-2021",
         "state": "future"
     },
@@ -26735,7 +26735,7 @@
         "state": "future"
     },
     "createjs.com": {
-        "epoch": 1584662400,
+        "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
@@ -26800,7 +26800,7 @@
         "state": "future"
     },
     "creweguardian.co.uk": {
-        "epoch": 1597536000,
+        "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
@@ -27015,7 +27015,7 @@
         "state": "future"
     },
     "crownheights.info": {
-        "epoch": 1643760000,
+        "epoch": 1643760000.0,
         "expiration_date": "02-feb-2022",
         "state": "future"
     },
@@ -27025,7 +27025,7 @@
         "state": "future"
     },
     "croydonguardian.co.uk": {
-        "epoch": 1589673600,
+        "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
         "state": "future"
     },
@@ -27140,7 +27140,7 @@
         "state": "future"
     },
     "cryptothrift.com": {
-        "epoch": 1592611200,
+        "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
@@ -27565,7 +27565,7 @@
         "state": "future"
     },
     "cutimes.com": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
@@ -28300,7 +28300,7 @@
         "state": "future"
     },
     "dailyecho.co.uk": {
-        "epoch": 1592524800,
+        "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
@@ -28310,7 +28310,7 @@
         "state": "future"
     },
     "dailyfreegames.com": {
-        "epoch": 1586131200,
+        "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
@@ -28390,7 +28390,7 @@
         "state": "future"
     },
     "dailymaverick.co.za": {
-        "epoch": 1602806400,
+        "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
@@ -28735,7 +28735,7 @@
         "state": "future"
     },
     "darlingtonandstocktontimes.co.uk": {
-        "epoch": 1594252800,
+        "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
@@ -28780,7 +28780,7 @@
         "state": "future"
     },
     "data-storage-today.com": {
-        "epoch": 1577750400,
+        "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
         "state": "future"
     },
@@ -29100,7 +29100,7 @@
         "state": "future"
     },
     "dcist.com": {
-        "epoch": 1616025600,
+        "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
@@ -29345,8 +29345,8 @@
         "state": "future"
     },
     "deccanherald.com": {
-        "epoch": 1574035200,
-        "expiration_date": "18-nov-2019",
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "decenthat.com": {
@@ -29375,7 +29375,7 @@
         "state": "future"
     },
     "decoist.com": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
@@ -29865,7 +29865,7 @@
         "state": "future"
     },
     "desktopreview.com": {
-        "epoch": 1587513600,
+        "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
@@ -30350,7 +30350,7 @@
         "state": "future"
     },
     "dietsinreview.com": {
-        "epoch": 1613433600,
+        "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
         "state": "future"
     },
@@ -30860,7 +30860,7 @@
         "state": "future"
     },
     "ditii.com": {
-        "epoch": 1608940800,
+        "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
         "state": "future"
     },
@@ -31150,7 +31150,7 @@
         "state": "future"
     },
     "dlife.com": {
-        "epoch": 1676851200,
+        "epoch": 1676851200.0,
         "expiration_date": "20-feb-2023",
         "state": "future"
     },
@@ -31530,7 +31530,7 @@
         "state": "future"
     },
     "dolliecrave.com": {
-        "epoch": 1594339200,
+        "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
@@ -31560,7 +31560,7 @@
         "state": "future"
     },
     "domainincite.com": {
-        "epoch": 1582761600,
+        "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
@@ -31730,7 +31730,7 @@
         "state": "future"
     },
     "dorsetecho.co.uk": {
-        "epoch": 1615420800,
+        "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
@@ -32185,7 +32185,7 @@
         "state": "future"
     },
     "dptv.org": {
-        "epoch": 1665619200,
+        "epoch": 1665619200.0,
         "expiration_date": "13-oct-2022",
         "state": "future"
     },
@@ -32390,7 +32390,7 @@
         "state": "future"
     },
     "dressupone.com": {
-        "epoch": 1608163200,
+        "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
@@ -32485,7 +32485,7 @@
         "state": "future"
     },
     "drizzydrake.org": {
-        "epoch": 1593129600,
+        "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
@@ -32525,7 +32525,7 @@
         "state": "future"
     },
     "droitwichadvertiser.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -32845,7 +32845,7 @@
         "state": "future"
     },
     "dudleynews.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -32965,7 +32965,7 @@
         "state": "future"
     },
     "durhamadvertiser.co.uk": {
-        "epoch": 1628380800,
+        "epoch": 1628380800.0,
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
@@ -32995,7 +32995,7 @@
         "state": "future"
     },
     "dutchgrammar.com": {
-        "epoch": 1604016000,
+        "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
@@ -33675,7 +33675,7 @@
         "state": "future"
     },
     "ealingtimes.co.uk": {
-        "epoch": 1590278400,
+        "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
         "state": "future"
     },
@@ -33760,7 +33760,7 @@
         "state": "future"
     },
     "eastbourneherald.co.uk": {
-        "epoch": 1584403200,
+        "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
@@ -33775,7 +33775,7 @@
         "state": "future"
     },
     "eastidahonews.com": {
-        "epoch": 1682985600,
+        "epoch": 1682985600.0,
         "expiration_date": "02-may-2023",
         "state": "future"
     },
@@ -34180,7 +34180,7 @@
         "state": "future"
     },
     "echo-news.co.uk": {
-        "epoch": 1580947200,
+        "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
@@ -34645,7 +34645,7 @@
         "state": "future"
     },
     "efinancialnews.com": {
-        "epoch": 1576108800,
+        "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
@@ -34755,8 +34755,8 @@
         "state": "future"
     },
     "egyptindependent.com": {
-        "epoch": 1573776000,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "state": "future"
     },
     "ehcawmdqgq.com": {
@@ -34830,7 +34830,7 @@
         "state": "future"
     },
     "eitb.eus": {
-        "epoch": 1593129600,
+        "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
@@ -35200,7 +35200,7 @@
         "state": "future"
     },
     "elpais.com": {
-        "epoch": 1583366400,
+        "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
@@ -35215,7 +35215,7 @@
         "state": "future"
     },
     "eluta.ca": {
-        "epoch": 1669680000,
+        "epoch": 1669680000.0,
         "expiration_date": "29-nov-2022",
         "state": "future"
     },
@@ -35380,7 +35380,7 @@
         "state": "future"
     },
     "empireonline.com": {
-        "epoch": 1585008000,
+        "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
@@ -35515,7 +35515,7 @@
         "state": "future"
     },
     "enfieldindependent.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -35870,7 +35870,7 @@
         "state": "future"
     },
     "eppingforestguardian.co.uk": {
-        "epoch": 1614038400,
+        "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
@@ -35885,7 +35885,7 @@
         "state": "future"
     },
     "epsomguardian.co.uk": {
-        "epoch": 1589673600,
+        "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
         "state": "future"
     },
@@ -36560,7 +36560,7 @@
         "state": "future"
     },
     "eurobasket2015.org": {
-        "epoch": 1579392000,
+        "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
@@ -36635,7 +36635,7 @@
         "state": "future"
     },
     "europolitics.info": {
-        "epoch": 1579737600,
+        "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
@@ -36645,12 +36645,12 @@
         "state": "future"
     },
     "eurosport.com": {
-        "epoch": 1573776000,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "eurovision.tv": {
-        "epoch": 1591920000,
+        "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
@@ -36810,7 +36810,7 @@
         "state": "future"
     },
     "everyclick.com": {
-        "epoch": 1593388800,
+        "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
@@ -36835,7 +36835,7 @@
         "state": "future"
     },
     "eveshamjournal.co.uk": {
-        "epoch": 1594684800,
+        "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
@@ -36940,7 +36940,7 @@
         "state": "future"
     },
     "eweek.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
@@ -37370,7 +37370,7 @@
         "state": "future"
     },
     "extrahardware.com": {
-        "epoch": 1578009600,
+        "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
@@ -37875,12 +37875,12 @@
         "state": "future"
     },
     "fairfaxconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
     "fairfaxstationconnection.com": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
@@ -37895,7 +37895,7 @@
         "state": "future"
     },
     "faithtalk1500.com": {
-        "epoch": 1606953600,
+        "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
@@ -37940,8 +37940,8 @@
         "state": "future"
     },
     "falmouthpacket.co.uk": {
-        "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
         "state": "future"
     },
     "fame10.com": {
@@ -38045,7 +38045,7 @@
         "state": "future"
     },
     "fanhow.com": {
-        "epoch": 1628121600,
+        "epoch": 1628121600.0,
         "expiration_date": "05-aug-2021",
         "state": "future"
     },
@@ -38165,7 +38165,7 @@
         "state": "future"
     },
     "fark.com": {
-        "epoch": 1853193600,
+        "epoch": 1853193600.0,
         "expiration_date": "22-sep-2028",
         "state": "future"
     },
@@ -39330,7 +39330,7 @@
         "state": "future"
     },
     "filesocean.net": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
@@ -39400,7 +39400,7 @@
         "state": "future"
     },
     "filmgo.org": {
-        "epoch": 1593993600,
+        "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
@@ -39465,7 +39465,7 @@
         "state": "future"
     },
     "fin24.com": {
-        "epoch": 1588377600,
+        "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
         "state": "future"
     },
@@ -39550,7 +39550,7 @@
         "state": "future"
     },
     "findbestvideo.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
@@ -40005,7 +40005,7 @@
         "state": "future"
     },
     "flash-mp3-player.net": {
-        "epoch": 1595030400,
+        "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
@@ -40310,7 +40310,7 @@
         "state": "future"
     },
     "flobzoo.com": {
-        "epoch": 1579910400,
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
@@ -40630,7 +40630,7 @@
         "state": "past"
     },
     "foliomag.com": {
-        "epoch": 1577923200,
+        "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
@@ -40695,7 +40695,7 @@
         "state": "future"
     },
     "foodfacts.com": {
-        "epoch": 1683763200,
+        "epoch": 1683763200.0,
         "expiration_date": "11-may-2023",
         "state": "future"
     },
@@ -40915,7 +40915,7 @@
         "state": "future"
     },
     "forebet.com": {
-        "epoch": 1757289600,
+        "epoch": 1757289600.0,
         "expiration_date": "08-sep-2025",
         "state": "future"
     },
@@ -41245,7 +41245,7 @@
         "state": "future"
     },
     "foxstart.com": {
-        "epoch": 1591660800,
+        "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
@@ -41465,7 +41465,7 @@
         "state": "future"
     },
     "fredericknewspost.com": {
-        "epoch": 1646611200,
+        "epoch": 1646611200.0,
         "expiration_date": "07-mar-2022",
         "state": "future"
     },
@@ -41610,7 +41610,7 @@
         "state": "future"
     },
     "freedla.com": {
-        "epoch": 1595635200,
+        "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
@@ -41730,7 +41730,7 @@
         "state": "future"
     },
     "freenewspos.com": {
-        "epoch": 1601164800,
+        "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
@@ -41765,7 +41765,7 @@
         "state": "future"
     },
     "freepik.com": {
-        "epoch": 1596499200,
+        "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
@@ -41790,7 +41790,7 @@
         "state": "future"
     },
     "freepressseries.co.uk": {
-        "epoch": 1586563200,
+        "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
@@ -41890,7 +41890,7 @@
         "state": "future"
     },
     "freewebarcade.com": {
-        "epoch": 1721347200,
+        "epoch": 1721347200.0,
         "expiration_date": "19-jul-2024",
         "state": "future"
     },
@@ -41920,7 +41920,7 @@
         "state": "future"
     },
     "freeyourandroid.com": {
-        "epoch": 1578614400,
+        "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
         "state": "future"
     },
@@ -43760,7 +43760,7 @@
         "state": "future"
     },
     "games2c.com": {
-        "epoch": 1590192000,
+        "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
         "state": "future"
     },
@@ -43785,7 +43785,7 @@
         "state": "future"
     },
     "gamesforthebrain.com": {
-        "epoch": 1603065600,
+        "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
@@ -43865,7 +43865,7 @@
         "state": "future"
     },
     "gamesting.com": {
-        "epoch": 1600560000,
+        "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
@@ -43910,7 +43910,7 @@
         "state": "future"
     },
     "gamingcloud.com": {
-        "epoch": 1729641600,
+        "epoch": 1729641600.0,
         "expiration_date": "23-oct-2024",
         "state": "future"
     },
@@ -44180,7 +44180,7 @@
         "state": "future"
     },
     "gazette-news.co.uk": {
-        "epoch": 1581811200,
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
@@ -44190,7 +44190,7 @@
         "state": "future"
     },
     "gazetteherald.co.uk": {
-        "epoch": 1589068800,
+        "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
         "state": "future"
     },
@@ -44205,7 +44205,7 @@
         "state": "future"
     },
     "gazetteseries.co.uk": {
-        "epoch": 1612483200,
+        "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
@@ -44285,7 +44285,7 @@
         "state": "future"
     },
     "gcnlive.com": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
@@ -44395,7 +44395,7 @@
         "state": "future"
     },
     "geckoforums.net": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
@@ -44417,6 +44417,11 @@
     "geekculture.co": {
         "epoch": 1590451200,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "geekdoing.com": {
+        "epoch": 1736726400.0,
+        "expiration_date": "13-jan-2025",
         "state": "future"
     },
     "geeklab.info": {
@@ -44455,7 +44460,7 @@
         "state": "future"
     },
     "geektime.com": {
-        "epoch": 1585699200,
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
@@ -44585,7 +44590,7 @@
         "state": "future"
     },
     "geniuskitchen.com": {
-        "epoch": 1585008000,
+        "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
@@ -45680,7 +45685,7 @@
         "state": "future"
     },
     "globaltelecomsbusiness.com": {
-        "epoch": 1576713600,
+        "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
@@ -45900,7 +45905,7 @@
         "state": "future"
     },
     "gmx.com": {
-        "epoch": 1588896000,
+        "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
         "state": "future"
     },
@@ -46010,7 +46015,7 @@
         "state": "future"
     },
     "go963mn.com": {
-        "epoch": 1576627200,
+        "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
@@ -46190,7 +46195,7 @@
         "state": "future"
     },
     "gokunming.com": {
-        "epoch": 1591401600,
+        "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
@@ -46605,7 +46610,7 @@
         "state": "future"
     },
     "gothamist.com": {
-        "epoch": 1643587200,
+        "epoch": 1643587200.0,
         "expiration_date": "31-jan-2022",
         "state": "future"
     },
@@ -47080,7 +47085,7 @@
         "state": "future"
     },
     "greatfallsconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -47095,7 +47100,7 @@
         "state": "future"
     },
     "greatis.com": {
-        "epoch": 1581897600,
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
@@ -47150,7 +47155,7 @@
         "state": "future"
     },
     "greenerdesign.com": {
-        "epoch": 1610323200,
+        "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
         "state": "future"
     },
@@ -47350,7 +47355,7 @@
         "state": "future"
     },
     "grsecurity.net": {
-        "epoch": 1633046400,
+        "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
         "state": "future"
     },
@@ -47600,8 +47605,8 @@
         "state": "future"
     },
     "guardian-series.co.uk": {
-        "epoch": 1573257600,
-        "expiration_date": "09-nov-2019",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
         "state": "future"
     },
     "guardiandigitalcomparison.co.uk": {
@@ -48215,7 +48220,7 @@
         "state": "future"
     },
     "halesowennews.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -48225,7 +48230,7 @@
         "state": "future"
     },
     "halifaxcourier.co.uk": {
-        "epoch": 1584403200,
+        "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
@@ -48255,7 +48260,7 @@
         "state": "future"
     },
     "halsteadgazette.co.uk": {
-        "epoch": 1579910400,
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
@@ -48290,7 +48295,7 @@
         "state": "future"
     },
     "hampshirechronicle.co.uk": {
-        "epoch": 1621641600,
+        "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
         "state": "future"
     },
@@ -48435,7 +48440,7 @@
         "state": "future"
     },
     "harddrivebenchmark.net": {
-        "epoch": 1682812800,
+        "epoch": 1682812800.0,
         "expiration_date": "30-apr-2023",
         "state": "future"
     },
@@ -48500,7 +48505,7 @@
         "state": "future"
     },
     "harrowtimes.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -48515,7 +48520,7 @@
         "state": "future"
     },
     "harwichandmanningtreestandard.co.uk": {
-        "epoch": 1579910400,
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
@@ -48535,7 +48540,7 @@
         "state": "future"
     },
     "hastingsobserver.co.uk": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
@@ -49230,7 +49235,7 @@
         "state": "future"
     },
     "hellokids.com": {
-        "epoch": 1588982400,
+        "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
         "state": "future"
     },
@@ -49405,7 +49410,7 @@
         "state": "future"
     },
     "heraldseries.co.uk": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
@@ -49430,7 +49435,7 @@
         "state": "future"
     },
     "herefordtimes.com": {
-        "epoch": 1580860800,
+        "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
@@ -49450,7 +49455,7 @@
         "state": "future"
     },
     "herndonconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -49925,7 +49930,7 @@
         "state": "future"
     },
     "hillingdontimes.co.uk": {
-        "epoch": 1590278400,
+        "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
         "state": "future"
     },
@@ -50140,7 +50145,7 @@
         "state": "future"
     },
     "hitsquad.com": {
-        "epoch": 1597881600,
+        "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
@@ -50435,7 +50440,7 @@
         "state": "future"
     },
     "hobbytalk.com": {
-        "epoch": 1598572800,
+        "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
@@ -50650,7 +50655,7 @@
         "state": "future"
     },
     "homewiththekids.com": {
-        "epoch": 1599177600,
+        "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
@@ -51030,7 +51035,7 @@
         "state": "future"
     },
     "hotbot.com": {
-        "epoch": 1775865600,
+        "epoch": 1775865600.0,
         "expiration_date": "11-apr-2026",
         "state": "future"
     },
@@ -51305,7 +51310,7 @@
         "state": "future"
     },
     "houseandleisure.co.za": {
-        "epoch": 1602633600,
+        "epoch": 1602633600.0,
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
@@ -53605,7 +53610,7 @@
         "state": "future"
     },
     "ilkleygazette.co.uk": {
-        "epoch": 1635984000,
+        "epoch": 1635984000.0,
         "expiration_date": "04-nov-2021",
         "state": "future"
     },
@@ -54465,7 +54470,7 @@
         "state": "future"
     },
     "indeed.co.uk": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
@@ -54890,7 +54895,7 @@
         "state": "future"
     },
     "infosecurity-magazine.com": {
-        "epoch": 1579996800,
+        "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
@@ -55360,7 +55365,7 @@
         "state": "future"
     },
     "intelius.com": {
-        "epoch": 1791072000,
+        "epoch": 1791072000.0,
         "expiration_date": "04-oct-2026",
         "state": "future"
     },
@@ -55600,7 +55605,7 @@
         "state": "future"
     },
     "inthesetimes.com": {
-        "epoch": 1602028800,
+        "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
@@ -55930,7 +55935,7 @@
         "state": "future"
     },
     "iphonebenchmark.net": {
-        "epoch": 1588723200,
+        "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
         "state": "future"
     },
@@ -56580,7 +56585,7 @@
         "state": "future"
     },
     "ithacajournal.com": {
-        "epoch": 1597708800,
+        "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
@@ -56675,7 +56680,7 @@
         "state": "future"
     },
     "itwebafrica.com": {
-        "epoch": 1615766400,
+        "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
@@ -56830,7 +56835,7 @@
         "state": "future"
     },
     "iwatchstuff.com": {
-        "epoch": 1696032000,
+        "epoch": 1696032000.0,
         "expiration_date": "30-sep-2023",
         "state": "future"
     },
@@ -57190,8 +57195,8 @@
         "state": "future"
     },
     "jaguarforums.com": {
-        "epoch": 1573776000,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "jaguars.com": {
@@ -59055,7 +59060,7 @@
         "state": "future"
     },
     "jrn.com": {
-        "epoch": 1707609600,
+        "epoch": 1707609600.0,
         "expiration_date": "11-feb-2024",
         "state": "future"
     },
@@ -59160,7 +59165,7 @@
         "state": "future"
     },
     "jta.org": {
-        "epoch": 1629504000,
+        "epoch": 1629504000.0,
         "expiration_date": "21-aug-2021",
         "state": "future"
     },
@@ -60195,7 +60200,7 @@
         "state": "future"
     },
     "kcra.com": {
-        "epoch": 1600905600,
+        "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
@@ -60310,7 +60315,7 @@
         "state": "future"
     },
     "keighleynews.co.uk": {
-        "epoch": 1635984000,
+        "epoch": 1635984000.0,
         "expiration_date": "04-nov-2021",
         "state": "future"
     },
@@ -60440,7 +60445,7 @@
         "state": "future"
     },
     "ketv.com": {
-        "epoch": 1596758400,
+        "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
@@ -60455,7 +60460,7 @@
         "state": "future"
     },
     "keyetv.com": {
-        "epoch": 1591660800,
+        "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
@@ -60500,7 +60505,7 @@
         "state": "future"
     },
     "kfax.com": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
@@ -60625,7 +60630,7 @@
         "state": "future"
     },
     "khak.com": {
-        "epoch": 1598832000,
+        "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
@@ -60745,7 +60750,7 @@
         "state": "future"
     },
     "kidderminstershuttle.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -61125,7 +61130,7 @@
         "state": "future"
     },
     "kkyr.com": {
-        "epoch": 1594598400,
+        "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
@@ -61255,7 +61260,7 @@
         "state": "future"
     },
     "kmbc.com": {
-        "epoch": 1576800000,
+        "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
         "state": "future"
     },
@@ -61355,7 +61360,7 @@
         "state": "future"
     },
     "knoworthy.com": {
-        "epoch": 1670284800,
+        "epoch": 1670284800.0,
         "expiration_date": "06-dec-2022",
         "state": "future"
     },
@@ -61410,7 +61415,7 @@
         "state": "future"
     },
     "knutsfordguardian.co.uk": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
@@ -61665,7 +61670,7 @@
         "state": "future"
     },
     "kosy790am.com": {
-        "epoch": 1605830400,
+        "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
@@ -61710,7 +61715,7 @@
         "state": "future"
     },
     "kpbs.org": {
-        "epoch": 1592092800,
+        "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
@@ -62485,7 +62490,7 @@
         "state": "future"
     },
     "kygl.com": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -62560,7 +62565,7 @@
         "state": "future"
     },
     "l4dmaps.com": {
-        "epoch": 1813881600,
+        "epoch": 1813881600.0,
         "expiration_date": "25-jun-2027",
         "state": "future"
     },
@@ -62700,7 +62705,7 @@
         "state": "future"
     },
     "laist.com": {
-        "epoch": 1647561600,
+        "epoch": 1647561600.0,
         "expiration_date": "18-mar-2022",
         "state": "future"
     },
@@ -62720,7 +62725,7 @@
         "state": "future"
     },
     "lake-link.com": {
-        "epoch": 1597881600,
+        "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
@@ -62775,7 +62780,7 @@
         "state": "future"
     },
     "lancashiretelegraph.co.uk": {
-        "epoch": 1588464000,
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
@@ -63000,7 +63005,7 @@
         "state": "future"
     },
     "laughingsquid.com": {
-        "epoch": 1851638400,
+        "epoch": 1851638400.0,
         "expiration_date": "04-sep-2028",
         "state": "future"
     },
@@ -63485,7 +63490,7 @@
         "state": "future"
     },
     "ledburyreporter.co.uk": {
-        "epoch": 1593907200,
+        "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
@@ -63550,7 +63555,7 @@
         "state": "future"
     },
     "legalbusinessonline.com": {
-        "epoch": 1598745600,
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
@@ -63620,7 +63625,7 @@
         "state": "future"
     },
     "leighjournal.co.uk": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
@@ -63680,7 +63685,7 @@
         "state": "future"
     },
     "lep.co.uk": {
-        "epoch": 1594944000,
+        "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
@@ -64315,7 +64320,7 @@
         "state": "future"
     },
     "linexdown.net": {
-        "epoch": 1588032000,
+        "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
@@ -64535,7 +64540,7 @@
         "state": "future"
     },
     "linux-mag.com": {
-        "epoch": 1579824000,
+        "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
@@ -64605,12 +64610,12 @@
         "state": "future"
     },
     "linxdown.com": {
-        "epoch": 1576627200,
+        "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "linxdown.me": {
-        "epoch": 1597017600,
+        "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
@@ -64670,7 +64675,7 @@
         "state": "future"
     },
     "listverse.com": {
-        "epoch": 1877385600,
+        "epoch": 1877385600.0,
         "expiration_date": "29-jun-2029",
         "state": "future"
     },
@@ -64680,7 +64685,7 @@
         "state": "future"
     },
     "litecointalk.org": {
-        "epoch": 1601769600,
+        "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
@@ -64890,7 +64895,7 @@
         "state": "future"
     },
     "liverpooldailypost.co.uk": {
-        "epoch": 1596672000,
+        "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
@@ -65005,7 +65010,7 @@
         "state": "future"
     },
     "livingfilms.org": {
-        "epoch": 1598745600,
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
@@ -65915,7 +65920,7 @@
         "state": "future"
     },
     "lowellsun.com": {
-        "epoch": 1595462400,
+        "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
@@ -66315,7 +66320,7 @@
         "state": "future"
     },
     "ludlowadvertiser.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -66805,7 +66810,7 @@
         "state": "future"
     },
     "lyricsty.com": {
-        "epoch": 1626825600,
+        "epoch": 1626825600.0,
         "expiration_date": "21-jul-2021",
         "state": "future"
     },
@@ -67025,7 +67030,7 @@
         "state": "future"
     },
     "macmillandictionary.com": {
-        "epoch": 1615248000,
+        "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
         "state": "future"
     },
@@ -67120,7 +67125,7 @@
         "state": "future"
     },
     "made-in-china.com": {
-        "epoch": 1582848000,
+        "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
@@ -67130,7 +67135,7 @@
         "state": "future"
     },
     "mademan.com": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -67440,7 +67445,7 @@
         "state": "future"
     },
     "maldonandburnhamstandard.co.uk": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -67480,7 +67485,7 @@
         "state": "future"
     },
     "malverngazette.co.uk": {
-        "epoch": 1593907200,
+        "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
@@ -67940,7 +67945,7 @@
         "state": "future"
     },
     "marketingland.com": {
-        "epoch": 1585440000,
+        "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
@@ -68520,7 +68525,7 @@
         "state": "future"
     },
     "mcleanconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -68835,7 +68840,7 @@
         "state": "future"
     },
     "mediacomcable.com": {
-        "epoch": 1619568000,
+        "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
         "state": "future"
     },
@@ -68910,7 +68915,7 @@
         "state": "future"
     },
     "mediagazer.com": {
-        "epoch": 1600387200,
+        "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
@@ -69380,7 +69385,7 @@
         "state": "future"
     },
     "memorybenchmark.net": {
-        "epoch": 1658361600,
+        "epoch": 1658361600.0,
         "expiration_date": "21-jul-2022",
         "state": "future"
     },
@@ -69530,7 +69535,7 @@
         "state": "future"
     },
     "messengernewspapers.co.uk": {
-        "epoch": 1612656000,
+        "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
@@ -70085,7 +70090,7 @@
         "state": "future"
     },
     "middlewichguardian.co.uk": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
@@ -70185,7 +70190,7 @@
         "state": "future"
     },
     "milfordmercury.co.uk": {
-        "epoch": 1621814400,
+        "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
         "state": "future"
     },
@@ -70275,7 +70280,7 @@
         "state": "future"
     },
     "minecraftservers.org": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -70475,7 +70480,7 @@
         "state": "future"
     },
     "mix933fm.com": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
@@ -70980,7 +70985,7 @@
         "state": "future"
     },
     "mobile-tech-today.com": {
-        "epoch": 1581724800,
+        "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
@@ -70990,7 +70995,7 @@
         "state": "future"
     },
     "mobilebloom.com": {
-        "epoch": 1587600000,
+        "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
@@ -71045,7 +71050,7 @@
         "state": "future"
     },
     "mobilitydigest.com": {
-        "epoch": 1581292800,
+        "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
@@ -71165,7 +71170,7 @@
         "state": "future"
     },
     "modernghana.com": {
-        "epoch": 1596412800,
+        "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
@@ -71345,7 +71350,7 @@
         "state": "future"
     },
     "momtastic.com": {
-        "epoch": 1667606400,
+        "epoch": 1667606400.0,
         "expiration_date": "05-nov-2022",
         "state": "future"
     },
@@ -71470,7 +71475,7 @@
         "state": "future"
     },
     "moneyweek.com": {
-        "epoch": 1592956800,
+        "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
@@ -71520,7 +71525,7 @@
         "state": "future"
     },
     "monmouthshirecountylife.co.uk": {
-        "epoch": 1583884800,
+        "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
@@ -71550,7 +71555,7 @@
         "state": "future"
     },
     "monsterindia.com": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -71715,7 +71720,7 @@
         "state": "future"
     },
     "morningadvertiser.co.uk": {
-        "epoch": 1583107200,
+        "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
@@ -71765,7 +71770,7 @@
         "state": "future"
     },
     "morokaswallows.co.za": {
-        "epoch": 1593043200,
+        "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
@@ -71795,7 +71800,7 @@
         "state": "future"
     },
     "mosnews.com": {
-        "epoch": 1602201600,
+        "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
@@ -71955,7 +71960,7 @@
         "state": "future"
     },
     "mountvernongazette.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -71965,7 +71970,7 @@
         "state": "future"
     },
     "mouseprice.com": {
-        "epoch": 1590451200,
+        "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
         "state": "future"
     },
@@ -73460,7 +73465,7 @@
         "state": "future"
     },
     "mygames4girls.com": {
-        "epoch": 1575590400,
+        "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
@@ -73575,7 +73580,7 @@
         "state": "future"
     },
     "mymovies.net": {
-        "epoch": 1704326400,
+        "epoch": 1704326400.0,
         "expiration_date": "04-jan-2024",
         "state": "future"
     },
@@ -73680,7 +73685,7 @@
         "state": "future"
     },
     "myprivatesearch.com": {
-        "epoch": 1578355200,
+        "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
@@ -73920,7 +73925,7 @@
         "state": "future"
     },
     "mywot.com": {
-        "epoch": 1597363200,
+        "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
@@ -74070,7 +74075,7 @@
         "state": "future"
     },
     "nabble.com": {
-        "epoch": 1577491200,
+        "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
         "state": "future"
     },
@@ -74360,7 +74365,7 @@
         "state": "future"
     },
     "natgeotraveller.in": {
-        "epoch": 1599868800,
+        "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
@@ -74605,7 +74610,7 @@
         "state": "future"
     },
     "nbcbayarea.com": {
-        "epoch": 1627948800,
+        "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
@@ -74625,7 +74630,7 @@
         "state": "future"
     },
     "nbcolympics.com": {
-        "epoch": 1628035200,
+        "epoch": 1628035200.0,
         "expiration_date": "04-aug-2021",
         "state": "future"
     },
@@ -75500,7 +75505,7 @@
         "state": "future"
     },
     "newgrounds.com": {
-        "epoch": 1663286400,
+        "epoch": 1663286400.0,
         "expiration_date": "16-sep-2022",
         "state": "future"
     },
@@ -75605,7 +75610,7 @@
         "state": "future"
     },
     "newrepublic.com": {
-        "epoch": 1606780800,
+        "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
@@ -75635,7 +75640,7 @@
         "state": "future"
     },
     "news-medical.net": {
-        "epoch": 1582848000,
+        "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
@@ -75675,7 +75680,7 @@
         "state": "future"
     },
     "news919.com": {
-        "epoch": 1601164800,
+        "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
@@ -75685,7 +75690,7 @@
         "state": "future"
     },
     "news957.com": {
-        "epoch": 1601164800,
+        "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
@@ -75915,7 +75920,7 @@
         "state": "future"
     },
     "newsshopper.co.uk": {
-        "epoch": 1575417600,
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
@@ -75990,7 +75995,7 @@
         "state": "future"
     },
     "newswiretoday.com": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -76060,7 +76065,7 @@
         "state": "future"
     },
     "newyorkupstate.com": {
-        "epoch": 1627776000,
+        "epoch": 1627776000.0,
         "expiration_date": "01-aug-2021",
         "state": "future"
     },
@@ -76115,7 +76120,7 @@
         "state": "future"
     },
     "nextdoor.com": {
-        "epoch": 1613001600,
+        "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
         "state": "future"
     },
@@ -76355,7 +76360,7 @@
         "state": "future"
     },
     "niagarafallsreview.ca": {
-        "epoch": 1613088000,
+        "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
@@ -76535,7 +76540,7 @@
         "state": "future"
     },
     "nineoclock.ro": {
-        "epoch": 1692316800,
+        "epoch": 1692316800.0,
         "expiration_date": "18-aug-2023",
         "state": "future"
     },
@@ -76695,7 +76700,7 @@
         "state": "past"
     },
     "njuice.com": {
-        "epoch": 1587772800,
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
@@ -76930,7 +76935,7 @@
         "state": "future"
     },
     "nocamels.com": {
-        "epoch": 1632268800,
+        "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
         "state": "future"
     },
@@ -77100,7 +77105,7 @@
         "state": "future"
     },
     "northcountrypublicradio.org": {
-        "epoch": 1584057600,
+        "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
@@ -77185,12 +77190,12 @@
         "state": "future"
     },
     "northwichguardian.co.uk": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "northyorkshireadvertiser.co.uk": {
-        "epoch": 1628380800,
+        "epoch": 1628380800.0,
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
@@ -77290,7 +77295,7 @@
         "state": "future"
     },
     "nouse.co.uk": {
-        "epoch": 1598572800,
+        "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
@@ -78275,7 +78280,7 @@
         "state": "future"
     },
     "nypost.com": {
-        "epoch": 1601251200,
+        "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
@@ -78730,7 +78735,7 @@
         "state": "future"
     },
     "ocworkbench.com": {
-        "epoch": 1580601600,
+        "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
         "state": "future"
     },
@@ -78960,7 +78965,7 @@
         "state": "future"
     },
     "offshore-mag.com": {
-        "epoch": 1599004800,
+        "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
@@ -79110,7 +79115,7 @@
         "state": "future"
     },
     "ohinternet.com": {
-        "epoch": 1585785600,
+        "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
@@ -79865,7 +79870,7 @@
         "state": "future"
     },
     "onlyfungames.com": {
-        "epoch": 1581292800,
+        "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
@@ -80150,7 +80155,7 @@
         "state": "future"
     },
     "openwith.org": {
-        "epoch": 1582416000,
+        "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
@@ -80805,7 +80810,7 @@
         "state": "future"
     },
     "outlookindia.com": {
-        "epoch": 1628899200,
+        "epoch": 1628899200.0,
         "expiration_date": "14-aug-2021",
         "state": "future"
     },
@@ -80915,7 +80920,7 @@
         "state": "future"
     },
     "overthumbs.com": {
-        "epoch": 1606176000,
+        "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
@@ -81070,12 +81075,12 @@
         "state": "future"
     },
     "oxfordmail.co.uk": {
-        "epoch": 1590192000,
+        "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
         "state": "future"
     },
     "oxfordtimes.co.uk": {
-        "epoch": 1594771200,
+        "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
@@ -81360,7 +81365,7 @@
         "state": "future"
     },
     "pagesix.com": {
-        "epoch": 1599868800,
+        "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
@@ -81580,7 +81585,7 @@
         "state": "future"
     },
     "parent24.com": {
-        "epoch": 1589760000,
+        "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
         "state": "future"
     },
@@ -82145,7 +82150,7 @@
         "state": "future"
     },
     "pdnonline.com": {
-        "epoch": 1615161600,
+        "epoch": 1615161600.0,
         "expiration_date": "08-mar-2021",
         "state": "future"
     },
@@ -82315,7 +82320,7 @@
         "state": "future"
     },
     "penarthtimes.co.uk": {
-        "epoch": 1635206400,
+        "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
     },
@@ -82365,7 +82370,7 @@
         "state": "future"
     },
     "people.co.uk": {
-        "epoch": 1599523200,
+        "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
@@ -82480,7 +82485,7 @@
         "state": "future"
     },
     "periscopepost.com": {
-        "epoch": 1584230400,
+        "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
         "state": "future"
     },
@@ -82565,7 +82570,7 @@
         "state": "future"
     },
     "petoskeynews.com": {
-        "epoch": 1638662400,
+        "epoch": 1638662400.0,
         "expiration_date": "05-dec-2021",
         "state": "future"
     },
@@ -82825,7 +82830,7 @@
         "state": "future"
     },
     "phillyvoice.com": {
-        "epoch": 1597968000,
+        "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
@@ -83130,7 +83135,7 @@
         "state": "future"
     },
     "picosearch.com": {
-        "epoch": 1592870400,
+        "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
@@ -83360,7 +83365,7 @@
         "state": "future"
     },
     "pipl.com": {
-        "epoch": 1732752000,
+        "epoch": 1732752000.0,
         "expiration_date": "28-nov-2024",
         "state": "future"
     },
@@ -83460,7 +83465,7 @@
         "state": "future"
     },
     "pixabay.com": {
-        "epoch": 1602028800,
+        "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
@@ -83475,7 +83480,7 @@
         "state": "future"
     },
     "pixelatedgeek.com": {
-        "epoch": 1602806400,
+        "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
@@ -83705,7 +83710,7 @@
         "state": "future"
     },
     "planetf1.com": {
-        "epoch": 1580688000,
+        "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
@@ -83735,12 +83740,12 @@
         "state": "future"
     },
     "planetrugby.com": {
-        "epoch": 1598486400,
+        "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "planetsourcecode.com": {
-        "epoch": 1581552000,
+        "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
@@ -83910,7 +83915,7 @@
         "state": "future"
     },
     "playswitch.com": {
-        "epoch": 1610841600,
+        "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
@@ -84420,7 +84425,7 @@
         "state": "future"
     },
     "pokernewsreport.com": {
-        "epoch": 1619222400,
+        "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
         "state": "future"
     },
@@ -84445,12 +84450,12 @@
         "state": "future"
     },
     "pokertube.com": {
-        "epoch": 1651449600,
+        "epoch": 1651449600.0,
         "expiration_date": "02-may-2022",
         "state": "future"
     },
     "pokerupdate.com": {
-        "epoch": 1621468800,
+        "epoch": 1621468800.0,
         "expiration_date": "20-may-2021",
         "state": "future"
     },
@@ -85575,7 +85580,7 @@
         "state": "future"
     },
     "portsmouth.co.uk": {
-        "epoch": 1576972800,
+        "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
@@ -85690,7 +85695,7 @@
         "state": "future"
     },
     "potomacalmanac.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -85725,7 +85730,7 @@
         "state": "future"
     },
     "power959.com": {
-        "epoch": 1600214400,
+        "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
@@ -86210,12 +86215,12 @@
         "state": "future"
     },
     "prestontoday.net": {
-        "epoch": 1588809600,
+        "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
         "state": "future"
     },
     "prestwichandwhitefieldguide.co.uk": {
-        "epoch": 1619481600,
+        "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
@@ -86520,7 +86525,7 @@
         "state": "future"
     },
     "proactiveinvestors.com": {
-        "epoch": 1697068800,
+        "epoch": 1697068800.0,
         "expiration_date": "12-oct-2023",
         "state": "future"
     },
@@ -86855,7 +86860,7 @@
         "state": "future"
     },
     "protect-url.net": {
-        "epoch": 1587081600,
+        "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
@@ -87035,7 +87040,7 @@
         "state": "future"
     },
     "przoom.com": {
-        "epoch": 1581292800,
+        "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
@@ -87145,7 +87150,7 @@
         "state": "future"
     },
     "psmag.com": {
-        "epoch": 1596585600,
+        "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
@@ -87545,7 +87550,7 @@
         "state": "future"
     },
     "pulse.co.uk": {
-        "epoch": 1601424000,
+        "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
@@ -88075,7 +88080,7 @@
         "state": "future"
     },
     "pwnage.tv": {
-        "epoch": 1591401600,
+        "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
@@ -89245,7 +89250,7 @@
         "state": "future"
     },
     "qrobe.it": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
@@ -89480,7 +89485,7 @@
         "state": "future"
     },
     "queentorrent.com": {
-        "epoch": 1591747200,
+        "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
@@ -89640,7 +89645,7 @@
         "state": "future"
     },
     "quora.com": {
-        "epoch": 1711670400,
+        "epoch": 1711670400.0,
         "expiration_date": "29-mar-2024",
         "state": "future"
     },
@@ -90445,7 +90450,7 @@
         "state": "future"
     },
     "rapid-search-engine.com": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
@@ -91360,7 +91365,7 @@
         "state": "future"
     },
     "realclearworld.com": {
-        "epoch": 1580169600,
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
@@ -91405,7 +91410,7 @@
         "state": "future"
     },
     "realitytea.com": {
-        "epoch": 1646611200,
+        "epoch": 1646611200.0,
         "expiration_date": "07-mar-2022",
         "state": "future"
     },
@@ -91675,7 +91680,7 @@
         "state": "future"
     },
     "redditchadvertiser.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -92300,7 +92305,7 @@
         "state": "future"
     },
     "reston-connection.com": {
-        "epoch": 1580428800,
+        "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
@@ -92890,7 +92895,7 @@
         "state": "future"
     },
     "richmondandtwickenhamtimes.co.uk": {
-        "epoch": 1626393600,
+        "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
         "state": "future"
     },
@@ -92990,7 +92995,7 @@
         "state": "future"
     },
     "riotimesonline.com": {
-        "epoch": 1677369600,
+        "epoch": 1677369600.0,
         "expiration_date": "26-feb-2023",
         "state": "future"
     },
@@ -93385,7 +93390,7 @@
         "state": "future"
     },
     "rock1049.com": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -93410,7 +93415,7 @@
         "state": "future"
     },
     "rockingsoccer.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -93425,7 +93430,7 @@
         "state": "future"
     },
     "rockthebells.net": {
-        "epoch": 1622505600,
+        "epoch": 1622505600.0,
         "expiration_date": "01-jun-2021",
         "state": "future"
     },
@@ -93580,7 +93585,7 @@
         "state": "future"
     },
     "romseyadvertiser.co.uk": {
-        "epoch": 1621641600,
+        "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
         "state": "future"
     },
@@ -94320,7 +94325,7 @@
         "state": "future"
     },
     "runcornandwidnesworld.co.uk": {
-        "epoch": 1605744000,
+        "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
@@ -95060,7 +95065,7 @@
         "state": "future"
     },
     "sakshieducation.com": {
-        "epoch": 1839715200,
+        "epoch": 1839715200.0,
         "expiration_date": "19-apr-2028",
         "state": "future"
     },
@@ -95115,7 +95120,7 @@
         "state": "future"
     },
     "salisburyjournal.co.uk": {
-        "epoch": 1586131200,
+        "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
@@ -95370,17 +95375,17 @@
         "state": "future"
     },
     "sassyhongkong.com": {
-        "epoch": 1579132800,
+        "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "sassymamahk.com": {
-        "epoch": 1579046400,
+        "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "sassymanila.com": {
-        "epoch": 1600473600,
+        "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
@@ -95395,7 +95400,7 @@
         "state": "future"
     },
     "sat-television.com": {
-        "epoch": 1593129600,
+        "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
@@ -95420,7 +95425,7 @@
         "state": "future"
     },
     "satfriends.com": {
-        "epoch": 1583366400,
+        "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
@@ -95445,7 +95450,7 @@
         "state": "future"
     },
     "satsupreme.com": {
-        "epoch": 1585699200,
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
@@ -95725,7 +95730,7 @@
         "state": "future"
     },
     "sciagaj.org": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
@@ -95740,7 +95745,7 @@
         "state": "future"
     },
     "sciencedaily.com": {
-        "epoch": 1857859200,
+        "epoch": 1857859200.0,
         "expiration_date": "15-nov-2028",
         "state": "future"
     },
@@ -95885,7 +95890,7 @@
         "state": "future"
     },
     "scottishdailyexpress.co.uk": {
-        "epoch": 1581120000,
+        "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
@@ -96145,7 +96150,7 @@
         "state": "future"
     },
     "searchengineland.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
@@ -96735,7 +96740,7 @@
         "state": "future"
     },
     "seroundtable.com": {
-        "epoch": 1575417600,
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
@@ -97320,7 +97325,7 @@
         "state": "future"
     },
     "sfist.com": {
-        "epoch": 1773792000,
+        "epoch": 1773792000.0,
         "expiration_date": "18-mar-2026",
         "state": "future"
     },
@@ -97840,7 +97845,7 @@
         "state": "future"
     },
     "shieldsgazette.com": {
-        "epoch": 1639612800,
+        "epoch": 1639612800.0,
         "expiration_date": "16-dec-2021",
         "state": "future"
     },
@@ -98450,7 +98455,7 @@
         "state": "future"
     },
     "simplefilesearch.com": {
-        "epoch": 1589414400,
+        "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
         "state": "future"
     },
@@ -98955,7 +98960,7 @@
         "state": "future"
     },
     "slack-time.com": {
-        "epoch": 1584748800,
+        "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
@@ -99025,7 +99030,7 @@
         "state": "future"
     },
     "sleepywood.net": {
-        "epoch": 1602460800,
+        "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
         "state": "future"
     },
@@ -99355,7 +99360,7 @@
         "state": "future"
     },
     "smartwebby.com": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
@@ -99720,7 +99725,7 @@
         "state": "future"
     },
     "sny.tv": {
-        "epoch": 1608076800,
+        "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
@@ -99740,8 +99745,8 @@
         "state": "future"
     },
     "soapmakingforum.com": {
-        "epoch": 1573603200,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "soapoperadigest.com": {
@@ -100155,7 +100160,7 @@
         "state": "future"
     },
     "somersetcountygazette.co.uk": {
-        "epoch": 1610755200,
+        "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
@@ -100180,7 +100185,7 @@
         "state": "future"
     },
     "somoto.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -100215,7 +100220,7 @@
         "state": "future"
     },
     "sonicnation.ca": {
-        "epoch": 1591401600,
+        "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
@@ -100425,7 +100430,7 @@
         "state": "future"
     },
     "southendstandard.co.uk": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
@@ -100480,12 +100485,12 @@
         "state": "future"
     },
     "southwalesargus.co.uk": {
-        "epoch": 1618185600,
+        "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "southwalesguardian.co.uk": {
-        "epoch": 1635206400,
+        "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
     },
@@ -100530,7 +100535,7 @@
         "state": "future"
     },
     "spaldingtoday.co.uk": {
-        "epoch": 1601856000,
+        "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
@@ -100750,7 +100755,7 @@
         "state": "future"
     },
     "spike.com": {
-        "epoch": 1575849600,
+        "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
@@ -101110,7 +101115,7 @@
         "state": "future"
     },
     "springfieldconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -101580,7 +101585,7 @@
         "state": "future"
     },
     "stalbansreview.co.uk": {
-        "epoch": 1589673600,
+        "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
         "state": "future"
     },
@@ -101640,7 +101645,7 @@
         "state": "future"
     },
     "star935fm.com": {
-        "epoch": 1583712000,
+        "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
@@ -101775,7 +101780,7 @@
         "state": "future"
     },
     "startpins.com": {
-        "epoch": 1587600000,
+        "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
@@ -102020,7 +102025,7 @@
         "state": "future"
     },
     "stevedeace.com": {
-        "epoch": 1584662400,
+        "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
@@ -102030,7 +102035,7 @@
         "state": "future"
     },
     "sthelensstar.co.uk": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
@@ -102200,7 +102205,7 @@
         "state": "future"
     },
     "stourbridgenews.co.uk": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -102315,7 +102320,7 @@
         "state": "future"
     },
     "streamingthe.net": {
-        "epoch": 1596585600,
+        "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
         "state": "future"
     },
@@ -102440,7 +102445,7 @@
         "state": "future"
     },
     "studentdoctor.net": {
-        "epoch": 1628985600,
+        "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
         "state": "future"
     },
@@ -102740,7 +102745,7 @@
         "state": "future"
     },
     "sunderlandecho.com": {
-        "epoch": 1639612800,
+        "epoch": 1639612800.0,
         "expiration_date": "16-dec-2021",
         "state": "future"
     },
@@ -102860,7 +102865,7 @@
         "state": "future"
     },
     "superherohype.com": {
-        "epoch": 1647216000,
+        "epoch": 1647216000.0,
         "expiration_date": "14-mar-2022",
         "state": "future"
     },
@@ -103010,7 +103015,7 @@
         "state": "future"
     },
     "surreycomet.co.uk": {
-        "epoch": 1606435200,
+        "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
@@ -103095,7 +103100,7 @@
         "state": "future"
     },
     "suttonguardian.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -103360,7 +103365,7 @@
         "state": "future"
     },
     "swindonadvertiser.co.uk": {
-        "epoch": 1614988800,
+        "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
@@ -103685,7 +103690,7 @@
         "state": "future"
     },
     "tablesleague.com": {
-        "epoch": 1590796800,
+        "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
         "state": "future"
     },
@@ -103900,7 +103905,7 @@
         "state": "future"
     },
     "talksms.com": {
-        "epoch": 1598572800,
+        "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
@@ -104275,7 +104280,7 @@
         "state": "future"
     },
     "tbs.com": {
-        "epoch": 1773273600,
+        "epoch": 1773273600.0,
         "expiration_date": "12-mar-2026",
         "state": "future"
     },
@@ -104740,7 +104745,7 @@
         "state": "future"
     },
     "techonomy.com": {
-        "epoch": 1699228800,
+        "epoch": 1699228800.0,
         "expiration_date": "06-nov-2023",
         "state": "future"
     },
@@ -104840,7 +104845,7 @@
         "state": "future"
     },
     "techwire.net": {
-        "epoch": 1585353600,
+        "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
@@ -104975,7 +104980,7 @@
         "state": "future"
     },
     "tekrevue.com": {
-        "epoch": 1582156800,
+        "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
@@ -104990,7 +104995,7 @@
         "state": "future"
     },
     "telecompaper.com": {
-        "epoch": 1575504000,
+        "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
@@ -105300,7 +105305,7 @@
         "state": "future"
     },
     "tewkesburyadmag.co.uk": {
-        "epoch": 1575244800,
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
@@ -105640,7 +105645,7 @@
         "state": "future"
     },
     "the18.com": {
-        "epoch": 1577491200,
+        "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
         "state": "future"
     },
@@ -105725,7 +105730,7 @@
         "state": "future"
     },
     "theargus.co.uk": {
-        "epoch": 1580688000,
+        "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
@@ -105740,7 +105745,7 @@
         "state": "future"
     },
     "theatlanticwire.com": {
-        "epoch": 1779753600,
+        "epoch": 1779753600.0,
         "expiration_date": "26-may-2026",
         "state": "future"
     },
@@ -105760,7 +105765,7 @@
         "state": "future"
     },
     "thebadandugly.com": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
@@ -105835,7 +105840,7 @@
         "state": "future"
     },
     "theboltonnews.co.uk": {
-        "epoch": 1588464000,
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
@@ -106105,7 +106110,7 @@
         "state": "future"
     },
     "thedirty.com": {
-        "epoch": 1579737600,
+        "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
@@ -106210,7 +106215,7 @@
         "state": "future"
     },
     "thefederalistpapers.org": {
-        "epoch": 1614297600,
+        "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
         "state": "future"
     },
@@ -106225,7 +106230,7 @@
         "state": "future"
     },
     "thefinancialbrand.com": {
-        "epoch": 1701820800,
+        "epoch": 1701820800.0,
         "expiration_date": "06-dec-2023",
         "state": "future"
     },
@@ -106510,7 +106515,7 @@
         "state": "future"
     },
     "thejointblog.com": {
-        "epoch": 1611446400,
+        "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
@@ -106660,7 +106665,7 @@
         "state": "future"
     },
     "themeditelegraph.com": {
-        "epoch": 1586390400,
+        "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
@@ -106740,8 +106745,8 @@
         "state": "future"
     },
     "thenational.scot": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "thenationalsentinel.com": {
@@ -106835,12 +106840,12 @@
         "state": "future"
     },
     "thenokiablog.com": {
-        "epoch": 1601251200,
+        "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "thenorthernecho.co.uk": {
-        "epoch": 1594252800,
+        "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
@@ -106915,7 +106920,7 @@
         "state": "future"
     },
     "thepeoplesperson.com": {
-        "epoch": 1619481600,
+        "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
@@ -107065,7 +107070,7 @@
         "state": "future"
     },
     "thescarboroughnews.co.uk": {
-        "epoch": 1587945600,
+        "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
@@ -107080,7 +107085,7 @@
         "state": "future"
     },
     "thescottishfarmer.co.uk": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
@@ -107225,7 +107230,7 @@
         "state": "future"
     },
     "thestar.co.uk": {
-        "epoch": 1590796800,
+        "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
         "state": "future"
     },
@@ -107300,7 +107305,7 @@
         "state": "future"
     },
     "theteachercorner.net": {
-        "epoch": 1589932800,
+        "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
         "state": "future"
     },
@@ -107335,7 +107340,7 @@
         "state": "future"
     },
     "thetelegraphandargus.co.uk": {
-        "epoch": 1615680000,
+        "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
@@ -107375,7 +107380,7 @@
         "state": "future"
     },
     "thetottenhamindependent.co.uk": {
-        "epoch": 1631923200,
+        "epoch": 1631923200.0,
         "expiration_date": "18-sep-2021",
         "state": "future"
     },
@@ -107525,7 +107530,7 @@
         "state": "future"
     },
     "thewestmorlandgazette.co.uk": {
-        "epoch": 1625356800,
+        "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
         "state": "future"
     },
@@ -107570,7 +107575,7 @@
         "state": "future"
     },
     "theworld.org": {
-        "epoch": 1582070400,
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
@@ -107625,7 +107630,7 @@
         "state": "future"
     },
     "thinksteroids.com": {
-        "epoch": 1830297600,
+        "epoch": 1830297600.0,
         "expiration_date": "01-jan-2028",
         "state": "future"
     },
@@ -107705,7 +107710,7 @@
         "state": "future"
     },
     "thisisthewestcountry.co.uk": {
-        "epoch": 1592870400,
+        "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
@@ -107865,7 +107870,7 @@
         "state": "future"
     },
     "thurrockgazette.co.uk": {
-        "epoch": 1583884800,
+        "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
@@ -107955,7 +107960,7 @@
         "state": "future"
     },
     "ticotimes.net": {
-        "epoch": 1681862400,
+        "epoch": 1681862400.0,
         "expiration_date": "19-apr-2023",
         "state": "future"
     },
@@ -108070,7 +108075,7 @@
         "state": "future"
     },
     "time.is": {
-        "epoch": 1583712000,
+        "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
@@ -108140,7 +108145,7 @@
         "state": "future"
     },
     "times-series.co.uk": {
-        "epoch": 1576368000,
+        "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
@@ -108735,7 +108740,7 @@
         "state": "future"
     },
     "tnp.sg": {
-        "epoch": 1609632000,
+        "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
@@ -109085,7 +109090,7 @@
         "state": "future"
     },
     "topclassifieds.info": {
-        "epoch": 1581033600,
+        "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
@@ -109185,7 +109190,7 @@
         "state": "future"
     },
     "toptechnews.com": {
-        "epoch": 1594512000,
+        "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
@@ -109235,7 +109240,7 @@
         "state": "future"
     },
     "torfinder.net": {
-        "epoch": 1595116800,
+        "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
@@ -109515,7 +109520,7 @@
         "state": "future"
     },
     "totalxbox.com": {
-        "epoch": 1586131200,
+        "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
@@ -109530,7 +109535,7 @@
         "state": "future"
     },
     "tothepc.com": {
-        "epoch": 1583539200,
+        "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
@@ -109560,7 +109565,7 @@
         "state": "future"
     },
     "towersearch.com": {
-        "epoch": 1599004800,
+        "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
@@ -110255,7 +110260,7 @@
         "state": "future"
     },
     "traveller24.com": {
-        "epoch": 1595030400,
+        "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
@@ -110665,7 +110670,7 @@
         "state": "future"
     },
     "trovit.co.uk": {
-        "epoch": 1585353600,
+        "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
@@ -111145,7 +111150,7 @@
         "state": "future"
     },
     "tulsaworld.com": {
-        "epoch": 1685145600,
+        "epoch": 1685145600.0,
         "expiration_date": "27-may-2023",
         "state": "future"
     },
@@ -111335,7 +111340,7 @@
         "state": "future"
     },
     "tuvaro.com": {
-        "epoch": 1578528000,
+        "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
         "state": "future"
     },
@@ -111430,7 +111435,7 @@
         "state": "future"
     },
     "tvgolo.com": {
-        "epoch": 1600819200,
+        "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
@@ -112740,7 +112745,7 @@
         "state": "future"
     },
     "ulivetv.com": {
-        "epoch": 1593302400,
+        "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
@@ -113065,7 +113070,7 @@
         "state": "future"
     },
     "union-bulletin.com": {
-        "epoch": 1649203200,
+        "epoch": 1649203200.0,
         "expiration_date": "06-apr-2022",
         "state": "future"
     },
@@ -113810,7 +113815,7 @@
         "state": "future"
     },
     "userscripts.org": {
-        "epoch": 1586131200,
+        "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
@@ -113865,7 +113870,7 @@
         "state": "future"
     },
     "usnewsuniversitydirectory.com": {
-        "epoch": 1599523200,
+        "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
@@ -114585,7 +114590,7 @@
         "state": "future"
     },
     "varsity.com": {
-        "epoch": 1691625600,
+        "epoch": 1691625600.0,
         "expiration_date": "10-aug-2023",
         "state": "future"
     },
@@ -115015,7 +115020,7 @@
         "state": "future"
     },
     "verizon.net": {
-        "epoch": 1593993600,
+        "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
@@ -115075,7 +115080,7 @@
         "state": "past"
     },
     "veryfunnyads.com": {
-        "epoch": 1779753600,
+        "epoch": 1779753600.0,
         "expiration_date": "26-may-2026",
         "state": "future"
     },
@@ -115445,7 +115450,7 @@
         "state": "future"
     },
     "videobb.com": {
-        "epoch": 1598745600,
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
@@ -115455,7 +115460,7 @@
         "state": "future"
     },
     "videocardbenchmark.net": {
-        "epoch": 1670544000,
+        "epoch": 1670544000.0,
         "expiration_date": "09-dec-2022",
         "state": "future"
     },
@@ -115510,7 +115515,7 @@
         "state": "future"
     },
     "videolan.org": {
-        "epoch": 1580688000,
+        "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
@@ -115600,7 +115605,7 @@
         "state": "future"
     },
     "vidfile.net": {
-        "epoch": 1593302400,
+        "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
@@ -115710,7 +115715,7 @@
         "state": "future"
     },
     "viennaconnection.com": {
-        "epoch": 1588291200,
+        "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
         "state": "future"
     },
@@ -115925,7 +115930,7 @@
         "state": "future"
     },
     "virginmedia.com": {
-        "epoch": 1614384000,
+        "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
@@ -116370,7 +116375,7 @@
         "state": "future"
     },
     "vmn.net": {
-        "epoch": 1581206400,
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
@@ -117500,7 +117505,7 @@
         "state": "future"
     },
     "w3techs.com": {
-        "epoch": 1591660800,
+        "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
@@ -117595,7 +117600,7 @@
         "state": "future"
     },
     "wahcricket.com": {
-        "epoch": 1576368000,
+        "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
@@ -117655,7 +117660,7 @@
         "state": "future"
     },
     "wallpapers-room.com": {
-        "epoch": 1578355200,
+        "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
@@ -117755,7 +117760,7 @@
         "state": "future"
     },
     "wandsworthguardian.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -117875,7 +117880,7 @@
         "state": "future"
     },
     "warez-files.com": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
@@ -118170,7 +118175,7 @@
         "state": "future"
     },
     "watfordobserver.co.uk": {
-        "epoch": 1617235200,
+        "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
@@ -118270,7 +118275,7 @@
         "state": "future"
     },
     "wbal.com": {
-        "epoch": 1595635200,
+        "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
@@ -118525,7 +118530,7 @@
         "state": "future"
     },
     "wcvb.com": {
-        "epoch": 1587254400,
+        "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
         "state": "future"
     },
@@ -118615,7 +118620,7 @@
         "state": "future"
     },
     "wdun.com": {
-        "epoch": 1642377600,
+        "epoch": 1642377600.0,
         "expiration_date": "17-jan-2022",
         "state": "future"
     },
@@ -118645,7 +118650,7 @@
         "state": "future"
     },
     "weaponsmedia.com": {
-        "epoch": 1593648000,
+        "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
@@ -118660,12 +118665,12 @@
         "state": "future"
     },
     "weartv.com": {
-        "epoch": 1583625600,
+        "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "wearvalleyadvertiser.co.uk": {
-        "epoch": 1628380800,
+        "epoch": 1628380800.0,
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
@@ -118695,7 +118700,7 @@
         "state": "future"
     },
     "weatherology.com": {
-        "epoch": 1621641600,
+        "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
         "state": "future"
     },
@@ -119480,7 +119485,7 @@
         "state": "future"
     },
     "westerntelegraph.co.uk": {
-        "epoch": 1618185600,
+        "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
@@ -119625,7 +119630,7 @@
         "state": "future"
     },
     "wfnt.com": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
@@ -119755,7 +119760,7 @@
         "state": "future"
     },
     "wgxa.tv": {
-        "epoch": 1627084800,
+        "epoch": 1627084800.0,
         "expiration_date": "24-jul-2021",
         "state": "future"
     },
@@ -119790,7 +119795,7 @@
         "state": "future"
     },
     "wharfedaleobserver.co.uk": {
-        "epoch": 1577923200,
+        "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
@@ -119805,7 +119810,7 @@
         "state": "future"
     },
     "whatdigitalcamera.com": {
-        "epoch": 1608595200,
+        "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
@@ -119925,7 +119930,7 @@
         "state": "future"
     },
     "wheels.ca": {
-        "epoch": 1579132800,
+        "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
@@ -120090,7 +120095,7 @@
         "state": "future"
     },
     "whoownes.com": {
-        "epoch": 1624233600,
+        "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
         "state": "future"
     },
@@ -120280,7 +120285,7 @@
         "state": "future"
     },
     "wigantoday.net": {
-        "epoch": 1592524800,
+        "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
@@ -120415,7 +120420,7 @@
         "state": "future"
     },
     "wilmslowguardian.co.uk": {
-        "epoch": 1586908800,
+        "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
@@ -120425,7 +120430,7 @@
         "state": "future"
     },
     "wiltsglosstandard.co.uk": {
-        "epoch": 1618185600,
+        "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
@@ -120440,7 +120445,7 @@
         "state": "future"
     },
     "wiltshiretimes.co.uk": {
-        "epoch": 1575763200,
+        "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
         "state": "future"
     },
@@ -120450,7 +120455,7 @@
         "state": "future"
     },
     "wimbledonguardian.co.uk": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -120460,7 +120465,7 @@
         "state": "future"
     },
     "winaero.com": {
-        "epoch": 1720483200,
+        "epoch": 1720483200.0,
         "expiration_date": "09-jul-2024",
         "state": "future"
     },
@@ -120580,7 +120585,7 @@
         "state": "future"
     },
     "wine-searcher.com": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
@@ -120650,7 +120655,7 @@
         "state": "future"
     },
     "winscp.net": {
-        "epoch": 1581292800,
+        "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
@@ -120710,7 +120715,7 @@
         "state": "future"
     },
     "wirralglobe.co.uk": {
-        "epoch": 1621900800,
+        "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
         "state": "future"
     },
@@ -120775,7 +120780,7 @@
         "state": "past"
     },
     "witneygazette.co.uk": {
-        "epoch": 1615852800,
+        "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
@@ -120895,7 +120900,7 @@
         "state": "future"
     },
     "wklh.com": {
-        "epoch": 1603756800,
+        "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
@@ -121030,7 +121035,7 @@
         "state": "past"
     },
     "wmca.com": {
-        "epoch": 1608508800,
+        "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
         "state": "future"
     },
@@ -121210,7 +121215,7 @@
         "state": "future"
     },
     "women24.com": {
-        "epoch": 1591833600,
+        "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
@@ -121300,7 +121305,7 @@
         "state": "future"
     },
     "worcesternews.co.uk": {
-        "epoch": 1614556800,
+        "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
         "state": "future"
     },
@@ -121360,7 +121365,7 @@
         "state": "future"
     },
     "workhound.co.uk": {
-        "epoch": 1586649600,
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
@@ -121515,7 +121520,7 @@
         "state": "future"
     },
     "worldtimezone.com": {
-        "epoch": 1667088000,
+        "epoch": 1667088000.0,
         "expiration_date": "30-oct-2022",
         "state": "future"
     },
@@ -121585,7 +121590,7 @@
         "state": "future"
     },
     "wow-europe.com": {
-        "epoch": 1617062400,
+        "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
@@ -121635,7 +121640,7 @@
         "state": "future"
     },
     "wpbf.com": {
-        "epoch": 1591142400,
+        "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
@@ -121700,7 +121705,7 @@
         "state": "future"
     },
     "wprugby.com": {
-        "epoch": 1579910400,
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
@@ -121955,7 +121960,7 @@
         "state": "future"
     },
     "wscountytimes.co.uk": {
-        "epoch": 1576022400,
+        "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
@@ -122035,7 +122040,7 @@
         "state": "future"
     },
     "wtae.com": {
-        "epoch": 1581984000,
+        "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
@@ -122285,7 +122290,7 @@
         "state": "future"
     },
     "wwitv.com": {
-        "epoch": 1682985600,
+        "epoch": 1682985600.0,
         "expiration_date": "02-may-2023",
         "state": "future"
     },
@@ -122970,7 +122975,7 @@
         "state": "future"
     },
     "xda-developers.com": {
-        "epoch": 1607731200,
+        "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
@@ -123570,7 +123575,7 @@
         "state": "future"
     },
     "xml.com": {
-        "epoch": 1822176000,
+        "epoch": 1822176000.0,
         "expiration_date": "29-sep-2027",
         "state": "future"
     },
@@ -124680,7 +124685,7 @@
         "state": "future"
     },
     "yabiladi.com": {
-        "epoch": 1590364800,
+        "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
         "state": "future"
     },
@@ -125065,7 +125070,7 @@
         "state": "future"
     },
     "yellowise.com": {
-        "epoch": 1585267200,
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
@@ -125160,7 +125165,7 @@
         "state": "future"
     },
     "yeovilexpress.co.uk": {
-        "epoch": 1635206400,
+        "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
         "state": "future"
     },
@@ -125910,7 +125915,7 @@
         "state": "future"
     },
     "yorkshirepost.co.uk": {
-        "epoch": 1599696000,
+        "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
@@ -126060,7 +126065,7 @@
         "state": "future"
     },
     "yourclassical.org": {
-        "epoch": 1586390400,
+        "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
@@ -126090,7 +126095,7 @@
         "state": "future"
     },
     "yourepeat.com": {
-        "epoch": 1620259200,
+        "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
         "state": "future"
     },
@@ -126115,7 +126120,7 @@
         "state": "future"
     },
     "yourlocalguardian.co.uk": {
-        "epoch": 1628726400,
+        "epoch": 1628726400.0,
         "expiration_date": "12-aug-2021",
         "state": "future"
     },
@@ -126580,7 +126585,7 @@
         "state": "future"
     },
     "yumsugar.com": {
-        "epoch": 1581811200,
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
@@ -127315,7 +127320,7 @@
         "state": "future"
     },
     "zdnet.co.uk": {
-        "epoch": 1585440000,
+        "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
