@@ -7922,9 +7922,6 @@
         "1572905251": {
             "network.sofeminine.co.uk": "INACTIVE"
         },
-        "1572906546": {
-            "omegleconversations.com": "INACTIVE"
-        },
         "1572906727": {
             "oshili24.com.na": "INACTIVE"
         },
@@ -8013,20 +8010,8 @@
         "1572914841": {
             "themis.yahoo.com": "INACTIVE"
         },
-        "1572915174": {
-            "torrentindex.org": "INACTIVE"
-        },
-        "1572915245": {
-            "tracking.livingsocial.com": "INACTIVE"
-        },
-        "1572915257": {
-            "track.strife.com": "INACTIVE"
-        },
         "1572916063": {
             "traffic.focuusing.com": "INACTIVE"
-        },
-        "1572916221": {
-            "tulsaworld.autoracing.upickem.net": "INACTIVE"
         },
         "1572917396": {
             "videosgls.com.br": "INACTIVE"
@@ -8049,56 +8034,14 @@
         "1572918410": {
             "window.open": "INACTIVE"
         },
-        "1572918468": {
-            "wl1xbet.adsrv.eacdn.com": "INACTIVE"
-        },
-        "1572918647": {
-            "www.1clickmoviedownloader.net": "INACTIVE"
-        },
-        "1572918656": {
-            "www.ad2links.com": "INACTIVE"
-        },
-        "1572918677": {
-            "www.appsdl.site": "INACTIVE"
-        },
-        "1572918683": {
-            "www.binverse.com": "INACTIVE"
-        },
         "1572918693": {
             "www.cardsgate-cs.com": "INACTIVE"
-        },
-        "1572918705": {
-            "www.coinographic.com": "INACTIVE"
-        },
-        "1572918802": {
-            "www.mmo123.co": "INACTIVE"
-        },
-        "1572918833": {
-            "www.opselect.com": "INACTIVE"
-        },
-        "1572918834": {
-            "www.pc-bodyguard.com": "INACTIVE"
-        },
-        "1572918838": {
-            "www.popswatter.com": "INACTIVE"
         },
         "1572918845": {
             "www.safelinktrk.com": "INACTIVE"
         },
         "1572918865": {
             "www.shinydollars.com": "INACTIVE"
-        },
-        "1572919586": {
-            "www.softpedia.com": "INACTIVE"
-        },
-        "1572919596": {
-            "www.torrentindex.org": "INACTIVE"
-        },
-        "1572919604": {
-            "www.tvduck.com": "INACTIVE"
-        },
-        "1572919608": {
-            "www.wptmag.com": "INACTIVE"
         },
         "1572919919": {
             "yahoo.*": "INVALID"
@@ -8174,9 +8117,6 @@
         },
         "1573137612": {
             "bigsports.tv": "INACTIVE"
-        },
-        "1573137660": {
-            "bitcoinukforum.com": "INACTIVE"
         },
         "1573137674": {
             "bit.no.com": "INACTIVE"
@@ -26156,6 +26096,40 @@
         },
         "1574580535": {
             "sharelinks.xyz": "INACTIVE"
+        },
+        "1574581246": {
+            "catmo.ru": "INACTIVE",
+            "torrentindex.org": "INACTIVE"
+        },
+        "1574581251": {
+            "www.1clickmoviedownloader.net": "INACTIVE"
+        },
+        "1574581256": {
+            "bitcoinukforum.com": "INACTIVE"
+        },
+        "1574581258": {
+            "www.binverse.com": "INACTIVE"
+        },
+        "1574581261": {
+            "www.dplserve.com": "INACTIVE"
+        },
+        "1574581262": {
+            "omegleconversations.com": "INACTIVE"
+        },
+        "1574581268": {
+            "www.opselect.com": "INACTIVE"
+        },
+        "1574581269": {
+            "www.pc-bodyguard.com": "INACTIVE"
+        },
+        "1574581270": {
+            "www.popswatter.com": "INACTIVE"
+        },
+        "1574581276": {
+            "www.torrentindex.org": "INACTIVE"
+        },
+        "1574581292": {
+            "wl1xbet.adsrv.eacdn.com": "INACTIVE"
         }
     }
 }
