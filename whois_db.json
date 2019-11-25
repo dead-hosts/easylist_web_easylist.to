@@ -85925,9 +85925,9 @@
         "state": "future"
     },
     "ppbvmesssyacij.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
-        "state": "past"
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
     },
     "ppc-coach.com": {
         "epoch": 1586908800.0,
@@ -88229,6 +88229,11 @@
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
+    "pxgfdcfcrucazj.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "pxgfvpwkukl.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
@@ -89362,6 +89367,11 @@
     "qrlsx.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "qrnpjjkwjqbl.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "qrobe.it": {
