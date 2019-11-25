@@ -1835,8 +1835,8 @@
         "state": "future"
     },
     "474747.net": {
-        "epoch": 1574640000.0,
-        "expiration_date": "25-nov-2019",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "47f624b2e6c6072e.com": {
@@ -49527,7 +49527,7 @@
     "heromaza.co": {
         "epoch": 1574640000.0,
         "expiration_date": "25-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "heromaza.in": {
         "epoch": 1594771200,
@@ -74692,6 +74692,11 @@
     "navysports.com": {
         "epoch": 1669939200.0,
         "expiration_date": "02-dec-2022",
+        "state": "future"
+    },
+    "nawcc.org": {
+        "epoch": 1577491200.0,
+        "expiration_date": "28-dec-2019",
         "state": "future"
     },
     "nba-stream.com": {
