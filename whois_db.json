@@ -127144,6 +127144,16 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "yzytjgdrz.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "yzyycjzfkpveu.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "z100.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
@@ -127818,6 +127828,11 @@
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
         "state": "past"
+    },
+    "zhifinwgpwakue.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
     },
     "zhihrotpyphycy.com": {
         "epoch": 1593388800.0,
