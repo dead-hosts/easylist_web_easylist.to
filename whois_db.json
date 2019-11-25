@@ -11285,9 +11285,9 @@
         "state": "future"
     },
     "apiryrkxkhil.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "apkmaza.net": {
         "epoch": 1601164800.0,
@@ -13430,9 +13430,9 @@
         "state": "future"
     },
     "azfoibmukpwz.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "azgmbqhlr.com": {
         "epoch": 1600560000.0,
@@ -18977,6 +18977,11 @@
     "btobonline.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "btonzfjleinuax.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "btovopyov.com": {
