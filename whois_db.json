@@ -34927,7 +34927,7 @@
     "ehlfynuo.com": {
         "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ehnjtmqchrub.com": {
         "epoch": 1584662400.0,
@@ -35252,6 +35252,11 @@
     "elgg.org": {
         "epoch": 1691193600,
         "expiration_date": "05-aug-2023",
+        "state": "future"
+    },
+    "elhzbfovikex.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "elimpfdlss.com": {
@@ -44582,7 +44587,7 @@
     "gecxceztcnhkmh.com": {
         "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "geede.info": {
         "epoch": 1605225600.0,
@@ -45632,7 +45637,7 @@
     "gjriyqsfrnvuv.com": {
         "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "gjrstyulnbf.com": {
         "epoch": 1592524800.0,
