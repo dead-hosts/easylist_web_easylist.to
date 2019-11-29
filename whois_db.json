@@ -10230,8 +10230,8 @@
         "state": "future"
     },
     "amarotic.com": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "amateuralbum.net": {
@@ -117397,6 +117397,11 @@
     "vpnfortorrents.app": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "vpnfortorrents.best": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "vpnfortorrents.com": {
