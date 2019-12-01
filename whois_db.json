@@ -48229,6 +48229,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "gunimalpengu.com": {
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "state": "future"
+    },
     "gunnepaa.xyz": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
@@ -54850,8 +54855,8 @@
         "state": "future"
     },
     "impressiondesk.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "impressionmonster.com": {
@@ -56165,8 +56170,8 @@
         "state": "future"
     },
     "intimlife.net": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "state": "future"
     },
     "into-asia.com": {
@@ -58442,7 +58447,7 @@
     "jettags.rocks": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jeuqrslzoxdcz.com": {
         "epoch": 1562371200,
