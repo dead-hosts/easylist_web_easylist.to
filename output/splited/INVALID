@@ -13,6 +13,7 @@ Subject                                                                         
 35.188.                                                                                              SYNTAX     XXX        2019-12-01T07:16:59.877938
 35.193.                                                                                              SYNTAX     XXX        2019-12-01T07:17:00.000840
 88.208.23.                                                                                           SYNTAX     XXX        2019-12-01T19:07:04.291902
+ads-*.hulu.com                                                                                       SYNTAX     XXX        2019-12-01T19:25:18.681350
 algart.net*_banner_                                                                                  SYNTAX     XXX        2019-12-01T17:55:48.998703
 banners*.spacash.com                                                                                 SYNTAX     XXX        2019-12-01T19:07:12.504758
 cacheserve.*                                                                                         SYNTAX     XXX        2019-12-01T12:11:32.622924
@@ -20,10 +21,16 @@ cacheserve.*                                                                    
 cas.*.criteo.com                                                                                     SYNTAX     XXX        2019-12-01T17:56:30.978410
 caw.*.criteo.com                                                                                     SYNTAX     XXX        2019-12-01T17:56:32.858265
 cdaz.ciu                                                                                             SYNTAX     XXX        2019-12-01T16:44:03.969898
+cpm.amateurcommunity.*?cp=                                                                           SYNTAX     XXX        2019-12-01T19:24:59.717361
+dropapk.*                                                                                            SYNTAX     XXX        2019-12-01T19:25:41.620129
 eroticmix.blogspot.                                                                                  SYNTAX     XXX        2019-12-01T18:55:07.964703
+gamecopyworld.*                                                                                      SYNTAX     XXX        2019-12-01T19:25:51.036167
+gamecopyworld.*                                                                                      SYNTAX     XXX        2019-12-01T19:25:51.170844
+gamecopyworld.*                                                                                      SYNTAX     XXX        2019-12-01T19:25:51.321020
 get.*.website                                                                                        SYNTAX     XXX        2019-12-01T18:24:24.502886
 iad-*.blaze.com                                                                                      SYNTAX     XXX        2019-12-01T18:24:48.193276
 images.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-01T18:24:51.941139
+mobileoffers-*-download.com                                                                          SYNTAX     XXX        2019-12-01T19:24:42.675176
 online.*                                                                                             SYNTAX     XXX        2019-12-01T12:11:32.880265
 ox-d.*                                                                                               SYNTAX     XXX        2019-12-01T12:11:33.024863
 partners.heart2heartnetwork.                                                                         SYNTAX     XXX        2019-12-01T19:07:50.187042
