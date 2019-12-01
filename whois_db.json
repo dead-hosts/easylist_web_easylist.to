@@ -8352,7 +8352,7 @@
     "affec.tv": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "affifix.com": {
         "epoch": 1590969600.0,
@@ -12079,6 +12079,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "asesuggedame.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "asexstories.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
@@ -13155,8 +13160,8 @@
         "state": "future"
     },
     "awempire.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "awempt.com": {
