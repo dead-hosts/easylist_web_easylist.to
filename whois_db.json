@@ -67639,6 +67639,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "mabeetam.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "mac-forums.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
@@ -75445,8 +75450,8 @@
         "state": "future"
     },
     "nbjmp.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "nbkcuewy.com": {
@@ -75930,8 +75935,8 @@
         "state": "future"
     },
     "netliker.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "netloader.cc": {
