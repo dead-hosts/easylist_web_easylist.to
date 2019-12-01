@@ -1915,8 +1915,8 @@
         "state": "future"
     },
     "4dcdc.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "4do.se": {
@@ -7312,6 +7312,11 @@
     "adult-sex-games.com": {
         "epoch": 1658102400.0,
         "expiration_date": "18-jul-2022",
+        "state": "future"
+    },
+    "adult.xyz": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "adult3dcomics.com": {
@@ -24619,6 +24624,11 @@
         "expiration_date": "08-jul-2019",
         "state": "past"
     },
+    "cml5egriskie.xyz": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "cmllk1.info": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
@@ -40162,7 +40172,7 @@
     "firefoxprotect.me": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "firehouse.com": {
         "epoch": 1590019200.0,
@@ -71204,6 +71214,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "miracan.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "miradiorumba.com": {
         "epoch": 1626307200.0,
         "expiration_date": "15-jul-2021",
@@ -78184,6 +78199,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "notification.best": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
     "notify-monad.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -81229,6 +81249,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "opskln.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "opsooque.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -82727,6 +82752,11 @@
     "passedoutphotos.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "passeura.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "passionfruitads.com": {
