@@ -4162,7 +4162,7 @@
     "abodealley.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "about.com": {
         "epoch": 1647043200.0,
@@ -4390,8 +4390,8 @@
         "state": "future"
     },
     "acidityfoamy.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "ack.net": {
@@ -11152,7 +11152,7 @@
     "anyonemyth.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "anyporn.com": {
         "epoch": 1582156800.0,
@@ -12610,8 +12610,8 @@
         "state": "future"
     },
     "aubhiple2.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "auctionnudge.com": {
@@ -18717,7 +18717,7 @@
     "brinein.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "bringmesports.com": {
         "epoch": 1595894400.0,
@@ -28479,6 +28479,11 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "dah0ooy4doe.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "daibusee.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -33895,9 +33900,9 @@
         "state": "future"
     },
     "e7is2u38.top": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "e85440ec98f04725.com": {
         "epoch": 1601683200.0,
@@ -102700,9 +102705,9 @@
         "state": "future"
     },
     "ssraju3n.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "sss.xxx": {
         "epoch": 1603584000.0,
@@ -112607,7 +112612,7 @@
     "turngrind.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "turtleboysports.com": {
         "epoch": 1576454400.0,
