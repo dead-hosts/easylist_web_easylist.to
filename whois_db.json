@@ -121154,6 +121154,11 @@
         "expiration_date": "20-nov-2023",
         "state": "future"
     },
+    "wfmarlexic.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "wfmynews2.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -124340,8 +124345,8 @@
         "state": "future"
     },
     "xblcqncce.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "xbmyvkkksjlsek.com": {
@@ -124780,8 +124785,8 @@
         "state": "future"
     },
     "xgmlmmulciz.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "xgogi.com": {
