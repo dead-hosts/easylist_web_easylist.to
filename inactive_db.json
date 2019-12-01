@@ -8325,9 +8325,6 @@
             "abbp2.pw": "INACTIVE",
             "adshare.freedocast.com": "INACTIVE"
         },
-        "1575004483": {
-            "need4file.com": "INACTIVE"
-        },
         "1575004637": {
             "businesslist.com.bd": "INACTIVE"
         },
@@ -8588,8 +8585,7 @@
             "tzode.com": "INACTIVE"
         },
         "1575149341": {
-            "ubudigital.com": "INACTIVE",
-            "ucoxa.work": "INACTIVE"
+            "ubudigital.com": "INACTIVE"
         },
         "1575149342": {
             "udmlkmzjkob.co": "INACTIVE"
@@ -8600,7 +8596,6 @@
         "1575149344": {
             "uglyst.com": "INACTIVE",
             "uhappine.com": "INACTIVE",
-            "uharded.com": "INACTIVE",
             "uiadserver.com": "INACTIVE"
         },
         "1575149345": {
@@ -8633,8 +8628,7 @@
             "v.fwmrm.net": "INACTIVE"
         },
         "1575149363": {
-            "valuecontent.net": "INACTIVE",
-            "vamartin.work": "INACTIVE"
+            "valuecontent.net": "INACTIVE"
         },
         "1575149365": {
             "vastopped.com": "INACTIVE"
@@ -8649,7 +8643,6 @@
             "verata.xyz": "INACTIVE"
         },
         "1575149373": {
-            "victorance.com": "INACTIVE",
             "vid7delivery.com": "INACTIVE"
         },
         "1575149374": {
@@ -24766,6 +24759,15 @@
         },
         "1575235523": {
             "motors.ebay.com": "INACTIVE"
+        },
+        "1575236240": {
+            "ucoxa.work": "INACTIVE",
+            "uharded.com": "INACTIVE",
+            "vamartin.work": "INACTIVE",
+            "victorance.com": "INACTIVE"
+        },
+        "1575236250": {
+            "need4file.com": "INACTIVE"
         }
     }
 }
