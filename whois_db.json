@@ -79220,8 +79220,8 @@
         "state": "future"
     },
     "nyskocbhfz.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "nyt.com": {
@@ -79730,9 +79730,9 @@
         "state": "future"
     },
     "odukhsymyua.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "odwsequjcyk.com": {
         "epoch": 1597622400.0,
@@ -83675,9 +83675,9 @@
         "state": "future"
     },
     "pfoohjpdbxt.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "pfpkzjwi.com": {
         "epoch": 1588032000.0,
@@ -83690,9 +83690,9 @@
         "state": "future"
     },
     "pfvgazngauezhk.com": {
-        "epoch": 1562284800,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "pfxcnvjoysztb.com": {
         "epoch": 1603929600.0,
@@ -84280,9 +84280,9 @@
         "state": "future"
     },
     "pimygjumeyrtxe.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "pinballpublishernetwork.com": {
         "epoch": 1624924800.0,
@@ -87537,6 +87537,11 @@
     "prjcq.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "prlnfrzyx.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "prm-native.com": {
