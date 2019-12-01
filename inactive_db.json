@@ -8325,70 +8325,6 @@
             "abbp2.pw": "INACTIVE",
             "adshare.freedocast.com": "INACTIVE"
         },
-        "1574998323": {
-            "musictarget.com*": "INVALID"
-        },
-        "1574998337": {
-            "readthedocs.org*": "INVALID"
-        },
-        "1574998357": {
-            "video.abc.com": "INACTIVE"
-        },
-        "1574999076": {
-            "9anime.*": "INVALID"
-        },
-        "1574999079": {
-            "gelbooru.com*": "INVALID"
-        },
-        "1574999082": {
-            "www*.swatchseries.to": "INVALID"
-        },
-        "1574999083": {
-            "thepiratebay.": "INVALID",
-            "ww46.vidzi.": "INVALID"
-        },
-        "1574999084": {
-            "http.anno.channel4.com*-": "INVALID",
-            "wpengine.netdna-cdn.com": "INACTIVE"
-        },
-        "1574999085": {
-            "http.anno.channel4.com*_*_*_": "INVALID"
-        },
-        "1574999088": {
-            "tarife.spiegel.de": "INACTIVE"
-        },
-        "1574999093": {
-            "fidget.twitch.tv": "INACTIVE"
-        },
-        "1574999095": {
-            "free-stream.tv": "INACTIVE",
-            "g00.msn.com": "INACTIVE"
-        },
-        "1574999100": {
-            "limbohost.net": "INACTIVE"
-        },
-        "1574999105": {
-            "torrentz.*": "INVALID",
-            "tozer.youwatch.org": "INACTIVE",
-            "trans.youwatch.org": "INACTIVE"
-        },
-        "1574999107": {
-            "whies.info": "INACTIVE"
-        },
-        "1574999109": {
-            "109.201.146.142": "INACTIVE"
-        },
-        "1574999112": {
-            "64.62.202.124": "INACTIVE",
-            "a.killergram-girls.com": "INACTIVE"
-        },
-        "1574999113": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.xxxbunker.com": "INACTIVE"
-        },
-        "1574999116": {
-            "amateur-desire.com": "INACTIVE"
-        },
         "1574999129": {
             "bob.crazyshit.com": "INACTIVE"
         },
@@ -25085,6 +25021,73 @@
         },
         "1575228351": {
             "gamecopyworld.*": "INVALID"
+        },
+        "1575229084": {
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1575229098": {
+            "musictarget.com*": "INVALID"
+        },
+        "1575229113": {
+            "readthedocs.org*": "INVALID"
+        },
+        "1575229136": {
+            "video.abc.com": "INACTIVE"
+        },
+        "1575229148": {
+            "9anime.*": "INVALID"
+        },
+        "1575229152": {
+            "gelbooru.com*": "INVALID"
+        },
+        "1575229156": {
+            "thepiratebay.": "INVALID",
+            "ww46.vidzi.": "INVALID",
+            "www*.swatchseries.to": "INVALID"
+        },
+        "1575229157": {
+            "wpengine.netdna-cdn.com": "INACTIVE"
+        },
+        "1575229158": {
+            "http.anno.channel4.com*-": "INVALID",
+            "http.anno.channel4.com*_*_*_": "INVALID"
+        },
+        "1575229162": {
+            "tarife.spiegel.de": "INACTIVE"
+        },
+        "1575229168": {
+            "fidget.twitch.tv": "INACTIVE"
+        },
+        "1575229169": {
+            "free-stream.tv": "INACTIVE",
+            "g00.msn.com": "INACTIVE"
+        },
+        "1575229174": {
+            "limbohost.net": "INACTIVE"
+        },
+        "1575229180": {
+            "torrentz.*": "INVALID",
+            "tozer.youwatch.org": "INACTIVE"
+        },
+        "1575229181": {
+            "trans.youwatch.org": "INACTIVE"
+        },
+        "1575229184": {
+            "whies.info": "INACTIVE"
+        },
+        "1575229185": {
+            "109.201.146.142": "INACTIVE"
+        },
+        "1575229189": {
+            "64.62.202.124": "INACTIVE",
+            "a.killergram-girls.com": "INACTIVE",
+            "ad.slutload.com": "INACTIVE"
+        },
+        "1575229190": {
+            "ads.xxxbunker.com": "INACTIVE"
+        },
+        "1575229193": {
+            "amateur-desire.com": "INACTIVE"
         }
     }
 }
