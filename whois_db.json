@@ -89499,6 +89499,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "qbddhjrwe.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "qbeoyasaiz.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -90255,9 +90260,9 @@
         "state": "future"
     },
     "qpbaammdcwu.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "qpeczlqvv.com": {
         "epoch": 1591833600.0,
