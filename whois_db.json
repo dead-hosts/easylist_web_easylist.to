@@ -7865,8 +7865,8 @@
         "state": "future"
     },
     "adwalte.info": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "adwebster.com": {
@@ -46325,8 +46325,8 @@
         "state": "future"
     },
     "glumifo.info": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "glumtitu.net": {
@@ -54512,6 +54512,11 @@
     "imayjubge.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "imbetan.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "imbpmlyhkk.com": {
