@@ -55874,6 +55874,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "instancetour.info": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "instanceyou.info": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
