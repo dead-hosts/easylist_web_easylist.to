@@ -95682,7 +95682,7 @@
     "rwpads.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rwphwhdoktfq.com": {
         "epoch": 1603238400.0,
@@ -98824,6 +98824,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "shaunoog.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "shawmediaauto.com": {
         "epoch": 1635033600.0,
         "expiration_date": "24-oct-2021",
@@ -100272,7 +100277,7 @@
     "slopeaota.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "slots4u.com": {
         "epoch": 1600646400.0,
@@ -105697,7 +105702,7 @@
     "teasernet.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "teasernet.ru": {
         "epoch": 1598745600.0,
@@ -106487,7 +106492,7 @@
     "testfilter.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "testfreaks.co.uk": {
         "epoch": 1587772800.0,
