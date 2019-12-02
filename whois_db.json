@@ -48035,8 +48035,8 @@
         "state": "future"
     },
     "gsmchoice.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "gsniper.com": {
@@ -76039,6 +76039,11 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "netdania.com": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
     "netdigix.com": {
         "epoch": 1844035200.0,
         "expiration_date": "08-jun-2028",
@@ -95065,8 +95070,8 @@
         "state": "future"
     },
     "royalbank.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "state": "future"
     },
     "royalcentral.co.uk": {
