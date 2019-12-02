@@ -13625,8 +13625,8 @@
         "state": "future"
     },
     "b100quadcities.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "b105.com": {
@@ -100722,7 +100722,7 @@
     "smartwebby.com": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "smartyads.com": {
         "epoch": 1600214400.0,
