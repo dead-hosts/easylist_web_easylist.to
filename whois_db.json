@@ -84100,9 +84100,9 @@
         "state": "future"
     },
     "phonespybubble.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "phonesreview.co.uk": {
         "epoch": 1578700800.0,
@@ -84265,8 +84265,8 @@
         "state": "future"
     },
     "picbucks.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "piccsy.com": {
@@ -85570,8 +85570,8 @@
         "state": "future"
     },
     "pointclicktrack.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "pointroll.com": {
@@ -88412,6 +88412,11 @@
     "psoptopi.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "psoultar.net": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "psozoult.net": {
@@ -91904,6 +91909,11 @@
         "expiration_date": "01-jul-2019",
         "state": "past"
     },
+    "rasesuggedrail.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "rasittlbpwnbys.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -93065,9 +93075,9 @@
         "state": "future"
     },
     "redirectpopads.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "redirectvoluum.com": {
         "epoch": 1722556800.0,
@@ -95930,9 +95940,9 @@
         "state": "future"
     },
     "rwpads.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "rwphwhdoktfq.com": {
         "epoch": 1603238400.0,
