@@ -26369,6 +26369,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "counciladvertising.net": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "counselheal.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
@@ -29685,14 +29690,14 @@
         "state": "future"
     },
     "dedicatedmedia.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "dedicatednetworks.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dediseedbox.com": {
         "epoch": 1584403200.0,
@@ -30980,8 +30985,8 @@
         "state": "future"
     },
     "directleads.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "directnavbt.com": {
@@ -31300,8 +31305,8 @@
         "state": "past"
     },
     "djfiln.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "djhungama.net": {
