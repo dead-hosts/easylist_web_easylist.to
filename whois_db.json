@@ -56390,8 +56390,8 @@
         "state": "future"
     },
     "intuneads.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "inturpo.com": {
@@ -57519,6 +57519,11 @@
         "expiration_date": "28-jun-2019",
         "state": "past"
     },
+    "ivoophie.net": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "ivowhzku.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -58474,6 +58479,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "jeekeglu.net": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "jeepforum.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -58595,9 +58605,9 @@
         "state": "future"
     },
     "jettags.rocks": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "jeuqrslzoxdcz.com": {
         "epoch": 1562371200,
