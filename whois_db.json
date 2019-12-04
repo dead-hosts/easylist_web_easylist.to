@@ -11172,7 +11172,7 @@
     "anythinghollywood.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "anyvids.com": {
         "epoch": 1594944000.0,
@@ -47650,8 +47650,8 @@
         "state": "future"
     },
     "greatergood.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
         "state": "future"
     },
     "greaterkashmir.com": {
@@ -62120,9 +62120,9 @@
         "state": "future"
     },
     "knowyourmobile.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "knoxnews.com": {
         "epoch": 1587945600.0,
@@ -77340,8 +77340,8 @@
         "state": "future"
     },
     "nick.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "nickjr.co.uk": {
@@ -83642,7 +83642,7 @@
     "pescorner.net": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pestrike.com": {
         "epoch": 1591574400.0,
@@ -102965,8 +102965,8 @@
         "state": "future"
     },
     "staircase.pl": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "stake7.com": {
