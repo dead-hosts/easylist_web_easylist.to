@@ -14330,8 +14330,8 @@
         "state": "future"
     },
     "bannerlot.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "bannerperformance.net": {
@@ -17657,6 +17657,11 @@
     "bocqmlgslzoo.com": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "bodaimen.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "bodas.com.mx": {
@@ -21690,9 +21695,9 @@
         "state": "future"
     },
     "cdn7now.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "cdnads.com": {
         "epoch": 1599696000.0,
