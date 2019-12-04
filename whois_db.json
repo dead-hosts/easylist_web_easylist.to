@@ -69932,7 +69932,7 @@
     "mediaver.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediavine.com": {
         "epoch": 1580256000.0,
@@ -71875,8 +71875,8 @@
         "state": "future"
     },
     "mobicont.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "mobidevdom.com": {
@@ -76315,8 +76315,8 @@
         "state": "future"
     },
     "networldmedia.net": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "networx.com": {
@@ -77240,8 +77240,8 @@
         "state": "future"
     },
     "ngecity.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "ngentot.tv": {
@@ -77537,6 +77537,11 @@
     "nimjdyknjzcp.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "nimsepee.net": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "nineoclock.ro": {
@@ -78705,8 +78710,8 @@
         "state": "future"
     },
     "nster.net": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "nstjenxcpvm.com": {
@@ -79507,6 +79512,11 @@
     "oabcufwk.com": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "oacautoh.net": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "oacram.com": {
@@ -80660,8 +80670,8 @@
         "state": "future"
     },
     "omnitagjs.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "omsyfxirjg.com": {
@@ -80752,6 +80762,11 @@
     "oneangrygamer.net": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "oneblackjocker.online": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "onecache.com": {
@@ -81675,8 +81690,8 @@
         "state": "future"
     },
     "ospreymedialp.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "ossdqciz.com": {
