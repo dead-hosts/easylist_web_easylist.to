@@ -75880,8 +75880,8 @@
         "state": "future"
     },
     "ndxtyryloc.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "neads.delivery": {
@@ -79024,6 +79024,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "nusptbgwdcc.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "nutlekuainya.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
@@ -81177,7 +81182,7 @@
     "ootqfqjhzfrtn.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "oounzfsyxiuj.com": {
         "epoch": 1586822400.0,
@@ -81747,7 +81752,7 @@
     "ossdqciz.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ostatic.com": {
         "epoch": 1600732800.0,
@@ -83222,6 +83227,11 @@
     "pcizpawioulv.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "pcjkmabp.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "pckbizoed.com": {
