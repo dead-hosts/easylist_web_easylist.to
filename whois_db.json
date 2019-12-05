@@ -82479,6 +82479,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "p.pw": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "p2ads.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -99527,7 +99532,7 @@
     "shopbrazos.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "shopeasy.by": {
         "epoch": 1595721600.0,
@@ -108317,7 +108322,7 @@
     "themis-media.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "themittani.com": {
         "epoch": 1588982400.0,
