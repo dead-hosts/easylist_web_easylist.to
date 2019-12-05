@@ -4405,8 +4405,8 @@
         "state": "future"
     },
     "aclhagvngkjf.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "aclickads.com": {
@@ -11080,8 +11080,8 @@
         "state": "future"
     },
     "anpwsppugpu.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "anrdoezrs.net": {
@@ -16059,6 +16059,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "bigbootymania.com": {
+        "epoch": 1598918400.0,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "bigchoicegroup.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -17377,7 +17382,7 @@
     "blwfqlmhi.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "blwgtqakqaxemz.com": {
         "epoch": 1592611200.0,
@@ -18310,8 +18315,8 @@
         "state": "future"
     },
     "bpniszadiuc.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "bpnjigwalqjho.com": {
@@ -96402,6 +96407,11 @@
     "sahishodilitt.info": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "sahraex7vah.info": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "saigoneer.com": {
