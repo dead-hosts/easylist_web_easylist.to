@@ -28645,8 +28645,8 @@
         "state": "future"
     },
     "dailyglow.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "dailyhaha.com": {
@@ -75822,7 +75822,7 @@
     "ncr1037.co.za": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ncregister.com": {
         "epoch": 1601596800.0,
@@ -76765,8 +76765,8 @@
         "state": "future"
     },
     "newsandstar.co.uk": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
         "state": "future"
     },
     "newsandtribune.com": {
@@ -121885,8 +121885,8 @@
         "state": "future"
     },
     "whitehavennews.co.uk": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
         "state": "future"
     },
     "whitepages.ca": {
