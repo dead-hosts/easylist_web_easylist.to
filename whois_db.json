@@ -94564,6 +94564,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "rkpecade.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "rkueifizvmwbi.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
@@ -95287,7 +95292,7 @@
     "rqbxfbls.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rqigvkwoqafpjz.com": {
         "epoch": 1600992000.0,
@@ -95477,6 +95482,11 @@
     "rsuroxpotcoiq.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "rsviqjzhvubz.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "rsvlts.com": {
