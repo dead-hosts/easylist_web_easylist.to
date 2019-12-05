@@ -116950,8 +116950,8 @@
         "state": "future"
     },
     "vglpukrekfij.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "vgodvvcwrshk.com": {
@@ -122717,7 +122717,7 @@
     "wkhkffefck.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wklh.com": {
         "epoch": 1603756800.0,
@@ -124187,6 +124187,11 @@
     "wwtdd.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "wwtxqylusxtd.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "wwv4ez0n.com": {
