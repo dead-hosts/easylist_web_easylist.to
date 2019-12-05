@@ -31062,7 +31062,7 @@
     "directtrk.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "directupload.net": {
         "epoch": 1630281600.0,
@@ -38885,8 +38885,8 @@
         "state": "future"
     },
     "faunlesnuff.co": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "fawhuksy.com": {
