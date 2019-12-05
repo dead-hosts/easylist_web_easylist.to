@@ -1237,7 +1237,7 @@
     "2rush.net": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "2smsupernetwork.com": {
         "epoch": 1582761600.0,
@@ -1280,9 +1280,9 @@
         "state": "future"
     },
     "30daychange.co": {
-        "epoch": 1563840000,
-        "expiration_date": "23-jul-2019",
-        "state": "past"
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
     },
     "318racing.org": {
         "epoch": 1599609600.0,
@@ -12759,6 +12759,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "aungumse.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "auqefmhsutnldv.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -16580,8 +16585,8 @@
         "state": "future"
     },
     "bitcoinloophole.co": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "bitcoinmagazine.com": {
@@ -31180,8 +31185,8 @@
         "state": "future"
     },
     "distantnews.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "distractify.com": {
@@ -40225,9 +40230,9 @@
         "state": "future"
     },
     "firefoxprotect.me": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "firehouse.com": {
         "epoch": 1590019200.0,
@@ -78844,6 +78849,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "ntlyaccessfulsp.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "ntnd.net": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -83974,6 +83984,11 @@
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
+    "phaimtol.net": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "pharmatimes.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
@@ -86930,8 +86945,8 @@
         "state": "future"
     },
     "potedly.co": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "poterrupte.co": {
@@ -90424,6 +90439,11 @@
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
+    "qom006.site": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "qone8.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
@@ -93724,6 +93744,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "retainguaninefluorite.info": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "retargeter.com": {
         "epoch": 1639612800.0,
         "expiration_date": "16-dec-2021",
@@ -96453,6 +96478,11 @@
         "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
         "state": "past"
+    },
+    "sagimedyer.xyz": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
     },
     "sagoodnews.co.za": {
         "epoch": 1601164800,
@@ -129682,6 +129712,11 @@
     "zinhavnpak.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
+    "zinlar.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "zinovila.com": {
