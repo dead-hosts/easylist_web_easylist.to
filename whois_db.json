@@ -76845,8 +76845,8 @@
         "state": "future"
     },
     "newsexbook.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "newsfactor.com": {
@@ -81987,7 +81987,7 @@
     "ouslayer.co": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "out.com": {
         "epoch": 1729728000.0,
@@ -82117,7 +82117,7 @@
     "overreare.co": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "overseasradio.com": {
         "epoch": 1657065600.0,
@@ -85895,8 +85895,8 @@
         "state": "future"
     },
     "poonproscash.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "pop-rev.com": {
@@ -93557,7 +93557,7 @@
     "renewads.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "renewcanceltv.com": {
         "epoch": 1618617600.0,
@@ -111122,7 +111122,7 @@
     "tostega.ru": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tostickad.com": {
         "epoch": 1598832000.0,
