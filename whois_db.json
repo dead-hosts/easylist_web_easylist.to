@@ -68714,6 +68714,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "marapcana.online": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "maravipost.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -69990,9 +69995,9 @@
         "state": "future"
     },
     "mediaver.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
     },
     "mediavine.com": {
         "epoch": 1580256000.0,
