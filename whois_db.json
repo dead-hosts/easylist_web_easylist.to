@@ -1959,6 +1959,11 @@
         "expiration_date": "08-dec-2019",
         "state": "future"
     },
+    "4exlkjnngs.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "4f2sm1y1ss.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -2152,6 +2157,11 @@
     "5755ac539651fe8f366.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "57e3ascxh1.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "57fd2911f09b76.com": {
@@ -6040,8 +6050,8 @@
         "state": "future"
     },
     "adnet-media.net": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "adnet.biz": {
