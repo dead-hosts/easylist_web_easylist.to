@@ -69887,7 +69887,7 @@
     "mediag4.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediagazer.com": {
         "epoch": 1600387200.0,
@@ -73032,7 +73032,7 @@
     "movad.net": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "move2.co": {
         "epoch": 1588032000.0,
