@@ -24602,7 +24602,7 @@
     "clubpenguinclub.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "clubplanet.com": {
         "epoch": 1589068800,
@@ -48074,6 +48074,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "grtyj.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "grubstreet.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -52435,6 +52440,11 @@
         "state": "future"
     },
     "hrtyc.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "hrtye.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
@@ -110855,9 +110865,9 @@
         "state": "future"
     },
     "topgreatxoffers.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "tophentai.biz": {
         "epoch": 1616630400.0,
@@ -116942,6 +116952,11 @@
     "vfgbeaayncdya.com": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "vfghc.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "vfgta.com": {
@@ -123460,8 +123475,8 @@
         "state": "future"
     },
     "worldwidemailer.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "worldwideweirdnews.com": {
@@ -126457,6 +126472,11 @@
     "xxxmatch.com": {
         "epoch": 1843257600.0,
         "expiration_date": "30-may-2028",
+        "state": "future"
+    },
+    "xxxmov.site": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "xxxmyself.com": {
@@ -130872,6 +130892,11 @@
     "zxxds.net": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "zy16eoat1w.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "zyadwzlxllogm.com": {
