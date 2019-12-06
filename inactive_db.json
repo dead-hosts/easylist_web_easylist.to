@@ -8165,12 +8165,6 @@
         "1573177548": {
             "store.gameshark.com": "INACTIVE"
         },
-        "1575237212": {
-            "healthzone.pk": "INACTIVE"
-        },
-        "1575244400": {
-            "radioeaglemarquette.com": "INACTIVE"
-        },
         "1575244573": {
             "mjtimes.sk.ca": "INACTIVE"
         },
@@ -8525,93 +8519,6 @@
         },
         "1575257495": {
             "ad.services.distractify.com": "INACTIVE"
-        },
-        "1575533926": {
-            "layers.spacash.com": "INACTIVE"
-        },
-        "1575533927": {
-            "links.freeones.com": "INACTIVE"
-        },
-        "1575533930": {
-            "megacash.warpnet.com.br": "INACTIVE"
-        },
-        "1575533931": {
-            "ms.wsex.com": "INACTIVE"
-        },
-        "1575533936": {
-            "odnidoma.com": "INACTIVE"
-        },
-        "1575533937": {
-            "partners.heart2heartnetwork.": "INVALID"
-        },
-        "1575533939": {
-            "porn2blog.com": "INACTIVE"
-        },
-        "1575533941": {
-            "private.camz.": "INVALID"
-        },
-        "1575533942": {
-            "promo1.webcams.nl": "INACTIVE"
-        },
-        "1575533946": {
-            "resimler.randevum.com": "INACTIVE",
-            "ruleclaim.web.fc2.com": "INACTIVE"
-        },
-        "1575533947": {
-            "s1magnettvcom.maynemyltf.netdna-cdn.com": "INACTIVE"
-        },
-        "1575533948": {
-            "server140.com": "INACTIVE"
-        },
-        "1575533949": {
-            "sextronix.*.cdnaccess.com": "INVALID"
-        },
-        "1575533955": {
-            "sponsor4cash.de": "INACTIVE"
-        },
-        "1575533957": {
-            "surv.xbizmedia.com": "INACTIVE"
-        },
-        "1575533958": {
-            "thumbs.sunporno.com": "INACTIVE",
-            "tour.cum-covered-gfs.com": "INACTIVE"
-        },
-        "1575533961": {
-            "vectorpastel.com": "INACTIVE"
-        },
-        "1575533968": {
-            "xxtu.be": "INACTIVE"
-        },
-        "1575533971": {
-            "babereporters.info": "INACTIVE"
-        },
-        "1575533972": {
-            "cpm.amateurcommunity.*?cp=": "INVALID"
-        },
-        "1575533989": {
-            "xrounds.com": "INACTIVE"
-        },
-        "1575533992": {
-            "admeta.vo.llnwd.net": "INACTIVE",
-            "ads-*.hulu.com": "INVALID"
-        },
-        "1575534000": {
-            "bp.blogspot.com": "INACTIVE"
-        },
-        "1575534008": {
-            "clicks.superpages.com": "INACTIVE"
-        },
-        "1575534013": {
-            "dailynews.gov.bw": "INACTIVE"
-        },
-        "1575534015": {
-            "dropapk.*": "INVALID"
-        },
-        "1575534025": {
-            "gamecopyworld.*": "INVALID"
-        },
-        "1575534043": {
-            "js.high-minded.net": "INACTIVE"
         },
         "1575535032": {
             "musictarget.com*": "INVALID"
@@ -20551,6 +20458,51 @@
         },
         "1575620572": {
             "businesslist.com.bd": "INACTIVE"
+        },
+        "1575621320": {
+            "layers.spacash.com": "INACTIVE",
+            "links.freeones.com": "INACTIVE",
+            "megacash.warpnet.com.br": "INACTIVE",
+            "ms.wsex.com": "INACTIVE",
+            "odnidoma.com": "INACTIVE",
+            "partners.heart2heartnetwork.": "INVALID",
+            "porn2blog.com": "INACTIVE",
+            "private.camz.": "INVALID",
+            "promo1.webcams.nl": "INACTIVE"
+        },
+        "1575621321": {
+            "resimler.randevum.com": "INACTIVE",
+            "ruleclaim.web.fc2.com": "INACTIVE",
+            "s1magnettvcom.maynemyltf.netdna-cdn.com": "INACTIVE",
+            "server140.com": "INACTIVE",
+            "sextronix.*.cdnaccess.com": "INVALID",
+            "sponsor4cash.de": "INACTIVE",
+            "surv.xbizmedia.com": "INACTIVE",
+            "thumbs.sunporno.com": "INACTIVE",
+            "tour.cum-covered-gfs.com": "INACTIVE"
+        },
+        "1575621322": {
+            "admeta.vo.llnwd.net": "INACTIVE",
+            "ads-*.hulu.com": "INVALID",
+            "babereporters.info": "INACTIVE",
+            "clicks.superpages.com": "INACTIVE",
+            "cpm.amateurcommunity.*?cp=": "INVALID",
+            "dailynews.gov.bw": "INACTIVE",
+            "vectorpastel.com": "INACTIVE",
+            "xrounds.com": "INACTIVE",
+            "xxtu.be": "INACTIVE"
+        },
+        "1575621323": {
+            "bp.blogspot.com": "INACTIVE",
+            "dropapk.*": "INVALID",
+            "gamecopyworld.*": "INVALID",
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1575621382": {
+            "healthzone.pk": "INACTIVE"
+        },
+        "1575621412": {
+            "radioeaglemarquette.com": "INACTIVE"
         }
     }
 }
