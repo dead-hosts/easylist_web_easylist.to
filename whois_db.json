@@ -90529,6 +90529,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "qmhigtmwikvzin.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "qmiiqzfk.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -97257,7 +97262,7 @@
     "sbifdctojpisuw.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sbkjxpwxrmk.com": {
         "epoch": 1577318400.0,
@@ -97492,6 +97497,11 @@
     "sckzvqadc.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "scleavshdrz.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "scmp.com": {
@@ -100557,6 +100567,11 @@
     "sketchucation.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "skexyyqu.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "skgnohfvkrcn.com": {
@@ -112539,6 +112554,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "troeekrjquknz.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "trombocrack.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
@@ -113907,7 +113927,7 @@
     "uamgajydnv.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "uaneklzqph.com": {
         "epoch": 1576281600.0,
@@ -114717,7 +114737,7 @@
     "umaglven.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "umassathletics.com": {
         "epoch": 1596067200.0,
@@ -115152,7 +115172,7 @@
     "uoapkzwkoqnk.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "uoarbhxfyygn.com": {
         "epoch": 1601337600.0,
@@ -117077,7 +117097,7 @@
     "vewpwrqebmwu.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vexuchkhuin.com": {
         "epoch": 1599350400.0,
