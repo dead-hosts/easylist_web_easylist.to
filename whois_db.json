@@ -23010,9 +23010,9 @@
         "state": "future"
     },
     "chinahush.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "chinanews.com": {
         "epoch": 1589414400,
@@ -63015,8 +63015,8 @@
         "state": "future"
     },
     "ktla.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "ktoloto.com": {
@@ -69550,8 +69550,8 @@
         "state": "future"
     },
     "mcclatchydc.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "mcclatchyinteractive.com": {
@@ -124007,7 +124007,7 @@
     "wrestlezone.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wrestlinginc.com": {
         "epoch": 1582156800.0,
