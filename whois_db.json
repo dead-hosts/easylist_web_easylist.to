@@ -9397,7 +9397,7 @@
     "ajzdkkzv.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "akailoparzapi.com": {
         "epoch": 1604880000.0,
@@ -12812,7 +12812,7 @@
     "authmoumrl.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aution.pro": {
         "epoch": 1606608000.0,
@@ -22304,6 +22304,11 @@
         "expiration_date": "28-dec-2019",
         "state": "future"
     },
+    "cfupqlin.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "cfuwbptxcdgza.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -30557,7 +30562,7 @@
     "dgowzelhoaqqb.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dgqktjmxtlp.com": {
         "epoch": 1606521600.0,
@@ -32682,6 +32687,11 @@
     "dqmfeimedqswbr.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "dqnpfsxuq.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "dqolgbehhzvo.com": {
@@ -35907,6 +35917,11 @@
     "emsisoft.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "emsmcdwfbseox.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "emu-russia.net": {
