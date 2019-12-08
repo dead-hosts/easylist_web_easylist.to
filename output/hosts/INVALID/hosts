@@ -18,6 +18,7 @@
 0.0.0.0 cacheserve.*
 0.0.0.0 cas.*.criteo.com
 0.0.0.0 caw.*.criteo.com
+0.0.0.0 get.*.website
 0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 online.*
 0.0.0.0 ox-d.*
