@@ -1957,7 +1957,7 @@
     "4ervtcv.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "4exlkjnngs.com": {
         "epoch": 1601596800.0,
@@ -28390,8 +28390,8 @@
         "state": "future"
     },
     "d4orbital.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "d50285bff60edbb406.com": {
@@ -30607,7 +30607,7 @@
     "dhftcgd.net": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dhgate.com": {
         "epoch": 1632182400.0,
@@ -129854,6 +129854,11 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "zhlrcaahpuqh.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "zhovjymmkg.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -130607,7 +130612,7 @@
     "zpkshggvjif.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "zplvjgpxvh.com": {
         "epoch": 1564185600,
@@ -130742,6 +130747,11 @@
     "zridsfev.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "zrlxjcsvib.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "zrosbqwecw.com": {
