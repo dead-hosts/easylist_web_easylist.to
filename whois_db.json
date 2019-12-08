@@ -45220,8 +45220,8 @@
         "state": "future"
     },
     "geo-idm.fr": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "geo.tv": {
@@ -46872,7 +46872,7 @@
     "gold-file.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "gold-prices.biz": {
         "epoch": 1623542400,
@@ -48885,9 +48885,9 @@
         "state": "future"
     },
     "haggilder.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "hagiqxizxqf.com": {
         "epoch": 1584403200.0,
