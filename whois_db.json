@@ -5302,7 +5302,7 @@
     "adexprts.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adextent.com": {
         "epoch": 1592179200.0,
@@ -5632,7 +5632,7 @@
     "adiqglobal.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adiquity.com": {
         "epoch": 1685577600.0,
@@ -5815,8 +5815,8 @@
         "state": "future"
     },
     "adlightning.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "adlink.net": {
@@ -5950,8 +5950,8 @@
         "state": "future"
     },
     "admeerkat.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "admeld.com": {
