@@ -46334,6 +46334,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "globaldating.online": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "globalinteractive.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
@@ -101250,8 +101255,8 @@
         "state": "future"
     },
     "smopy.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "smosh.com": {
