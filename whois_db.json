@@ -88550,9 +88550,9 @@
         "state": "future"
     },
     "psoaghie.net": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "psoapeez.click": {
         "epoch": 1603670400.0,
@@ -93629,6 +93629,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "remotefilez.info": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "remtoaku.net": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
@@ -96762,7 +96767,7 @@
     "samvaulter.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "samvinva.info": {
         "epoch": 1582070400.0,
@@ -97857,7 +97862,7 @@
     "secure-softwaremanager.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "secureboom.net": {
         "epoch": 1582416000.0,
