@@ -10805,8 +10805,8 @@
         "state": "future"
     },
     "androidpolice.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "androidrepublic.org": {
@@ -45612,6 +45612,11 @@
     "gfwadvertiser.ca": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "gfycat.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "gfycatporn.com": {
@@ -97174,6 +97179,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "save.ca": {
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "state": "future"
+    },
     "saveads.net": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -104267,6 +104277,11 @@
     "studentdoctor.net": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
+    "studyfinds.org": {
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
         "state": "future"
     },
     "stuff.com": {
@@ -126657,7 +126672,7 @@
     "xxxkingtube.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "xxxkinky.com": {
         "epoch": 1605484800.0,
