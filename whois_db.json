@@ -24600,9 +24600,9 @@
         "state": "future"
     },
     "clubpenguinclub.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "clubplanet.com": {
         "epoch": 1589068800,
@@ -118382,6 +118382,11 @@
     "voaroawo.net": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "voastauz.net": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "voat.co": {
