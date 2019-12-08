@@ -7500,8 +7500,8 @@
         "state": "future"
     },
     "adup-tech.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "adurr.com": {
@@ -8025,8 +8025,8 @@
         "state": "future"
     },
     "adyoulike.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "adyoz.com": {
@@ -9702,7 +9702,7 @@
     "alibestru3.ru": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "alibi.com": {
         "epoch": 1658880000.0,
