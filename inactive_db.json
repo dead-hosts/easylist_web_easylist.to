@@ -8487,15 +8487,6 @@
         "1575614338": {
             "video-cdn.abcnews.com": "INACTIVE"
         },
-        "1575618785": {
-            "tmstorage.com": "INACTIVE",
-            "todaysfinder.com": "INACTIVE",
-            "topbinaryaffiliates.ck-cdn.com": "INACTIVE",
-            "torrentdosfilmeshd.ga": "INACTIVE",
-            "u-loader.com": "INACTIVE",
-            "ultimatewebtraffic.info": "INACTIVE",
-            "usenet.pw": "INACTIVE"
-        },
         "1575618902": {
             "cartoonhd.in": "INACTIVE"
         },
@@ -8518,84 +8509,7 @@
         "1575619710": {
             "need4file.com": "INACTIVE"
         },
-        "1575620471": {
-            "vendor1.fitschigogerl.com": "INACTIVE",
-            "veospot.com": "INACTIVE",
-            "vix.*.criteo.net": "INVALID",
-            "wealthyrush.com": "INACTIVE",
-            "web-jp.ad-v.jp": "INACTIVE",
-            "widget.kelkoo.com": "INACTIVE",
-            "widget.raaze.com": "INACTIVE",
-            "widget.scoutpa.com": "INACTIVE",
-            "widget.wombo.gg": "INACTIVE"
-        },
-        "1575620472": {
-            "d1nmk7iw7hajjn.cloudfront.net": "INACTIVE",
-            "wrapper.ign.com": "INACTIVE",
-            "ws.amazon.*": "INVALID",
-            "wtpn.twenga.co.uk": "INACTIVE",
-            "wtpn.twenga.de": "INACTIVE",
-            "yieldmanager.edgesuite.net": "INACTIVE",
-            "zeus.qj.net": "INACTIVE",
-            "zeusfiles.com": "INACTIVE",
-            "zmh.zope.net": "INACTIVE"
-        },
-        "1575620473": {
-            "bizinfoyours.info": "INACTIVE",
-            "chatlivejasmin.net": "INACTIVE",
-            "dateoffer.net": "INACTIVE",
-            "eroticmix.blogspot.": "INVALID",
-            "facebookcoverx.com": "INACTIVE",
-            "free-rewards.com-s.tv": "INACTIVE",
-            "hdvid-codec.com": "INACTIVE",
-            "house-rent.us": "INACTIVE",
-            "i2casting.com": "INACTIVE"
-        },
-        "1575620474": {
-            "lp.imesh.com": "INACTIVE",
-            "market.space": "INACTIVE",
-            "myvpn.review": "INACTIVE",
-            "noowmedia.com": "INACTIVE",
-            "promo.xcasino.com": "INACTIVE",
-            "secure.komli.com": "INACTIVE",
-            "tracker.lotto365.com": "INACTIVE",
-            "unlimited-tv.show": "INACTIVE"
-        },
-        "1575620475": {
-            "193.34.134.18": "INACTIVE",
-            "193.34.134.74": "INACTIVE",
-            "204.140.25.247": "INACTIVE",
-            "213.174.130.10": "INACTIVE",
-            "213.174.130.8": "INACTIVE",
-            "213.174.130.9": "INACTIVE",
-            "upbcd.info": "INACTIVE",
-            "wealth-at-home-millions.com": "INACTIVE",
-            "with-binaryoption.com": "INACTIVE"
-        },
-        "1575620476": {
-            "213.174.140.76": "INACTIVE",
-            "79.120.183.166": "INACTIVE",
-            "88.208.23.": "INVALID",
-            "88.85.77.94": "INACTIVE",
-            "91.83.237.41": "INACTIVE",
-            "a.sucksex.com": "INACTIVE"
-        },
-        "1575620477": {
-            "ad.favod.net": "INACTIVE",
-            "adultporntubemovies.com": "INACTIVE",
-            "aff-jp.exshot.com": "INACTIVE",
-            "affiliate.burn-out.tv": "INACTIVE",
-            "affiliates.easydate.biz": "INACTIVE",
-            "affiliates.franchisegator.com": "INACTIVE",
-            "babes.picrush.com": "INACTIVE",
-            "banner.69stream.com": "INACTIVE",
-            "banner.resulthost.org": "INACTIVE"
-        },
         "1575620478": {
-            "banners*.spacash.com": "INVALID",
-            "cache.worldfriends.tv": "INACTIVE",
-            "cdn.serverable.com": "INACTIVE",
-            "click.kink.com": "INACTIVE",
             "cp.intl.match.com": "INACTIVE",
             "dom2xxx.com": "INACTIVE",
             "ff.nsg.org.ua": "INACTIVE",
@@ -8603,11 +8517,9 @@
             "hardcoresexnow.com": "INACTIVE"
         },
         "1575620479": {
-            "78.140.130.91": "INACTIVE",
             "highrollercams.com": "INACTIVE",
             "hotsocialz.com": "INACTIVE",
-            "js.picsomania.info": "INACTIVE",
-            "tripadvisor.*": "INVALID"
+            "js.picsomania.info": "INACTIVE"
         },
         "1575620572": {
             "businesslist.com.bd": "INACTIVE"
@@ -22302,6 +22214,160 @@
         },
         "1575829002": {
             "tipico.*?affiliateId=": "INVALID"
+        },
+        "1575830370": {
+            "tmstorage.com": "INACTIVE",
+            "todaysfinder.com": "INACTIVE"
+        },
+        "1575830371": {
+            "topbinaryaffiliates.ck-cdn.com": "INACTIVE"
+        },
+        "1575830372": {
+            "torrentdosfilmeshd.ga": "INACTIVE"
+        },
+        "1575830379": {
+            "u-loader.com": "INACTIVE"
+        },
+        "1575830381": {
+            "ultimatewebtraffic.info": "INACTIVE"
+        },
+        "1575830383": {
+            "usenet.pw": "INACTIVE"
+        },
+        "1575830386": {
+            "vendor1.fitschigogerl.com": "INACTIVE",
+            "veospot.com": "INACTIVE"
+        },
+        "1575830391": {
+            "vix.*.criteo.net": "INVALID"
+        },
+        "1575830396": {
+            "wealthyrush.com": "INACTIVE",
+            "web-jp.ad-v.jp": "INACTIVE"
+        },
+        "1575830398": {
+            "widget.kelkoo.com": "INACTIVE",
+            "widget.scoutpa.com": "INACTIVE"
+        },
+        "1575830399": {
+            "widget.raaze.com": "INACTIVE",
+            "widget.wombo.gg": "INACTIVE"
+        },
+        "1575830404": {
+            "wrapper.ign.com": "INACTIVE",
+            "ws.amazon.*": "INVALID"
+        },
+        "1575830405": {
+            "wtpn.twenga.co.uk": "INACTIVE",
+            "wtpn.twenga.de": "INACTIVE"
+        },
+        "1575830408": {
+            "yieldmanager.edgesuite.net": "INACTIVE"
+        },
+        "1575830412": {
+            "zeus.qj.net": "INACTIVE",
+            "zeusfiles.com": "INACTIVE"
+        },
+        "1575830414": {
+            "zmh.zope.net": "INACTIVE"
+        },
+        "1575830415": {
+            "d1nmk7iw7hajjn.cloudfront.net": "INACTIVE"
+        },
+        "1575830418": {
+            "bizinfoyours.info": "INACTIVE"
+        },
+        "1575830419": {
+            "chatlivejasmin.net": "INACTIVE"
+        },
+        "1575830420": {
+            "dateoffer.net": "INACTIVE",
+            "eroticmix.blogspot.": "INVALID"
+        },
+        "1575830421": {
+            "facebookcoverx.com": "INACTIVE"
+        },
+        "1575830422": {
+            "free-rewards.com-s.tv": "INACTIVE"
+        },
+        "1575830424": {
+            "hdvid-codec.com": "INACTIVE"
+        },
+        "1575830425": {
+            "house-rent.us": "INACTIVE",
+            "i2casting.com": "INACTIVE"
+        },
+        "1575830426": {
+            "lp.imesh.com": "INACTIVE"
+        },
+        "1575830427": {
+            "market.space": "INACTIVE"
+        },
+        "1575830429": {
+            "myvpn.review": "INACTIVE",
+            "noowmedia.com": "INACTIVE"
+        },
+        "1575830431": {
+            "promo.xcasino.com": "INACTIVE"
+        },
+        "1575830432": {
+            "secure.komli.com": "INACTIVE"
+        },
+        "1575830436": {
+            "tracker.lotto365.com": "INACTIVE",
+            "tripadvisor.*": "INVALID"
+        },
+        "1575830437": {
+            "unlimited-tv.show": "INACTIVE",
+            "upbcd.info": "INACTIVE"
+        },
+        "1575830439": {
+            "193.34.134.18": "INACTIVE",
+            "wealth-at-home-millions.com": "INACTIVE",
+            "with-binaryoption.com": "INACTIVE"
+        },
+        "1575830440": {
+            "193.34.134.74": "INACTIVE",
+            "204.140.25.247": "INACTIVE",
+            "213.174.130.10": "INACTIVE",
+            "213.174.130.8": "INACTIVE",
+            "213.174.130.9": "INACTIVE",
+            "213.174.140.76": "INACTIVE"
+        },
+        "1575830441": {
+            "78.140.130.91": "INACTIVE",
+            "79.120.183.166": "INACTIVE",
+            "88.208.23.": "INVALID",
+            "91.83.237.41": "INACTIVE"
+        },
+        "1575830442": {
+            "88.85.77.94": "INACTIVE",
+            "a.sucksex.com": "INACTIVE",
+            "ad.favod.net": "INACTIVE"
+        },
+        "1575830443": {
+            "adultporntubemovies.com": "INACTIVE",
+            "aff-jp.exshot.com": "INACTIVE",
+            "affiliate.burn-out.tv": "INACTIVE"
+        },
+        "1575830444": {
+            "affiliates.easydate.biz": "INACTIVE",
+            "affiliates.franchisegator.com": "INACTIVE"
+        },
+        "1575830449": {
+            "babes.picrush.com": "INACTIVE",
+            "banner.69stream.com": "INACTIVE",
+            "banner.resulthost.org": "INACTIVE",
+            "banners*.spacash.com": "INVALID"
+        },
+        "1575830453": {
+            "cache.worldfriends.tv": "INACTIVE"
+        },
+        "1575830454": {
+            "cdn.serverable.com": "INACTIVE"
+        },
+        "1575830455": {
+            "click.kink.com": "INACTIVE"
         }
     }
 }
