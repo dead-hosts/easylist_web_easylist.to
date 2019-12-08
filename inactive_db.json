@@ -8484,9 +8484,6 @@
         "1575540079": {
             "progressivenation.us": "INACTIVE"
         },
-        "1575614338": {
-            "video-cdn.abcnews.com": "INACTIVE"
-        },
         "1575618902": {
             "cartoonhd.in": "INACTIVE"
         },
@@ -8512,48 +8509,15 @@
         "1575620572": {
             "businesslist.com.bd": "INACTIVE"
         },
-        "1575621323": {
-            "js.high-minded.net": "INACTIVE"
-        },
         "1575621382": {
             "healthzone.pk": "INACTIVE"
         },
         "1575621412": {
             "radioeaglemarquette.com": "INACTIVE"
         },
-        "1575622474": {
-            "9anime.*": "INVALID",
-            "gelbooru.com*": "INVALID",
-            "musictarget.com*": "INVALID",
-            "readthedocs.org*": "INVALID",
-            "thepiratebay.": "INVALID",
-            "video.abc.com": "INACTIVE",
-            "ww46.vidzi.": "INVALID",
-            "www*.swatchseries.to": "INVALID"
-        },
-        "1575622475": {
-            "fidget.twitch.tv": "INACTIVE",
-            "free-stream.tv": "INACTIVE",
-            "g00.msn.com": "INACTIVE",
-            "http.anno.channel4.com*-": "INVALID",
-            "http.anno.channel4.com*_*_*_": "INVALID",
-            "limbohost.net": "INACTIVE",
-            "tarife.spiegel.de": "INACTIVE",
-            "torrentz.*": "INVALID",
-            "tozer.youwatch.org": "INACTIVE",
-            "trans.youwatch.org": "INACTIVE",
-            "wpengine.netdna-cdn.com": "INACTIVE"
-        },
         "1575622476": {
-            "109.201.146.142": "INACTIVE",
-            "64.62.202.124": "INACTIVE",
-            "a.killergram-girls.com": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ads.xxxbunker.com": "INACTIVE",
-            "amateur-desire.com": "INACTIVE",
             "bob.crazyshit.com": "INACTIVE",
-            "cams.pornrabbit.com": "INACTIVE",
-            "whies.info": "INACTIVE"
+            "cams.pornrabbit.com": "INACTIVE"
         },
         "1575622482": {
             "mjtimes.sk.ca": "INACTIVE"
@@ -8636,70 +8600,6 @@
         },
         "1575722942": {
             "mobikano.com": "INACTIVE"
-        },
-        "1575748090": {
-            "sbzngfrmgizpj.bid": "INACTIVE"
-        },
-        "1575748091": {
-            "scbffqszd.bid": "INACTIVE",
-            "scbnvzfscfmn.com": "INACTIVE",
-            "scbywuiojqvh.com": "INACTIVE",
-            "sceuexzmiwrf.com": "INACTIVE",
-            "scfkfridulshkd.com": "INACTIVE",
-            "scgnsficmwipuj.bid": "INACTIVE"
-        },
-        "1575748092": {
-            "scgyndrujhzf.com": "INACTIVE",
-            "sckpttzpnfimba.bid": "INACTIVE"
-        },
-        "1575748093": {
-            "scmffjmashzc.com": "INACTIVE",
-            "scofnjymyym.bid": "INACTIVE",
-            "scrltyokacghvd.bid": "INACTIVE"
-        },
-        "1575748094": {
-            "scuwbelujeeu.com": "INACTIVE",
-            "scvonjdwad.bid": "INACTIVE",
-            "scxxbyqjslyp.com": "INACTIVE",
-            "sdfmxhdj.bid": "INACTIVE"
-        },
-        "1575748095": {
-            "sdemctwaiazt.com": "INACTIVE",
-            "sdmfzlswxgzl.com": "INACTIVE",
-            "sdmhsxlp.bid": "INACTIVE"
-        },
-        "1575748096": {
-            "sdqspuyipbof.com": "INACTIVE",
-            "sdvgglhp.bid": "INACTIVE"
-        },
-        "1575748097": {
-            "seaxhrqc.bid": "INACTIVE"
-        },
-        "1575748098": {
-            "seiqobwpbofg.com": "INACTIVE",
-            "sekajiwqmym.com": "INACTIVE",
-            "sekllcjbujp.bid": "INACTIVE"
-        },
-        "1575748099": {
-            "semvdooatmd.bid": "INACTIVE",
-            "senfvsdvtsn.com": "INACTIVE",
-            "senrzuolwqvj.com": "INACTIVE",
-            "seotpqntjukhg.bid": "INACTIVE"
-        },
-        "1575748101": {
-            "seympfgeyrew.com": "INACTIVE",
-            "sfaprgtgcguh.com": "INACTIVE",
-            "sfawiner.com": "INACTIVE",
-            "sfcckxdgfgzo.com": "INACTIVE"
-        },
-        "1575748102": {
-            "sfgymajb.bid": "INACTIVE",
-            "sfhyxyodjllrd.bid": "INACTIVE"
-        },
-        "1575748103": {
-            "sfmzbrdtse.com": "INACTIVE",
-            "sfmziexfvvru.com": "INACTIVE",
-            "sfpkwhncpllt.com": "INACTIVE"
         },
         "1575749489": {
             "sfzcbcrwxhic.com": "INACTIVE",
@@ -21930,6 +21830,122 @@
             "sbnvqpfya.bid": "INACTIVE",
             "sbpcnpysxbs.bid": "INACTIVE",
             "sbxzvllyahzn.com": "INACTIVE"
+        },
+        "1575836120": {
+            "sbzngfrmgizpj.bid": "INACTIVE",
+            "scbffqszd.bid": "INACTIVE",
+            "scbnvzfscfmn.com": "INACTIVE",
+            "scbywuiojqvh.com": "INACTIVE",
+            "sceuexzmiwrf.com": "INACTIVE",
+            "scfkfridulshkd.com": "INACTIVE",
+            "scgnsficmwipuj.bid": "INACTIVE"
+        },
+        "1575836121": {
+            "scgyndrujhzf.com": "INACTIVE",
+            "sckpttzpnfimba.bid": "INACTIVE",
+            "scmffjmashzc.com": "INACTIVE",
+            "scofnjymyym.bid": "INACTIVE",
+            "scrltyokacghvd.bid": "INACTIVE",
+            "scuwbelujeeu.com": "INACTIVE",
+            "scvonjdwad.bid": "INACTIVE",
+            "scxxbyqjslyp.com": "INACTIVE",
+            "sdemctwaiazt.com": "INACTIVE"
+        },
+        "1575836122": {
+            "sdfmxhdj.bid": "INACTIVE",
+            "sdmfzlswxgzl.com": "INACTIVE",
+            "sdmhsxlp.bid": "INACTIVE",
+            "sdqspuyipbof.com": "INACTIVE",
+            "sdvgglhp.bid": "INACTIVE",
+            "seaxhrqc.bid": "INACTIVE",
+            "seiqobwpbofg.com": "INACTIVE",
+            "sekajiwqmym.com": "INACTIVE"
+        },
+        "1575836123": {
+            "sekllcjbujp.bid": "INACTIVE",
+            "semvdooatmd.bid": "INACTIVE",
+            "senfvsdvtsn.com": "INACTIVE",
+            "senrzuolwqvj.com": "INACTIVE",
+            "seotpqntjukhg.bid": "INACTIVE",
+            "seympfgeyrew.com": "INACTIVE",
+            "sfaprgtgcguh.com": "INACTIVE",
+            "sfawiner.com": "INACTIVE",
+            "sfgymajb.bid": "INACTIVE"
+        },
+        "1575836124": {
+            "sfcckxdgfgzo.com": "INACTIVE",
+            "sfhyxyodjllrd.bid": "INACTIVE",
+            "sfmzbrdtse.com": "INACTIVE",
+            "sfmziexfvvru.com": "INACTIVE",
+            "sfpkwhncpllt.com": "INACTIVE"
+        },
+        "1575836125": {
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1575836138": {
+            "musictarget.com*": "INVALID"
+        },
+        "1575836152": {
+            "readthedocs.org*": "INVALID"
+        },
+        "1575836173": {
+            "video-cdn.abcnews.com": "INACTIVE",
+            "video.abc.com": "INACTIVE"
+        },
+        "1575836185": {
+            "9anime.*": "INVALID"
+        },
+        "1575836188": {
+            "gelbooru.com*": "INVALID"
+        },
+        "1575836191": {
+            "www*.swatchseries.to": "INVALID"
+        },
+        "1575836192": {
+            "thepiratebay.": "INVALID",
+            "ww46.vidzi.": "INVALID"
+        },
+        "1575836193": {
+            "http.anno.channel4.com*-": "INVALID",
+            "http.anno.channel4.com*_*_*_": "INVALID",
+            "wpengine.netdna-cdn.com": "INACTIVE"
+        },
+        "1575836197": {
+            "tarife.spiegel.de": "INACTIVE"
+        },
+        "1575836202": {
+            "fidget.twitch.tv": "INACTIVE"
+        },
+        "1575836204": {
+            "free-stream.tv": "INACTIVE",
+            "g00.msn.com": "INACTIVE"
+        },
+        "1575836209": {
+            "limbohost.net": "INACTIVE"
+        },
+        "1575836214": {
+            "torrentz.*": "INVALID",
+            "tozer.youwatch.org": "INACTIVE"
+        },
+        "1575836215": {
+            "trans.youwatch.org": "INACTIVE"
+        },
+        "1575836217": {
+            "whies.info": "INACTIVE"
+        },
+        "1575836219": {
+            "109.201.146.142": "INACTIVE"
+        },
+        "1575836222": {
+            "64.62.202.124": "INACTIVE"
+        },
+        "1575836223": {
+            "a.killergram-girls.com": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE"
+        },
+        "1575836226": {
+            "amateur-desire.com": "INACTIVE"
         }
     }
 }
