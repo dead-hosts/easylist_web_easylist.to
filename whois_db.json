@@ -10989,6 +10989,11 @@
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
+    "animmex.online": {
+        "epoch": 1570579200.0,
+        "expiration_date": "09-oct-2019",
+        "state": "past"
+    },
     "animmex.space": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -19810,8 +19815,8 @@
         "state": "future"
     },
     "buzzinn.net": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "buzzintown.com": {
@@ -21365,8 +21370,8 @@
         "state": "future"
     },
     "catmo.ru": {
-        "epoch": 1573776000,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "catwrite.com": {
@@ -33500,9 +33505,9 @@
         "state": "future"
     },
     "dvdtalk.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "dvdvideosoft.com": {
         "epoch": 1793145600,
@@ -63950,8 +63955,8 @@
         "state": "future"
     },
     "latestgadgets.tech": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "latesthackingnews.com": {
@@ -66675,8 +66680,8 @@
         "state": "future"
     },
     "lolking.net": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "lolroflmao.com": {
@@ -111935,8 +111940,8 @@
         "state": "future"
     },
     "trafficlord.net": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "trafficmasterz.net": {
@@ -117452,6 +117457,11 @@
     "vidcrazy.net": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "video-download.online": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "video-loader.com": {
