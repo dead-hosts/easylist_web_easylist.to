@@ -96439,6 +96439,11 @@
         "expiration_date": "11-jul-2019",
         "state": "past"
     },
+    "rxsptuki.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "rxthdr.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -97380,9 +97385,9 @@
         "state": "future"
     },
     "sbifdctojpisuw.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "sbkjxpwxrmk.com": {
         "epoch": 1577318400.0,
@@ -97860,9 +97865,9 @@
         "state": "future"
     },
     "sdeadbqsjam.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "sdfsdvc.com": {
         "epoch": 1581552000.0,
@@ -99765,9 +99770,9 @@
         "state": "future"
     },
     "shmpdqwucl.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "shocktillyoudrop.com": {
         "epoch": 1644969600.0,
@@ -100749,6 +100754,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "sksytkvnvnmz.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "skurki.info": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -101272,6 +101282,11 @@
     "smashseek.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "smazvhjn.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "smbc-comics.com": {
