@@ -15884,6 +15884,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "bggvfsvaqjvamg.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "bgibrhkn.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -26980,8 +26985,8 @@
         "state": "future"
     },
     "cracwrddcb.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "craftster.org": {
