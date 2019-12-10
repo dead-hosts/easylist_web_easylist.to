@@ -16854,6 +16854,11 @@
         "expiration_date": "06-jul-2019",
         "state": "past"
     },
+    "bjcvibh.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "bjjingda.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -126049,6 +126054,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "xpx7heciz9.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "xpywzbxjwbxafv.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
@@ -128867,7 +128877,7 @@
     "yupfiles.club": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "yupfiles.net": {
         "epoch": 1600387200.0,
