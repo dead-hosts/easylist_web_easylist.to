@@ -8168,12 +8168,6 @@
         "1575722942": {
             "mobikano.com": "INACTIVE"
         },
-        "1575760392": {
-            "feeds1.validclick.com": "INACTIVE"
-        },
-        "1575760399": {
-            "record.commissionking.com": "INACTIVE"
-        },
         "1575775743": {
             "escale.to": "INACTIVE"
         },
@@ -9852,60 +9846,9 @@
             "rfvoort.com": "INACTIVE",
             "ripbwing.com": "INACTIVE"
         },
-        "1575808550": {
-            "abc2.mobile-10.com": "INACTIVE",
-            "admingame.info": "INACTIVE",
-            "ads.activtrades.com": "INACTIVE",
-            "cacheserve.*": "INVALID",
-            "online.*": "INVALID",
-            "ox-d.*": "INVALID",
-            "serve.*": "INVALID"
-        },
-        "1575808551": {
-            "ads.integral-marketing.com": "INACTIVE",
-            "adserver.itsfogo.com": "INACTIVE",
-            "adserving.liveuniversenetwork.com": "INACTIVE",
-            "affiliate.godaddy.com": "INACTIVE",
-            "api.ringtonematcher.com": "INACTIVE",
-            "bonusfapturbo.nmvsite.com": "INACTIVE",
-            "click.guamwnvgashbkashawhgkhahshmashcas.pw": "INACTIVE",
-            "clicks.guamwnvgashbkashawhgkhahshmashcas.pw": "INACTIVE"
-        },
-        "1575808552": {
-            "clk.directrev.com": "INACTIVE",
-            "data.ad.yieldmanager.net": "INACTIVE",
-            "ddownload39.club": "INACTIVE",
-            "elite-sex-finder.com": "INACTIVE",
-            "fileupnow.rocks": "INACTIVE",
-            "galleries.pinballpublishernetwork.com": "INACTIVE",
-            "hdplugin.flashplayer-updates.com": "INACTIVE",
-            "jobitem.org": "INACTIVE",
-            "lp.ilivid.com": "INACTIVE"
-        },
-        "1575808553": {
-            "mojofun.info": "INACTIVE",
-            "prochina.link": "INACTIVE",
-            "prochina.space": "INACTIVE",
-            "prousa.work": "INACTIVE",
-            "steel.starflavor.bid": "INACTIVE",
-            "tracking.crazylead.com": "INACTIVE",
-            "www.1clickmoviedownloader.info": "INACTIVE",
-            "www.accuserveadsystem.com": "INACTIVE",
-            "www.faceporn.net": "INACTIVE"
-        },
-        "1575808554": {
-            "atomidownload.com": "INACTIVE",
-            "cdn1.adexprt.com": "INACTIVE",
-            "cdn2.adexprt.com": "INACTIVE",
-            "dcs.adgear.com": "INACTIVE",
-            "evaporate.pw": "INACTIVE",
-            "www.pheedo.com": "INACTIVE"
-        },
         "1575808555": {
             "180upload.nl": "INACTIVE",
-            "internalredirect.site": "INACTIVE",
             "inverterbolsa.com": "INACTIVE",
-            "tbns.com.au": "INACTIVE",
             "tiv.pw": "INACTIVE"
         },
         "1575808556": {
@@ -9926,8 +9869,7 @@
             "golfmanagerlive.com": "INACTIVE",
             "jornaisdesportivospdf.com": "INACTIVE",
             "online.dramacafe.tv": "INACTIVE",
-            "shufflespain.es": "INACTIVE",
-            "www.liutilities.com": "INACTIVE"
+            "shufflespain.es": "INACTIVE"
         },
         "1575808558": {
             "10pipsaffiliates.com": "INACTIVE",
@@ -9941,7 +9883,6 @@
         },
         "1575808559": {
             "2al.pw": "INACTIVE",
-            "2pxg8bcf.top": "INACTIVE",
             "2taa9ib4ib.com": "INACTIVE",
             "320157981.world": "INACTIVE",
             "332-d.com": "INACTIVE",
@@ -10346,8 +10287,7 @@
             "estorest.com": "INACTIVE",
             "etah6wu.top": "INACTIVE",
             "etmanly.ru": "INACTIVE",
-            "eurew.com": "INACTIVE",
-            "vodexor.us": "INACTIVE"
+            "eurew.com": "INACTIVE"
         },
         "1575810424": {
             "euym8eel.club": "INACTIVE",
@@ -21269,6 +21209,104 @@
         "1575857643": {
             "15f3c01c.info": "INACTIVE",
             "adspayformy.site": "INACTIVE"
+        },
+        "1575975695": {
+            "cacheserve.*": "INVALID",
+            "online.*": "INVALID",
+            "ox-d.*": "INVALID",
+            "serve.*": "INVALID"
+        },
+        "1575975698": {
+            "2pxg8bcf.top": "INACTIVE"
+        },
+        "1575975699": {
+            "abc2.mobile-10.com": "INACTIVE"
+        },
+        "1575975700": {
+            "admingame.info": "INACTIVE",
+            "ads.activtrades.com": "INACTIVE",
+            "ads.integral-marketing.com": "INACTIVE",
+            "adserver.itsfogo.com": "INACTIVE"
+        },
+        "1575975701": {
+            "adserving.liveuniversenetwork.com": "INACTIVE"
+        },
+        "1575975702": {
+            "affiliate.godaddy.com": "INACTIVE"
+        },
+        "1575975703": {
+            "api.ringtonematcher.com": "INACTIVE"
+        },
+        "1575975705": {
+            "bonusfapturbo.nmvsite.com": "INACTIVE"
+        },
+        "1575975707": {
+            "click.guamwnvgashbkashawhgkhahshmashcas.pw": "INACTIVE",
+            "clicks.guamwnvgashbkashawhgkhahshmashcas.pw": "INACTIVE",
+            "clk.directrev.com": "INACTIVE"
+        },
+        "1575975709": {
+            "data.ad.yieldmanager.net": "INACTIVE",
+            "ddownload39.club": "INACTIVE"
+        },
+        "1575975711": {
+            "elite-sex-finder.com": "INACTIVE"
+        },
+        "1575975712": {
+            "fileupnow.rocks": "INACTIVE"
+        },
+        "1575975714": {
+            "galleries.pinballpublishernetwork.com": "INACTIVE"
+        },
+        "1575975715": {
+            "green.trafficinvest.com": "INACTIVE"
+        },
+        "1575975716": {
+            "hdplugin.flashplayer-updates.com": "INACTIVE"
+        },
+        "1575975717": {
+            "jobitem.org": "INACTIVE"
+        },
+        "1575975719": {
+            "lp.ilivid.com": "INACTIVE"
+        },
+        "1575975720": {
+            "mojofun.info": "INACTIVE"
+        },
+        "1575975722": {
+            "prochina.link": "INACTIVE",
+            "prochina.space": "INACTIVE",
+            "prousa.work": "INACTIVE",
+            "record.commissionking.com": "INACTIVE"
+        },
+        "1575975726": {
+            "steel.starflavor.bid": "INACTIVE",
+            "tracking.crazylead.com": "INACTIVE"
+        },
+        "1575975729": {
+            "www.1clickmoviedownloader.info": "INACTIVE",
+            "www.accuserveadsystem.com": "INACTIVE",
+            "www.faceporn.net": "INACTIVE",
+            "www.liutilities.com": "INACTIVE",
+            "www.pheedo.com": "INACTIVE"
+        },
+        "1575975733": {
+            "atomidownload.com": "INACTIVE"
+        },
+        "1575975737": {
+            "dcs.adgear.com": "INACTIVE",
+            "evaporate.pw": "INACTIVE"
+        },
+        "1575975748": {
+            "cdn1.adexprt.com": "INACTIVE",
+            "vodexor.us": "INACTIVE"
+        },
+        "1575975749": {
+            "cdn2.adexprt.com": "INACTIVE",
+            "internalredirect.site": "INACTIVE"
+        },
+        "1575975751": {
+            "tbns.com.au": "INACTIVE"
         }
     }
 }

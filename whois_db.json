@@ -5297,7 +5297,7 @@
     "adexprt.me": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adexprts.com": {
         "epoch": 1575676800.0,
@@ -22895,8 +22895,8 @@
         "state": "future"
     },
     "chicagocrusader.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "chicagodefender.com": {
@@ -24435,8 +24435,8 @@
         "state": "future"
     },
     "clkmon.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "clkpback3.com": {
@@ -44705,8 +44705,8 @@
         "state": "future"
     },
     "garycrusader.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "gas2.org": {
@@ -71700,8 +71700,8 @@
         "state": "future"
     },
     "mk-ads.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "mk-cdn.net": {
@@ -89640,8 +89640,8 @@
         "state": "future"
     },
     "pwrads.net": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "pwrjjvjtvmr.com": {
