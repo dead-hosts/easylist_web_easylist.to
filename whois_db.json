@@ -16034,6 +16034,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "bidfilter.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "bidfppkjo.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
@@ -19495,8 +19500,8 @@
         "state": "future"
     },
     "burria.info": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "burst.net": {
@@ -20307,6 +20312,11 @@
     "cadplace.co.uk": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "cadskis.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "cafc.co.uk": {
