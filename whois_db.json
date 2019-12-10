@@ -61195,8 +61195,8 @@
         "state": "future"
     },
     "kcodndvh.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "kcolbda.com": {
@@ -62237,6 +62237,11 @@
     "klixfeed.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "klljshial.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "klm.com": {
@@ -63435,9 +63440,9 @@
         "state": "future"
     },
     "kwkxvbjz.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "kwomkjjoajcyyt.com": {
         "epoch": 1600905600.0,
@@ -63770,9 +63775,9 @@
         "state": "future"
     },
     "lajpmujdntg.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "lajuntatribunedemocrat.com": {
         "epoch": 1594166400.0,
