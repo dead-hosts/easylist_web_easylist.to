@@ -30479,6 +30479,11 @@
         "expiration_date": "20-jul-2019",
         "state": "past"
     },
+    "dfcwecvmjtdj.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "dfgfgvqogboiz.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -30600,9 +30605,9 @@
         "state": "future"
     },
     "dgowzelhoaqqb.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "dgqktjmxtlp.com": {
         "epoch": 1606521600.0,
@@ -32675,8 +32680,8 @@
         "state": "future"
     },
     "dpwsvrkmfxrt.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "dpxjvfdtufp.com": {
@@ -37034,6 +37039,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "etknnufo.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "etmewatuh.com": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
@@ -37117,6 +37127,11 @@
     "euktoywjpdxpdh.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "eulbamjx.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "euobserver.com": {
