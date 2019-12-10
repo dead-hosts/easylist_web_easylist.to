@@ -5305,9 +5305,9 @@
         "state": "past"
     },
     "adexprts.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "adextent.com": {
         "epoch": 1592179200.0,
@@ -5635,9 +5635,9 @@
         "state": "future"
     },
     "adiqglobal.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "adiquity.com": {
         "epoch": 1685577600.0,
@@ -5650,8 +5650,8 @@
         "state": "future"
     },
     "adireland.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "adisfy.com": {
@@ -7707,7 +7707,7 @@
     "advertlane.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "advertlets.com": {
         "epoch": 1578096000.0,
@@ -8665,8 +8665,8 @@
         "state": "future"
     },
     "afgr1.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "afgr10.com": {
@@ -8680,8 +8680,8 @@
         "state": "future"
     },
     "afgr2.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "afgr3.com": {
