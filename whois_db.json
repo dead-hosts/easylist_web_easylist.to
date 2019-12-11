@@ -4002,7 +4002,7 @@
     "abalive.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abaporufilmes.com.br": {
         "epoch": 1600041600.0,
@@ -120930,8 +120930,8 @@
         "state": "future"
     },
     "weatherforddemocrat.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "weathernationtv.com": {
