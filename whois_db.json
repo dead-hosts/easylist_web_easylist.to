@@ -34237,7 +34237,7 @@
     "earth911.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "earthlink.net": {
         "epoch": 1591315200.0,
@@ -41795,8 +41795,8 @@
         "state": "future"
     },
     "fox17online.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "fox2now.com": {
@@ -61900,8 +61900,8 @@
         "state": "future"
     },
     "kingscountynews.ca": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "kingsinteriors.co.uk": {
@@ -77455,8 +77455,8 @@
         "state": "future"
     },
     "nextmovie.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "nextofwindows.com": {
@@ -85980,8 +85980,8 @@
         "state": "future"
     },
     "pokernews.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "pokernewsreport.com": {
@@ -97615,8 +97615,8 @@
         "state": "future"
     },
     "scitechdaily.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "scjczeqyuqjs.com": {
@@ -124150,9 +124150,9 @@
         "state": "future"
     },
     "wrestlezone.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "wrestlinginc.com": {
         "epoch": 1582156800.0,
