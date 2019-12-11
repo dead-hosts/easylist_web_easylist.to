@@ -18102,7 +18102,7 @@
     "bored-bored.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bored.com": {
         "epoch": 1590192000.0,
@@ -27810,8 +27810,8 @@
         "state": "future"
     },
     "culttt.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "cumberlandnews.co.uk": {
@@ -39737,7 +39737,7 @@
     "fifaembed.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fifnonxntvaszg.com": {
         "epoch": 1583884800.0,
@@ -40770,8 +40770,8 @@
         "state": "future"
     },
     "fleetwatch.co.za": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "flepzrkdwm.com": {
@@ -69200,8 +69200,8 @@
         "state": "future"
     },
     "marshfieldnewsherald.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "martechadvisor.com": {
@@ -76335,8 +76335,8 @@
         "state": "future"
     },
     "nerdist.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "nerej.com": {
@@ -99702,7 +99702,7 @@
     "shieldarcade.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "shieldsgazette.com": {
         "epoch": 1639612800.0,
@@ -103980,8 +103980,8 @@
         "state": "future"
     },
     "stevenspointjournal.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "sthelensstar.co.uk": {
@@ -108410,8 +108410,8 @@
         "state": "future"
     },
     "thehun.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "thehun.net": {
@@ -111260,8 +111260,8 @@
         "state": "future"
     },
     "toptut.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "topzone.lt": {
@@ -121320,8 +121320,8 @@
         "state": "future"
     },
     "webscribble.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "websearchers.net": {
