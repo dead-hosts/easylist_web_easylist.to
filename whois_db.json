@@ -45257,7 +45257,7 @@
     "genfb.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "geniad.net": {
         "epoch": 1597276800.0,
@@ -58235,8 +58235,8 @@
         "state": "future"
     },
     "janjuaplayer.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "japan-guide.com": {
@@ -111410,8 +111410,8 @@
         "state": "future"
     },
     "torrentportal.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "torrentproject2.se": {
