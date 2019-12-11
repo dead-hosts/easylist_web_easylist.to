@@ -61435,8 +61435,8 @@
         "state": "future"
     },
     "kerumal.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "ket.org": {
@@ -75105,8 +75105,8 @@
         "state": "future"
     },
     "mystighty.info": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "mystreamadpush.link": {
@@ -98072,6 +98072,11 @@
     "secfpgpqx.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "secondchancetrack.fun": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "secondspin.com": {
