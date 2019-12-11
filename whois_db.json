@@ -36394,6 +36394,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "eplsite.uk": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "epnredirect.ru": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -46510,8 +46515,8 @@
         "state": "future"
     },
     "gloucestershirelive.co.uk": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "gloucestertimes.com": {
@@ -58397,7 +58402,7 @@
     "javporn.in": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "javqd.tv": {
         "epoch": 1593907200.0,
@@ -60907,6 +60912,11 @@
     "kamnebo.info": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "kanonitv.net": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
         "state": "future"
     },
     "kanoodle.com": {
@@ -65405,8 +65415,8 @@
         "state": "future"
     },
     "lincolnshirelive.co.uk": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "lindaikejisblog.com": {
@@ -84405,8 +84415,8 @@
         "state": "future"
     },
     "phncdn.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "phnompenhpost.com": {
@@ -98790,8 +98800,8 @@
         "state": "future"
     },
     "sex3.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "sex3dtoons.com": {
@@ -102080,8 +102090,8 @@
         "state": "future"
     },
     "somersetlive.co.uk": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "somethingawful.com": {
@@ -110450,8 +110460,8 @@
         "state": "future"
     },
     "tjoob.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "tjoomo.com": {
@@ -123954,6 +123964,11 @@
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
+    "wplift.com": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
     "wplqgfpj.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -126810,9 +126825,9 @@
         "state": "future"
     },
     "xxxkingtube.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "xxxkinky.com": {
         "epoch": 1605484800.0,
