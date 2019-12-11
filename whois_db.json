@@ -39945,8 +39945,8 @@
         "state": "future"
     },
     "filesharingtalk.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "fileshut.biz": {
@@ -77360,8 +77360,8 @@
         "state": "future"
     },
     "newvision.co.ug": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1733875200.0,
+        "expiration_date": "11-dec-2024",
         "state": "future"
     },
     "newware.net": {
@@ -108067,7 +108067,7 @@
     "thedailywtf.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "theday.com": {
         "epoch": 1606867200.0,
@@ -118002,7 +118002,7 @@
     "vipboxsports.me": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vipcpms.com": {
         "epoch": 1577577600.0,
