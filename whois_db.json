@@ -99045,8 +99045,8 @@
         "state": "future"
     },
     "sexy-ch.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "sexyandfunny.com": {
@@ -107060,8 +107060,8 @@
         "state": "future"
     },
     "telvanil.ru": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "telwrite.com": {
@@ -121637,7 +121637,7 @@
     "weownthetraffic.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wepmmzpypfwq.com": {
         "epoch": 1578009600.0,
