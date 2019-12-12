@@ -27130,9 +27130,9 @@
         "state": "future"
     },
     "creative-serving.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "creativeapplications.net": {
         "epoch": 1601856000.0,
@@ -31937,7 +31937,7 @@
     "doglickz.club": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dogva.com": {
         "epoch": 1602201600.0,
