@@ -45767,7 +45767,7 @@
     "gguvdsglzjyca.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ggwcash.com": {
         "epoch": 1624924800.0,
@@ -45860,8 +45860,8 @@
         "state": "future"
     },
     "ghytjserb.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "giantaffiliates.com": {
@@ -48375,8 +48375,8 @@
         "state": "future"
     },
     "gtkikiwa.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "gtlcgovlg.com": {
@@ -49509,6 +49509,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "hbhgheovqz.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "hbkajyvrus.com": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
@@ -50122,6 +50127,11 @@
     "helltraffic.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "heloymydva.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "help.com": {
@@ -53620,8 +53630,8 @@
         "state": "future"
     },
     "icahllwjc.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "icanbecreative.com": {
