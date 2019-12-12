@@ -77394,6 +77394,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "newwedads.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "newyorker.com": {
         "epoch": 1636848000.0,
         "expiration_date": "14-nov-2021",
@@ -78930,8 +78935,8 @@
         "state": "past"
     },
     "nrnma.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "nrrxxpvgtf.com": {
@@ -80592,7 +80597,7 @@
     "ohmcasting.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ohmwrite.com": {
         "epoch": 1596412800.0,
@@ -83005,8 +83010,8 @@
         "state": "future"
     },
     "panda.network": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "pandaapp.com": {
