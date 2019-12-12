@@ -83479,6 +83479,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "pccomponentes.com": {
+        "epoch": 1763596800.0,
+        "expiration_date": "20-nov-2025",
+        "state": "future"
+    },
     "pccpyjngw.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -128345,8 +128350,8 @@
         "state": "future"
     },
     "yougamers.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "youinsure.co.za": {
