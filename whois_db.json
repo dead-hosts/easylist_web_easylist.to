@@ -1187,7 +1187,7 @@
     "2leep.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "2lwlh385os.com": {
         "epoch": 1577491200.0,
@@ -5300,9 +5300,9 @@
         "state": "future"
     },
     "adexprt.me": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "adexprts.com": {
         "epoch": 1607299200.0,
@@ -5512,7 +5512,7 @@
     "adhealers.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adhese.com": {
         "epoch": 1585958400.0,
