@@ -111694,6 +111694,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "tpdads.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "tpdpidgyjhjn.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -112192,7 +112197,7 @@
     "trafficular.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficundercontrol.com": {
         "epoch": 1597795200.0,
@@ -114162,7 +114167,7 @@
     "ubercpm.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ubergizmo.com": {
         "epoch": 1628208000.0,
@@ -117075,8 +117080,8 @@
         "state": "future"
     },
     "velmedia.net": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "velocecdn.com": {
@@ -118070,8 +118075,8 @@
         "state": "future"
     },
     "viral782.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "viralcpm.com": {
