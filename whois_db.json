@@ -85667,7 +85667,7 @@
     "plugerr.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pluggd.in": {
         "epoch": 1580256000.0,
@@ -87139,6 +87139,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "portantreadedagree.info": {
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "state": "future"
+    },
     "portcanaveralwebcam.com": {
         "epoch": 1581552000,
         "expiration_date": "13-feb-2020",
@@ -88515,8 +88520,8 @@
         "state": "future"
     },
     "protoawe.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "proudfm.com": {
