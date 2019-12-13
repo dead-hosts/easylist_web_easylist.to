@@ -8168,64 +8168,6 @@
         "1575722942": {
             "mobikano.com": "INACTIVE"
         },
-        "1576036645": {
-            "bp.blogspot.com": "INACTIVE"
-        },
-        "1576036652": {
-            "clicks.superpages.com": "INACTIVE"
-        },
-        "1576036657": {
-            "dailynews.gov.bw": "INACTIVE"
-        },
-        "1576036660": {
-            "dropapk.*": "INVALID"
-        },
-        "1576036669": {
-            "gamecopyworld.*": "INVALID"
-        },
-        "1576036686": {
-            "js.high-minded.net": "INACTIVE"
-        },
-        "1576036700": {
-            "musictarget.com*": "INVALID"
-        },
-        "1576037840": {
-            "readthedocs.org*": "INVALID"
-        },
-        "1576037861": {
-            "video-cdn.abcnews.com": "INACTIVE",
-            "video.abc.com": "INACTIVE"
-        },
-        "1576037873": {
-            "9anime.*": "INVALID"
-        },
-        "1576037876": {
-            "gelbooru.com*": "INVALID"
-        },
-        "1576037879": {
-            "www*.swatchseries.to": "INVALID"
-        },
-        "1576037880": {
-            "thepiratebay.": "INVALID",
-            "ww46.vidzi.": "INVALID"
-        },
-        "1576037881": {
-            "wpengine.netdna-cdn.com": "INACTIVE"
-        },
-        "1576037882": {
-            "http.anno.channel4.com*-": "INVALID",
-            "http.anno.channel4.com*_*_*_": "INVALID"
-        },
-        "1576037885": {
-            "tarife.spiegel.de": "INACTIVE"
-        },
-        "1576037890": {
-            "fidget.twitch.tv": "INACTIVE"
-        },
-        "1576037892": {
-            "free-stream.tv": "INACTIVE",
-            "g00.msn.com": "INACTIVE"
-        },
         "1576037897": {
             "limbohost.net": "INACTIVE"
         },
@@ -25561,6 +25503,62 @@
         "1576221793": {
             "admeta.vo.llnwd.net": "INACTIVE",
             "ads-*.hulu.com": "INVALID"
+        },
+        "1576222942": {
+            "clicks.superpages.com": "INACTIVE"
+        },
+        "1576222946": {
+            "dailynews.gov.bw": "INACTIVE"
+        },
+        "1576222950": {
+            "dropapk.*": "INVALID"
+        },
+        "1576222959": {
+            "gamecopyworld.*": "INVALID"
+        },
+        "1576222976": {
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1576222991": {
+            "musictarget.com*": "INVALID"
+        },
+        "1576223005": {
+            "readthedocs.org*": "INVALID"
+        },
+        "1576223027": {
+            "video-cdn.abcnews.com": "INACTIVE",
+            "video.abc.com": "INACTIVE"
+        },
+        "1576223037": {
+            "bp.blogspot.com": "INACTIVE"
+        },
+        "1576223039": {
+            "9anime.*": "INVALID"
+        },
+        "1576223042": {
+            "gelbooru.com*": "INVALID"
+        },
+        "1576223046": {
+            "thepiratebay.": "INVALID",
+            "ww46.vidzi.": "INVALID",
+            "www*.swatchseries.to": "INVALID"
+        },
+        "1576223047": {
+            "wpengine.netdna-cdn.com": "INACTIVE"
+        },
+        "1576223048": {
+            "http.anno.channel4.com*-": "INVALID",
+            "http.anno.channel4.com*_*_*_": "INVALID"
+        },
+        "1576223052": {
+            "tarife.spiegel.de": "INACTIVE"
+        },
+        "1576223058": {
+            "fidget.twitch.tv": "INACTIVE"
+        },
+        "1576223059": {
+            "free-stream.tv": "INACTIVE",
+            "g00.msn.com": "INACTIVE"
         }
     }
 }
