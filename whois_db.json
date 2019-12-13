@@ -117554,6 +117554,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "vgnlhfdkmcdc.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "vgodvvcwrshk.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -117567,6 +117572,11 @@
     "vgsgaming-ads.com": {
         "epoch": 1664496000.0,
         "expiration_date": "30-sep-2022",
+        "state": "future"
+    },
+    "vgszcaszzef.com": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "vgvzvqbzhh.com": {
@@ -119767,7 +119777,7 @@
     "vxrpmslex.com": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vxyqsxeo.com": {
         "epoch": 1603065600.0,
@@ -120988,6 +120998,11 @@
         "epoch": 1562371200,
         "expiration_date": "06-jul-2019",
         "state": "past"
+    },
+    "wdaqrxfppj.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "wday.com": {
         "epoch": 1602633600.0,
@@ -122620,8 +122635,8 @@
         "state": "future"
     },
     "whzavlaamjcnt.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "whziccxv.com": {
@@ -122707,6 +122722,11 @@
     "widpzvyx.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "wiewsulznyncf.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "wiezvhxoqhnn.com": {
@@ -122812,7 +122832,7 @@
     "wiklweefcuorh.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wil92.com": {
         "epoch": 1613347200.0,
