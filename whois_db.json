@@ -62407,7 +62407,7 @@
     "kmkdkefa.com": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "kmov.com": {
         "epoch": 1602547200.0,
@@ -62884,6 +62884,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "kpgcnqxccssu.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "kpgjogkbwjpmz.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
@@ -62927,6 +62932,11 @@
     "kpwjtpgvowifq.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "kpzsyqhje.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "kqed.org": {
@@ -64384,6 +64394,11 @@
         "expiration_date": "20-jul-2019",
         "state": "past"
     },
+    "lcryooiliokm.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "lcsgdwlxrlgq.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -65212,7 +65227,7 @@
     "lhuetsviudr.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lhytmylpwfzuzm.com": {
         "epoch": 1587427200.0,
@@ -66359,6 +66374,11 @@
         "expiration_date": "26-apr-2020",
         "state": "future"
     },
+    "lkvifcxvqkwrl.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "lkyuoybczr.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -66747,7 +66767,7 @@
     "logkzudhrg.com": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "logo-net.co.uk": {
         "epoch": 1592352000.0,
