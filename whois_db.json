@@ -6472,7 +6472,7 @@
     "adrecreate.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adrelayer.com": {
         "epoch": 1581465600.0,
@@ -6482,7 +6482,7 @@
     "adrenovate.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adrent.net": {
         "epoch": 1581811200.0,
@@ -6497,7 +6497,7 @@
     "adrevenuerescue.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adrevolver.com": {
         "epoch": 1595548800.0,
@@ -46785,8 +46785,8 @@
         "state": "future"
     },
     "go2linkfast.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "go2media.org": {
@@ -60442,6 +60442,11 @@
     "justcutegirls.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "justdating.online": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "justdial.com": {
@@ -77365,8 +77370,8 @@
         "state": "future"
     },
     "newstarads.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "newstatesman.com": {
