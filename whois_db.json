@@ -59722,7 +59722,7 @@
     "jokerplayer.net": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jokersupdates.com": {
         "epoch": 1698710400.0,
@@ -101850,8 +101850,8 @@
         "state": "future"
     },
     "soccerbase.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "soccerlens.com": {
