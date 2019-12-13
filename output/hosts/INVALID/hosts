@@ -23,6 +23,9 @@
 0.0.0.0 images.*.criteo.net
 0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 ox-d.*
+0.0.0.0 quickflix*.gridserver.com
+0.0.0.0 rcm*.amazon.
+0.0.0.0 rdi.*.criteo.com
 0.0.0.0 serve.*
 0.0.0.0 tracker*.bingohall.ag
 0.0.0.0 tracker*.richcasino.com

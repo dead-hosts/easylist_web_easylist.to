@@ -70250,9 +70250,9 @@
         "state": "future"
     },
     "mediaon.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "mediaonenetwork.net": {
         "epoch": 1584230400.0,
@@ -79537,6 +79537,11 @@
     "nvp2auf5.com": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "nvpn.net": {
+        "epoch": 1814313600.0,
+        "expiration_date": "30-jun-2027",
         "state": "future"
     },
     "nvqsjdvgqnyk.com": {
