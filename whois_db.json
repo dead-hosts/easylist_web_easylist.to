@@ -88355,8 +88355,8 @@
         "state": "future"
     },
     "program3.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1860192000.0,
+        "expiration_date": "12-dec-2028",
         "state": "future"
     },
     "programmableweb.com": {
@@ -112427,7 +112427,7 @@
     "transexy.it": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "transfermarkt.co.uk": {
         "epoch": 1612828800.0,
@@ -121845,9 +121845,9 @@
         "state": "future"
     },
     "weownthetraffic.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "wepmmzpypfwq.com": {
         "epoch": 1578009600.0,
@@ -122237,7 +122237,7 @@
     "whalecashads.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "whalepp.com": {
         "epoch": 1603584000.0,
