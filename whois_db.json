@@ -2010,9 +2010,9 @@
         "state": "future"
     },
     "4link.it": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "4music.com": {
         "epoch": 1604534400.0,
@@ -6490,9 +6490,9 @@
         "state": "future"
     },
     "adrecreate.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "adrelayer.com": {
         "epoch": 1581465600.0,
@@ -6500,9 +6500,9 @@
         "state": "future"
     },
     "adrenovate.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "adrent.net": {
         "epoch": 1581811200.0,
@@ -6515,9 +6515,9 @@
         "state": "future"
     },
     "adrevenuerescue.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "adrevolver.com": {
         "epoch": 1595548800.0,
@@ -85535,8 +85535,8 @@
         "state": "future"
     },
     "pixellitomedia.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "pixelsfighting.co": {
@@ -101569,6 +101569,11 @@
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
+    "slimsk.pro": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "slimspots.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -102692,6 +102697,11 @@
     "somoto.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "sonagerthrou.com": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
         "state": "future"
     },
     "sondakika.com": {
