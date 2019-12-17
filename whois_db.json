@@ -4705,8 +4705,8 @@
         "state": "future"
     },
     "ad2load.net": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "ad2up.com": {
@@ -6840,8 +6840,8 @@
         "state": "future"
     },
     "adshell.net": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "adshexa.com": {
@@ -7872,6 +7872,11 @@
     "advmedialtd.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "advnet.xyz": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "advocate.com": {
@@ -20419,6 +20424,11 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "cadsats.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "cadsatz.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -28704,6 +28714,11 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "daethana.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "daffaite.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -35867,6 +35882,11 @@
     "elliottwave.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "elmenor.xyz": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "elocallink.tv": {
@@ -75759,6 +75779,11 @@
         "expiration_date": "22-jun-2021",
         "state": "future"
     },
+    "naetoris.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "nag.co.za": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
@@ -108782,6 +108807,11 @@
     "thefappeningblog.com": {
         "epoch": 1712448000.0,
         "expiration_date": "07-apr-2024",
+        "state": "future"
+    },
+    "thefaren.pw": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "thefashionlaw.com": {
