@@ -100505,8 +100505,8 @@
         "state": "future"
     },
     "siamzone.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "sibatnsryjpcq.com": {
@@ -100822,6 +100822,11 @@
     "singlestoreowner.com": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
+    "sinsoftu.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "sinyfqrmiqgd.com": {
@@ -102035,8 +102040,8 @@
         "state": "future"
     },
     "so-excited.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "soadvr.com": {
@@ -103405,8 +103410,8 @@
         "state": "future"
     },
     "spottt.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "spottysense.com": {
@@ -104474,6 +104479,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "stoashou.net": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "stockhouse.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
@@ -104717,6 +104727,11 @@
     "streetmap.co.uk": {
         "epoch": 1673222400.0,
         "expiration_date": "09-jan-2023",
+        "state": "future"
+    },
+    "stremanp.com": {
+        "epoch": 1582761600.0,
+        "expiration_date": "27-feb-2020",
         "state": "future"
     },
     "strikead.com": {
@@ -106809,6 +106824,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "tdmd.us": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "tdntrack.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
@@ -107622,6 +107642,11 @@
     "terradaily.com": {
         "epoch": 1642204800.0,
         "expiration_date": "15-jan-2022",
+        "state": "future"
+    },
+    "terrapsps.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "terrapush.com": {
@@ -110775,8 +110800,8 @@
         "state": "future"
     },
     "tissage-extension.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "titanbrowser.com": {
@@ -111062,6 +111087,11 @@
     "tmpnencifbe.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "tmqhw.us": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "tmrsjdxavhjgww.com": {
@@ -112172,7 +112202,7 @@
     "traceadmanager.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "traceybell.co.uk": {
         "epoch": 1621814400.0,
@@ -112185,8 +112215,8 @@
         "state": "future"
     },
     "trackcorner.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "trackerislive.com": {
@@ -112555,9 +112585,9 @@
         "state": "future"
     },
     "trafficular.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "trafficundercontrol.com": {
         "epoch": 1597795200.0,
