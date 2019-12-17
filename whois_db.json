@@ -4130,8 +4130,8 @@
         "state": "future"
     },
     "abduzeedo.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "abestweb.com": {
@@ -26274,6 +26274,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "cool-wallpaper.us": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "coolandevencooler.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
@@ -36550,8 +36555,8 @@
         "state": "future"
     },
     "epicurious.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "epimg.net": {
@@ -66985,8 +66990,8 @@
         "state": "future"
     },
     "localberkshire.co.uk": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "localbotswana.com": {
@@ -71015,9 +71020,9 @@
         "state": "future"
     },
     "memez.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "memorybenchmark.net": {
         "epoch": 1658361600.0,
@@ -108285,8 +108290,8 @@
         "state": "future"
     },
     "the-gazette.co.uk": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "the-new-lagoon.com": {
@@ -121260,8 +121265,8 @@
         "state": "future"
     },
     "way2sms.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1734393600.0,
+        "expiration_date": "17-dec-2024",
         "state": "future"
     },
     "waybig.com": {
@@ -124745,8 +124750,8 @@
         "state": "future"
     },
     "wpdaddy.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "wpdailythemes.com": {
