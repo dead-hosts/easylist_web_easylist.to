@@ -92370,8 +92370,8 @@
         "state": "future"
     },
     "rackcdn.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "rackcorp.com": {
@@ -99195,8 +99195,8 @@
         "state": "future"
     },
     "server4.pro": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "serverbid.com": {
@@ -106123,6 +106123,11 @@
         "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
         "state": "past"
+    },
+    "synapsys.us": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
     },
     "syncedvision.com": {
         "epoch": 1608940800.0,

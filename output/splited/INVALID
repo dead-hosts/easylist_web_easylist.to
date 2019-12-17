@@ -24,7 +24,16 @@ images.*.criteo.net                                                             
 mobileoffers-*-download.com                                                                          SYNTAX     XXX        2019-12-17T14:42:25.876901
 online.*                                                                                             SYNTAX     XXX        2019-12-17T10:54:58.424545
 ox-d.*                                                                                               SYNTAX     XXX        2019-12-17T10:54:58.527079
+quickflix*.gridserver.com                                                                            SYNTAX     XXX        2019-12-17T22:25:02.732636
+rcm*.amazon.                                                                                         SYNTAX     XXX        2019-12-17T22:25:06.832254
+rdi.*.criteo.com                                                                                     SYNTAX     XXX        2019-12-17T22:25:07.274063
 serve.*                                                                                              SYNTAX     XXX        2019-12-17T10:54:58.619502
+static.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-17T22:25:36.290585
+static.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-17T22:25:36.421982
+static.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-17T22:25:36.553647
+static.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-17T22:25:36.684548
+tipico.*                                                                                             SYNTAX     XXX        2019-12-17T22:25:52.615390
+tipico.*?affiliateId=                                                                                SYNTAX     XXX        2019-12-17T22:25:53.031642
 tracker*.bingohall.ag                                                                                SYNTAX     XXX        2019-12-17T21:17:55.010370
 tracker*.richcasino.com                                                                              SYNTAX     XXX        2019-12-17T21:17:54.903867
 tracking.sportsbet.                                                                                  SYNTAX     XXX        2019-12-17T21:17:55.592560
