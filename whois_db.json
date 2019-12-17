@@ -9049,6 +9049,11 @@
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
+    "agriaffaires.us": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
     "agriculturalreviewonline.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -25495,8 +25500,8 @@
         "state": "future"
     },
     "colourlovers.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "colpory.com": {
@@ -53595,8 +53600,8 @@
         "state": "future"
     },
     "i-programmer.info": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "i-sgcm.com": {
@@ -81885,8 +81890,8 @@
         "state": "future"
     },
     "onthesnow.ca": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "onthesnow.co.uk": {
@@ -102720,8 +102725,8 @@
         "state": "future"
     },
     "someecards.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "someimage.com": {
@@ -124425,8 +124430,8 @@
         "state": "future"
     },
     "work-day.co.uk": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "workably.club": {
@@ -124457,6 +124462,11 @@
     "workingdays.org": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
+    "workingdays.us": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
         "state": "future"
     },
     "workswithu.com": {
@@ -130482,6 +130492,11 @@
     "zbvrqrjecs.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "zcast.us": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "zcauvwmfevhox.com": {
