@@ -19029,6 +19029,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "browserr.top": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "browsers.support": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -19280,8 +19285,8 @@
         "state": "future"
     },
     "btrll.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "btserve.com": {
@@ -20234,6 +20239,11 @@
         "expiration_date": "20-dec-2019",
         "state": "future"
     },
+    "c02o3mpych.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "c10ed2b8b417880.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -20379,9 +20389,34 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "cadsabs.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "cadsatz.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "cadsips.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "cadsipz.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "cadskis.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "cadsokz.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "cafc.co.uk": {
@@ -21525,8 +21560,8 @@
         "state": "future"
     },
     "cb-content.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "cb4faf87ffae.com": {
@@ -22679,6 +22714,11 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "chaptoor.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
     "charanchedope.info": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -23390,8 +23430,8 @@
         "state": "future"
     },
     "cibleclick.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "ciecissstwncw.com": {
@@ -26035,8 +26075,8 @@
         "state": "future"
     },
     "content-cooperation.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "contentabc.com": {
