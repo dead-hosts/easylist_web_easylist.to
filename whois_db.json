@@ -113129,6 +113129,11 @@
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
+    "trks.us": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "trm.md": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
@@ -114474,6 +114479,11 @@
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "u595sebqih.com": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
+    },
     "u8vysb7s2v.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -114555,9 +114565,9 @@
         "state": "future"
     },
     "ubercpm.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "ubergizmo.com": {
         "epoch": 1628208000.0,
@@ -117589,6 +117599,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "verdrivenbru.info": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "state": "future"
+    },
     "verizon.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -118853,6 +118868,11 @@
         "epoch": 1564012800,
         "expiration_date": "25-jul-2019",
         "state": "past"
+    },
+    "vkaofq64zz.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
     },
     "vkasuqsswc.com": {
         "epoch": 1563494400,
@@ -121860,8 +121880,8 @@
         "state": "future"
     },
     "webtradehub.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "webtv.ws": {
@@ -125429,6 +125449,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "xacersconceptin.info": {
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "state": "future"
+    },
     "xacexccntjbrht.com": {
         "epoch": 1562371200,
         "expiration_date": "06-jul-2019",
@@ -126038,6 +126063,11 @@
         "epoch": 1563408000,
         "expiration_date": "18-jul-2019",
         "state": "past"
+    },
+    "xgrwjbui.top": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
     },
     "xgspfcpxt.com": {
         "epoch": 1585699200.0,
@@ -129307,6 +129337,11 @@
     "ysmbdnavqsbcl.com": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "ysnj74ed.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "ysosfhyrbyre.com": {
