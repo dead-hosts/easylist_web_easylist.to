@@ -42439,6 +42439,11 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "freean.us": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "freeappaday.com": {
         "epoch": 1594166400,
         "expiration_date": "08-jul-2020",
@@ -48015,8 +48020,8 @@
         "state": "future"
     },
     "grannysexforum.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "granthamtarget.co.uk": {
@@ -51630,9 +51635,9 @@
         "state": "future"
     },
     "hollyscoop.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "hollywire.com": {
         "epoch": 1592006400.0,
@@ -55017,6 +55022,11 @@
     "imageshack.com": {
         "epoch": 1691712000.0,
         "expiration_date": "11-aug-2023",
+        "state": "future"
+    },
+    "imageshack.us": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "imageshimage.com": {
@@ -69730,8 +69740,8 @@
         "state": "future"
     },
     "masternodes.online": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "masterwanker.com": {
@@ -75879,6 +75889,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "naked-sluts.us": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "naked.com": {
         "epoch": 1778284800.0,
         "expiration_date": "09-may-2026",
@@ -76907,7 +76922,7 @@
     "netindian.in": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "netinsight.co.kr": {
         "epoch": 1586736000.0,
@@ -82737,6 +82752,11 @@
     "ouo.io": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "ouo.press": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "ouptoobe.net": {
@@ -124352,6 +124372,11 @@
     "worcestershirelife.co.uk": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "wordcounter.net": {
+        "epoch": 1831075200.0,
+        "expiration_date": "10-jan-2028",
         "state": "future"
     },
     "worddictionary.co.uk": {
