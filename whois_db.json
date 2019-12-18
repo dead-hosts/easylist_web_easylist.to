@@ -145,8 +145,8 @@
         "state": "future"
     },
     "0calc.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "0d847862199.com": {
@@ -39985,9 +39985,9 @@
         "state": "future"
     },
     "fifaembed.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "fifnonxntvaszg.com": {
         "epoch": 1583884800.0,
@@ -47300,8 +47300,8 @@
         "state": "future"
     },
     "golfchannel.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
         "state": "future"
     },
     "golflink.com": {
@@ -47762,6 +47762,11 @@
     "govtech.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "govtrack.us": {
+        "epoch": 1656720000.0,
+        "expiration_date": "02-jul-2022",
         "state": "future"
     },
     "gowilkes.com": {
@@ -65090,8 +65095,8 @@
         "state": "future"
     },
     "legendarypokemon.net": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "legion.org": {
@@ -103100,8 +103105,8 @@
         "state": "future"
     },
     "southwestbusiness.co.uk": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "southwestfarmer.co.uk": {
@@ -105740,8 +105745,8 @@
         "state": "future"
     },
     "sussexlife.co.uk": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "sutchart.net": {
@@ -108735,8 +108740,8 @@
         "state": "future"
     },
     "thedailyjournal.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "thedailymash.co.uk": {
@@ -110060,8 +110065,8 @@
         "state": "future"
     },
     "thethingswesay.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "thetimes.co.uk": {
@@ -110070,8 +110075,8 @@
         "state": "future"
     },
     "thetimesherald.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "thetimesnews.com": {
