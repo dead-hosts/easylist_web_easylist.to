@@ -25832,7 +25832,7 @@
     "computerweekly.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "computerworld.com": {
         "epoch": 1605312000.0,
@@ -38050,8 +38050,8 @@
         "state": "future"
     },
     "expertreviews.co.uk": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "experts-exchange.com": {
@@ -41285,8 +41285,8 @@
         "state": "future"
     },
     "flyergroup.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "flyerland.ca": {
@@ -67265,8 +67265,8 @@
         "state": "future"
     },
     "lonepeaklookout.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "longislandpress.com": {
@@ -70155,8 +70155,8 @@
         "state": "future"
     },
     "mcleansborotimesleader.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "mcndirect.com": {
@@ -95700,8 +95700,8 @@
         "state": "future"
     },
     "roadfly.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "roadracerunner.com": {
@@ -112240,8 +112240,8 @@
         "state": "future"
     },
     "totalfark.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "totalguitar.net": {
@@ -114080,8 +114080,8 @@
         "state": "future"
     },
     "turtleboysports.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "tuscaloosanews.com": {
@@ -114260,8 +114260,8 @@
         "state": "future"
     },
     "tvline.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "tvlizer.com": {
@@ -118457,6 +118457,11 @@
     "videolan.org": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "videolinkz.us": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "videologygroup.com": {
