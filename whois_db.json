@@ -121764,6 +121764,11 @@
         "expiration_date": "08-aug-2021",
         "state": "future"
     },
+    "weaselzippers.us": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "weather.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
