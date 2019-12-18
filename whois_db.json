@@ -23400,8 +23400,8 @@
         "state": "future"
     },
     "chrome-hacks.net": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "chron.com": {
@@ -82107,7 +82107,7 @@
     "opencarry.org": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "opendemocracy.net": {
         "epoch": 1589673600.0,
@@ -105222,6 +105222,11 @@
     "stylist.co.uk": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "sualize.us": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "sub-titles.net": {
