@@ -35365,8 +35365,8 @@
         "state": "future"
     },
     "efinancialnews.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "efjucmgdzexeab.com": {
@@ -47045,8 +47045,8 @@
         "state": "future"
     },
     "go963mn.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "goadv.com": {
@@ -66165,8 +66165,8 @@
         "state": "future"
     },
     "linxdown.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "linxdown.me": {
@@ -91567,7 +91567,7 @@
     "qrobe.it": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "qruq.com": {
         "epoch": 1579478400.0,
@@ -92932,6 +92932,11 @@
     "rarbgunblock.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "rare.us": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "rareru.ru": {
@@ -110885,8 +110890,8 @@
         "state": "future"
     },
     "times-series.co.uk": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "times.co.zm": {
@@ -120640,8 +120645,8 @@
         "state": "future"
     },
     "wahcricket.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "wahm.com": {
@@ -120935,8 +120940,8 @@
         "state": "future"
     },
     "warez-files.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "warez-home.net": {
