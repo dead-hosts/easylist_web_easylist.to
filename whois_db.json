@@ -29859,6 +29859,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "dealspl.us": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "dealspure.com": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
@@ -33570,8 +33575,8 @@
         "state": "future"
     },
     "dummies.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
         "state": "future"
     },
     "dump8.com": {
@@ -37900,8 +37905,8 @@
         "state": "future"
     },
     "executivetravelmagazine.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
         "state": "future"
     },
     "exercially.mobi": {
@@ -40475,8 +40480,8 @@
         "state": "future"
     },
     "findlaw.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "findmysoft.com": {
@@ -53470,8 +53475,8 @@
         "state": "future"
     },
     "hypegames.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "hypemagazine.co.za": {
@@ -112382,6 +112387,11 @@
     "tpb.run": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "tpblist.us": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "tpdads.com": {
