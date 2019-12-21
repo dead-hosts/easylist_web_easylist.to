@@ -9015,8 +9015,8 @@
         "state": "future"
     },
     "agomwefq.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "agonybooth.com": {
@@ -11427,6 +11427,11 @@
     "apddozcgdh.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "apearmare.site": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "apendit.com": {
