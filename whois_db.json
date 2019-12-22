@@ -62064,6 +62064,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "kfitivcucxzk.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "kfm.co.za": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
@@ -62134,6 +62139,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "kgbjsizq.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "kgdglkxy.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
@@ -62157,7 +62167,7 @@
     "kgqlrcjlrx.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "kgrt.com": {
         "epoch": 1595980800.0,
@@ -62259,9 +62269,24 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "khpjvhysh.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "khprspkouotscd.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "khqonyigsdf.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "khwojmneehfl.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "khzbeucrltin.com": {
@@ -62894,6 +62919,11 @@
         "expiration_date": "28-nov-2019",
         "state": "future"
     },
+    "kncmdqkvnrofe.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "kncminer.com": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
@@ -62990,8 +63020,8 @@
         "state": "future"
     },
     "knqjhdkndh.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "knssradio.com": {
@@ -64197,6 +64227,11 @@
     "kzmipklxanggf.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "kzmleuhgqifvzy.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "l2b.co.za": {
