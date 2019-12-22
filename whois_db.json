@@ -100295,8 +100295,8 @@
         "state": "future"
     },
     "sharethrough.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "shariahprogram.ca": {
@@ -102557,7 +102557,7 @@
     "socialelective.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "socialflirt.com": {
         "epoch": 1633478400.0,
@@ -105080,8 +105080,8 @@
         "state": "future"
     },
     "streamdefence.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "streamdownloadonline.com": {
@@ -106610,8 +106610,8 @@
         "state": "future"
     },
     "tagjunction.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "tagsd.com": {
@@ -108145,8 +108145,8 @@
         "state": "future"
     },
     "teutorigos-cat.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "tewkesburyadmag.co.uk": {
@@ -110654,6 +110654,11 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "thoudroa.net": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "thoughtcatalog.com": {
         "epoch": 1754956800.0,
         "expiration_date": "12-aug-2025",
@@ -112650,9 +112655,9 @@
         "state": "future"
     },
     "traceadmanager.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "traceybell.co.uk": {
         "epoch": 1621814400.0,
@@ -112720,8 +112725,8 @@
         "state": "future"
     },
     "trackpath.biz": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "trackstarsengland.net": {
