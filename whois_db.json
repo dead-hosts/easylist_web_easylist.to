@@ -28092,7 +28092,7 @@
     "currentaffair.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "currentlyobsessed.me": {
         "epoch": 1592092800.0,
@@ -46815,8 +46815,8 @@
         "state": "future"
     },
     "globaltelecomsbusiness.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "globaltimes.cn": {
@@ -74655,8 +74655,8 @@
         "state": "future"
     },
     "mtstandard.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "mttyfwtvyumc.com": {
@@ -88005,8 +88005,8 @@
         "state": "future"
     },
     "portsmouth.co.uk": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "porttechnology.org": {
@@ -97980,8 +97980,8 @@
         "state": "future"
     },
     "sandiegouniontribune.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "sandiegozoo.org": {
@@ -110230,8 +110230,8 @@
         "state": "future"
     },
     "thespec.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "thespectrum.com": {
