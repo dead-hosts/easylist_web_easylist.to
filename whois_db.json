@@ -2485,8 +2485,8 @@
         "state": "future"
     },
     "6abc.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "6af461b907c5b.com": {
@@ -10635,8 +10635,8 @@
         "state": "past"
     },
     "amny.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "amobee.com": {
@@ -22030,8 +22030,8 @@
         "state": "future"
     },
     "cdrinfo.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "cdrlabs.com": {
@@ -25010,8 +25010,8 @@
         "state": "future"
     },
     "cnnphilippines.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "cnossxqkdoupxw.com": {
@@ -35180,8 +35180,8 @@
         "state": "future"
     },
     "edmontonjournal.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "edmunds.com": {
@@ -37270,8 +37270,8 @@
         "state": "future"
     },
     "eteknix.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "etekxogwxx.com": {
@@ -37925,8 +37925,8 @@
         "state": "future"
     },
     "excellence-mag.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "excellenceads.com": {
@@ -44065,8 +44065,8 @@
         "state": "future"
     },
     "fxnowcanada.ca": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
         "state": "future"
     },
     "fxox4wvv.win": {
@@ -51390,8 +51390,8 @@
         "state": "future"
     },
     "hitfreegames.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "hithiphop.com": {
@@ -53395,8 +53395,8 @@
         "state": "future"
     },
     "hurricanevanessa.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "hurriyetdailynews.com": {
@@ -73540,8 +73540,8 @@
         "state": "future"
     },
     "montrealgazette.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "monxserver.com": {
@@ -82770,8 +82770,8 @@
         "state": "future"
     },
     "orleansstar.ca": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "orlydb.com": {
@@ -94292,7 +94292,7 @@
     "redbalcony.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "redbeacon.com": {
         "epoch": 1589760000,
@@ -102197,6 +102197,11 @@
     "smartdevicemedia.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "smartearningsecrets.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "smarter.com": {
@@ -116230,8 +116235,8 @@
         "state": "future"
     },
     "unfriendable.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "ungstlateriag.club": {
@@ -128375,8 +128380,8 @@
         "state": "future"
     },
     "yakimaherald.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "yallarec.com": {
