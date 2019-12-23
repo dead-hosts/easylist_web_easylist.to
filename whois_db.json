@@ -15485,8 +15485,8 @@
         "state": "future"
     },
     "beso.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "best-zb.com": {
@@ -26765,8 +26765,8 @@
         "state": "future"
     },
     "courierpress.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "coventryobserver.co.uk": {
@@ -37165,8 +37165,8 @@
         "state": "future"
     },
     "esquire.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "essayads.com": {
@@ -43750,8 +43750,8 @@
         "state": "future"
     },
     "fusible.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "fusionads.net": {
@@ -50362,7 +50362,7 @@
     "heatworld.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "heavy-r.com": {
         "epoch": 1586304000.0,
@@ -73120,8 +73120,8 @@
         "state": "future"
     },
     "modernluxury.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "modernmedicine.com": {
@@ -108295,8 +108295,8 @@
         "state": "future"
     },
     "tesco.com": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
         "state": "future"
     },
     "teslacentral.com": {
@@ -116112,7 +116112,7 @@
     "unblocked.si": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "unblocked.win": {
         "epoch": 1582243200.0,
@@ -117790,8 +117790,8 @@
         "state": "future"
     },
     "vancouversun.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "vanguardngr.com": {
