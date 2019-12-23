@@ -37325,8 +37325,8 @@
         "state": "future"
     },
     "etimg.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "etizspyjmjhxo.com": {
@@ -42030,8 +42030,8 @@
         "state": "future"
     },
     "fortune5minutes.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "forumpromotion.net": {
@@ -45810,8 +45810,8 @@
         "state": "future"
     },
     "gethopper.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "gethuman.com": {
@@ -60882,6 +60882,11 @@
     "justailley.pro": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "justanswer.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "justcutegirls.com": {
