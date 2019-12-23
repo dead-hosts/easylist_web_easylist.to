@@ -115049,6 +115049,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "tztcvkhqrzjt.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "tzyvolvenvyim.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -117957,6 +117962,11 @@
     "vcvapkiua.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "vcvefwzdxhysh.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "vcwrigdrnh.com": {
@@ -124387,7 +124397,7 @@
     "wlezfkwtv.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wlhbgwzgep.com": {
         "epoch": 1603584000.0,
