@@ -75569,6 +75569,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "myinfotopia.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "myip.ms": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -79614,6 +79619,11 @@
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
+    "noy-95.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "np1t0bcj0n.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
@@ -83624,6 +83634,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "ozora.work": {
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "state": "future"
+    },
     "ozsriqitazi.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
@@ -84795,8 +84810,8 @@
         "state": "future"
     },
     "penuma.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "people.co.uk": {
@@ -87259,6 +87274,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "popnc.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "popoholic.com": {
         "epoch": 1740873600.0,
         "expiration_date": "02-mar-2025",
@@ -87355,8 +87375,8 @@
         "state": "future"
     },
     "populisengage.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "popunder.bid": {
