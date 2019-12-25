@@ -8719,6 +8719,11 @@
         "expiration_date": "17-sep-2022",
         "state": "future"
     },
+    "afftrk.online": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "affutdmedia.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -8910,13 +8915,13 @@
         "state": "future"
     },
     "afterdownload.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "afterdownloads.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "afternoondc.in": {
@@ -9375,8 +9380,18 @@
         "state": "future"
     },
     "aj1052.online": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "aj1574.online": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "aj1602.online": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "ajagrofy.com": {
@@ -10954,6 +10969,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "angusmemor.info": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "state": "future"
+    },
     "anhits.com": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
@@ -12387,6 +12407,11 @@
     "asooda.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "aspampbrr.online": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "aspensojourner.com": {
@@ -14144,6 +14169,11 @@
         "expiration_date": "26-may-2021",
         "state": "future"
     },
+    "badsabs.com": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "badsamps.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -14480,8 +14510,8 @@
         "state": "future"
     },
     "bannerperformance.net": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "bannerrage.com": {
