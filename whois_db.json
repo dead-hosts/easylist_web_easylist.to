@@ -113979,6 +113979,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "truelimitinvestment.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "truex.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -119437,6 +119442,11 @@
     "visiblemeasures.com": {
         "epoch": 1656547200.0,
         "expiration_date": "30-jun-2022",
+        "state": "future"
+    },
+    "visionclearz.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "visiontimes.com": {
