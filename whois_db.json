@@ -3919,6 +3919,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "aallycspkdf.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
     "aamapi.com": {
         "epoch": 1692144000.0,
         "expiration_date": "16-aug-2023",
@@ -105055,8 +105060,8 @@
         "state": "future"
     },
     "stepkeydo.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "stereogum.com": {
