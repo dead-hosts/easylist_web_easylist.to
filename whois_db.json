@@ -70142,7 +70142,7 @@
     "mascqybw.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mashable.com": {
         "epoch": 1752883200.0,
@@ -70717,7 +70717,7 @@
     "mdlhzknv.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mdlinx.com": {
         "epoch": 1801180800.0,
@@ -71935,9 +71935,9 @@
         "state": "future"
     },
     "mfxjgymma.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
-        "state": "past"
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
     },
     "mfxxpyhzofbsg.com": {
         "epoch": 1604966400.0,
@@ -72717,6 +72717,11 @@
     "mjquyspsrgybs.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "mjtjtcofce.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "mjtlive.com": {
@@ -77024,6 +77029,11 @@
         "expiration_date": "29-dec-2019",
         "state": "future"
     },
+    "ncafclpip.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "nchxiaxafowid.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -79177,7 +79187,7 @@
     "nmnzukxervpdnx.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nmouzlbragpyp.com": {
         "epoch": 1585440000.0,
@@ -79832,6 +79842,11 @@
     "npslxuwkrfwvou.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "npugiddevgmtft.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "npujhntk.com": {
@@ -80979,6 +80994,16 @@
         "expiration_date": "01-mar-2022",
         "state": "future"
     },
+    "oatvyenmekc.com": {
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "oazbtactg.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "obczphph.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -81112,7 +81137,7 @@
     "ocfsmefzzarkmo.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ocia.net": {
         "epoch": 1607558400.0,
@@ -81122,7 +81147,7 @@
     "ocixtsnyxxvyaw.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "oclaserver.com": {
         "epoch": 1601510400.0,
