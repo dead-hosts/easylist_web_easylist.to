@@ -41727,7 +41727,7 @@
     "focuusing.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fodey.com": {
         "epoch": 1579651200.0,
@@ -52842,7 +52842,7 @@
     "hovernottaked.info": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hoverr.co": {
         "epoch": 1600387200.0,
@@ -128832,6 +128832,11 @@
     "yatgrotthyzpm.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "yatnozin.info": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "yauatoyuhdb.com": {
