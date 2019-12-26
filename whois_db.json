@@ -41195,8 +41195,8 @@
         "state": "future"
     },
     "flashx.pw": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "flashx.run": {
@@ -100820,8 +100820,8 @@
         "state": "future"
     },
     "sharingcentre.net": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "sharingzone.net": {
@@ -103957,7 +103957,7 @@
     "speedmonkey.net": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "speednetwork14.com": {
         "epoch": 1597363200.0,
@@ -112615,9 +112615,9 @@
         "state": "future"
     },
     "topprepperwebsites.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "topqualitylink.com": {
         "epoch": 1603929600.0,
