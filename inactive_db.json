@@ -8313,48 +8313,6 @@
         "1576636204": {
             "dir.yahoo.com": "INACTIVE"
         },
-        "1577082448": {
-            "4e43ac9c.info": "INACTIVE"
-        },
-        "1577082450": {
-            "15f3c01a.info": "INACTIVE",
-            "a5pub.com": "INACTIVE",
-            "ad.services.distractify.com": "INACTIVE"
-        },
-        "1577082452": {
-            "absquint.com": "INACTIVE"
-        },
-        "1577082453": {
-            "accltr.com": "INACTIVE"
-        },
-        "1577082454": {
-            "a3pub.com": "INACTIVE"
-        },
-        "1577082455": {
-            "adspayformymortgage.win.": "INACTIVE"
-        },
-        "1577082456": {
-            "acceptableads.space": "INACTIVE",
-            "adchannels.in": "INACTIVE"
-        },
-        "1577082457": {
-            "2d4c3870.info": "INACTIVE"
-        },
-        "1577082458": {
-            "17a898bb.info": "INACTIVE"
-        },
-        "1577082460": {
-            "67s6gxv28kin.com": "INACTIVE",
-            "akiba.ookami-cdn.net": "INACTIVE"
-        },
-        "1577082461": {
-            "1e0y.xyz": "INACTIVE"
-        },
-        "1577082463": {
-            "1whois.org": "INACTIVE",
-            "aaa.at4.info": "INACTIVE",
-            "adbars.net": "INACTIVE"
-        },
         "1577304102": {
             "cacheserve.*": "INVALID",
             "online.*": "INVALID",
@@ -24810,6 +24768,32 @@
             "ad.directmirror.com": "INACTIVE",
             "adspayformymortgage.win": "INACTIVE",
             "ais.abacast.com": "INACTIVE"
+        },
+        "1577350481": {
+            "15f3c01a.info": "INACTIVE",
+            "adchannels.in": "INACTIVE"
+        },
+        "1577350482": {
+            "1e0y.xyz": "INACTIVE",
+            "4e43ac9c.info": "INACTIVE",
+            "67s6gxv28kin.com": "INACTIVE",
+            "a3pub.com": "INACTIVE",
+            "a5pub.com": "INACTIVE",
+            "absquint.com": "INACTIVE",
+            "adbars.net": "INACTIVE",
+            "adspayformymortgage.win.": "INACTIVE",
+            "akiba.ookami-cdn.net": "INACTIVE"
+        },
+        "1577350483": {
+            "17a898bb.info": "INACTIVE",
+            "1whois.org": "INACTIVE",
+            "2d4c3870.info": "INACTIVE",
+            "aaa.at4.info": "INACTIVE",
+            "accltr.com": "INACTIVE",
+            "ad.services.distractify.com": "INACTIVE"
+        },
+        "1577350484": {
+            "acceptableads.space": "INACTIVE"
         }
     }
 }
