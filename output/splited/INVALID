@@ -18,6 +18,9 @@ cacheserve.*                                                                    
 cas.*.criteo.com                                                                                     SYNTAX     XXX        2019-12-26T04:14:12.767903
 caw.*.criteo.com                                                                                     SYNTAX     XXX        2019-12-26T04:14:14.188580
 cdaz.ciu                                                                                             SYNTAX     XXX        2019-12-26T03:31:43.976642
+get.*.website                                                                                        SYNTAX     XXX        2019-12-26T04:31:40.374950
+iad-*.blaze.com                                                                                      SYNTAX     XXX        2019-12-26T04:32:00.196272
+images.*.criteo.net                                                                                  SYNTAX     XXX        2019-12-26T04:32:03.206262
 mobileoffers-*-download.com                                                                          SYNTAX     XXX        2019-12-25T21:45:40.474678
 online.*                                                                                             SYNTAX     XXX        2019-12-25T20:01:42.599590
 ox-d.*                                                                                               SYNTAX     XXX        2019-12-25T20:01:42.684915
