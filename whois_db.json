@@ -31522,7 +31522,7 @@
     "dirtypriest.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dirwell.com": {
         "epoch": 1598486400.0,
@@ -71230,8 +71230,8 @@
         "state": "future"
     },
     "meendo.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "meendocash.com": {
@@ -105315,7 +105315,7 @@
         "state": "future"
     },
     "steroid.com": {
-        "epoch": 1712188800,
+        "epoch": 1712188800.0,
         "expiration_date": "04-apr-2024",
         "state": "future"
     },
