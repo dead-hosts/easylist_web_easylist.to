@@ -59724,6 +59724,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "jgrroalqa.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "jgrsqcqdfwzu.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -60182,6 +60187,11 @@
     "jmp9.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "jmxecxpqq.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "jmxphjxsxd.com": {
@@ -61194,6 +61204,11 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "juwtdcraiiihb.com": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "juxtapoz.com": {
         "epoch": 1651449600.0,
         "expiration_date": "02-may-2022",
@@ -61602,7 +61617,7 @@
     "kakywxgevuv.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "kaldata.net": {
         "epoch": 1590796800.0,
