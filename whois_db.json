@@ -32480,8 +32480,8 @@
         "state": "future"
     },
     "dooce.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "doodle.com": {
@@ -94600,9 +94600,9 @@
         "state": "future"
     },
     "redbalcony.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
-        "state": "past"
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
     },
     "redbeacon.com": {
         "epoch": 1589760000,
