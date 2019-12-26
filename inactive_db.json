@@ -8313,100 +8313,6 @@
         "1576636204": {
             "dir.yahoo.com": "INACTIVE"
         },
-        "1577068653": {
-            "surv.xbizmedia.com": "INACTIVE"
-        },
-        "1577068654": {
-            "thumbs.sunporno.com": "INACTIVE"
-        },
-        "1577068655": {
-            "tour.cum-covered-gfs.com": "INACTIVE"
-        },
-        "1577068657": {
-            "vectorpastel.com": "INACTIVE"
-        },
-        "1577069537": {
-            "xxtu.be": "INACTIVE"
-        },
-        "1577069539": {
-            "aff.camplace.com": "INACTIVE"
-        },
-        "1577069540": {
-            "babereporters.info": "INACTIVE",
-            "cpm.amateurcommunity.*?cp=": "INVALID"
-        },
-        "1577069553": {
-            "xrounds.com": "INACTIVE"
-        },
-        "1577069555": {
-            "admeta.vo.llnwd.net": "INACTIVE",
-            "ads-*.hulu.com": "INVALID"
-        },
-        "1577069562": {
-            "botswanaguardian.co.bw": "INACTIVE"
-        },
-        "1577069568": {
-            "clicks.superpages.com": "INACTIVE"
-        },
-        "1577069572": {
-            "dailynews.gov.bw": "INACTIVE"
-        },
-        "1577069574": {
-            "dropapk.*": "INVALID"
-        },
-        "1577069582": {
-            "gamecopyworld.*": "INVALID"
-        },
-        "1577069596": {
-            "js.high-minded.net": "INACTIVE"
-        },
-        "1577069607": {
-            "musictarget.com*": "INVALID"
-        },
-        "1577069619": {
-            "readthedocs.org*": "INVALID"
-        },
-        "1577069636": {
-            "video-cdn.abcnews.com": "INACTIVE",
-            "video.abc.com": "INACTIVE"
-        },
-        "1577069645": {
-            "9anime.*": "INVALID",
-            "bp.blogspot.com": "INACTIVE"
-        },
-        "1577069648": {
-            "gelbooru.com*": "INVALID"
-        },
-        "1577069651": {
-            "thepiratebay.": "INVALID",
-            "ww46.vidzi.": "INVALID",
-            "www*.swatchseries.to": "INVALID"
-        },
-        "1577069652": {
-            "wpengine.netdna-cdn.com": "INACTIVE"
-        },
-        "1577069653": {
-            "http.anno.channel4.com*-": "INVALID",
-            "http.anno.channel4.com*_*_*_": "INVALID"
-        },
-        "1577069656": {
-            "tarife.spiegel.de": "INACTIVE"
-        },
-        "1577069661": {
-            "fidget.twitch.tv": "INACTIVE"
-        },
-        "1577069662": {
-            "free-stream.tv": "INACTIVE",
-            "g00.msn.com": "INACTIVE"
-        },
-        "1577069666": {
-            "limbohost.net": "INACTIVE"
-        },
-        "1577069671": {
-            "torrentz.*": "INVALID",
-            "tozer.youwatch.org": "INACTIVE",
-            "trans.youwatch.org": "INACTIVE"
-        },
         "1577069673": {
             "whies.info": "INACTIVE"
         },
@@ -24796,6 +24702,101 @@
         },
         "1577336447": {
             "sponsor4cash.de": "INACTIVE"
+        },
+        "1577337221": {
+            "surv.xbizmedia.com": "INACTIVE"
+        },
+        "1577337222": {
+            "thumbs.sunporno.com": "INACTIVE",
+            "tour.cum-covered-gfs.com": "INACTIVE"
+        },
+        "1577337224": {
+            "vectorpastel.com": "INACTIVE"
+        },
+        "1577337230": {
+            "xxtu.be": "INACTIVE"
+        },
+        "1577337231": {
+            "aff.camplace.com": "INACTIVE"
+        },
+        "1577337232": {
+            "babereporters.info": "INACTIVE"
+        },
+        "1577337233": {
+            "cpm.amateurcommunity.*?cp=": "INVALID"
+        },
+        "1577337245": {
+            "xrounds.com": "INACTIVE"
+        },
+        "1577337248": {
+            "admeta.vo.llnwd.net": "INACTIVE",
+            "ads-*.hulu.com": "INVALID"
+        },
+        "1577337261": {
+            "clicks.superpages.com": "INACTIVE"
+        },
+        "1577337264": {
+            "dailynews.gov.bw": "INACTIVE"
+        },
+        "1577337266": {
+            "dropapk.*": "INVALID"
+        },
+        "1577337274": {
+            "gamecopyworld.*": "INVALID"
+        },
+        "1577337288": {
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1577337299": {
+            "musictarget.com*": "INVALID"
+        },
+        "1577337311": {
+            "readthedocs.org*": "INVALID"
+        },
+        "1577337327": {
+            "video-cdn.abcnews.com": "INACTIVE"
+        },
+        "1577337328": {
+            "video.abc.com": "INACTIVE"
+        },
+        "1577337336": {
+            "bp.blogspot.com": "INACTIVE"
+        },
+        "1577337337": {
+            "9anime.*": "INVALID"
+        },
+        "1577337339": {
+            "gelbooru.com*": "INVALID"
+        },
+        "1577337342": {
+            "www*.swatchseries.to": "INVALID"
+        },
+        "1577337343": {
+            "thepiratebay.": "INVALID",
+            "ww46.vidzi.": "INVALID"
+        },
+        "1577337344": {
+            "http.anno.channel4.com*-": "INVALID",
+            "http.anno.channel4.com*_*_*_": "INVALID",
+            "wpengine.netdna-cdn.com": "INACTIVE"
+        },
+        "1577337347": {
+            "tarife.spiegel.de": "INACTIVE"
+        },
+        "1577337352": {
+            "fidget.twitch.tv": "INACTIVE"
+        },
+        "1577337353": {
+            "free-stream.tv": "INACTIVE",
+            "g00.msn.com": "INACTIVE"
+        },
+        "1577337358": {
+            "limbohost.net": "INACTIVE"
+        },
+        "1577337362": {
+            "torrentz.*": "INVALID",
+            "tozer.youwatch.org": "INACTIVE",
+            "trans.youwatch.org": "INACTIVE"
         }
     }
 }

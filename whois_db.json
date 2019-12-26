@@ -49780,8 +49780,8 @@
         "state": "future"
     },
     "haouzy.info": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "hapend.biz": {
@@ -61764,6 +61764,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "kat.lat": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "kat.vc": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -70330,7 +70335,7 @@
         "state": "future"
     },
     "maxconsole.com": {
-        "epoch": 1586390400,
+        "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
@@ -71837,7 +71842,7 @@
     "metrotimes.com": {
         "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "metroweekly.com": {
         "epoch": 1586217600.0,
@@ -88300,8 +88305,8 @@
         "state": "future"
     },
     "ports.co.za": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "portsmouth.co.uk": {
@@ -103230,8 +103235,8 @@
         "state": "future"
     },
     "softexter.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "softicons.com": {
@@ -105435,8 +105440,8 @@
         "state": "future"
     },
     "stockhouse.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "stockingstv.com": {
@@ -109927,7 +109932,7 @@
     "thelakewoodscoop.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "thelancasterandmorecambecitizen.co.uk": {
         "epoch": 1625356800.0,
@@ -124790,9 +124795,9 @@
         "state": "future"
     },
     "wlcr.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "wlds.com": {
         "epoch": 1586995200.0,
