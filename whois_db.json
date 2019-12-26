@@ -855,8 +855,8 @@
         "state": "future"
     },
     "20somethingfinance.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "2137dc12f9d8.com": {
@@ -100782,7 +100782,7 @@
     "shareplace.org": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "shareresults.com": {
         "epoch": 1606780800.0,
