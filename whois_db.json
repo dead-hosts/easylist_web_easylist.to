@@ -217,7 +217,7 @@
     "0ql3xxre2h.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "1001tracklists.com": {
         "epoch": 1596153600.0,
@@ -492,7 +492,7 @@
     "13vm73vbmp.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "13wmaz.com": {
         "epoch": 1596585600.0,
@@ -1190,8 +1190,8 @@
         "state": "future"
     },
     "2lwlh385os.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "2mdn.info": {
@@ -2915,8 +2915,8 @@
         "state": "future"
     },
     "7fkm2r4pzi.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "7ggtpciw.com": {
@@ -2925,8 +2925,8 @@
         "state": "future"
     },
     "7hor9gul4s.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "7hu8e1u001.com": {
@@ -8969,6 +8969,11 @@
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
+    "ag2hqdyt.site": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "againstanctu.info": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
@@ -12200,8 +12205,8 @@
         "state": "future"
     },
     "as07d698u9.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "as5000.com": {
@@ -51160,8 +51165,8 @@
         "state": "future"
     },
     "hghm4u7b61.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "hgimg.com": {
@@ -58835,8 +58840,8 @@
         "state": "future"
     },
     "jackettrain.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "jackfm.ca": {
@@ -75125,8 +75130,8 @@
         "state": "future"
     },
     "muqson0kgr.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "murdermysteries.com": {
@@ -91827,7 +91832,7 @@
     "qkpcihpo16.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "qksihowyv.com": {
         "epoch": 1585180800.0,
@@ -109935,8 +109940,8 @@
         "state": "future"
     },
     "theirsvendor.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "theispguide.com": {
