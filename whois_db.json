@@ -60545,8 +60545,8 @@
         "state": "future"
     },
     "journalrecord.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "journalstandard.com": {
@@ -131132,6 +131132,16 @@
     "zalora.co.th": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "zalora.com.hk": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "zalora.com.tw": {
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
         "state": "future"
     },
     "zalora.sg": {
