@@ -18760,8 +18760,8 @@
         "state": "future"
     },
     "bravejournal.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "bravenet.com": {
@@ -104090,9 +104090,9 @@
         "state": "future"
     },
     "speedmonkey.net": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "speednetwork14.com": {
         "epoch": 1597363200.0,
@@ -111655,8 +111655,8 @@
         "state": "future"
     },
     "timelinecoverbanner.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "timeout.com": {
