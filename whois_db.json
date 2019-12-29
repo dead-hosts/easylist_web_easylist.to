@@ -46847,7 +46847,7 @@
     "glamourvanity.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "glamourviews.com": {
         "epoch": 1591920000,
@@ -72260,8 +72260,8 @@
         "state": "future"
     },
     "michaelsavage.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1672185600.0,
+        "expiration_date": "28-dec-2022",
         "state": "future"
     },
     "michiganmessenger.com": {
@@ -76435,8 +76435,8 @@
         "state": "future"
     },
     "nabble.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "nabbr.com": {
@@ -77605,8 +77605,8 @@
         "state": "future"
     },
     "netpages.co.za": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "netronline.com": {
@@ -79517,7 +79517,7 @@
     "nontondramaonline.co": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "noordnuus.co.za": {
         "epoch": 1590969600.0,
@@ -119215,9 +119215,9 @@
         "state": "past"
     },
     "vidbear.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "vidbull.com": {
         "epoch": 1606435200.0,
