@@ -49710,8 +49710,8 @@
         "state": "future"
     },
     "hallpass.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "halogennetwork.com": {
@@ -56305,8 +56305,8 @@
         "state": "future"
     },
     "indie1031.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "indieclick.com": {
@@ -56692,7 +56692,7 @@
     "inooz.co.uk": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "inoreader.com": {
         "epoch": 1616889600.0,
@@ -109167,7 +109167,7 @@
     "the18.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "the217.com": {
         "epoch": 1596067200.0,
