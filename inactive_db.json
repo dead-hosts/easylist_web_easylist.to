@@ -8313,53 +8313,6 @@
         "1576636204": {
             "dir.yahoo.com": "INACTIVE"
         },
-        "1577350101": {
-            "a.lolwot.com": "INACTIVE"
-        },
-        "1577350102": {
-            "12dayswidget.com": "INACTIVE"
-        },
-        "1577350103": {
-            "ad001.ru": "INACTIVE"
-        },
-        "1577350104": {
-            "acceletor.net": "INACTIVE"
-        },
-        "1577350106": {
-            "07zq44y2tmru.xyz": "INACTIVE",
-            "5clickcashsoftware.com": "INACTIVE",
-            "ad.evozi.com": "INACTIVE"
-        },
-        "1577350107": {
-            "2d4c3872.info": "INACTIVE",
-            "ad128m.com": "INACTIVE",
-            "adscope.co.kr": "INACTIVE",
-            "adspayformy.site": "INACTIVE"
-        },
-        "1577350109": {
-            "ablacrack.com": "INACTIVE"
-        },
-        "1577350110": {
-            "4getlikes.com": "INACTIVE"
-        },
-        "1577350111": {
-            "aaa.dv0.info": "INACTIVE",
-            "acceptableads.pw": "INACTIVE"
-        },
-        "1577350112": {
-            "absilf.com": "INACTIVE",
-            "ad.fnnews.com": "INACTIVE",
-            "adtraffic.org": "INACTIVE"
-        },
-        "1577350482": {
-            "a3pub.com": "INACTIVE"
-        },
-        "1577350483": {
-            "accltr.com": "INACTIVE"
-        },
-        "1577350484": {
-            "acceptableads.space": "INACTIVE"
-        },
         "1577563486": {
             "cacheserve.*": "INVALID",
             "online.*": "INVALID",
@@ -24765,6 +24718,35 @@
             "aaovn.info": "INACTIVE",
             "adcount.in": "INACTIVE",
             "akiba.ookami-cdn.net": "INACTIVE"
+        },
+        "1577602173": {
+            "5clickcashsoftware.com": "INACTIVE",
+            "aaa.dv0.info": "INACTIVE",
+            "ad001.ru": "INACTIVE"
+        },
+        "1577602174": {
+            "07zq44y2tmru.xyz": "INACTIVE",
+            "12dayswidget.com": "INACTIVE",
+            "2d4c3872.info": "INACTIVE",
+            "4getlikes.com": "INACTIVE",
+            "acceptableads.pw": "INACTIVE",
+            "ad128m.com": "INACTIVE",
+            "adspayformy.site": "INACTIVE",
+            "adtraffic.org": "INACTIVE"
+        },
+        "1577602175": {
+            "a3pub.com": "INACTIVE",
+            "absilf.com": "INACTIVE",
+            "acceptableads.space": "INACTIVE",
+            "accltr.com": "INACTIVE",
+            "ad.evozi.com": "INACTIVE",
+            "adscope.co.kr": "INACTIVE"
+        },
+        "1577602176": {
+            "a.lolwot.com": "INACTIVE",
+            "ablacrack.com": "INACTIVE",
+            "acceletor.net": "INACTIVE",
+            "ad.fnnews.com": "INACTIVE"
         }
     }
 }
