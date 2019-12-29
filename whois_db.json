@@ -40355,9 +40355,9 @@
         "state": "future"
     },
     "filedroid.net": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
-        "state": "past"
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
     },
     "filedropper.com": {
         "epoch": 1584576000.0,
@@ -59982,7 +59982,7 @@
     "jinx.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "jioivnytpmam.com": {
         "epoch": 1593734400.0,
@@ -66755,8 +66755,8 @@
         "state": "future"
     },
     "litecoinkamikaze.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "litecointalk.org": {
