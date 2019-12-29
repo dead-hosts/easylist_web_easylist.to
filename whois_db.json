@@ -56270,8 +56270,8 @@
         "state": "future"
     },
     "indiansinkuwait.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "indiantelevision.com": {
@@ -71930,9 +71930,9 @@
         "state": "past"
     },
     "metrotimes.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
-        "state": "past"
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
     },
     "metroweekly.com": {
         "epoch": 1586217600.0,
@@ -110060,9 +110060,9 @@
         "state": "future"
     },
     "thelakewoodscoop.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "thelancasterandmorecambecitizen.co.uk": {
         "epoch": 1625356800.0,
