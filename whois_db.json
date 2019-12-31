@@ -20764,6 +20764,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "camalbbuy.online": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "cambodiayp.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -23420,9 +23425,9 @@
         "state": "future"
     },
     "chiptionics.co": {
-        "epoch": 1570752000.0,
-        "expiration_date": "11-oct-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "chitika.com": {
         "epoch": 1580256000.0,
@@ -27530,9 +27535,9 @@
         "state": "future"
     },
     "crewita.co": {
-        "epoch": 1570752000.0,
-        "expiration_date": "11-oct-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "crgfbmzsk.com": {
         "epoch": 1599004800.0,
@@ -27790,9 +27795,9 @@
         "state": "future"
     },
     "cruisteerses.co": {
-        "epoch": 1570752000.0,
-        "expiration_date": "11-oct-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "crunchsports.com": {
         "epoch": 1609372800.0,
@@ -30860,9 +30865,9 @@
         "state": "future"
     },
     "df8c5028a1fad1.com": {
-        "epoch": 1563580800,
-        "expiration_date": "20-jul-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "df931f2841ac729.com": {
         "epoch": 1601683200.0,
@@ -30875,9 +30880,9 @@
         "state": "future"
     },
     "dfb79196408612f1.com": {
-        "epoch": 1563580800,
-        "expiration_date": "20-jul-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "dfcwecvmjtdj.com": {
         "epoch": 1607385600.0,
@@ -38810,9 +38815,9 @@
         "state": "future"
     },
     "f3a2dc11dfb33.com": {
-        "epoch": 1563580800,
-        "expiration_date": "20-jul-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "f3c1cc473b337ded.com": {
         "epoch": 1582848000.0,
