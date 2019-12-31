@@ -113805,9 +113805,9 @@
         "state": "future"
     },
     "trafforsrv.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "trafic-media.ru": {
         "epoch": 1590883200.0,
@@ -118752,6 +118752,11 @@
     "vemba.com": {
         "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
+        "state": "future"
+    },
+    "vempozah.net": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "vemrhavwgchp.com": {
@@ -127870,8 +127875,8 @@
         "state": "future"
     },
     "xnkmmbfpyokevaxsjtky.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "xnmphtmerao.bid": {
@@ -131220,9 +131225,9 @@
         "state": "future"
     },
     "yz740.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "yzesxnzfhyy.com": {
         "epoch": 1578182400.0,
