@@ -84080,9 +84080,9 @@
         "state": "future"
     },
     "paclitor.com": {
-        "epoch": 1563753600,
-        "expiration_date": "22-jul-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "padsblue.com": {
         "epoch": 1592352000.0,
@@ -86005,8 +86005,8 @@
         "state": "future"
     },
     "picsti.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "pictela.net": {
