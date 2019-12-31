@@ -59474,6 +59474,11 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "jdrftaau.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "jdskyjntuhea.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -61495,9 +61500,9 @@
         "state": "past"
     },
     "jyahmckzsbh.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "jyccdcavzpqt.com": {
         "epoch": 1584576000.0,
