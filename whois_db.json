@@ -12835,8 +12835,8 @@
         "state": "future"
     },
     "auctiva.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "audersmi.com": {
@@ -14485,8 +14485,8 @@
         "state": "future"
     },
     "bannedinhollywood.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "banner-rotation.com": {
@@ -41422,7 +41422,7 @@
     "flightradar24.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fliiby.com": {
         "epoch": 1579651200.0,
@@ -70695,8 +70695,8 @@
         "state": "future"
     },
     "mcalesternews.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "mcall.com": {
@@ -108455,9 +108455,9 @@
         "state": "future"
     },
     "techvideo.tv": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "techweb.com": {
         "epoch": 1590796800.0,
