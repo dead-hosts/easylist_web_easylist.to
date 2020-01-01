@@ -15772,7 +15772,7 @@
     "bestreviews.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestserials.com": {
         "epoch": 1601251200.0,
@@ -29565,8 +29565,8 @@
         "state": "future"
     },
     "data-storage-today.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "data18.com": {
@@ -104537,7 +104537,7 @@
     "sportspagenetwork.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sportspickle.com": {
         "epoch": 1604102400.0,
@@ -109280,9 +109280,9 @@
         "state": "future"
     },
     "the18.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "the217.com": {
         "epoch": 1596067200.0,
