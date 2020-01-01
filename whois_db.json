@@ -34895,8 +34895,8 @@
         "state": "future"
     },
     "eatingwell.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "eatliver.com": {
@@ -69035,8 +69035,8 @@
         "state": "future"
     },
     "lyriczz.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "lyrster.com": {
@@ -74397,7 +74397,7 @@
     "movie-analyzer.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "movie-censorship.com": {
         "epoch": 1582675200.0,
@@ -102185,8 +102185,8 @@
         "state": "future"
     },
     "sj-r.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1640995200.0,
+        "expiration_date": "01-jan-2022",
         "state": "future"
     },
     "sjjazrfvzbkt.com": {
@@ -113945,9 +113945,9 @@
         "state": "future"
     },
     "transfermarkt.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
     },
     "transport-models.com": {
         "epoch": 1598572800.0,
@@ -114635,8 +114635,8 @@
         "state": "future"
     },
     "tsviewer.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "tsvlkxhdbc.com": {
