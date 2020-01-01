@@ -29690,8 +29690,8 @@
         "state": "future"
     },
     "datoporn.co": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "datoporn.com": {
@@ -39092,7 +39092,7 @@
     "fakku.net": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "falkag.net": {
         "epoch": 1580342400.0,
@@ -39842,6 +39842,11 @@
     "febalwby.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "fecaltube.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "fecgvrvne.com": {
@@ -88442,7 +88447,7 @@
     "pornvideofile.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pornvideoscout.com": {
         "epoch": 1595721600.0,
