@@ -92449,6 +92449,11 @@
         "expiration_date": "12-jul-2019",
         "state": "past"
     },
+    "qskmkllcnoku.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "qsksdpoi.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -92852,6 +92857,11 @@
     "quuit.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "quxveblgxgsi.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "quyxxofx.com": {
