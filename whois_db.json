@@ -18482,7 +18482,7 @@
     "bountysource.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bournemouthecho.co.uk": {
         "epoch": 1592524800.0,
@@ -122345,8 +122345,8 @@
         "state": "future"
     },
     "wayn.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "waz-warez.org": {
@@ -124315,8 +124315,8 @@
         "state": "future"
     },
     "wibc.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1672444800.0,
+        "expiration_date": "31-dec-2022",
         "state": "future"
     },
     "wicanwfobqiz.com": {
