@@ -12807,7 +12807,7 @@
     "atwonline.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "atzcmddc.com": {
         "epoch": 1604793600.0,
@@ -64127,7 +64127,7 @@
     "ktul.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ktvb.com": {
         "epoch": 1588464000.0,
@@ -130425,8 +130425,8 @@
         "state": "future"
     },
     "youporngay.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "youpornru.com": {
