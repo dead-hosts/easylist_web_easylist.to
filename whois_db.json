@@ -46900,9 +46900,9 @@
         "state": "future"
     },
     "glamourvanity.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "glamourviews.com": {
         "epoch": 1591920000,
@@ -73757,7 +73757,7 @@
     "money-forum.org": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "money-marketuk.com": {
         "epoch": 1592006400,
@@ -90875,8 +90875,8 @@
         "state": "future"
     },
     "pushtraffic.net": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "pussl10.com": {
