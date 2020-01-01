@@ -15,7 +15,10 @@
 0.0.0.0 35.188.
 0.0.0.0 35.193.
 0.0.0.0 algart.net*_banner_
+0.0.0.0 cas.*.criteo.com
+0.0.0.0 caw.*.criteo.com
 0.0.0.0 cdaz.ciu
+0.0.0.0 get.*.website
 0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 ox-d.*
 0.0.0.0 serve.*
