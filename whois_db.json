@@ -77025,8 +77025,8 @@
         "state": "future"
     },
     "naughtycdn.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "naughtyxparty.com": {
@@ -77645,9 +77645,9 @@
         "state": "future"
     },
     "netindian.in": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "netinsight.co.kr": {
         "epoch": 1586736000.0,
