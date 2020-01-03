@@ -113395,8 +113395,8 @@
         "state": "future"
     },
     "tpnads.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "tpqweavlol.com": {
@@ -118085,9 +118085,9 @@
         "state": "future"
     },
     "uwonderful.ru": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
-        "state": "past"
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "uwxldrvqyk.com": {
         "epoch": 1587686400.0,
@@ -120782,7 +120782,7 @@
     "vpico.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "vpjtrmeyq.com": {
         "epoch": 1608595200.0,
