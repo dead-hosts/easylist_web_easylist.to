@@ -95805,9 +95805,9 @@
         "state": "future"
     },
     "revivestar.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "reviveusa.com": {
         "epoch": 1578268800.0,
@@ -128842,7 +128842,7 @@
     "xxxbannerswap.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "xxxblackbook.com": {
         "epoch": 1580256000.0,
@@ -131015,8 +131015,8 @@
         "state": "future"
     },
     "yu0123456.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "yu21uy.com": {
