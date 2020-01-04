@@ -41465,9 +41465,9 @@
         "state": "future"
     },
     "flightradar24.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1735689600.0,
+        "expiration_date": "01-jan-2025",
+        "state": "future"
     },
     "fliiby.com": {
         "epoch": 1579651200.0,
@@ -66000,8 +66000,8 @@
         "state": "future"
     },
     "letterboxd.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
         "state": "future"
     },
     "letzonke.com": {
@@ -71170,8 +71170,8 @@
         "state": "future"
     },
     "mediacorp.sg": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "mediacpm.com": {
@@ -108307,7 +108307,7 @@
     "techhamlet.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "techhive.com": {
         "epoch": 1603756800.0,
