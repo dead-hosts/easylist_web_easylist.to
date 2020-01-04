@@ -127834,6 +127834,11 @@
         "expiration_date": "08-jul-2019",
         "state": "past"
     },
+    "xkzrbaexyrds.com": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
     "xkzzkxntmryst.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -129645,8 +129650,8 @@
         "state": "future"
     },
     "yfdrpdjbxjm.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "yfgrucsngqitc.com": {
@@ -130905,8 +130910,8 @@
         "state": "future"
     },
     "ysosfhyrbyre.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "ysqhjwanlbhmt.com": {
