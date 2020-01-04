@@ -10360,9 +10360,6 @@
         "1577845523": {
             "chtic.net": "INACTIVE"
         },
-        "1577845564": {
-            "awadhtimes.com": "INACTIVE"
-        },
         "1577845565": {
             "b.livesport.eu": "INACTIVE",
             "b92.putniktravel.com": "INACTIVE"
@@ -10375,11 +10372,7 @@
         "1577845569": {
             "bestcdnever.ru": "INACTIVE"
         },
-        "1577846269": {
-            "cas.*.criteo.com": "INVALID"
-        },
         "1577846270": {
-            "caw.*.criteo.com": "INVALID",
             "caw.criteo.com": "INACTIVE"
         },
         "1577846275": {
@@ -10407,7 +10400,6 @@
             "d19972r8wdpby8.cloudfront.net": "INACTIVE",
             "d1ade4ciw4bqyc.cloudfront.net": "INACTIVE",
             "d1ar5xirbydtuc.cloudfront.net": "INACTIVE",
-            "d1cl1sqtf3o420.cloudfront.net": "INACTIVE",
             "d1d43ayl08oaq2.cloudfront.net": "INACTIVE",
             "d1d95giojjkirt.cloudfront.net": "INACTIVE"
         },
@@ -10535,68 +10527,7 @@
             "dl392qndlveq0.cloudfront.net": "INACTIVE"
         },
         "1577846306": {
-            "dl5v5atodo7gn.cloudfront.net": "INACTIVE",
-            "dlupv9uqtjlie.cloudfront.net": "INACTIVE",
-            "dm8srf206hien.cloudfront.net": "INACTIVE"
-        },
-        "1577846308": {
-            "dp51h10v6ggpa.cloudfront.net": "INACTIVE",
-            "dq2tgxnc2knif.cloudfront.net": "INACTIVE"
-        },
-        "1577846311": {
-            "duct5ntjian71.cloudfront.net": "INACTIVE"
-        },
-        "1577846312": {
-            "dvf2u7vwmkr5w.cloudfront.net": "INACTIVE",
-            "dx5qvhwg92mjd.cloudfront.net": "INACTIVE",
-            "dxq6c0tx3v6mm.cloudfront.net": "INACTIVE",
-            "dxqd86uz345mg.cloudfront.net": "INACTIVE",
-            "dy48bnzanqw0v.cloudfront.net": "INACTIVE",
-            "dycpc40hvg4ki.cloudfront.net": "INACTIVE"
-        },
-        "1577846313": {
-            "dyl3p6so5yozo.cloudfront.net": "INACTIVE"
-        },
-        "1577846318": {
-            "engine.gamerati.net": "INACTIVE",
-            "eplreplays.com": "INACTIVE"
-        },
-        "1577846321": {
-            "explorer.sheknows.com": "INACTIVE",
-            "ext.theglobalweb.com": "INACTIVE"
-        },
-        "1577846326": {
-            "fileserver.mode.com": "INACTIVE",
-            "fileserver1.net": "INACTIVE"
-        },
-        "1577846329": {
-            "followfairy.com": "INACTIVE",
-            "forumimg.ipmart.com": "INACTIVE"
-        },
-        "1577846332": {
-            "ft.pnop.com": "INACTIVE"
-        },
-        "1577846336": {
-            "gateway.proxyportal.eu": "INACTIVE"
-        },
-        "1577846337": {
-            "get.*.website": "INVALID",
-            "get.box24casino.com": "INACTIVE"
-        },
-        "1577846340": {
-            "globalprocash.com": "INACTIVE"
-        },
-        "1577846346": {
-            "gorgonprojectinvest.com": "INACTIVE"
-        },
-        "1577846347": {
-            "grammar.coursekey.com": "INACTIVE"
-        },
-        "1577846350": {
-            "hdvid-codecs.com": "INACTIVE"
-        },
-        "1577846352": {
-            "hitfox-jobboard.c66.me": "INACTIVE"
+            "dl5v5atodo7gn.cloudfront.net": "INACTIVE"
         },
         "1577847040": {
             "hqfootyad4.blogspot.com": "INACTIVE"
@@ -24562,6 +24493,83 @@
         },
         "1578105536": {
             "algart.net*_banner_": "INVALID"
+        },
+        "1578106237": {
+            "awadhtimes.com": "INACTIVE"
+        },
+        "1578106257": {
+            "cas.*.criteo.com": "INVALID"
+        },
+        "1578106258": {
+            "caw.*.criteo.com": "INVALID"
+        },
+        "1578106276": {
+            "d1cl1sqtf3o420.cloudfront.net": "INACTIVE"
+        },
+        "1578106283": {
+            "dlupv9uqtjlie.cloudfront.net": "INACTIVE",
+            "dm8srf206hien.cloudfront.net": "INACTIVE"
+        },
+        "1578106285": {
+            "dp51h10v6ggpa.cloudfront.net": "INACTIVE"
+        },
+        "1578106286": {
+            "dq2tgxnc2knif.cloudfront.net": "INACTIVE"
+        },
+        "1578106289": {
+            "duct5ntjian71.cloudfront.net": "INACTIVE",
+            "dvf2u7vwmkr5w.cloudfront.net": "INACTIVE"
+        },
+        "1578106290": {
+            "dx5qvhwg92mjd.cloudfront.net": "INACTIVE",
+            "dxq6c0tx3v6mm.cloudfront.net": "INACTIVE",
+            "dxqd86uz345mg.cloudfront.net": "INACTIVE",
+            "dy48bnzanqw0v.cloudfront.net": "INACTIVE",
+            "dycpc40hvg4ki.cloudfront.net": "INACTIVE",
+            "dyl3p6so5yozo.cloudfront.net": "INACTIVE"
+        },
+        "1578106295": {
+            "engine.gamerati.net": "INACTIVE"
+        },
+        "1578106296": {
+            "eplreplays.com": "INACTIVE"
+        },
+        "1578106299": {
+            "explorer.sheknows.com": "INACTIVE",
+            "ext.theglobalweb.com": "INACTIVE"
+        },
+        "1578106304": {
+            "fileserver.mode.com": "INACTIVE",
+            "fileserver1.net": "INACTIVE"
+        },
+        "1578106306": {
+            "followfairy.com": "INACTIVE"
+        },
+        "1578106307": {
+            "forumimg.ipmart.com": "INACTIVE"
+        },
+        "1578106309": {
+            "ft.pnop.com": "INACTIVE"
+        },
+        "1578106314": {
+            "gateway.proxyportal.eu": "INACTIVE",
+            "get.*.website": "INVALID",
+            "get.box24casino.com": "INACTIVE"
+        },
+        "1578106317": {
+            "globalprocash.com": "INACTIVE"
+        },
+        "1578106323": {
+            "gorgonprojectinvest.com": "INACTIVE"
+        },
+        "1578106324": {
+            "grammar.coursekey.com": "INACTIVE"
+        },
+        "1578106327": {
+            "hdvid-codecs.com": "INACTIVE"
+        },
+        "1578106329": {
+            "hitfox-jobboard.c66.me": "INACTIVE"
         }
     }
 }
