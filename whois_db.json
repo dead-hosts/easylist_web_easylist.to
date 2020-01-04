@@ -17805,8 +17805,8 @@
         "state": "future"
     },
     "bnnbloomberg.ca": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
         "state": "future"
     },
     "bnonews.com": {
@@ -35395,8 +35395,8 @@
         "state": "future"
     },
     "edie.net": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1735948800.0,
+        "expiration_date": "04-jan-2025",
         "state": "future"
     },
     "edlsdyhll.com": {
@@ -74450,9 +74450,9 @@
         "state": "future"
     },
     "movie-analyzer.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "movie-censorship.com": {
         "epoch": 1582675200.0,
@@ -86040,8 +86040,8 @@
         "state": "future"
     },
     "picayune-times.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1641168000.0,
+        "expiration_date": "03-jan-2022",
         "state": "future"
     },
     "picbucks.com": {
