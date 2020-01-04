@@ -12149,6 +12149,11 @@
         "expiration_date": "30-dec-2021",
         "state": "future"
     },
+    "artamkari.com": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "artbr.net": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
@@ -72002,7 +72007,7 @@
     "methodcash.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "metric-conversions.org": {
         "epoch": 1852243200.0,
