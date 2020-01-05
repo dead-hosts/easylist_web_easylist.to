@@ -39130,9 +39130,9 @@
         "state": "future"
     },
     "fakku.net": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "falkag.net": {
         "epoch": 1580342400.0,
@@ -96790,8 +96790,8 @@
         "state": "future"
     },
     "rogreviews.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1862179200.0,
+        "expiration_date": "04-jan-2029",
         "state": "future"
     },
     "rogueaffiliatesystem.com": {
