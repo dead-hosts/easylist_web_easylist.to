@@ -66760,8 +66760,8 @@
         "state": "future"
     },
     "linuxformat.com": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "linuxforums.org": {
@@ -70150,8 +70150,8 @@
         "state": "future"
     },
     "marinalliance.club": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "marineelectronics.com": {
@@ -90510,8 +90510,8 @@
         "state": "future"
     },
     "publichd.se": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "publicidad.net": {
@@ -99902,7 +99902,7 @@
     "seganerds.com": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "segmentnext.com": {
         "epoch": 1673481600.0,
