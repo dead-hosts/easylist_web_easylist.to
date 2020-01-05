@@ -12835,9 +12835,9 @@
         "state": "future"
     },
     "atwonline.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "atzcmddc.com": {
         "epoch": 1604793600.0,
@@ -18515,9 +18515,9 @@
         "state": "future"
     },
     "bountysource.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "bournemouthecho.co.uk": {
         "epoch": 1592524800.0,
@@ -64175,9 +64175,9 @@
         "state": "future"
     },
     "ktul.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "ktvb.com": {
         "epoch": 1588464000.0,
@@ -83870,8 +83870,8 @@
         "state": "future"
     },
     "owngoalnigeria.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "ownlocal.com": {
@@ -99682,7 +99682,7 @@
     "secretmaryo.org": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "secretmedia.com": {
         "epoch": 1589068800.0,
@@ -109920,8 +109920,8 @@
         "state": "future"
     },
     "thefightnetwork.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "thefilebay.com": {
@@ -132785,8 +132785,8 @@
         "state": "future"
     },
     "zonalmarking.net": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1736035200.0,
+        "expiration_date": "05-jan-2025",
         "state": "future"
     },
     "zonatorrent.tv": {
