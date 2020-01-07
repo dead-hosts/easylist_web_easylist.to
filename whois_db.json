@@ -66600,8 +66600,8 @@
         "state": "future"
     },
     "linkclicks.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "linkconnector.com": {
@@ -67745,8 +67745,8 @@
         "state": "future"
     },
     "lockhosts.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "lockportjournal.com": {
@@ -71980,8 +71980,8 @@
         "state": "future"
     },
     "metavertizer.com": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "metblogs.com": {
@@ -81792,7 +81792,7 @@
     "ogercron.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "oggifinogi.com": {
         "epoch": 1585699200.0,
