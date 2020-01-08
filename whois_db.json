@@ -92690,8 +92690,8 @@
         "state": "future"
     },
     "qrwlerqenp.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "qrxkugriqkt.com": {
@@ -96717,7 +96717,7 @@
     "rlomrjxrpsev.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "rlslog.net": {
         "epoch": 1579392000.0,
@@ -97554,6 +97554,11 @@
         "expiration_date": "09-jan-2020",
         "state": "future"
     },
+    "rsbvygxdsevaw.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
     "rscqizsukecevh.com": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
@@ -97570,8 +97575,8 @@
         "state": "future"
     },
     "rsiyppewvonkc.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "rslinks.org": {
@@ -97612,6 +97617,11 @@
     "rsuroxpotcoiq.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "rsuwxqaoqpuueg.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "rsviqjzhvubz.com": {
