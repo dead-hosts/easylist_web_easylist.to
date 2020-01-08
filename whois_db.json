@@ -31660,8 +31660,8 @@
         "state": "future"
     },
     "disclose.tv": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "disconnect.me": {
@@ -94582,7 +94582,7 @@
     "readfomag.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "readfood.co": {
         "epoch": 1598486400.0,
@@ -99940,9 +99940,9 @@
         "state": "future"
     },
     "secretmaryo.org": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
-        "state": "past"
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
     },
     "secretmedia.com": {
         "epoch": 1589068800.0,
