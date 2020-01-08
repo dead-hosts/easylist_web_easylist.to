@@ -90650,8 +90650,8 @@
         "state": "future"
     },
     "ptvcfltikpdi.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "ptwebcams.com": {
@@ -91640,8 +91640,8 @@
         "state": "future"
     },
     "pzzmqjrp.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "q.gs": {
@@ -91792,11 +91792,11 @@
     "qbttelbrupkss.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "qbwjddqa.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "qcaejiouuvgk.com": {
@@ -91852,7 +91852,7 @@
     "qdjnwlrjllti.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "qdksdycvbv.com": {
         "epoch": 1592006400.0,
@@ -92142,7 +92142,7 @@
     "qhzvvwblzrjc.com": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "qibbblerzykelr.com": {
         "epoch": 1608076800.0,
@@ -92502,6 +92502,11 @@
     "qoredi.com": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "qorvoxejr.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "qoshe.com": {
