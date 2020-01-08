@@ -23940,8 +23940,8 @@
         "state": "future"
     },
     "citysex.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "citysite.net": {
@@ -29507,7 +29507,7 @@
     "danzabucks.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "danzhallfes.com": {
         "epoch": 1599782400.0,
@@ -72205,9 +72205,9 @@
         "state": "future"
     },
     "methodcash.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "metric-conversions.org": {
         "epoch": 1852243200.0,
@@ -94905,8 +94905,8 @@
         "state": "future"
     },
     "realitytraffic.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "realitytvworld.com": {
