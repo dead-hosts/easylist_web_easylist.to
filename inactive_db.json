@@ -12722,81 +12722,9 @@
         "1578107969": {
             "hardcoresexnow.com": "INACTIVE"
         },
-        "1578108703": {
-            "join.filthydatez.com": "INACTIVE"
-        },
-        "1578108713": {
-            "xrounds.com": "INACTIVE"
-        },
-        "1578108715": {
-            "ads-*.hulu.com": "INVALID"
-        },
-        "1578108722": {
-            "bp.blogspot.com": "INACTIVE"
-        },
-        "1578108734": {
-            "dropapk.*": "INVALID"
-        },
-        "1578108741": {
-            "gamecopyworld.*": "INVALID"
-        },
-        "1578108755": {
-            "js.high-minded.net": "INACTIVE"
-        },
-        "1578108767": {
-            "musictarget.com*": "INVALID"
-        },
-        "1578109646": {
-            "readthedocs.org*": "INVALID"
-        },
-        "1578109663": {
-            "video-cdn.abcnews.com": "INACTIVE",
-            "video.abc.com": "INACTIVE"
-        },
-        "1578109672": {
-            "9anime.*": "INVALID"
-        },
-        "1578109675": {
-            "gelbooru.com*": "INVALID"
-        },
-        "1578109678": {
-            "ww46.vidzi.": "INVALID",
-            "www*.swatchseries.to": "INVALID"
-        },
-        "1578109679": {
-            "thepiratebay.": "INVALID"
-        },
-        "1578109680": {
-            "http.anno.channel4.com*-": "INVALID",
-            "http.anno.channel4.com*_*_*_": "INVALID",
-            "wpengine.netdna-cdn.com": "INACTIVE"
-        },
-        "1578109683": {
-            "tarife.spiegel.de": "INACTIVE"
-        },
         "1578109688": {
             "fidget.twitch.tv": "INACTIVE",
             "free-stream.tv": "INACTIVE"
-        },
-        "1578109689": {
-            "g00.msn.com": "INACTIVE"
-        },
-        "1578109693": {
-            "limbohost.net": "INACTIVE"
-        },
-        "1578109698": {
-            "torrentz.*": "INVALID",
-            "tozer.youwatch.org": "INACTIVE",
-            "trans.youwatch.org": "INACTIVE"
-        },
-        "1578109700": {
-            "whies.info": "INACTIVE"
-        },
-        "1578109702": {
-            "109.201.146.142": "INACTIVE"
-        },
-        "1578109704": {
-            "64.62.202.124": "INACTIVE"
         },
         "1578109774": {
             "imghost.us.to": "INACTIVE"
@@ -24574,6 +24502,83 @@
         },
         "1578452403": {
             "cpm.amateurcommunity.*?cp=": "INVALID"
+        },
+        "1578453095": {
+            "join.filthydatez.com": "INACTIVE"
+        },
+        "1578453103": {
+            "xrounds.com": "INACTIVE"
+        },
+        "1578453105": {
+            "ads-*.hulu.com": "INVALID"
+        },
+        "1578453125": {
+            "dropapk.*": "INVALID"
+        },
+        "1578453132": {
+            "gamecopyworld.*": "INVALID"
+        },
+        "1578453147": {
+            "js.high-minded.net": "INACTIVE"
+        },
+        "1578453159": {
+            "musictarget.com*": "INVALID"
+        },
+        "1578453162": {
+            "null": "INVALID"
+        },
+        "1578453171": {
+            "readthedocs.org*": "INVALID"
+        },
+        "1578453189": {
+            "video-cdn.abcnews.com": "INACTIVE",
+            "video.abc.com": "INACTIVE"
+        },
+        "1578453197": {
+            "bp.blogspot.com": "INACTIVE"
+        },
+        "1578453198": {
+            "9anime.*": "INVALID"
+        },
+        "1578453201": {
+            "gelbooru.com*": "INVALID"
+        },
+        "1578453204": {
+            "ww46.vidzi.": "INVALID",
+            "www*.swatchseries.to": "INVALID"
+        },
+        "1578453205": {
+            "thepiratebay.": "INVALID",
+            "wpengine.netdna-cdn.com": "INACTIVE"
+        },
+        "1578453206": {
+            "http.anno.channel4.com*-": "INVALID",
+            "http.anno.channel4.com*_*_*_": "INVALID"
+        },
+        "1578453209": {
+            "tarife.spiegel.de": "INACTIVE"
+        },
+        "1578453215": {
+            "g00.msn.com": "INACTIVE"
+        },
+        "1578453219": {
+            "limbohost.net": "INACTIVE"
+        },
+        "1578453223": {
+            "torrentz.*": "INVALID"
+        },
+        "1578453224": {
+            "tozer.youwatch.org": "INACTIVE",
+            "trans.youwatch.org": "INACTIVE"
+        },
+        "1578453226": {
+            "whies.info": "INACTIVE"
+        },
+        "1578453227": {
+            "109.201.146.142": "INACTIVE"
+        },
+        "1578453230": {
+            "64.62.202.124": "INACTIVE"
         }
     }
 }
