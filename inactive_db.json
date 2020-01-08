@@ -10564,9 +10564,6 @@
         "1578085437": {
             "d.m3.net": "INACTIVE"
         },
-        "1578085459": {
-            "dntrck.com": "INACTIVE"
-        },
         "1578085460": {
             "document4u.info": "INACTIVE"
         },
@@ -10816,7 +10813,6 @@
         "1578086261": {
             "gigamega.su": "INACTIVE",
             "gimiclub.com": "INACTIVE",
-            "gitcdn.pw": "INACTIVE",
             "gitcdn.site": "INACTIVE",
             "gitload.site": "INACTIVE",
             "giu9aab.bid": "INACTIVE"
@@ -12694,7 +12690,6 @@
         },
         "1578106314": {
             "gateway.proxyportal.eu": "INACTIVE",
-            "get.*.website": "INVALID",
             "get.box24casino.com": "INACTIVE"
         },
         "1578106317": {
@@ -12705,74 +12700,6 @@
         },
         "1578106324": {
             "grammar.coursekey.com": "INACTIVE"
-        },
-        "1578106327": {
-            "hdvid-codecs.com": "INACTIVE"
-        },
-        "1578106329": {
-            "hitfox-jobboard.c66.me": "INACTIVE"
-        },
-        "1578107021": {
-            "hqfootyad4.blogspot.com": "INACTIVE"
-        },
-        "1578107022": {
-            "hyipregulate.com": "INACTIVE"
-        },
-        "1578107023": {
-            "iad-*.blaze.com": "INVALID"
-        },
-        "1578107025": {
-            "ihizliresim.com": "INACTIVE",
-            "ilapi.ebay.com": "INACTIVE"
-        },
-        "1578107026": {
-            "images.*.criteo.net": "INVALID",
-            "images.criteo.net": "INACTIVE",
-            "images.youbuy.it": "INACTIVE",
-            "img.hostmonster.com": "INACTIVE"
-        },
-        "1578107031": {
-            "interstitial.glsp.netdna-cdn.com": "INACTIVE"
-        },
-        "1578107032": {
-            "iwebzoo.com": "INACTIVE"
-        },
-        "1578107033": {
-            "jeysearch.com": "INACTIVE"
-        },
-        "1578107034": {
-            "jobslike.win": "INACTIVE"
-        },
-        "1578107036": {
-            "k2team.kyiv.ua": "INACTIVE"
-        },
-        "1578107037": {
-            "keyword-winner.com": "INACTIVE"
-        },
-        "1578107038": {
-            "kraken.giantrealm.com": "INACTIVE",
-            "lapi.ebay.com": "INACTIVE"
-        },
-        "1578107041": {
-            "letters.coursekey.com": "INACTIVE"
-        },
-        "1578107045": {
-            "localdata.eu": "INACTIVE"
-        },
-        "1578107047": {
-            "ltfm.ca": "INACTIVE",
-            "lucky-ace-casino.net": "INACTIVE"
-        },
-        "1578107049": {
-            "mads.aol.com": "INACTIVE"
-        },
-        "1578107050": {
-            "marinejobs.gr": "INACTIVE"
-        },
-        "1578107051": {
-            "maximainvest.net": "INACTIVE",
-            "mb-hostservice.de": "INACTIVE",
-            "mbid.advance.net": "INACTIVE"
         },
         "1578107053": {
             "mediaserver.digitec.ch": "INACTIVE",
@@ -24574,6 +24501,83 @@
         },
         "1578450021": {
             "caw.*.criteo.com": "INVALID"
+        },
+        "1578450749": {
+            "dntrck.com": "INACTIVE"
+        },
+        "1578450778": {
+            "get.*.website": "INVALID"
+        },
+        "1578450780": {
+            "gitcdn.pw": "INACTIVE"
+        },
+        "1578450790": {
+            "hdvid-codecs.com": "INACTIVE"
+        },
+        "1578450792": {
+            "hitfox-jobboard.c66.me": "INACTIVE"
+        },
+        "1578450795": {
+            "hqfootyad4.blogspot.com": "INACTIVE"
+        },
+        "1578450796": {
+            "hyipregulate.com": "INACTIVE"
+        },
+        "1578450797": {
+            "iad-*.blaze.com": "INVALID"
+        },
+        "1578450798": {
+            "ihizliresim.com": "INACTIVE"
+        },
+        "1578450799": {
+            "ilapi.ebay.com": "INACTIVE"
+        },
+        "1578450800": {
+            "images.*.criteo.net": "INVALID",
+            "images.criteo.net": "INACTIVE",
+            "images.youbuy.it": "INACTIVE",
+            "img.hostmonster.com": "INACTIVE"
+        },
+        "1578450805": {
+            "interstitial.glsp.netdna-cdn.com": "INACTIVE"
+        },
+        "1578450806": {
+            "iwebzoo.com": "INACTIVE"
+        },
+        "1578450807": {
+            "jeysearch.com": "INACTIVE",
+            "jobslike.win": "INACTIVE"
+        },
+        "1578450810": {
+            "k2team.kyiv.ua": "INACTIVE"
+        },
+        "1578450811": {
+            "keyword-winner.com": "INACTIVE",
+            "kraken.giantrealm.com": "INACTIVE"
+        },
+        "1578450812": {
+            "lapi.ebay.com": "INACTIVE"
+        },
+        "1578450816": {
+            "letters.coursekey.com": "INACTIVE"
+        },
+        "1578450819": {
+            "localdata.eu": "INACTIVE"
+        },
+        "1578450821": {
+            "ltfm.ca": "INACTIVE",
+            "lucky-ace-casino.net": "INACTIVE"
+        },
+        "1578450823": {
+            "mads.aol.com": "INACTIVE"
+        },
+        "1578450824": {
+            "marinejobs.gr": "INACTIVE"
+        },
+        "1578450825": {
+            "maximainvest.net": "INACTIVE",
+            "mb-hostservice.de": "INACTIVE",
+            "mbid.advance.net": "INACTIVE"
         }
     }
 }
