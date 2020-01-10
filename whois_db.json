@@ -49435,9 +49435,9 @@
         "state": "future"
     },
     "gunnersalmighty.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "gunpartners.com": {
         "epoch": 1601251200.0,
@@ -89214,6 +89214,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "pprq7.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "pprune.org": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -122125,8 +122130,8 @@
         "state": "future"
     },
     "waframedia20.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "waframedia5.com": {
@@ -126392,6 +126397,11 @@
     "wptv.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "wpu.sh": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "wpxi.com": {
@@ -132460,8 +132470,8 @@
         "state": "future"
     },
     "zenoviaexchange.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "zenoviagroup.com": {
@@ -132537,6 +132547,11 @@
     "zest.co.uk": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "zetamm.com": {
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
         "state": "future"
     },
     "zeujqjoifd.com": {
@@ -133202,7 +133217,7 @@
     "zoagremo.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "zobsibzczd.com": {
         "epoch": 1590364800.0,
