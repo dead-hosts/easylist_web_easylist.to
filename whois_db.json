@@ -55300,8 +55300,8 @@
         "state": "future"
     },
     "ihosetch.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "ihpekyhfanmljo.com": {
@@ -57110,8 +57110,8 @@
         "state": "future"
     },
     "insightexpressai.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "insigit.com": {
@@ -60837,7 +60837,7 @@
     "joophesh.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "joplinglobe.com": {
         "epoch": 1584835200.0,
@@ -68240,8 +68240,8 @@
         "state": "future"
     },
     "looneyads.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "looneynetwork.com": {
@@ -69067,6 +69067,11 @@
     "lvgvax82bp.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "lvidentrevious.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "lvldcxnq.com": {
@@ -71359,6 +71364,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "media-sapiens.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
     "media-servers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
@@ -71492,6 +71502,11 @@
     "mediaforge.com": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
+    "mediafuse.com": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "mediag4.com": {
@@ -72465,8 +72480,8 @@
         "state": "future"
     },
     "mgcashgate.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "mgdfebwxonyfe.com": {
