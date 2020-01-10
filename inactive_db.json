@@ -12748,64 +12748,24 @@
         "1578187703": {
             "eroclip.mobi": "INACTIVE"
         },
-        "1578427844": {
-            "cacheserve.*": "INVALID",
-            "online.*": "INVALID",
-            "ox-d.*": "INVALID",
-            "serve.*": "INVALID"
-        },
         "1578427858": {
             "hdplugin.flashplayer-updates.com": "INACTIVE"
         },
         "1578427859": {
             "jobitem.org": "INACTIVE"
         },
-        "1578427861": {
-            "lp.ilivid.com": "INACTIVE"
-        },
-        "1578427862": {
-            "mojofun.info": "INACTIVE"
-        },
-        "1578427863": {
-            "prochina.link": "INACTIVE",
-            "prochina.space": "INACTIVE",
-            "prousa.work": "INACTIVE"
-        },
-        "1578427866": {
-            "steel.starflavor.bid": "INACTIVE",
-            "tracking.crazylead.com": "INACTIVE"
-        },
-        "1578427868": {
-            "www.1clickmoviedownloader.info": "INACTIVE",
-            "www.accuserveadsystem.com": "INACTIVE",
-            "www.faceporn.net": "INACTIVE"
-        },
-        "1578427869": {
-            "www.pheedo.com": "INACTIVE"
-        },
         "1578427883": {
-            "cdn1.adexprt.com": "INACTIVE",
-            "vodexor.us": "INACTIVE",
-            "www.incontri-matura.com": "INACTIVE"
+            "cdn1.adexprt.com": "INACTIVE"
         },
         "1578427884": {
             "cdn2.adexprt.com": "INACTIVE",
             "internalredirect.site": "INACTIVE"
         },
-        "1578427885": {
-            "tbns.com.au": "INACTIVE"
-        },
         "1578427921": {
             "inverterbolsa.com": "INACTIVE"
         },
-        "1578427922": {
-            "tiv.pw": "INACTIVE"
-        },
         "1578427926": {
             "hotels.mapov.com": "INACTIVE"
-        },
-        "1578428641": {
-            "small-universe.com": "INACTIVE"
         },
         "1578428688": {
             "weightlosereally.com": "INACTIVE"
@@ -24579,6 +24539,52 @@
             "7edc0b1cdcb8.com": "INACTIVE",
             "affimo.de": "INACTIVE",
             "againscan.com": "INACTIVE"
+        },
+        "1578687128": {
+            "cacheserve.*": "INVALID"
+        },
+        "1578687129": {
+            "online.*": "INVALID",
+            "ox-d.*": "INVALID",
+            "serve.*": "INVALID"
+        },
+        "1578687146": {
+            "lp.ilivid.com": "INACTIVE"
+        },
+        "1578687147": {
+            "mojofun.info": "INACTIVE"
+        },
+        "1578687148": {
+            "prochina.link": "INACTIVE",
+            "prochina.space": "INACTIVE",
+            "prousa.work": "INACTIVE"
+        },
+        "1578687151": {
+            "steel.starflavor.bid": "INACTIVE",
+            "tracking.crazylead.com": "INACTIVE"
+        },
+        "1578687153": {
+            "www.1clickmoviedownloader.info": "INACTIVE",
+            "www.accuserveadsystem.com": "INACTIVE"
+        },
+        "1578687154": {
+            "www.faceporn.net": "INACTIVE",
+            "www.pheedo.com": "INACTIVE"
+        },
+        "1578687168": {
+            "vodexor.us": "INACTIVE"
+        },
+        "1578687169": {
+            "www.incontri-matura.com": "INACTIVE"
+        },
+        "1578687208": {
+            "tiv.pw": "INACTIVE"
+        },
+        "1578687241": {
+            "tbns.com.au": "INACTIVE"
+        },
+        "1578687243": {
+            "small-universe.com": "INACTIVE"
         }
     }
 }
