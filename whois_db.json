@@ -5797,7 +5797,7 @@
     "adk2.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adk2.net": {
         "epoch": 1601424000.0,
@@ -6774,6 +6774,11 @@
         "expiration_date": "02-jun-2022",
         "state": "future"
     },
+    "adser.io": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "adserve.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
@@ -7185,8 +7190,8 @@
         "state": "future"
     },
     "adsvids.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "adsvlad.info": {
@@ -8012,6 +8017,11 @@
     "adworkmedia.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
+    "adworkmedia.net": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "adworldmedia.com": {
@@ -9417,6 +9427,11 @@
     "aj1052.online": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "aj1090.online": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
         "state": "future"
     },
     "aj1574.online": {
