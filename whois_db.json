@@ -104585,9 +104585,9 @@
         "state": "future"
     },
     "spectato.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "spectator.co.uk": {
         "epoch": 1588464000.0,
@@ -107275,8 +107275,8 @@
         "state": "future"
     },
     "swbdds.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "swcbulletin.com": {
@@ -113555,8 +113555,8 @@
         "state": "future"
     },
     "torrida.net": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "torvind.com": {
@@ -113942,6 +113942,16 @@
     "trackpath.biz": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "trackpromotion.net": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "trackpush.com": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "trackstarsengland.net": {
@@ -114914,6 +114924,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "truepush.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "truex.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -115073,6 +115088,11 @@
         "epoch": 1563235200,
         "expiration_date": "16-jul-2019",
         "state": "past"
+    },
+    "tswmel.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "tswxyvxm.com": {
         "epoch": 1603929600.0,
@@ -119097,6 +119117,11 @@
     "vdacizdywoe.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "vdains.info": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "vdare.com": {
