@@ -11189,6 +11189,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "anizedglittledisco.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "anjqxwvqfnri.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
@@ -11977,6 +11982,11 @@
     "are-ter.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "areandarm.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "arearmark.club": {
@@ -16324,6 +16334,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "bidsxchange.com": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "bidsystem.com": {
         "epoch": 1623888000.0,
         "expiration_date": "17-jun-2021",
@@ -17544,9 +17559,14 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "blogkiemtien.club": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "blogohertz.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "blogorama.com": {
@@ -19760,8 +19780,8 @@
         "state": "future"
     },
     "burjam.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "burkeconnection.com": {
@@ -21710,9 +21730,9 @@
         "state": "future"
     },
     "casterpretic.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "castplatform.com": {
         "epoch": 1602806400.0,
@@ -22215,8 +22235,8 @@
         "state": "future"
     },
     "cdnrl.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1641686400.0,
+        "expiration_date": "09-jan-2022",
         "state": "future"
     },
     "cdnservices.net": {
@@ -22357,7 +22377,7 @@
     "cegludse.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cekptlucf.com": {
         "epoch": 1583193600.0,
@@ -23307,6 +23327,11 @@
     "chiaanime.co": {
         "epoch": 1626134400.0,
         "expiration_date": "13-jul-2021",
+        "state": "future"
+    },
+    "chiasephim.xyz": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "chicagobusiness.com": {
@@ -26350,9 +26375,9 @@
         "state": "future"
     },
     "construment.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "consumable.com": {
         "epoch": 1585440000.0,
