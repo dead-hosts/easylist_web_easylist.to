@@ -4544,6 +4544,11 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "actpx.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
     "actuallysheep.com": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -20065,8 +20070,8 @@
         "state": "future"
     },
     "buyout.pro": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "buysellads.com": {
@@ -25860,8 +25865,8 @@
         "state": "future"
     },
     "comicbookmovie.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "comicbookresources.com": {
@@ -87575,8 +87580,8 @@
         "state": "future"
     },
     "podrozezhubertem.pl": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "pogdesign.co.uk": {
@@ -112120,8 +112125,8 @@
         "state": "future"
     },
     "timeoutdelhi.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1641772800.0,
+        "expiration_date": "10-jan-2022",
         "state": "future"
     },
     "timeoutdoha.com": {
@@ -132925,8 +132930,8 @@
         "state": "future"
     },
     "zlinked.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "zlkrsqad.com": {
