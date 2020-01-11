@@ -4294,6 +4294,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "abwsunml.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "abxlmhllf.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
