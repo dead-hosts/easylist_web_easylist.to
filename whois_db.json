@@ -10487,7 +10487,7 @@
     "amazingfunnvideos.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "amazinglytimedphotos.com": {
         "epoch": 1599091200.0,
@@ -121935,8 +121935,8 @@
         "state": "future"
     },
     "vuuwd.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "vuvcwrxn.com": {
@@ -133510,9 +133510,9 @@
         "state": "future"
     },
     "zoagremo.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "zobsibzczd.com": {
         "epoch": 1590364800.0,
