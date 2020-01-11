@@ -74500,8 +74500,8 @@
         "state": "future"
     },
     "mordi.fun": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "more.com": {
@@ -79140,9 +79140,9 @@
         "state": "future"
     },
     "nextmillennium.io": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "nextmovie.com": {
         "epoch": 1607472000.0,
@@ -82952,6 +82952,11 @@
     "onespot.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "onestepproductions.online": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "onetime.com": {
@@ -90142,6 +90147,11 @@
     "prog3.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "proglack.site": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "program3.com": {
