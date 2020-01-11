@@ -119260,9 +119260,9 @@
         "state": "past"
     },
     "vcfnspbgztl.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "vcjbxucwrprtu.com": {
         "epoch": 1592006400.0,
@@ -119277,6 +119277,11 @@
     "vcnewsdaily.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "vcocbxnawuygjf.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "vcommission.com": {
@@ -119702,6 +119707,11 @@
     "vetfran.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "veuzlkpnbujf.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "vev.io": {
@@ -126664,6 +126674,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "wqmjybqqhz.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "wqmpomuwywy.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
@@ -126862,6 +126877,11 @@
     "wsemqlxmmhp.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "wsgmxgtmxymwt.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "wshechicago.com": {
@@ -128452,6 +128472,11 @@
     "xjtiqdylurgima.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "xjuzpixunwzckm.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "xjylcsyo.com": {
