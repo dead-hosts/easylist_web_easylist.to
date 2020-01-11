@@ -4802,7 +4802,7 @@
     "adageindia.in": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adagora.com": {
         "epoch": 1675296000.0,
@@ -19702,7 +19702,7 @@
     "bulbagarden.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bulbazoa.com": {
         "epoch": 1607126400.0,
@@ -24277,7 +24277,7 @@
     "classichits987.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "classicsdujour.com": {
         "epoch": 1668902400.0,
@@ -62310,8 +62310,8 @@
         "state": "future"
     },
     "kavkisfile.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "kawmxbphaj.com": {
@@ -122705,8 +122705,8 @@
         "state": "future"
     },
     "warframe-builder.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "warm1069.com": {
