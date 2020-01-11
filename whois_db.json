@@ -45457,7 +45457,7 @@
     "gamingunion.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamingzion.com": {
         "epoch": 1605225600.0,
@@ -74975,8 +74975,8 @@
         "state": "future"
     },
     "moviezer.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "movin100.com": {
@@ -85105,9 +85105,9 @@
         "state": "future"
     },
     "pastemagazine.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
     },
     "pastie.org": {
         "epoch": 1607385600.0,
@@ -94190,8 +94190,8 @@
         "state": "future"
     },
     "rapid4me.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "rapid8.com": {
@@ -97260,8 +97260,8 @@
         "state": "future"
     },
     "rockwallheraldbanner.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "rockyou.com": {
@@ -120102,6 +120102,11 @@
     "videobox.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "videoboxone.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "videocardbenchmark.net": {
