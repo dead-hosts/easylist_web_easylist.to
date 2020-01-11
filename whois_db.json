@@ -3377,7 +3377,7 @@
     "959kissfm.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "95a44ebca8b1abc20.com": {
         "epoch": 1601424000.0,
@@ -23370,8 +23370,8 @@
         "state": "future"
     },
     "chicagojewishnews.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "chicagomag.com": {
@@ -82320,8 +82320,8 @@
         "state": "future"
     },
     "ohgizmo.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1641686400.0,
+        "expiration_date": "09-jan-2022",
         "state": "future"
     },
     "ohinternet.com": {
@@ -86360,8 +86360,8 @@
         "state": "future"
     },
     "phonesreview.co.uk": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "phorio.com": {
@@ -93800,8 +93800,8 @@
         "state": "future"
     },
     "racefans.net": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "rachaelraymag.com": {
@@ -94845,9 +94845,9 @@
         "state": "future"
     },
     "readfomag.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "readfood.co": {
         "epoch": 1598486400.0,
