@@ -45072,7 +45072,7 @@
     "game-clicks.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "game-debate.com": {
         "epoch": 1588118400.0,
@@ -47120,9 +47120,9 @@
         "state": "future"
     },
     "glaimtug.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "glam.com": {
         "epoch": 1593820800.0,
