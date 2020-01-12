@@ -15595,20 +15595,11 @@
         "1578708276": {
             "dsd7ugeb97nnc.cloudfront.net": "INACTIVE"
         },
-        "1578708301": {
-            "get.*.website": "INVALID"
-        },
         "1578708303": {
             "gitcdn.pw": "INACTIVE"
         },
         "1578708313": {
             "hdvid-codecs.com": "INACTIVE"
-        },
-        "1578708319": {
-            "iad-*.blaze.com": "INVALID"
-        },
-        "1578708322": {
-            "images.*.criteo.net": "INVALID"
         },
         "1578708329": {
             "jeysearch.com": "INACTIVE"
@@ -15635,79 +15626,6 @@
         "1578708343": {
             "ltfm.ca": "INACTIVE",
             "lucky-ace-casino.net": "INACTIVE"
-        },
-        "1578708345": {
-            "mads.aol.com": "INACTIVE"
-        },
-        "1578708346": {
-            "marinejobs.gr": "INACTIVE"
-        },
-        "1578708347": {
-            "maximainvest.net": "INACTIVE",
-            "mb-hostservice.de": "INACTIVE"
-        },
-        "1578708348": {
-            "mbid.advance.net": "INACTIVE"
-        },
-        "1578708349": {
-            "mediaserver.digitec.ch": "INACTIVE"
-        },
-        "1578708350": {
-            "megalivestream.net": "INACTIVE",
-            "meraad2.blogspot.com": "INACTIVE",
-            "merdb.org": "INACTIVE"
-        },
-        "1578708352": {
-            "millionaires-club-international.com": "INACTIVE"
-        },
-        "1578708357": {
-            "musik-a-z.com": "INACTIVE",
-            "my-best-jobs.com": "INACTIVE"
-        },
-        "1578708358": {
-            "myalter1tv.altervista.org": "INACTIVE"
-        },
-        "1578708359": {
-            "myfreepaysite.info": "INACTIVE"
-        },
-        "1578708360": {
-            "mytrafficstrategy.com": "INACTIVE"
-        },
-        "1578708362": {
-            "nanobrokers.com": "INACTIVE",
-            "nanoinvestgroup.com": "INACTIVE"
-        },
-        "1578708364": {
-            "network.business.com": "INACTIVE"
-        },
-        "1578708365": {
-            "nexage.advertising.com": "INACTIVE"
-        },
-        "1578708367": {
-            "nude.mk": "INACTIVE"
-        },
-        "1578708368": {
-            "odin.goo.mx": "INACTIVE",
-            "offers-service.cbsinteractive.com": "INACTIVE"
-        },
-        "1578708373": {
-            "pan.dogster.com": "INACTIVE",
-            "partner.alloy.com": "INACTIVE",
-            "partner.catchy.com": "INACTIVE",
-            "partners.fshealth.com": "INACTIVE"
-        },
-        "1578708374": {
-            "partners.sportingbet.com.au": "INACTIVE",
-            "partners.vouchedfor.co.uk": "INACTIVE"
-        },
-        "1578708377": {
-            "playata.myvideo.de": "INACTIVE"
-        },
-        "1578708378": {
-            "playfooty.tv": "INACTIVE"
-        },
-        "1578708383": {
-            "popeoftheplayers.eu": "INACTIVE"
         },
         "1578709076": {
             "pub.betclick.com": "INACTIVE"
@@ -22532,6 +22450,51 @@
             "cas.*.criteo.com": "INVALID",
             "caw.*.criteo.com": "INVALID",
             "trhnt.com": "INACTIVE"
+        },
+        "1578795342": {
+            "get.*.website": "INVALID",
+            "iad-*.blaze.com": "INVALID",
+            "images.*.criteo.net": "INVALID",
+            "mads.aol.com": "INACTIVE",
+            "marinejobs.gr": "INACTIVE",
+            "maximainvest.net": "INACTIVE"
+        },
+        "1578795343": {
+            "mb-hostservice.de": "INACTIVE",
+            "mbid.advance.net": "INACTIVE",
+            "mediaserver.digitec.ch": "INACTIVE",
+            "megalivestream.net": "INACTIVE",
+            "meraad2.blogspot.com": "INACTIVE",
+            "merdb.org": "INACTIVE",
+            "millionaires-club-international.com": "INACTIVE",
+            "musik-a-z.com": "INACTIVE",
+            "my-best-jobs.com": "INACTIVE",
+            "myalter1tv.altervista.org": "INACTIVE"
+        },
+        "1578795344": {
+            "myfreepaysite.info": "INACTIVE",
+            "mytrafficstrategy.com": "INACTIVE",
+            "nanobrokers.com": "INACTIVE",
+            "nanoinvestgroup.com": "INACTIVE",
+            "network.business.com": "INACTIVE",
+            "nexage.advertising.com": "INACTIVE",
+            "nude.mk": "INACTIVE",
+            "odin.goo.mx": "INACTIVE",
+            "offers-service.cbsinteractive.com": "INACTIVE",
+            "pan.dogster.com": "INACTIVE",
+            "partner.alloy.com": "INACTIVE"
+        },
+        "1578795345": {
+            "partner.catchy.com": "INACTIVE",
+            "partners.fshealth.com": "INACTIVE",
+            "partners.sportingbet.com.au": "INACTIVE",
+            "partners.vouchedfor.co.uk": "INACTIVE",
+            "playata.myvideo.de": "INACTIVE",
+            "playfooty.tv": "INACTIVE",
+            "popeoftheplayers.eu": "INACTIVE"
+        },
+        "1578795399": {
+            "directory.im": "INACTIVE"
         }
     }
 }
