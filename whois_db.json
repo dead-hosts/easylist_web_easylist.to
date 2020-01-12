@@ -3395,8 +3395,8 @@
         "state": "future"
     },
     "964eagle.co.uk": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1641945600.0,
+        "expiration_date": "12-jan-2022",
         "state": "future"
     },
     "965ksom.com": {
@@ -21980,9 +21980,9 @@
         "state": "future"
     },
     "cbn.co.za": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
-        "state": "past"
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
     },
     "cbncompass.ca": {
         "epoch": 1583712000.0,
@@ -42225,8 +42225,8 @@
         "state": "future"
     },
     "football-espana.net": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1641945600.0,
+        "expiration_date": "12-jan-2022",
         "state": "future"
     },
     "football-italia.net": {
@@ -45280,8 +45280,8 @@
         "state": "future"
     },
     "games.co.uk": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1641945600.0,
+        "expiration_date": "12-jan-2022",
         "state": "future"
     },
     "games.com": {
@@ -94865,13 +94865,13 @@
         "state": "future"
     },
     "readfashion.co": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "readfilm.co": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "readfomag.com": {
@@ -94990,8 +94990,8 @@
         "state": "future"
     },
     "readmusic.co": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "readnewcastle.com": {
@@ -95050,8 +95050,8 @@
         "state": "future"
     },
     "readsport.co": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "readstoke.com": {
@@ -96805,8 +96805,8 @@
         "state": "past"
     },
     "ringostrack.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "ringtonematcher.com": {
@@ -106957,7 +106957,7 @@
     "sumodb.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sumotorrent.sx": {
         "epoch": 1597276800.0,
@@ -122470,8 +122470,8 @@
         "state": "future"
     },
     "walkon.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "wallbase.cc": {
