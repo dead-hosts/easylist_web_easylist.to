@@ -30360,8 +30360,8 @@
         "state": "future"
     },
     "deepintent.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1642032000.0,
+        "expiration_date": "13-jan-2022",
         "state": "future"
     },
     "deepmetrix.com": {
@@ -31655,8 +31655,8 @@
         "state": "future"
     },
     "directclicksonly.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "directindustry.com": {
@@ -36825,8 +36825,8 @@
         "state": "future"
     },
     "enlnks.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "enloe6qtkd.com": {
@@ -36895,8 +36895,8 @@
         "state": "future"
     },
     "enterads.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "enticelabs.com": {
@@ -37685,8 +37685,8 @@
         "state": "future"
     },
     "etargetnet.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "etcanada.com": {
@@ -43450,8 +43450,8 @@
         "state": "future"
     },
     "fresh8.co": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "freshbooks.com": {
@@ -45090,9 +45090,9 @@
         "state": "future"
     },
     "game-clicks.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
-        "state": "past"
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
     },
     "game-debate.com": {
         "epoch": 1588118400.0,
@@ -47242,6 +47242,11 @@
     "gledaisport.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "gleebsex.net": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "gleechie.net": {
