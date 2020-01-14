@@ -26112,7 +26112,7 @@
     "completemarkets.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "complex.com": {
         "epoch": 1630454400.0,
@@ -33715,8 +33715,8 @@
         "state": "future"
     },
     "drupalcommerce.org": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "drwfixovzqdcs.com": {
@@ -37470,8 +37470,8 @@
         "state": "future"
     },
     "escortera.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1641945600.0,
+        "expiration_date": "12-jan-2022",
         "state": "future"
     },
     "escortforum.net": {
@@ -42045,8 +42045,8 @@
         "state": "future"
     },
     "focustaiwan.tw": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "focuusing.com": {
@@ -43030,8 +43030,8 @@
         "state": "future"
     },
     "freeads.co.uk": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "freeadult.games": {
@@ -48170,8 +48170,8 @@
         "state": "future"
     },
     "gooprize.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "gooster.co.uk": {
