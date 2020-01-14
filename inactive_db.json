@@ -16639,7 +16639,6 @@
             "promenadd.ru": "INACTIVE",
             "promotionoffer.mobi": "INACTIVE",
             "promotiontrack.mobi": "INACTIVE",
-            "propelllerads.com": "INACTIVE",
             "propranok.com": "INACTIVE",
             "prxio.site": "INACTIVE"
         },
@@ -22367,6 +22366,9 @@
         },
         "1579039887": {
             "mobileoffers-*-download.com": "INVALID"
+        },
+        "1579044551": {
+            "propelllerads.com": "INACTIVE"
         }
     }
 }
