@@ -15830,8 +15830,8 @@
         "state": "future"
     },
     "bestpricewala.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "bestproducts.com": {
@@ -18752,6 +18752,11 @@
     "bqcoenkrlqk.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "bqiovml.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "bqntkevvmkk.com": {
