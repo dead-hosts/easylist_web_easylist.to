@@ -16477,7 +16477,6 @@
             "mlvc4zzw.space": "INACTIVE",
             "mmngte.net": "INACTIVE",
             "mobatory.com": "INACTIVE",
-            "mobileoffers-*-download.com": "INVALID",
             "modelegating.com": "INACTIVE",
             "modificans.com": "INACTIVE"
         },
@@ -22365,6 +22364,9 @@
         },
         "1579034346": {
             "78.140.131.214": "INACTIVE"
+        },
+        "1579039887": {
+            "mobileoffers-*-download.com": "INVALID"
         }
     }
 }
