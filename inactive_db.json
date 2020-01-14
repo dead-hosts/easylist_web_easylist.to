@@ -16400,13 +16400,6 @@
             "aistilierf.com": "INACTIVE",
             "allianrd.net": "INACTIVE"
         },
-        "1578740169": {
-            "www.google.com.eg": "INACTIVE",
-            "www.google.com.fj": "INACTIVE",
-            "www.google.com.gh": "INACTIVE",
-            "www.google.com.gi": "INACTIVE",
-            "www.google.com.jo": "INACTIVE"
-        },
         "1578750610": {
             "indicate.to": "INACTIVE"
         },
@@ -16415,12 +16408,6 @@
         },
         "1578772061": {
             "storage.to": "INACTIVE"
-        },
-        "1578774333": {
-            "cacheserve.*": "INVALID",
-            "online.*": "INVALID",
-            "ox-d.*": "INVALID",
-            "serve.*": "INVALID"
         },
         "1578774334": {
             "prochina.link": "INACTIVE",
@@ -22348,6 +22335,22 @@
         "1578799501": {
             "advatar.to": "INACTIVE",
             "adverteerdirect.nl": "INACTIVE"
+        },
+        "1579033286": {
+            "cacheserve.*": "INVALID",
+            "online.*": "INVALID",
+            "ox-d.*": "INVALID",
+            "serve.*": "INVALID"
+        },
+        "1579033368": {
+            "www.google.it.ao": "INACTIVE",
+            "www.google.jp": "INACTIVE",
+            "www.google.ki": "INACTIVE",
+            "www.google.lk": "INACTIVE"
+        },
+        "1579033369": {
+            "www.google.li": "INACTIVE",
+            "www.google.lt": "INACTIVE"
         }
     }
 }
