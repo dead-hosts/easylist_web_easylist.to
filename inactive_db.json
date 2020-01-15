@@ -17014,8 +17014,6 @@
             "zonplug.com": "INACTIVE"
         },
         "1578782492": {
-            "104.154.": "INVALID",
-            "104.197.": "INVALID",
             "recentphenomenon.com": "INACTIVE",
             "scaryheels.com": "INACTIVE",
             "showgardener.com": "INACTIVE",
@@ -17026,11 +17024,6 @@
             "yygoshopping.com": "INACTIVE"
         },
         "1578782493": {
-            "104.198.": "INVALID",
-            "216.21.": "INVALID",
-            "35.184.": "INVALID",
-            "35.188.": "INVALID",
-            "35.193.": "INVALID",
             "methernary.com": "INACTIVE",
             "nastoverewess.pro": "INACTIVE",
             "niajmtjqexq.co": "INACTIVE",
@@ -17085,7 +17078,6 @@
             "zbwttofskjnc.com": "INACTIVE"
         },
         "1578782498": {
-            "130.211.": "INVALID",
             "vamartin.work": "INACTIVE",
             "whoads.net": "INACTIVE",
             "yellorun.com": "INACTIVE",
@@ -17096,14 +17088,8 @@
         "1578788157": {
             "matchcows.com": "INACTIVE",
             "metapelite.com": "INACTIVE",
-            "mobdisc.net": "INACTIVE",
-            "mobdisc.org": "INACTIVE",
             "mobsoftffree.xyz": "INACTIVE",
-            "mythimna.com": "INACTIVE",
-            "nererut.com": "INACTIVE",
-            "ortonch.com": "INACTIVE",
-            "uncyane.com": "INACTIVE",
-            "zinidge.com": "INACTIVE"
+            "mythimna.com": "INACTIVE"
         },
         "1578788158": {
             "meinooriut3.info": "INACTIVE",
@@ -22374,6 +22360,33 @@
         },
         "1579048674": {
             "v.fwmrm.net": "INACTIVE"
+        },
+        "1579051815": {
+            "104.154.": "INVALID",
+            "104.197.": "INVALID",
+            "104.198.": "INVALID",
+            "130.211.": "INVALID",
+            "216.21.": "INVALID",
+            "35.184.": "INVALID",
+            "35.188.": "INVALID",
+            "35.193.": "INVALID"
+        },
+        "1579051913": {
+            "b568tkqe.bid": "INACTIVE"
+        },
+        "1579051961": {
+            "mobdisc.net": "INACTIVE",
+            "mobdisc.org": "INACTIVE"
+        },
+        "1579051962": {
+            "nererut.com": "INACTIVE",
+            "ortonch.com": "INACTIVE"
+        },
+        "1579051968": {
+            "uncyane.com": "INACTIVE"
+        },
+        "1579051969": {
+            "zinidge.com": "INACTIVE"
         }
     }
 }
