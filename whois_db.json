@@ -127594,6 +127594,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "wvbdtcyhgwy.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
     "wvbr.com": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
@@ -128649,6 +128654,11 @@
         "expiration_date": "03-jul-2019",
         "state": "past"
     },
+    "xfylqszlowu.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "xgaming.com": {
         "epoch": 1713398400,
         "expiration_date": "18-apr-2024",
@@ -128817,7 +128827,7 @@
     "xilnalycptredw.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ximagehost.org": {
         "epoch": 1593993600,
@@ -130172,6 +130182,11 @@
     "xzcdzfkwk.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "xzdlleawpx.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "xzfswipynyuj.com": {
