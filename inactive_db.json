@@ -16805,9 +16805,7 @@
         },
         "1578781113": {
             "spondenced.com": "INACTIVE",
-            "squartedo.info": "INACTIVE",
-            "ucoxa.work": "INACTIVE",
-            "uharded.com": "INACTIVE"
+            "squartedo.info": "INACTIVE"
         },
         "1578782474": {
             "tgmnstr.com": "INACTIVE",
@@ -17464,87 +17462,15 @@
             "mozefakt.com": "INACTIVE",
             "muligov.com": "INACTIVE"
         },
-        "1578792567": {
-            "roritabo.com": "INACTIVE",
-            "rotibald.com": "INACTIVE",
-            "shulhanafuh.com": "INACTIVE",
-            "susitasita.com": "INACTIVE",
-            "tikodala.com": "INACTIVE",
-            "unidati.com": "INACTIVE",
-            "vkafirac.com": "INACTIVE",
-            "volimole.com": "INACTIVE"
-        },
         "1578792568": {
-            "cdaz.ciu": "INVALID",
-            "kzexkhstcng.com": "INACTIVE",
-            "yorilada.com": "INACTIVE"
+            "kzexkhstcng.com": "INACTIVE"
         },
         "1578792697": {
             "goldcoastbulletin.com.au": "INACTIVE"
         },
         "1578793387": {
             "marticula.com": "INACTIVE",
-            "mdtrack.click": "INACTIVE",
-            "nadstive.com": "INACTIVE",
-            "nturveev.com": "INACTIVE",
-            "o8q80l1z.top": "INACTIVE",
-            "offertrk.info": "INACTIVE",
-            "open-downloads.net": "INACTIVE",
-            "outdm.tmslinks.info": "INACTIVE"
-        },
-        "1578793388": {
-            "patiencepls.com": "INACTIVE",
-            "pipaoffers.com": "INACTIVE",
-            "popsuperbbrands.com": "INACTIVE",
-            "print3.info": "INACTIVE",
-            "putrr11.com": "INACTIVE",
-            "quierest.com": "INACTIVE",
-            "refpamsj.xyz": "INACTIVE",
-            "rehok.km.ua": "INACTIVE",
-            "rencontreanna.com": "INACTIVE",
-            "retkow.com": "INACTIVE"
-        },
-        "1578793389": {
-            "rm-tracker.com": "INACTIVE",
-            "rtrdan1.com": "INACTIVE",
-            "rubikon6.if.ua": "INACTIVE",
-            "sectivity.mobi": "INACTIVE",
-            "servingclks.com": "INACTIVE",
-            "simpleinternetupdate.com": "INACTIVE",
-            "singleicejo.link": "INACTIVE",
-            "softwarepiset.com": "INACTIVE",
-            "solidayw.info": "INACTIVE",
-            "statstrackeronline.com": "INACTIVE",
-            "suddership.com": "INACTIVE"
-        },
-        "1578793390": {
-            "surveystope.com": "INACTIVE",
-            "the-consumer-reporter.org": "INACTIVE",
-            "torrentcacher.info": "INACTIVE",
-            "tracker*.bingohall.ag": "INVALID",
-            "tracker*.richcasino.com": "INVALID",
-            "tracking.sportsbet.": "INVALID",
-            "trktrk017.com": "INACTIVE",
-            "trktrk029.com": "INACTIVE",
-            "trktrk047.com": "INACTIVE",
-            "ucontrate.com": "INACTIVE"
-        },
-        "1578793391": {
-            "142.91.": "INVALID",
-            "173.245.86.115": "INACTIVE",
-            "216.21.13.": "INVALID",
-            "ttdaz.xyz": "INACTIVE",
-            "vacroz.xyz": "INACTIVE",
-            "versionall.net": "INACTIVE",
-            "worldrewardcenter.net": "INACTIVE",
-            "wrigginger.info": "INACTIVE",
-            "wzus1.ask.com": "INACTIVE",
-            "zindas.info": "INACTIVE",
-            "zonearmour4u.link": "INACTIVE"
-        },
-        "1578793392": {
-            "195.228.74.26": "INACTIVE",
-            "85.17.210.202": "INACTIVE"
+            "mdtrack.click": "INACTIVE"
         },
         "1578794396": {
             "magical-sky.com": "INACTIVE",
@@ -23674,6 +23600,153 @@
         "1579075800": {
             "quavomi.com": "INACTIVE",
             "rapigoy.com": "INACTIVE"
+        },
+        "1579077510": {
+            "roritabo.com": "INACTIVE",
+            "rotibald.com": "INACTIVE"
+        },
+        "1579077511": {
+            "shulhanafuh.com": "INACTIVE",
+            "susitasita.com": "INACTIVE"
+        },
+        "1579077512": {
+            "tikodala.com": "INACTIVE"
+        },
+        "1579077515": {
+            "unidati.com": "INACTIVE"
+        },
+        "1579077517": {
+            "vkafirac.com": "INACTIVE",
+            "volimole.com": "INACTIVE"
+        },
+        "1579077518": {
+            "yorilada.com": "INACTIVE"
+        },
+        "1579077558": {
+            "cdaz.ciu": "INVALID"
+        },
+        "1579077580": {
+            "gtrck.pw": "INACTIVE"
+        },
+        "1579077599": {
+            "nadstive.com": "INACTIVE"
+        },
+        "1579077602": {
+            "nturveev.com": "INACTIVE",
+            "o8q80l1z.top": "INACTIVE"
+        },
+        "1579077603": {
+            "offertrk.info": "INACTIVE"
+        },
+        "1579077605": {
+            "open-downloads.net": "INACTIVE"
+        },
+        "1579077606": {
+            "outdm.tmslinks.info": "INACTIVE"
+        },
+        "1579077607": {
+            "patiencepls.com": "INACTIVE"
+        },
+        "1579077609": {
+            "pipaoffers.com": "INACTIVE"
+        },
+        "1579077610": {
+            "popsuperbbrands.com": "INACTIVE"
+        },
+        "1579077612": {
+            "print3.info": "INACTIVE"
+        },
+        "1579077614": {
+            "putrr11.com": "INACTIVE"
+        },
+        "1579077616": {
+            "quierest.com": "INACTIVE"
+        },
+        "1579077618": {
+            "refpamsj.xyz": "INACTIVE",
+            "rehok.km.ua": "INACTIVE",
+            "rencontreanna.com": "INACTIVE",
+            "retkow.com": "INACTIVE"
+        },
+        "1579077619": {
+            "rm-tracker.com": "INACTIVE",
+            "rtrdan1.com": "INACTIVE"
+        },
+        "1579077620": {
+            "rubikon6.if.ua": "INACTIVE"
+        },
+        "1579077621": {
+            "sectivity.mobi": "INACTIVE"
+        },
+        "1579077622": {
+            "servingclks.com": "INACTIVE"
+        },
+        "1579077623": {
+            "simpleinternetupdate.com": "INACTIVE",
+            "singleicejo.link": "INACTIVE"
+        },
+        "1579077625": {
+            "softwarepiset.com": "INACTIVE",
+            "solidayw.info": "INACTIVE"
+        },
+        "1579077626": {
+            "statstrackeronline.com": "INACTIVE"
+        },
+        "1579077627": {
+            "suddership.com": "INACTIVE",
+            "surveystope.com": "INACTIVE"
+        },
+        "1579077629": {
+            "the-consumer-reporter.org": "INACTIVE"
+        },
+        "1579077632": {
+            "torrentcacher.info": "INACTIVE",
+            "tracker*.bingohall.ag": "INVALID",
+            "tracker*.richcasino.com": "INVALID"
+        },
+        "1579077633": {
+            "tracking.sportsbet.": "INVALID"
+        },
+        "1579077635": {
+            "trktrk017.com": "INACTIVE",
+            "trktrk029.com": "INACTIVE",
+            "trktrk047.com": "INACTIVE"
+        },
+        "1579077636": {
+            "ttdaz.xyz": "INACTIVE"
+        },
+        "1579077637": {
+            "ucontrate.com": "INACTIVE",
+            "ucoxa.work": "INACTIVE",
+            "uharded.com": "INACTIVE"
+        },
+        "1579077639": {
+            "vacroz.xyz": "INACTIVE",
+            "versionall.net": "INACTIVE"
+        },
+        "1579077644": {
+            "worldrewardcenter.net": "INACTIVE",
+            "wrigginger.info": "INACTIVE"
+        },
+        "1579077645": {
+            "wzus1.ask.com": "INACTIVE"
+        },
+        "1579077646": {
+            "zonearmour4u.link": "INACTIVE"
+        },
+        "1579077647": {
+            "142.91.": "INVALID",
+            "216.21.13.": "INVALID",
+            "zindas.info": "INACTIVE"
+        },
+        "1579077648": {
+            "173.245.86.115": "INACTIVE"
+        },
+        "1579077649": {
+            "195.228.74.26": "INACTIVE"
+        },
+        "1579077654": {
+            "85.17.210.202": "INACTIVE"
         }
     }
 }
