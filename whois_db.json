@@ -44305,8 +44305,8 @@
         "state": "future"
     },
     "furaffinity.net": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1673740800.0,
+        "expiration_date": "15-jan-2023",
         "state": "future"
     },
     "furiousfanboys.com": {
@@ -80520,8 +80520,8 @@
         "state": "future"
     },
     "northeastlifemag.co.uk": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "northeastshooters.com": {
@@ -89962,7 +89962,7 @@
     "premiergospel.org.uk": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "premierleague.com": {
         "epoch": 1626307200.0,
@@ -91810,8 +91810,8 @@
         "state": "future"
     },
     "pushsquare.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "pushtraffic.net": {
@@ -107365,9 +107365,9 @@
         "state": "future"
     },
     "sumodb.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "sumotorrent.sx": {
         "epoch": 1597276800.0,
@@ -108610,8 +108610,8 @@
         "state": "future"
     },
     "tallahassee.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "talonmarks.com": {
@@ -120825,8 +120825,8 @@
         "state": "future"
     },
     "vidstream.io": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "vidstreaming.io": {
