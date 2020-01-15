@@ -17484,19 +17484,11 @@
             "mopilod.com": "INACTIVE",
             "myadultbanners.com": "INACTIVE"
         },
-        "1578794404": {
-            "caw.*.criteo.com": "INVALID"
-        },
         "1578795342": {
-            "get.*.website": "INVALID",
-            "iad-*.blaze.com": "INVALID",
-            "images.*.criteo.net": "INVALID",
             "mads.aol.com": "INACTIVE",
-            "marinejobs.gr": "INACTIVE",
-            "maximainvest.net": "INACTIVE"
+            "marinejobs.gr": "INACTIVE"
         },
         "1578795343": {
-            "mb-hostservice.de": "INACTIVE",
             "mbid.advance.net": "INACTIVE",
             "mediaserver.digitec.ch": "INACTIVE",
             "megalivestream.net": "INACTIVE",
@@ -23844,6 +23836,22 @@
         },
         "1579081087": {
             "cas.*.criteo.com": "INVALID"
+        },
+        "1579082134": {
+            "caw.*.criteo.com": "INVALID"
+        },
+        "1579082188": {
+            "get.*.website": "INVALID"
+        },
+        "1579082207": {
+            "iad-*.blaze.com": "INVALID"
+        },
+        "1579082209": {
+            "images.*.criteo.net": "INVALID"
+        },
+        "1579082234": {
+            "maximainvest.net": "INACTIVE",
+            "mb-hostservice.de": "INACTIVE"
         }
     }
 }
