@@ -17506,76 +17506,15 @@
         "1578795399": {
             "directory.im": "INACTIVE"
         },
-        "1578796212": {
-            "vendor1.fitschigogerl.com": "INACTIVE",
-            "veospot.com": "INACTIVE"
-        },
-        "1578796213": {
-            "vix.*.criteo.net": "INVALID",
-            "wealthyrush.com": "INACTIVE",
-            "web-jp.ad-v.jp": "INACTIVE",
-            "widget.kelkoo.com": "INACTIVE",
-            "widget.raaze.com": "INACTIVE",
-            "widget.scoutpa.com": "INACTIVE",
-            "wrapper.ign.com": "INACTIVE",
-            "ws.amazon.*": "INVALID",
-            "wtpn.twenga.co.uk": "INACTIVE",
-            "yieldmanager.edgesuite.net": "INACTIVE"
-        },
         "1578796214": {
-            "eroticmix.blogspot.": "INVALID",
             "market.space": "INACTIVE",
-            "myvpn.review": "INACTIVE",
-            "noowmedia.com": "INACTIVE",
-            "promo.xcasino.com": "INACTIVE",
-            "secure.komli.com": "INACTIVE",
-            "tracker.lotto365.com": "INACTIVE",
-            "wtpn.twenga.de": "INACTIVE",
-            "zeus.qj.net": "INACTIVE",
-            "zeusfiles.com": "INACTIVE",
-            "zmh.zope.net": "INACTIVE"
-        },
-        "1578796215": {
-            "193.34.134.18": "INACTIVE",
-            "193.34.134.74": "INACTIVE",
-            "204.140.25.247": "INACTIVE",
-            "213.174.130.10": "INACTIVE",
-            "213.174.130.8": "INACTIVE",
-            "unlimited-tv.show": "INACTIVE",
-            "upbcd.info": "INACTIVE",
-            "wealth-at-home-millions.com": "INACTIVE",
-            "with-binaryoption.com": "INACTIVE"
-        },
-        "1578796216": {
-            "213.174.130.9": "INACTIVE",
-            "213.174.140.76": "INACTIVE",
-            "79.120.183.166": "INACTIVE",
-            "88.208.23.": "INVALID",
-            "88.85.77.94": "INACTIVE",
-            "91.83.237.41": "INACTIVE"
-        },
-        "1578796217": {
-            "78.140.130.91": "INACTIVE",
-            "tripadvisor.*": "INVALID"
+            "myvpn.review": "INACTIVE"
         },
         "1578797066": {
-            "banners*.spacash.com": "INVALID",
             "megacash.warpnet.com.br": "INACTIVE",
-            "ms.wsex.com": "INACTIVE",
-            "odnidoma.com": "INACTIVE",
-            "partners.heart2heartnetwork.": "INVALID",
-            "private.camz.": "INVALID"
+            "ms.wsex.com": "INACTIVE"
         },
         "1578797067": {
-            "porn2blog.com": "INACTIVE",
-            "promo1.webcams.nl": "INACTIVE",
-            "resimler.randevum.com": "INACTIVE",
-            "ruleclaim.web.fc2.com": "INACTIVE",
-            "s1magnettvcom.maynemyltf.netdna-cdn.com": "INACTIVE",
-            "server140.com": "INACTIVE",
-            "sextronix.*.cdnaccess.com": "INVALID",
-            "sponsor4cash.de": "INACTIVE",
-            "surv.xbizmedia.com": "INACTIVE",
             "thumbs.sunporno.com": "INACTIVE"
         },
         "1578797068": {
@@ -23920,6 +23859,125 @@
         },
         "1579083589": {
             "usenet.pw": "INACTIVE"
+        },
+        "1579086346": {
+            "vendor1.fitschigogerl.com": "INACTIVE",
+            "veospot.com": "INACTIVE"
+        },
+        "1579086351": {
+            "vix.*.criteo.net": "INVALID"
+        },
+        "1579086354": {
+            "wealthyrush.com": "INACTIVE"
+        },
+        "1579086355": {
+            "web-jp.ad-v.jp": "INACTIVE"
+        },
+        "1579086356": {
+            "widget.kelkoo.com": "INACTIVE"
+        },
+        "1579086357": {
+            "widget.raaze.com": "INACTIVE",
+            "widget.scoutpa.com": "INACTIVE"
+        },
+        "1579086361": {
+            "wrapper.ign.com": "INACTIVE"
+        },
+        "1579086362": {
+            "ws.amazon.*": "INVALID",
+            "wtpn.twenga.co.uk": "INACTIVE",
+            "wtpn.twenga.de": "INACTIVE"
+        },
+        "1579086364": {
+            "yieldmanager.edgesuite.net": "INACTIVE"
+        },
+        "1579086368": {
+            "zeus.qj.net": "INACTIVE",
+            "zeusfiles.com": "INACTIVE"
+        },
+        "1579086370": {
+            "zmh.zope.net": "INACTIVE"
+        },
+        "1579086375": {
+            "eroticmix.blogspot.": "INVALID"
+        },
+        "1579086381": {
+            "noowmedia.com": "INACTIVE"
+        },
+        "1579086382": {
+            "promo.xcasino.com": "INACTIVE"
+        },
+        "1579086384": {
+            "secure.komli.com": "INACTIVE"
+        },
+        "1579086387": {
+            "tracker.lotto365.com": "INACTIVE",
+            "tripadvisor.*": "INVALID"
+        },
+        "1579086388": {
+            "unlimited-tv.show": "INACTIVE",
+            "upbcd.info": "INACTIVE"
+        },
+        "1579086389": {
+            "wealth-at-home-millions.com": "INACTIVE",
+            "with-binaryoption.com": "INACTIVE"
+        },
+        "1579086390": {
+            "193.34.134.18": "INACTIVE",
+            "193.34.134.74": "INACTIVE",
+            "204.140.25.247": "INACTIVE",
+            "213.174.130.10": "INACTIVE",
+            "213.174.130.8": "INACTIVE",
+            "213.174.130.9": "INACTIVE"
+        },
+        "1579086391": {
+            "213.174.140.76": "INACTIVE",
+            "78.140.130.91": "INACTIVE",
+            "79.120.183.166": "INACTIVE",
+            "88.208.23.": "INVALID",
+            "88.85.77.94": "INACTIVE"
+        },
+        "1579086392": {
+            "91.83.237.41": "INACTIVE",
+            "ad.traffmonster.info": "INACTIVE"
+        },
+        "1579086397": {
+            "banners*.spacash.com": "INVALID"
+        },
+        "1579086411": {
+            "geobanner.socialflirt.com": "INACTIVE"
+        },
+        "1579086425": {
+            "odnidoma.com": "INACTIVE"
+        },
+        "1579086426": {
+            "partners.heart2heartnetwork.": "INVALID"
+        },
+        "1579086427": {
+            "porn2blog.com": "INACTIVE"
+        },
+        "1579086429": {
+            "private.camz.": "INVALID"
+        },
+        "1579086430": {
+            "promo1.webcams.nl": "INACTIVE"
+        },
+        "1579086433": {
+            "resimler.randevum.com": "INACTIVE"
+        },
+        "1579086434": {
+            "ruleclaim.web.fc2.com": "INACTIVE",
+            "s1magnettvcom.maynemyltf.netdna-cdn.com": "INACTIVE"
+        },
+        "1579086436": {
+            "server140.com": "INACTIVE",
+            "sextronix.*.cdnaccess.com": "INVALID"
+        },
+        "1579086441": {
+            "sponsor4cash.de": "INACTIVE"
+        },
+        "1579086442": {
+            "surv.xbizmedia.com": "INACTIVE"
         }
     }
 }
