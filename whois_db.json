@@ -19539,6 +19539,11 @@
         "expiration_date": "11-jun-2028",
         "state": "future"
     },
+    "btdb.io": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "btdigg.org": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -26645,8 +26650,8 @@
         "state": "future"
     },
     "cookinggames.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "cookinglight.com": {
@@ -28047,6 +28052,11 @@
     "cryptoarticles.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "cryptocompare.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "cryptoinfinity.com": {
@@ -53215,8 +53225,8 @@
         "state": "future"
     },
     "hothardware.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "hothta.com": {
@@ -99964,6 +99974,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "scalemates.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "scam.com": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -110602,7 +110617,7 @@
     "thecarconnection.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "thecatholicdirectory.com": {
         "epoch": 1598918400.0,
@@ -111985,8 +112000,8 @@
         "state": "future"
     },
     "thesudburystar.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "thesun.co.uk": {
