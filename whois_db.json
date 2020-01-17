@@ -104492,7 +104492,7 @@
     "socialbirth.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "socialblade.com": {
         "epoch": 1833580800.0,
@@ -104557,6 +104557,11 @@
     "socialspark.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "societingna.info": {
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
         "state": "future"
     },
     "society6.com": {
@@ -104775,8 +104780,8 @@
         "state": "future"
     },
     "solihullah.info": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "solihullobserver.co.uk": {
@@ -111549,6 +111554,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "themoneytizer.com": {
+        "epoch": 1667001600.0,
+        "expiration_date": "29-oct-2022",
+        "state": "future"
+    },
     "themonitor.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -115245,8 +115255,8 @@
         "state": "future"
     },
     "travelscream.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "travelstool.com": {
@@ -118589,6 +118599,11 @@
         "expiration_date": "17-nov-2028",
         "state": "future"
     },
+    "upsaibou.net": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "upsales.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -119637,6 +119652,11 @@
     "vaftkcyzqg.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "vagwyn.pw": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "vaildaily.com": {
