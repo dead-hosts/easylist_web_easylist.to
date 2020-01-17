@@ -74585,9 +74585,9 @@
         "state": "future"
     },
     "monditomasks.co": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "mondomedia.com": {
         "epoch": 1630886400.0,
@@ -97925,9 +97925,9 @@
         "state": "future"
     },
     "romeoforum.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "romereports.com": {
         "epoch": 1596067200.0,
@@ -121684,6 +121684,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "vltwox7zl7h1wv.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "vlwdjmvhf.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
@@ -123310,8 +123315,8 @@
         "state": "future"
     },
     "waploft.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "wapoawoo.net": {
@@ -124582,7 +124587,7 @@
     "webseeds.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "webshots.com": {
         "epoch": 1658188800.0,
@@ -128305,8 +128310,8 @@
         "state": "future"
     },
     "x4300tiz.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "x64bitdownload.com": {
