@@ -129,6 +129,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "0azx1.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "0b6e714203b6797e8d4.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -1585,8 +1590,8 @@
         "state": "future"
     },
     "3dmark.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1642291200.0,
+        "expiration_date": "16-jan-2022",
         "state": "future"
     },
     "3dots.co.il": {
@@ -16050,8 +16055,8 @@
         "state": "future"
     },
     "betwonga.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "beverlyhillsmagazine.com": {
@@ -26170,9 +26175,9 @@
         "state": "future"
     },
     "completemarkets.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "complex.com": {
         "epoch": 1630454400.0,
@@ -38090,8 +38095,8 @@
         "state": "future"
     },
     "euspert.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "eutdrjvsrmav.com": {
@@ -57850,8 +57855,8 @@
         "state": "future"
     },
     "intomobile.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "intopicmedia.com": {
@@ -93582,7 +93587,7 @@
     "quebarato.com.br": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "quebeccitygasprices.com": {
         "epoch": 1601164800.0,
@@ -107590,8 +107595,8 @@
         "state": "future"
     },
     "supersonicads.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "supersport.co.za": {
