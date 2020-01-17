@@ -2984,6 +2984,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "7t15ny0f4f.top": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "7tutorials.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -2997,6 +3002,11 @@
     "7vws1j1j.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "7wtic7ru.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "800d24d61daea3c.com": {
@@ -5610,9 +5620,9 @@
         "state": "future"
     },
     "adhitzads.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "adhoc2.net": {
         "epoch": 1603065600.0,
@@ -6015,9 +6025,9 @@
         "state": "future"
     },
     "admaza.in": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "admeasures.com": {
         "epoch": 1573516800,
@@ -7060,8 +7070,8 @@
         "state": "future"
     },
     "adsovo.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "adsp.com": {
@@ -7275,8 +7285,8 @@
         "state": "future"
     },
     "adtdp.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "adtear.com": {
@@ -7795,8 +7805,8 @@
         "state": "future"
     },
     "advertiseyourgame.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "advertising365.com": {
