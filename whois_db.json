@@ -68509,6 +68509,11 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "logystowtencon.info": {
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "state": "future"
+    },
     "lohappbnrpgypu.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
@@ -69450,8 +69455,8 @@
         "state": "future"
     },
     "luxup.ru": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "luxup2.ru": {
@@ -70132,6 +70137,11 @@
     "madcatz.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "madcpms.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "made-in-china.com": {
@@ -71235,8 +71245,8 @@
         "state": "future"
     },
     "matiro.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "matrimoniale3x.ro": {
@@ -77914,6 +77924,11 @@
         "expiration_date": "28-mar-2029",
         "state": "future"
     },
+    "nauthoun.net": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "navaxudoru.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
@@ -81095,8 +81110,8 @@
         "state": "future"
     },
     "nscontext.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "nscreenmedia.com": {
@@ -83224,6 +83239,11 @@
         "expiration_date": "02-sep-2021",
         "state": "future"
     },
+    "ommunalspound.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "omni-ads.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -84279,6 +84299,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "osny2p7a0k.com": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "osobnosti.cz": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -85102,6 +85127,16 @@
     "padsdelivery.com": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "padsips.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "padsokz.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "padssup.com": {
