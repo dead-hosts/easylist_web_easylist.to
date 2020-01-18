@@ -17207,73 +17207,7 @@
         "1579080998": {
             "zinzimo.info": "INACTIVE"
         },
-        "1579082188": {
-            "get.*.website": "INVALID"
-        },
-        "1579082207": {
-            "iad-*.blaze.com": "INVALID"
-        },
-        "1579082209": {
-            "images.*.criteo.net": "INVALID"
-        },
-        "1579082234": {
-            "maximainvest.net": "INACTIVE",
-            "mb-hostservice.de": "INACTIVE"
-        },
-        "1579083510": {
-            "nanobrokers.com": "INACTIVE",
-            "nanoinvestgroup.com": "INACTIVE"
-        },
-        "1579083512": {
-            "network.business.com": "INACTIVE"
-        },
-        "1579083513": {
-            "nexage.advertising.com": "INACTIVE"
-        },
-        "1579083515": {
-            "nude.mk": "INACTIVE"
-        },
-        "1579083516": {
-            "odin.goo.mx": "INACTIVE",
-            "offers-service.cbsinteractive.com": "INACTIVE"
-        },
-        "1579083521": {
-            "pan.dogster.com": "INACTIVE",
-            "partner.alloy.com": "INACTIVE",
-            "partner.catchy.com": "INACTIVE",
-            "partners.fshealth.com": "INACTIVE",
-            "partners.vouchedfor.co.uk": "INACTIVE"
-        },
-        "1579083522": {
-            "partners.sportingbet.com.au": "INACTIVE"
-        },
-        "1579083525": {
-            "playata.myvideo.de": "INACTIVE"
-        },
-        "1579083526": {
-            "playfooty.tv": "INACTIVE"
-        },
-        "1579083531": {
-            "popeoftheplayers.eu": "INACTIVE"
-        },
-        "1579083537": {
-            "pub.betclick.com": "INACTIVE"
-        },
-        "1579083538": {
-            "quickflix*.gridserver.com": "INVALID"
-        },
-        "1579083539": {
-            "radiocentre.ca": "INACTIVE"
-        },
-        "1579083541": {
-            "rapidjazz.com": "INACTIVE",
-            "rcm*.amazon.": "INVALID"
-        },
-        "1579083542": {
-            "rdi.*.criteo.com": "INVALID"
-        },
         "1579083544": {
-            "resources.heavenmedia.net": "INACTIVE",
             "richmedia.yahoo.com": "INACTIVE"
         },
         "1579083545": {
@@ -24067,6 +24001,70 @@
         },
         "1579335891": {
             "caw.*.criteo.com": "INVALID"
+        },
+        "1579337323": {
+            "get.*.website": "INVALID"
+        },
+        "1579337342": {
+            "iad-*.blaze.com": "INVALID"
+        },
+        "1579337344": {
+            "images.*.criteo.net": "INVALID"
+        },
+        "1579337368": {
+            "maximainvest.net": "INACTIVE",
+            "mb-hostservice.de": "INACTIVE"
+        },
+        "1579337381": {
+            "nanobrokers.com": "INACTIVE",
+            "nanoinvestgroup.com": "INACTIVE"
+        },
+        "1579337384": {
+            "network.business.com": "INACTIVE",
+            "nexage.advertising.com": "INACTIVE"
+        },
+        "1579337386": {
+            "nude.mk": "INACTIVE"
+        },
+        "1579337387": {
+            "odin.goo.mx": "INACTIVE"
+        },
+        "1579337388": {
+            "offers-service.cbsinteractive.com": "INACTIVE"
+        },
+        "1579337392": {
+            "pan.dogster.com": "INACTIVE",
+            "partner.alloy.com": "INACTIVE"
+        },
+        "1579337393": {
+            "partner.catchy.com": "INACTIVE",
+            "partners.fshealth.com": "INACTIVE",
+            "partners.sportingbet.com.au": "INACTIVE",
+            "partners.vouchedfor.co.uk": "INACTIVE"
+        },
+        "1579337397": {
+            "playata.myvideo.de": "INACTIVE",
+            "playfooty.tv": "INACTIVE"
+        },
+        "1579337402": {
+            "popeoftheplayers.eu": "INACTIVE"
+        },
+        "1579337408": {
+            "pub.betclick.com": "INACTIVE"
+        },
+        "1579337409": {
+            "quickflix*.gridserver.com": "INVALID"
+        },
+        "1579337411": {
+            "radiocentre.ca": "INACTIVE"
+        },
+        "1579337413": {
+            "rapidjazz.com": "INACTIVE",
+            "rcm*.amazon.": "INVALID",
+            "rdi.*.criteo.com": "INVALID"
+        },
+        "1579337416": {
+            "resources.heavenmedia.net": "INACTIVE"
         }
     }
 }
