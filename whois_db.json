@@ -31655,8 +31655,8 @@
         "state": "future"
     },
     "digitimes.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1863388800.0,
+        "expiration_date": "18-jan-2029",
         "state": "future"
     },
     "digitizor.com": {
@@ -48735,8 +48735,8 @@
         "state": "future"
     },
     "goworkabroad.co.uk": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1642464000.0,
+        "expiration_date": "18-jan-2022",
         "state": "future"
     },
     "gp2series.com": {
@@ -70595,9 +70595,9 @@
         "state": "future"
     },
     "makeprojects.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "makers.com": {
         "epoch": 1640822400.0,
@@ -73585,8 +73585,8 @@
         "state": "future"
     },
     "mindspark.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1642464000.0,
+        "expiration_date": "18-jan-2022",
         "state": "future"
     },
     "minecraftforge.net": {
