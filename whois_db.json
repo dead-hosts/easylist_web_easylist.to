@@ -37645,8 +37645,8 @@
         "state": "future"
     },
     "escortbook.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1737158400.0,
+        "expiration_date": "18-jan-2025",
         "state": "future"
     },
     "escortera.com": {
@@ -45880,8 +45880,8 @@
         "state": "future"
     },
     "gasgoo.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1737158400.0,
+        "expiration_date": "18-jan-2025",
         "state": "future"
     },
     "gatewayinterface.com": {
@@ -65570,8 +65570,8 @@
         "state": "future"
     },
     "lacyx.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "ladbrokes.com": {
@@ -121330,9 +121330,9 @@
         "state": "future"
     },
     "vidz.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "vidz7.pro": {
         "epoch": 1585440000.0,
