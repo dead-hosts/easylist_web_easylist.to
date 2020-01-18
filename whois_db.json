@@ -128359,6 +128359,11 @@
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "wxrotkricj.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
     "wxtrzeizpnp.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
@@ -128807,6 +128812,11 @@
     "xboxdvr.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "xbrfevoe.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "xbtpmwjwsjn.com": {
@@ -129375,9 +129385,9 @@
         "state": "future"
     },
     "xilnalycptredw.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "ximagehost.org": {
         "epoch": 1593993600,
