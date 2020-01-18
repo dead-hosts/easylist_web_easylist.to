@@ -13020,8 +13020,8 @@
         "state": "future"
     },
     "audiobookabb.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "audiofanzine.com": {
@@ -70610,9 +70610,9 @@
         "state": "future"
     },
     "makezine.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "makkuqiavqx.com": {
         "epoch": 1595376000.0,
@@ -120045,8 +120045,8 @@
         "state": "future"
     },
     "valuewalk.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "vanburencountydem.com": {
@@ -125760,8 +125760,8 @@
         "state": "future"
     },
     "wheels.ca": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "wheels24.co.za": {
@@ -131407,7 +131407,7 @@
     "yeyeboyz.net": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "yfdrpdjbxjm.com": {
         "epoch": 1609632000.0,
