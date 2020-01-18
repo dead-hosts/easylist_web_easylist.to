@@ -9835,8 +9835,8 @@
         "state": "future"
     },
     "alfatraffic.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "alfynetwork.com": {
@@ -30517,7 +30517,7 @@
     "deecash.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "deepintent.com": {
         "epoch": 1642032000.0,
@@ -56435,13 +56435,13 @@
         "state": "future"
     },
     "imglnka.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "imglnkb.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "imglnkc.com": {
@@ -77397,7 +77397,7 @@
     "myusersoffer.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "myvads.com": {
         "epoch": 1585353600.0,
@@ -115220,8 +115220,8 @@
         "state": "future"
     },
     "trafficdelivery1.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "trafficfabrik.com": {
