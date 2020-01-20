@@ -19982,35 +19982,11 @@
             "viewrtb.com": "INACTIVE",
             "vktr073.net": "INACTIVE"
         },
-        "1579338322": {
-            "socialorganicleads.com": "INACTIVE"
-        },
-        "1579338323": {
-            "sponsorandwin.com": "INACTIVE"
-        },
-        "1579338324": {
-            "srvv.co": "INACTIVE"
-        },
-        "1579338325": {
-            "ssshoesss.ro": "INACTIVE"
-        },
-        "1579338326": {
-            "static.*.criteo.net": "INVALID",
-            "static.multiplayuk.com": "INACTIVE",
-            "stopadblock.info": "INACTIVE"
-        },
-        "1579338332": {
-            "syndication1.viraladnetwork.net": "INACTIVE"
-        },
         "1579338335": {
             "themes420.com": "INACTIVE"
         },
         "1579338337": {
             "thirdpartycdn.lumovies.com": "INACTIVE"
-        },
-        "1579338338": {
-            "tipico.*": "INVALID",
-            "tipico.*?affiliateId=": "INVALID"
         },
         "1579338339": {
             "tmstorage.com": "INACTIVE",
@@ -20033,81 +20009,12 @@
             "vendor1.fitschigogerl.com": "INACTIVE",
             "veospot.com": "INACTIVE"
         },
-        "1579338357": {
-            "vix.*.criteo.net": "INVALID"
-        },
-        "1579338361": {
-            "wealthyrush.com": "INACTIVE"
-        },
-        "1579338362": {
-            "web-jp.ad-v.jp": "INACTIVE"
-        },
-        "1579338363": {
-            "widget.kelkoo.com": "INACTIVE",
-            "widget.scoutpa.com": "INACTIVE"
-        },
-        "1579338364": {
-            "widget.raaze.com": "INACTIVE"
-        },
-        "1579338368": {
-            "wrapper.ign.com": "INACTIVE",
-            "ws.amazon.*": "INVALID"
-        },
-        "1579338369": {
-            "wtpn.twenga.co.uk": "INACTIVE",
-            "wtpn.twenga.de": "INACTIVE"
-        },
-        "1579338372": {
-            "yieldmanager.edgesuite.net": "INACTIVE"
-        },
-        "1579338382": {
-            "eroticmix.blogspot.": "INVALID"
-        },
-        "1579338388": {
-            "noowmedia.com": "INACTIVE"
-        },
-        "1579338389": {
-            "promo.xcasino.com": "INACTIVE"
-        },
-        "1579338390": {
-            "secure.komli.com": "INACTIVE"
-        },
         "1579338394": {
-            "tracker.lotto365.com": "INACTIVE",
-            "tripadvisor.*": "INVALID"
+            "tracker.lotto365.com": "INACTIVE"
         },
         "1579338395": {
             "unlimited-tv.show": "INACTIVE",
             "upbcd.info": "INACTIVE"
-        },
-        "1579338396": {
-            "wealth-at-home-millions.com": "INACTIVE",
-            "with-binaryoption.com": "INACTIVE"
-        },
-        "1579338397": {
-            "193.34.134.18": "INACTIVE",
-            "193.34.134.74": "INACTIVE",
-            "204.140.25.247": "INACTIVE",
-            "213.174.130.10": "INACTIVE",
-            "213.174.130.8": "INACTIVE",
-            "213.174.130.9": "INACTIVE"
-        },
-        "1579338398": {
-            "213.174.140.76": "INACTIVE",
-            "78.140.130.91": "INACTIVE",
-            "79.120.183.166": "INACTIVE",
-            "88.208.23.": "INVALID"
-        },
-        "1579338399": {
-            "88.85.77.94": "INACTIVE",
-            "91.83.237.41": "INACTIVE",
-            "ad.traffmonster.info": "INACTIVE"
-        },
-        "1579338404": {
-            "banners*.spacash.com": "INVALID"
-        },
-        "1579339509": {
-            "geobanner.socialflirt.com": "INACTIVE"
         },
         "1579339524": {
             "odnidoma.com": "INACTIVE"
@@ -24108,6 +24015,99 @@
             "shows-tv.net": "INACTIVE",
             "sidekickunlock.net": "INACTIVE",
             "sis.amazon.com": "INACTIVE"
+        },
+        "1579551960": {
+            "socialorganicleads.com": "INACTIVE"
+        },
+        "1579551961": {
+            "sponsorandwin.com": "INACTIVE"
+        },
+        "1579551962": {
+            "srvv.co": "INACTIVE"
+        },
+        "1579551963": {
+            "ssshoesss.ro": "INACTIVE"
+        },
+        "1579551964": {
+            "static.*.criteo.net": "INVALID",
+            "static.multiplayuk.com": "INACTIVE",
+            "stopadblock.info": "INACTIVE"
+        },
+        "1579551969": {
+            "syndication1.viraladnetwork.net": "INACTIVE"
+        },
+        "1579551976": {
+            "tipico.*": "INVALID",
+            "tipico.*?affiliateId=": "INVALID"
+        },
+        "1579551994": {
+            "vix.*.criteo.net": "INVALID"
+        },
+        "1579551997": {
+            "wealthyrush.com": "INACTIVE"
+        },
+        "1579551998": {
+            "web-jp.ad-v.jp": "INACTIVE"
+        },
+        "1579551999": {
+            "widget.kelkoo.com": "INACTIVE",
+            "widget.raaze.com": "INACTIVE",
+            "widget.scoutpa.com": "INACTIVE"
+        },
+        "1579552004": {
+            "wrapper.ign.com": "INACTIVE",
+            "ws.amazon.*": "INVALID",
+            "wtpn.twenga.co.uk": "INACTIVE"
+        },
+        "1579552005": {
+            "wtpn.twenga.de": "INACTIVE"
+        },
+        "1579552007": {
+            "yieldmanager.edgesuite.net": "INACTIVE"
+        },
+        "1579552017": {
+            "eroticmix.blogspot.": "INVALID"
+        },
+        "1579552023": {
+            "noowmedia.com": "INACTIVE"
+        },
+        "1579552024": {
+            "promo.xcasino.com": "INACTIVE"
+        },
+        "1579552026": {
+            "secure.komli.com": "INACTIVE"
+        },
+        "1579552030": {
+            "tripadvisor.*": "INVALID"
+        },
+        "1579552031": {
+            "wealth-at-home-millions.com": "INACTIVE"
+        },
+        "1579552032": {
+            "193.34.134.18": "INACTIVE",
+            "193.34.134.74": "INACTIVE",
+            "204.140.25.247": "INACTIVE",
+            "213.174.130.10": "INACTIVE",
+            "213.174.130.8": "INACTIVE",
+            "with-binaryoption.com": "INACTIVE"
+        },
+        "1579552033": {
+            "213.174.130.9": "INACTIVE",
+            "213.174.140.76": "INACTIVE",
+            "78.140.130.91": "INACTIVE"
+        },
+        "1579552034": {
+            "79.120.183.166": "INACTIVE",
+            "88.208.23.": "INVALID",
+            "88.85.77.94": "INACTIVE",
+            "91.83.237.41": "INACTIVE",
+            "ad.traffmonster.info": "INACTIVE"
+        },
+        "1579552039": {
+            "banners*.spacash.com": "INVALID"
+        },
+        "1579552053": {
+            "geobanner.socialflirt.com": "INACTIVE"
         }
     }
 }
