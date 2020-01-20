@@ -19982,18 +19982,6 @@
             "viewrtb.com": "INACTIVE",
             "vktr073.net": "INACTIVE"
         },
-        "1579335858": {
-            "algart.net*_banner_": "INVALID"
-        },
-        "1579335890": {
-            "cas.*.criteo.com": "INVALID"
-        },
-        "1579335891": {
-            "caw.*.criteo.com": "INVALID"
-        },
-        "1579337323": {
-            "get.*.website": "INVALID"
-        },
         "1579337342": {
             "iad-*.blaze.com": "INVALID"
         },
@@ -24118,6 +24106,18 @@
         },
         "1579549099": {
             "96.9.176.245": "INACTIVE"
+        },
+        "1579550150": {
+            "algart.net*_banner_": "INVALID"
+        },
+        "1579550183": {
+            "cas.*.criteo.com": "INVALID"
+        },
+        "1579550184": {
+            "caw.*.criteo.com": "INVALID"
+        },
+        "1579550239": {
+            "get.*.website": "INVALID"
         }
     }
 }
