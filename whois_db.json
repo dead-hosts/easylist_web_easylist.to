@@ -48179,6 +48179,11 @@
         "expiration_date": "02-jan-2022",
         "state": "future"
     },
+    "gofile.io": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "gofish.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -102160,8 +102165,8 @@
         "state": "future"
     },
     "sextoysgfs.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "sextracker.com": {
@@ -106252,6 +106257,11 @@
     "sportsyndicator.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "sportt.space": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "spot.im": {
