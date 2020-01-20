@@ -20859,6 +20859,11 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "cadsoks.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "cadsokz.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -94354,6 +94359,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "qwertytracks.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "qwittqgogiip.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
@@ -98922,6 +98932,11 @@
     "rtpdn10.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "rtpdn11.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "rtqlmwfywl.com": {
@@ -125015,9 +125030,9 @@
         "state": "future"
     },
     "webseeds.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "webshots.com": {
         "epoch": 1658188800.0,
@@ -132837,6 +132852,11 @@
     "ysrjmfaqm.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "ystammedre.info": {
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
         "state": "future"
     },
     "ysyrcnsb.com": {
