@@ -11700,8 +11700,8 @@
         "state": "future"
     },
     "appagg.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "apparede.com": {
@@ -27185,8 +27185,8 @@
         "state": "future"
     },
     "courier-journal.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "courier-tribune.com": {
@@ -30410,8 +30410,8 @@
         "state": "future"
     },
     "dealnews.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "dealplatform.com": {
@@ -35690,8 +35690,8 @@
         "state": "future"
     },
     "ecr.co.za": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "ectaco-store.com": {
@@ -60605,9 +60605,9 @@
         "state": "future"
     },
     "jewishtimes.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "jewishtribune.ca": {
         "epoch": 1576195200,
@@ -75855,8 +75855,8 @@
         "state": "future"
     },
     "mpnnow.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1642550400.0,
+        "expiration_date": "19-jan-2022",
         "state": "future"
     },
     "mpnrs.com": {
@@ -75987,7 +75987,7 @@
     "mrconservative.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mrelko.com": {
         "epoch": 1589760000.0,
@@ -80205,8 +80205,8 @@
         "state": "future"
     },
     "nickmom.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "nickutopia.com": {
@@ -97090,8 +97090,8 @@
         "state": "future"
     },
     "retailgazette.co.uk": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "retailmenot.com": {
@@ -101132,6 +101132,11 @@
     "searchengineland.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "searchenginereports.net": {
+        "epoch": 1692403200.0,
+        "expiration_date": "19-aug-2023",
         "state": "future"
     },
     "searchenginesuggestions.com": {
@@ -112810,8 +112815,8 @@
         "state": "future"
     },
     "thetribunepapers.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "thetrumptimes.com": {
