@@ -2782,22 +2782,22 @@
     "777-partner.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777-partner.net": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777-partners.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777-partners.net": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777a2aceac3ff.com": {
         "epoch": 1592870400.0,
@@ -2812,17 +2812,17 @@
     "777partner.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777partner.net": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777partners.com": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "777seo.com": {
         "epoch": 1598227200.0,
@@ -30555,9 +30555,9 @@
         "state": "future"
     },
     "deecash.com": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "deepintent.com": {
         "epoch": 1642032000.0,
@@ -55160,8 +55160,8 @@
         "state": "future"
     },
     "iceban.su": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "icebns.com": {
@@ -56550,8 +56550,8 @@
         "state": "future"
     },
     "imglnkc.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "imglt.com": {
@@ -69265,8 +69265,8 @@
         "state": "future"
     },
     "lpwre.top": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "lpwzjhkuwbe.com": {
@@ -102905,8 +102905,8 @@
         "state": "future"
     },
     "shiek1ph.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "shieldarcade.com": {
@@ -122752,6 +122752,11 @@
     "vpnfortorrents.best": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "vpnfortorrents.biz": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "vpnfortorrents.cc": {
