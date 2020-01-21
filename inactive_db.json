@@ -20736,12 +20736,6 @@
             "aeghie6dien.info": "INACTIVE",
             "agpnzrmptmos.com": "INACTIVE"
         },
-        "1579517333": {
-            "cacheserve.*": "INVALID",
-            "online.*": "INVALID",
-            "ox-d.*": "INVALID",
-            "serve.*": "INVALID"
-        },
         "1579519932": {
             "coindigger.biz": "INACTIVE"
         },
@@ -24212,6 +24206,15 @@
         },
         "1579600536": {
             "feeds1.validclick.com": "INACTIVE"
+        },
+        "1579604429": {
+            "cacheserve.*": "INVALID",
+            "online.*": "INVALID",
+            "ox-d.*": "INVALID",
+            "serve.*": "INVALID"
+        },
+        "1579604513": {
+            "www.google.gl": "INACTIVE"
         }
     }
 }
