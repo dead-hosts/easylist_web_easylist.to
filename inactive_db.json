@@ -24159,6 +24159,11 @@
             "online.*": "INVALID",
             "ox-d.*": "INVALID",
             "serve.*": "INVALID"
+        },
+        "1579697692": {
+            "www.google.nl": "INACTIVE",
+            "www.google.no": "INACTIVE",
+            "www.google.pn": "INACTIVE"
         }
     }
 }
