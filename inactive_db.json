@@ -24099,13 +24099,6 @@
         "1579561307": {
             "motorcycletrader.co.nz": "INACTIVE"
         },
-        "1579702099": {
-            "www.google.fr": "INACTIVE",
-            "www.google.gl": "INACTIVE",
-            "www.google.hn": "INACTIVE",
-            "www.google.im": "INACTIVE",
-            "www.google.ms": "INACTIVE"
-        },
         "1579710768": {
             "www.google.so": "INACTIVE"
         },
@@ -24159,6 +24152,9 @@
             "online.*": "INVALID",
             "ox-d.*": "INVALID",
             "serve.*": "INVALID"
+        },
+        "1579788917": {
+            "www.google.tg": "INACTIVE"
         }
     }
 }
