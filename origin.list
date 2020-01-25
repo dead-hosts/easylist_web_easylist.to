@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202001252104
+! Version: 202001252127
 ! Title: EasyList
-! Last modified: 25 Jan 2020 21:04 UTC
+! Last modified: 25 Jan 2020 21:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22244,6 +22244,7 @@ _popunder+$popup
 ##.after_comments_ads
 ##.after_post_ad
 ##.afterpostadbox
+##.afw_ad
 ##.agi-adsaleslinks
 ##.agi-adtop
 ##.aisle-ad
@@ -24117,6 +24118,7 @@ _popunder+$popup
 ##.foreign-ad01
 ##.foreign-ad02
 ##.forex_ad_links
+##.fortune-ad-tag__leaderboard
 ##.fortune-ad-unit
 ##.forum-ad
 ##.forum-ad-2
@@ -38298,6 +38300,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fiwatmctnaqec.com^$third-party
 ||fjczvutpucr.com^$third-party
 ||fjeqkpblfb.com^$third-party
+||fjmsdaswvhktht.com^$third-party
 ||fjocjdbo.com^$third-party
 ||fjszsffyfihqlg.com^$third-party
 ||fjwagiuqmeymw.com^$third-party
@@ -39329,6 +39332,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jqrnfkttwfxbcu.com^$third-party
 ||jqsrfzjgn.com^$third-party
 ||jqziltjcuwr.com^$third-party
+||jqzlmjaph.com^$third-party
 ||jractwjn.com^$third-party
 ||jrarnqfvjijaa.com^$third-party
 ||jrecvuklrjpli.com^$third-party
@@ -52781,6 +52785,7 @@ hothardware.com###FillerLeftLink
 hothardware.com###FillerRightLink
 autotrader.co.nz###Island2_2
 autotrader.co.nz###Island_1
+fortune.com###Leaderboard1
 freeiconsdownload.com###LeftBanner
 israelnationalnews.com###LeftInfo
 wetcanvas.com###LinkSpace
