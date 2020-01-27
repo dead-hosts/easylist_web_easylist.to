@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202001270646
+! Version: 202001270753
 ! Title: EasyList
-! Last modified: 27 Jan 2020 06:46 UTC
+! Last modified: 27 Jan 2020 07:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6965,6 +6965,7 @@
 /v7/ads/*
 /v9/adv/*
 /vads/*
+/valuad.
 /valueclick-ad.
 /valueclick.
 /valueclickbanner.
@@ -30658,6 +30659,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||4affiliate.net^$third-party
 ||4b6994dfa47cee4.com^$third-party
 ||4bb6jls06l.com^$third-party
+||4dex.io^$third-party
 ||4dsbanner.net^$third-party
 ||4dsply.com^$third-party
 ||4exlkjnngs.com^$third-party
@@ -34191,6 +34193,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pestrike.com^$third-party
 ||petsoocm.com^$third-party
 ||pezrphjl.com^$third-party
+||pgmcdn.com^$third-party
 ||pgmediaserve.com^$third-party
 ||pgpartner.com^$third-party
 ||pgssl.com^$third-party
@@ -35393,6 +35396,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vadpay.com^$third-party
 ||vagwyn.pw^$third-party
 ||validclick.com^$third-party
+||valuad.cloud^$third-party
 ||valuead.com^$third-party
 ||valueaffiliate.net^$third-party
 ||valueclick.com^$third-party
@@ -37295,6 +37299,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||atzcmddc.com^$third-party
 ||audersmi.com^$third-party
 ||aultemeztokc.com^$third-party
+||aumrrwoile.com^$third-party
 ||auqefmhsutnldv.com^$third-party
 ||aurhgaees.com^$third-party
 ||authmoumrl.com^$third-party
@@ -42272,6 +42277,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rikazsjaezda.bid^$third-party
 ||rimvtigoyajas.com^$third-party
 ||rinukkvp.bid^$third-party
+||riozwajocltca.com^$third-party
 ||risvrteprhufnk.bid^$third-party
 ||ritjefajkl.bid^$third-party
 ||ritvtdtnxkbzb.bid^$third-party
