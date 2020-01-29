@@ -24099,28 +24099,6 @@
         "1579561307": {
             "motorcycletrader.co.nz": "INACTIVE"
         },
-        "1580176774": {
-            "www.google.com.cu": "INACTIVE",
-            "www.google.com.pa": "INACTIVE",
-            "www.google.com.ua": "INACTIVE"
-        },
-        "1580176775": {
-            "www.google.com.ec": "INACTIVE",
-            "www.google.com.gi": "INACTIVE",
-            "www.google.com.ly": "INACTIVE",
-            "www.google.com.pg": "INACTIVE",
-            "www.google.com.pk": "INACTIVE",
-            "www.google.fm": "INACTIVE",
-            "www.google.ge": "INACTIVE",
-            "www.google.gl": "INACTIVE"
-        },
-        "1580176776": {
-            "www.google.com.et": "INACTIVE",
-            "www.google.com.gt": "INACTIVE",
-            "www.google.com.jm": "INACTIVE",
-            "www.google.com.mm": "INACTIVE",
-            "www.google.com.vn": "INACTIVE"
-        },
         "1580180972": {
             "headlinestoday.intoday.in": "INACTIVE"
         },
@@ -24172,6 +24150,9 @@
             "online.*": "INVALID",
             "ox-d.*": "INVALID",
             "serve.*": "INVALID"
+        },
+        "1580265732": {
+            "www.myvpn.pro": "INACTIVE"
         }
     }
 }
