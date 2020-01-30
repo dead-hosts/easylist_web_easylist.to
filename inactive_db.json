@@ -24099,88 +24099,6 @@
         "1579561307": {
             "motorcycletrader.co.nz": "INACTIVE"
         },
-        "1580269778": {
-            "www.google.com.pg": "INACTIVE",
-            "www.google.com.ph": "INACTIVE",
-            "www.google.com.pk": "INACTIVE",
-            "www.google.com.py": "INACTIVE"
-        },
-        "1580269779": {
-            "www.google.com.ng": "INACTIVE",
-            "www.google.com.pe": "INACTIVE",
-            "www.google.com.pr": "INACTIVE",
-            "www.google.com.ru": "INACTIVE",
-            "www.google.com.sa": "INACTIVE",
-            "www.google.com.sg": "INACTIVE",
-            "www.google.com.sv": "INACTIVE",
-            "www.google.com.tj": "INACTIVE",
-            "www.google.com.vn": "INACTIVE",
-            "www.google.cv": "INACTIVE",
-            "www.google.dj": "INACTIVE"
-        },
-        "1580269780": {
-            "www.google.com.tn": "INACTIVE",
-            "www.google.com.tr": "INACTIVE",
-            "www.google.com.tw": "INACTIVE",
-            "www.google.com.ua": "INACTIVE",
-            "www.google.com.uy": "INACTIVE",
-            "www.google.com.vc": "INACTIVE",
-            "www.google.com.ve": "INACTIVE",
-            "www.google.cz": "INACTIVE",
-            "www.google.fm": "INACTIVE",
-            "www.google.gm": "INACTIVE",
-            "www.google.gp": "INACTIVE",
-            "www.google.gr": "INACTIVE"
-        },
-        "1580269781": {
-            "www.google.dk": "INACTIVE",
-            "www.google.dm": "INACTIVE",
-            "www.google.dz": "INACTIVE",
-            "www.google.ee": "INACTIVE",
-            "www.google.es": "INACTIVE",
-            "www.google.fi": "INACTIVE",
-            "www.google.fr": "INACTIVE",
-            "www.google.ga": "INACTIVE",
-            "www.google.ge": "INACTIVE",
-            "www.google.gg": "INACTIVE",
-            "www.google.gl": "INACTIVE",
-            "www.google.jo": "INACTIVE"
-        },
-        "1580269782": {
-            "www.google.gy": "INACTIVE",
-            "www.google.hk": "INACTIVE",
-            "www.google.hn": "INACTIVE",
-            "www.google.hr": "INACTIVE",
-            "www.google.ht": "INACTIVE",
-            "www.google.hu": "INACTIVE",
-            "www.google.ie": "INACTIVE",
-            "www.google.im": "INACTIVE",
-            "www.google.iq": "INACTIVE",
-            "www.google.mv": "INACTIVE",
-            "www.google.ne": "INACTIVE"
-        },
-        "1580269783": {
-            "www.google.is": "INACTIVE",
-            "www.google.it": "INACTIVE",
-            "www.google.je": "INACTIVE",
-            "www.google.kg": "INACTIVE",
-            "www.google.ki": "INACTIVE",
-            "www.google.kz": "INACTIVE",
-            "www.google.la": "INACTIVE",
-            "www.google.lk": "INACTIVE",
-            "www.google.lt": "INACTIVE",
-            "www.google.lu": "INACTIVE",
-            "www.google.nr": "INACTIVE",
-            "www.google.pn": "INACTIVE"
-        },
-        "1580269784": {
-            "www.google.md": "INACTIVE",
-            "www.google.me": "INACTIVE",
-            "www.google.mn": "INACTIVE",
-            "www.google.ms": "INACTIVE",
-            "www.google.mu": "INACTIVE",
-            "www.google.tt": "INACTIVE"
-        },
         "1580273480": {
             "www.downloadplayer1.com": "INACTIVE"
         },
@@ -24260,6 +24178,75 @@
             "online.*": "INVALID",
             "ox-d.*": "INVALID",
             "serve.*": "INVALID"
+        },
+        "1580360168": {
+            "www.google.co.zw": "INACTIVE",
+            "www.google.com.bh": "INACTIVE"
+        },
+        "1580360169": {
+            "www.google.com": "INACTIVE",
+            "www.google.com.bd": "INACTIVE",
+            "www.google.com.bn": "INACTIVE",
+            "www.google.com.co": "INACTIVE",
+            "www.google.com.eg": "INACTIVE",
+            "www.google.com.et": "INACTIVE",
+            "www.google.com.gi": "INACTIVE",
+            "www.google.com.pk": "INACTIVE"
+        },
+        "1580360170": {
+            "www.google.com.ar": "INACTIVE",
+            "www.google.com.br": "INACTIVE",
+            "www.google.com.by": "INACTIVE",
+            "www.google.com.bz": "INACTIVE",
+            "www.google.com.kw": "INACTIVE",
+            "www.google.com.np": "INACTIVE",
+            "www.google.com.ph": "INACTIVE"
+        },
+        "1580360171": {
+            "www.google.com.pe": "INACTIVE",
+            "www.google.com.pr": "INACTIVE",
+            "www.google.com.py": "INACTIVE",
+            "www.google.com.ru": "INACTIVE",
+            "www.google.com.sa": "INACTIVE",
+            "www.google.com.sb": "INACTIVE",
+            "www.google.com.tj": "INACTIVE",
+            "www.google.com.tn": "INACTIVE",
+            "www.google.ge": "INACTIVE",
+            "www.google.gm": "INACTIVE"
+        },
+        "1580360172": {
+            "www.google.com.uy": "INACTIVE",
+            "www.google.cv": "INACTIVE",
+            "www.google.dz": "INACTIVE",
+            "www.google.fr": "INACTIVE",
+            "www.google.ga": "INACTIVE",
+            "www.google.gr": "INACTIVE",
+            "www.google.hn": "INACTIVE",
+            "www.google.hu": "INACTIVE"
+        },
+        "1580360173": {
+            "www.google.com.ve": "INACTIVE",
+            "www.google.cz": "INACTIVE",
+            "www.google.de": "INACTIVE",
+            "www.google.gl": "INACTIVE",
+            "www.google.ie": "INACTIVE",
+            "www.google.iq": "INACTIVE",
+            "www.google.it": "INACTIVE",
+            "www.google.md": "INACTIVE",
+            "www.google.mv": "INACTIVE"
+        },
+        "1580360174": {
+            "www.google.gy": "INACTIVE",
+            "www.google.is": "INACTIVE",
+            "www.google.la": "INACTIVE",
+            "www.google.nr": "INACTIVE",
+            "www.google.pn": "INACTIVE",
+            "www.google.tg": "INACTIVE"
+        },
+        "1580360175": {
+            "www.google.ml": "INACTIVE",
+            "www.google.sm": "INACTIVE",
+            "www.google.tl": "INACTIVE"
         }
     }
 }
