@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202001310917
+! Version: 202001311026
 ! Title: EasyList
-! Last modified: 31 Jan 2020 09:17 UTC
+! Last modified: 31 Jan 2020 10:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18731,6 +18731,7 @@ _popunder+$popup
 ##.ad-slot-a
 ##.ad-slot-banner
 ##.ad-slot-container
+##.ad-slot-container-1
 ##.ad-slot-sidebar
 ##.ad-slot-sidebar-b
 ##.ad-slot-tall
@@ -24633,6 +24634,7 @@ _popunder+$popup
 ##.header-ad-banner
 ##.header-ad-box
 ##.header-ad-column
+##.header-ad-container
 ##.header-ad-frame
 ##.header-ad-new-wrap
 ##.header-ad-slot
@@ -32909,6 +32911,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||givemeb33f.com^$third-party
 ||givemeburg3r.com^$third-party
 ||gklmedia.com^$third-party
+||glailols.com^$third-party
 ||glaimtug.com^$third-party
 ||glaswall.online^$third-party
 ||glaumtok.com^$third-party
@@ -33070,6 +33073,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||henasentence.pro^$third-party
 ||hentaifap.land^$third-party
 ||hepsandminawas.pro^$third-party
+||herereportancen.info^$third-party
 ||herocpm.com^$third-party
 ||herofandhist.info^$third-party
 ||herordearhem.info^$third-party
@@ -33350,6 +33354,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jo7cofh3.com^$third-party
 ||jobsyndicate.com^$third-party
 ||jobtarget.com^$third-party
+||jodellvideos.pro^$third-party
 ||joophesh.com^$third-party
 ||jotchept.com^$third-party
 ||jqfjrjka5t.top^$third-party
@@ -34141,6 +34146,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||osiaffiliate.com^$third-party
 ||osny2p7a0k.com^$third-party
 ||ospreymedialp.com^$third-party
+||osynchresiderin.info^$third-party
+||otaijing.com^$third-party
 ||othere.info^$third-party
 ||othersonline.com^$third-party
 ||otnolabttmup.com^$third-party
@@ -50480,11 +50487,11 @@ $webrtc,domain=ibit.to
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
 ! vidotodo
-@@||fonts.googleapis.com^$stylesheet,domain=play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
-@@||vidtodo.com/srt/$xmlhttprequest,domain=play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
-@@||vidtodo.com^$image,script,stylesheet,domain=play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
-|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
-|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
+@@||fonts.googleapis.com^$stylesheet,domain=lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
+@@||vidtodo.com/srt/$xmlhttprequest,domain=lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
+@@||vidtodo.com^$image,script,stylesheet,domain=lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
+|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
+|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidtod.me|vidtodos.com|vidtodu.com|vidtoro.com|vidtudu.com
 ! tamilrockers
 @@||google.com/complete/search?$script,domain=tamilrockers.ws
 @@||google.com/cse$script,domain=tamilrockers.ws
@@ -50737,25 +50744,6 @@ $script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.com|up-4ever.org
 $stylesheet,subdocument,third-party,domain=downloadgameps3.com
 @@||fonts.googleapis.com^$stylesheet,domain=downloadgameps3.com
 @@||www.blogger.com^$stylesheet,domain=downloadgameps3.com
-! 9anime.vip
-@@||9anime.*/home/ajax/schedule$~third-party,xmlhttprequest,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||9anime.*/user/ajax/menu-bar$~third-party,xmlhttprequest,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||akacdn.ru^$image,script,stylesheet,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||code.jquery.com^$script,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||connect.facebook.net^$script,domain=9anime.one|9anime.tv|9anime.vip
-@@||disqus.com^$domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||disquscdn.com^$domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||fonts.googleapis.com^$stylesheet,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||jsdelivr.net^$image,script,stylesheet,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-@@||mcloud.to/resources/$script,xmlhttprequest,domain=9anime.one|9anime.tv|9anime.vip
-@@||mp4upload.com/vjs/$script,xmlhttprequest,domain=9anime.one|9anime.tv|9anime.vip
-@@||platform.twitter.com^$script,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-|http://$image,script,stylesheet,third-party,xmlhttprequest,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-|https://$image,script,stylesheet,third-party,xmlhttprequest,domain=9anime.one|9anime.to|9anime.tv|9anime.vip
-||9anime.*/*callback
-||9anime.*/inc/$script
-||9anime.*/sw.js
 ! watchvideo
 @@/index-*.m3u8$xmlhttprequest,domain=watchvideo.us
 @@/master.m3u8$xmlhttprequest,domain=watchvideo.us
