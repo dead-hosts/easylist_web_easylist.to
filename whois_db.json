@@ -15265,8 +15265,8 @@
         "state": "future"
     },
     "bdjobs.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "bdlive.co.za": {
@@ -39982,7 +39982,7 @@
     "fastcodesign.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fastcoexist.com": {
         "epoch": 1614038400.0,
@@ -72372,7 +72372,7 @@
     "mediance.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mediaoaktree.com": {
         "epoch": 1595635200.0,
