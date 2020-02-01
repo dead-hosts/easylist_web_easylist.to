@@ -14715,8 +14715,8 @@
         "state": "future"
     },
     "bannerist.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "bannerlot.com": {
@@ -31512,7 +31512,7 @@
     "dice.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dickbig.net": {
         "epoch": 1599782400.0,
