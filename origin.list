@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002031931
+! Version: 202002032029
 ! Title: EasyList
-! Last modified: 03 Feb 2020 19:31 UTC
+! Last modified: 03 Feb 2020 20:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22664,6 +22664,7 @@ _popunder+$popup
 ##.below-article-ad-sidebar
 ##.below-feature-ad-hide-based-height
 ##.below-nav-ad
+##.below-next-nativeads
 ##.belowNavAds
 ##.below_game_ad
 ##.below_player_ad
@@ -29742,6 +29743,7 @@ _popunder+$popup
 ##.widget-pane-section-result[data-result-ad-type]
 ##div[data-flt-ve="sponsored_search_ads"]
 ##div[data-id^="CarouselPLA-"] > .kzwEHf
+##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
 ##div[role="navigation"] + c-wiz > div > .kxhcC
 ##div[role="navigation"] + c-wiz > script + div > .kxhcC
 ##header#hdr + #main > div[data-hveid]
@@ -38795,6 +38797,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gsghbxydcyum.com^$third-party
 ||gsimjyplcciwgb.com^$third-party
 ||gsipjksiepxsqi.com^$third-party
+||gsjgkpnq.com^$third-party
 ||gslyyfntvnwbad.com^$third-party
 ||gswaelxxh.com^$third-party
 ||gswiegmikzh.com^$third-party
@@ -43989,6 +43992,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yifuqtge.com^$third-party
 ||yimfcnxzyqhpih.com^$third-party
 ||yintkfbxaopyb.com^$third-party
+||yiopqbbmugak.com^$third-party
 ||yiqyefznxc.com^$third-party
 ||yisscbyq.com^$third-party
 ||yjctwdeuz.com^$third-party
@@ -49573,6 +49577,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cd1025.com/www/assets/a/
 ||cdn77.org^$domain=telerium.tv
 ||ceforum.co.uk/images/misc/PartnerLinks
+||celebspulse.com^*/ouibounce.js
 ||celebstoner.com/assets/components/bdlistings/uploads/
 ||celebstoner.com/assets/images/img/sidebar/$image
 ||checker.openwebtorrent.com/digital-ocean.jpg
