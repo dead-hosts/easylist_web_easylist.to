@@ -107087,7 +107087,7 @@
     "stateresolver.link": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "statesmanjournal.com": {
         "epoch": 1592870400.0,
