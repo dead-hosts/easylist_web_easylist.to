@@ -24099,24 +24099,6 @@
         "1579561307": {
             "motorcycletrader.co.nz": "INACTIVE"
         },
-        "1580855275": {
-            "cacheserve.*": "INVALID",
-            "online.*": "INVALID",
-            "ox-d.*": "INVALID",
-            "serve.*": "INVALID"
-        },
-        "1580855285": {
-            "data.linoleictanzaniatitanic.com": "INACTIVE"
-        },
-        "1580855294": {
-            "record.commissionking.com": "INACTIVE"
-        },
-        "1580855298": {
-            "track.incognitovpn.com": "INACTIVE"
-        },
-        "1580855359": {
-            "www.google.ws": "INACTIVE"
-        },
         "1580859338": {
             "engine.newsmaxfeednetwork.com": "INACTIVE"
         },
@@ -24243,6 +24225,23 @@
         },
         "1580941141": {
             "logic-immo.be": "INACTIVE"
+        },
+        "1580945391": {
+            "cacheserve.*": "INVALID",
+            "online.*": "INVALID",
+            "ox-d.*": "INVALID"
+        },
+        "1580945392": {
+            "serve.*": "INVALID"
+        },
+        "1580945412": {
+            "record.commissionking.com": "INACTIVE"
+        },
+        "1580945415": {
+            "track.incognitovpn.com": "INACTIVE"
+        },
+        "1580945487": {
+            "headlinestoday.intoday.in": "INACTIVE"
         }
     }
 }
