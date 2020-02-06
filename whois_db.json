@@ -7407,7 +7407,7 @@
     "adtrack123.pl": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtransfer.net": {
         "epoch": 1605139200.0,
@@ -40842,7 +40842,7 @@
     "fifthinternational.org": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "fightersonlymag.com": {
         "epoch": 1707436800,
@@ -53750,8 +53750,8 @@
         "state": "future"
     },
     "howtopriest.com": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "howwe.biz": {
