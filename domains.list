@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002070102
+! Version: 202002070233
 ! Title: EasyList
-! Last modified: 07 Feb 2020 01:02 UTC
+! Last modified: 07 Feb 2020 02:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31257,6 +31257,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adsxgm.com^$third-party
 ||adszom.com^$third-party
 ||adtag.cc^$third-party
+||adtags.mobi^$third-party
 ||adtaily.com^$third-party
 ||adtaily.pl^$third-party
 ||adtdp.com^$third-party
@@ -34641,6 +34642,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qnsr.com^$third-party
 ||qr00rq.com^$third-party
 ||qrlsx.com^$third-party
+||qrzlaatf.xyz^$third-party
 ||qservz.com^$third-party
 ||qtpfm.com^$third-party
 ||qualigo.com^$third-party
@@ -35336,6 +35338,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tmdn2015x9.com^$third-party
 ||tmearn.com^$third-party
 ||tmotbq.xyz^$third-party
+||tmpclk.com^$third-party
 ||tmqhw.us^$third-party
 ||tmtrck.com^$third-party
 ||toads.id^$third-party
@@ -35858,6 +35861,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yieldmanager.com^$third-party
 ||yieldmanager.net^$third-party
 ||yieldoptimizer.com^$third-party
+||yieldpass.com^$third-party
 ||yieldselect.com^$third-party
 ||yieldtraffic.com^$third-party
 ||yieldx.com^$third-party
