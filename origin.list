@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002081115
+! Version: 202002081217
 ! Title: EasyList
-! Last modified: 08 Feb 2020 11:15 UTC
+! Last modified: 08 Feb 2020 12:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20588,6 +20588,7 @@ _popunder+$popup
 ##.ads-footer
 ##.ads-footer-desktop
 ##.ads-footer-desktop-article
+##.ads-fr
 ##.ads-full
 ##.ads-google
 ##.ads-google-bottom
@@ -22644,6 +22645,7 @@ _popunder+$popup
 ##.barkerAd
 ##.barstool_ad_floater
 ##.base-ad-mpu
+##.base-ad-slot
 ##.base-ad-top
 ##.base_ad
 ##.base_printer_widgets_AdBreak
@@ -24927,6 +24929,7 @@ _popunder+$popup
 ##.html-block-ads
 ##.html-component-ad-filler
 ##.html5-ad-progress-list
+##.hwg-row-ad
 ##.hyad
 ##.hype_adrotate_widget
 ##.i360ad
@@ -26190,6 +26193,7 @@ _popunder+$popup
 ##.other_adv2
 ##.otherheader_ad
 ##.otj_adspot
+##.outbrain-ad-slot
 ##.outer-ad-container
 ##.outerAdWrapper
 ##.outerAd_300x250_1
@@ -27141,6 +27145,7 @@ _popunder+$popup
 ##.showads
 ##.showcaseAd
 ##.showcasead
+##.showheroes-ad-slot
 ##.shunno-sidebar-advert
 ##.shunno_widget_sidebar_advert
 ##.shunno_widget_sidebar_sovrnadsmall
@@ -41679,6 +41684,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qaazzemfo.com^$third-party
 ||qabmhhrfi.bid^$third-party
 ||qadtkdlqlemf.com^$third-party
+||qaggfomwjko.com^$third-party
 ||qagkaxrj.com^$third-party
 ||qagnufdwht.com^$third-party
 ||qahajvkyfjpg.com^$third-party
@@ -52755,6 +52761,8 @@ revolvy.com###adsales_info
 inoreader.com###article_below_dialog_wrapper
 scalemates.com###avph
 thecarconnection.com###banner-container
+webtoolhub.com###banner_704_107
+webtoolhub.com###banner_719_105
 steroid.com###banner_div
 nj.com###below-toprail
 infoplease.com###block-ipleaderboardad
@@ -52771,6 +52779,7 @@ designtaxi.com###dt-small-sub-3
 eztv.io,eztv.tf,eztv.yt###e40f08c607ae13f7af47fde248d904c6
 idlebrain.com###footer
 wordcounter.net###glya
+downloadsafer.com###homebannerleft
 cd1025.com###hp-leader
 designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
@@ -52838,9 +52847,12 @@ usatoday.com##.gnt_tbr
 usatoday.com##.gnt_x__lbl
 whistleout.com.au##.has-hover
 pcgamer.com##.hawk-widget
+webtoolhub.com##.hdShade
 androidcentral.com##.header-top-alert-bar--banner-ufc-247
 androidcentral.com##.header-top-alert-bar--link
 shouldiremoveit.com##.hotspots-search-results
+seedpeer.me##.is-success
+seedpeer.me##.is-warning
 itweb.co.za##.itw-content-zone
 ettv.to##.kr_cr
 nature.com##.leaderboard-or-billboard-container
@@ -52897,6 +52909,7 @@ steroid.com##.v_banner
 streamty.com##.video_adp3
 vidup.io##.vjs-overlay-background
 wplift.com##.widget_bsa
+webtoolhub.com##.wth_zad_text
 finance.yahoo.com##.ys-mobileFeaturedAd
 hltv.org##[class*="bet"]
 hltv.org##[class*="dongying"]
@@ -52910,6 +52923,7 @@ motachashma.com##[href*="bit.ly/"]
 vedbex.com##[href="javascript:void(0);"]
 steroid.com##[href^="/out.php"]
 ettv.to##[href^="/poc.php"]
+seedpeer.me##[href^="https://downloadsafer.com/"]
 wakingtimes.com##[href^="https://shiftnetwork.infusionsoft.com"]
 myreadingmanga.info##[href^="https://www.gaming-adult.com/"]
 ettv.to##[href^="https://www.my-privacy-protection.com/"]
@@ -52942,6 +52956,7 @@ dailywire.com##div[style^="max-width: 300px;"]
 dailywire.com##div[style^="width: 728px;"]
 harleyquinnwidget.live##iframe ~ div > a[target="_blank"] > img[src]
 mobile.twitter.com#?#.tweet:-abp-has(.promo)
+seedpeer.me#?#a:-abp-has(.usenet-downwload-link)
 jokerplayer.net##snackbar
 artstation.com##support-artstation-block
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(div[class^="AdsCard-"])
