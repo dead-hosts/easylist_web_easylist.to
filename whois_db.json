@@ -6662,7 +6662,7 @@
     "ads-for-free.com": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ads-pixiv.net": {
         "epoch": 1593388800.0,
@@ -55687,7 +55687,7 @@
     "ifokus.se": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ifoldmuxqjeddk.com": {
         "epoch": 1586649600.0,
@@ -89165,9 +89165,9 @@
         "state": "future"
     },
     "popporn.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "poppysol.com": {
         "epoch": 1587772800.0,
@@ -98432,7 +98432,7 @@
     "romstone.net": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ronletsobetning.pro": {
         "epoch": 1588377600.0,
