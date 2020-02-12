@@ -795,8 +795,8 @@
         "state": "future"
     },
     "1phads.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "1rx.io": {
@@ -10630,8 +10630,8 @@
         "state": "future"
     },
     "americafirstpolls.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "americanfreepress.net": {
@@ -17162,7 +17162,7 @@
     "biz1190.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bizarremag.com": {
         "epoch": 1595462400,
@@ -49325,8 +49325,8 @@
         "state": "future"
     },
     "greensmoke.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "greenun24.co.uk": {
