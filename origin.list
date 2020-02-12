@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002121010
+! Version: 202002121122
 ! Title: EasyList
-! Last modified: 12 Feb 2020 10:10 UTC
+! Last modified: 12 Feb 2020 11:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20526,6 +20526,7 @@ _popunder+$popup
 ##.ads-area
 ##.ads-article-right
 ##.ads-articlebottom
+##.ads-aside
 ##.ads-banner
 ##.ads-banner-bottom
 ##.ads-banner-js
@@ -38784,6 +38785,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||flmyidbnljphko.com^$third-party
 ||flnfbaoozuib.com^$third-party
 ||flnqkhnqjcmvp.com^$third-party
+||flnwaqyh.com^$third-party
 ||flrqdjglshsbi.com^$third-party
 ||flsfxpostdtvgc.com^$third-party
 ||fltfwrhpv.com^$third-party
@@ -53018,6 +53020,7 @@ coincodex.com##.a-top
 motherjones.com,vitalmtb.com,webmd.com##.ad
 pjmedia.com##.ad-container
 famously-dead.com,famouslyarrested.com,famouslyscandalous.com,slacker.com##.ad2
+prokerala.com##.adm-unit
 nykdaily.com##.adsbygoogle
 gsmarena.com##.adv-mid
 fruitnet.com##.advert
@@ -53145,6 +53148,7 @@ myreadingmanga.info##[href^="https://www.gaming-adult.com/"]
 ettv.to##[href^="https://www.my-privacy-protection.com/"]
 provideocoalition.com##[href^="https://www.provideocoalition.com/linkout/"]
 techpowerup.com##a[href*=".pnq"]
+twitter.com##a[href*="src=promoted_trend_click"]
 geekzone.co.nz##a[href="https://gkz1.co/2FgZ9qm"]
 androidcentral.com##a[href^="/e?link=https%3A%2F%2Fmint-mobile.pxf.io%2F"]
 hltv.org##a[href^="http://sports.betway.com/"]
