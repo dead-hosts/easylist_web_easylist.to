@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002131113
+! Version: 202002131209
 ! Title: EasyList
-! Last modified: 13 Feb 2020 11:13 UTC
+! Last modified: 13 Feb 2020 12:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29358,6 +29358,7 @@ _popunder+$popup
 ##a[href^="https://aaucwbe.com/"]
 ##a[href^="https://ad.atdmt.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
+##a[href^="https://ad13.adfarm1.adition.com/"]
 ##a[href^="https://adclick.g.doubleclick.net/"]
 ##a[href^="https://adhealers.com/"]
 ##a[href^="https://ads-for-free.com/click.php?"]
@@ -30675,6 +30676,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||housopsi.net^
 ||ingdaughtexam.info^
 ||ingprographyt.info^
+||jahediretictho.info^
 ||kcampairsang.info^
 ||ketstheralinver.info^
 ||knottishhuntilc.info^
@@ -30731,12 +30733,14 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||replentcautiful.info^
 ||revolutelyplan.info^
 ||rgvqcsxqge.com^
+||rheaddelainlyco.info^
 ||ridgelorridorsag.info^
 ||rinedcountilconsiden.info^
 ||rintellsfundrew.info^
 ||ripslifestassoci.info^
 ||riptukri.net^
 ||rizeintellingente.info^
+||rsleaderingmu.info^
 ||runmeethoomes.info^
 ||sapsixysho.pro^
 ||sgftrrs.com^
@@ -41597,6 +41601,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||piyzmkcxa.bid^$third-party
 ||pjbifjjtir.com^$third-party
 ||pjbwsczypwze.com^$third-party
+||pjchkuksy.com^$third-party
 ||pjeledftjxfnd.com^$third-party
 ||pjffrqroudcp.com^$third-party
 ||pjfgugfnw.bid^$third-party
