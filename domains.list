@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002132300
+! Version: 202002140004
 ! Title: EasyList
-! Last modified: 13 Feb 2020 23:00 UTC
+! Last modified: 14 Feb 2020 00:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6698,6 +6698,7 @@
 /static/js/4728ba74bc.js$~third-party
 /static_ads/*
 /staticadslot.
+/staticAdsSRA.
 /stats/?t_sid=
 /sticker_ad.
 /sticky-ad-
@@ -49862,6 +49863,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dash.tmearn.com^
 ||davidwalsh.name/demo/tjs
 ||dbs.autolatest.ro^
+||delivery.smashing.services^
 ||deshvidesh.com/banner/
 ||designtaxi.com/i-combine.php
 ||designtaxi.com/small-dt.php$subdocument
@@ -64904,7 +64906,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||dutplanet.net/ajax/reclamecheck.php?$xmlhttprequest
 @@||dx-tv.com^$generichide
 @@||dynamicyield.com/abadimage/$image,subdocument
-@@||dyncdn.me/static/$script,domain=rarbg.to|rarbg2019.org|rarbg2020.org|rarbg2021.org|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgp2p.org|rarbgproxied.org|rarbgproxy.org|rarbgprx.org|rarbgto.org
+@@||dyncdn.me^*/showads.js$script,domain=rarbg.to|rarbg2019.org|rarbg2020.org|rarbg2021.org|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgp2p.org|rarbgproxied.org|rarbgproxy.org|rarbgprx.org|rarbgto.org
 @@||e24.no^$generichide
 @@||ebkimg.com/banners/
 @@||edgekey.net^*/advertisement.js$domain=play.spotify.com
