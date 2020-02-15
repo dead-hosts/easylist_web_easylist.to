@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002150453
+! Version: 202002150635
 ! Title: EasyList
-! Last modified: 15 Feb 2020 04:53 UTC
+! Last modified: 15 Feb 2020 06:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31014,7 +31014,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ad.admitad.com/j/$third-party
 ||ad.atdmt.com/i/a.html$third-party
 ||ad.atdmt.com/i/a.js$third-party
-||ad.doubleclick.net^$~object,third-party
+||ad.doubleclick.net^$third-party
 ||ad.linksynergy.com^$third-party
 ||ad.mo.doubleclick.net/dartproxy/$third-party
 ||ad.mox.tv^$third-party
@@ -31536,6 +31536,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||advg.jp^$third-party
 ||advgoogle.com^$third-party
 ||advideum.com^$third-party
+||advinci.co^$third-party
 ||advinci.net^$third-party
 ||advise.co^$third-party
 ||advisorded.com^$third-party
@@ -40302,6 +40303,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||leszvphhnytpk.com^$third-party
 ||letdvoltm.com^$third-party
 ||lfahycetwt.com^$third-party
+||lfhgumhsrjjgrt.com^$third-party
 ||lfjmmgorkjoaw.com^$third-party
 ||lfjvaaswkxqj.com^$third-party
 ||lfmwrbcfbji.com^$third-party
@@ -44431,6 +44433,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yxyfsghyk.com^$third-party
 ||yycocbzc.com^$third-party
 ||yydmdsdnbtcduu.com^$third-party
+||yyivakszwh.com^$third-party
 ||yyupkqqokrus.com^$third-party
 ||yyvvnutdokptca.com^$third-party
 ||yywctdppuncv.com^$third-party
