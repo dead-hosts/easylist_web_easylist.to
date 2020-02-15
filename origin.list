@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002151009
+! Version: 202002151136
 ! Title: EasyList
-! Last modified: 15 Feb 2020 10:09 UTC
+! Last modified: 15 Feb 2020 11:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30652,6 +30652,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ceincreatedaughtcha.info^
 ||cespousseluniv.info^
 ||choorgiw.net^
+||collectpush.com^
 ||counevan.pro^
 ||criminglynuk.pro^
 ||cssimplicanab.info^
@@ -30733,6 +30734,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||oughgoalityabo.info^
 ||ouzoadru.net^
 ||padsabz.com^
+||pagiwp.com^
 ||pagnookr.net^
 ||parketbedde.info^
 ||pasaigul.com^
@@ -30770,6 +30772,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sgftrrs.com^
 ||silsfrastinggove.info^
 ||singthouthappi.info^
+||smenqskfmpfxnb.bid^
 ||soagrist.net^
 ||sousaira.com^
 ||spentalwithinga.info^
@@ -53177,7 +53180,7 @@ stadiumastro.com##.Ads
 warriorforum.com##.DiscussionBoard-signature-content
 coincodex.com##.a-top
 ncomputers.org##.ab
-motherjones.com,vitalmtb.com,webmd.com##.ad
+motherjones.com,movieweb.com,vitalmtb.com,webmd.com##.ad
 pjmedia.com##.ad-container
 famously-dead.com,famouslyarrested.com,famouslyscandalous.com,slacker.com##.ad2
 prokerala.com##.adm-unit
@@ -64706,6 +64709,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||smallseotools.com/js/ads.js
 @@||smallseotools.com^$generichide
 @@||somewheresouth.net/banner/banner.php$image
+@@||sonyliv.com/api/configuration/config_ads$~third-party,xmlhttprequest
 @@||sonyliv.com/extensions/gpt.js$script
 @@||southwest.com/swa-resources/scripts/ads.js
 @@||spendino.de/admanager/
