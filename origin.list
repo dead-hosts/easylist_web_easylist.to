@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002171007
+! Version: 202002171123
 ! Title: EasyList
-! Last modified: 17 Feb 2020 10:07 UTC
+! Last modified: 17 Feb 2020 11:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31739,6 +31739,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||akavita.com^$third-party
 ||alchemysocial.com^$third-party
 ||alcidebrought.pro^$third-party
+||alemon.ru^$third-party
 ||alfynetwork.com^$third-party
 ||algovid.com^$third-party
 ||ali-crm.ru^$third-party
@@ -39643,6 +39644,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||iialqejeka.com^$third-party
 ||iibcejrrfhxh.com^$third-party
 ||iiccrpwaxmxkqm.com^$third-party
+||iidfyyelvijfk.com^$third-party
 ||iilrgkor.com^$third-party
 ||iimueeipaitpb.com^$third-party
 ||iizgpusp.com^$third-party
@@ -44457,6 +44459,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ysaloykchjyxg.com^$third-party
 ||ysgeuarbxfttib.com^$third-party
 ||ysljgoytuyfbg.com^$third-party
+||yslvynerwkdls.com^$third-party
 ||ysmbdnavqsbcl.com^$third-party
 ||ysosfhyrbyre.com^$third-party
 ||ysqhjwanlbhmt.com^$third-party
@@ -50025,6 +50028,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dnsleaktest.com^*-sponsor.
 ||dnsleaktest.com^*/cute-box
 ||dominicantoday.com^*/banners/
+||dotaoutpost.com/stable/js/ab/$script,domain=wowhead.com
 ||draculastream.org/pu/v8/pu.js
 ||driverdb.com/assets/img/banners/
 ||dropapk.*/glx_
@@ -53242,6 +53246,7 @@ designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
 ceoexpress.com###kalamazooDiv
 designtaxi.com###large-screen-notices
+wowhead.com###main > .blocks
 bgr.in,thehealthsite.com###mywebsite-container
 scalemates.com###rev-lbb
 scalemates.com###rev-lbt
@@ -63085,6 +63090,7 @@ tomshardware.com##.adsbox
 afreesms.com,dailymail.co.uk,israellycool.com,mma-core.com,technoshouter.com##.adsbygoogle
 technobuffalo.com##.adspot
 universityherald.com##.adunit_rectangle
+reuters.com##.amp-ad-container
 modmy.com##.article-leaderboard
 filecrypt.co##.bams
 wccftech.com##.banner-ad
