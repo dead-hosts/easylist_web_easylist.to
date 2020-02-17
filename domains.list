@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002172102
+! Version: 202002172218
 ! Title: EasyList
-! Last modified: 17 Feb 2020 21:02 UTC
+! Last modified: 17 Feb 2020 22:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29524,12 +29524,15 @@ _popunder+$popup
 ##div[class*="-storyBodyAd-"]
 ##div[class*="_AdInArticle_"]
 ##div[class^="AdBannerWrapper-"]
+##div[class^="AdEmbeded__AddWrapper"]
 ##div[class^="Ad__adContainer"]
 ##div[class^="Ad__bigBox"]
 ##div[class^="Ad__container"]
 ##div[class^="AdhesionAd_"]
 ##div[class^="BlockAdvert-"]
+##div[class^="Directory__footerAds"]
 ##div[class^="ResponsiveAd-"]
+##div[class^="SponsoredAds"]
 ##div[class^="ad_border_"]
 ##div[class^="ad_position_"]
 ##div[class^="adbanner_"]
@@ -46626,6 +46629,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lcwfab1.com^$third-party
 ||leche69.com^$third-party
 ||legendarylars.com^$third-party
+||libertystmedia.com^$third-party
 ||lickbylick.com^$third-party
 ||lifeideas.site^$third-party
 ||lifepromo.biz^$third-party
@@ -49213,6 +49217,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fwmrm.net/ad/$popup
 ||generic4all.com^*.dhtml?refid=$popup,third-party
 ||getsecuredfiles.com^$popup,third-party
+||go.streamcomplet.$popup
 ||greevid.com/exit_p/$popup
 ||hetu.in^$popup,third-party
 ||hmn-net.com^*/xdirect/$popup,third-party
@@ -60989,7 +60994,6 @@ clickmngr.com##[href^="https://www.safenetdir.com/"]
 vidoza.net##[id*="Overlay"]
 bg-gledai.tv,btsone.cc,jukezilla.com,linx.cloud,megaurl.xyz,monova.org,ouo.io,swatchseries.to##[id*="ScriptRoot"]
 1001tracklists.com##[id][width]
-msn.com##[id^="-"]
 msn.com##[id^="\35 "]
 comicbook.com,popculture.com##[id^="oas"]
 extremetech.com##[id^="zdAdContainer"]
