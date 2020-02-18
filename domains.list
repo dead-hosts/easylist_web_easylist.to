@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002181032
+! Version: 202002181155
 ! Title: EasyList
-! Last modified: 18 Feb 2020 10:32 UTC
+! Last modified: 18 Feb 2020 11:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -216,6 +216,7 @@
 -adhelper.
 -adhere2.
 -adimage-
+-adloader-
 -adman/
 -admarvel/
 -adnow.$domain=~zappistore.com
@@ -4885,6 +4886,7 @@
 /getadserver.
 /getadsettingsjs?
 /getAdsForClient?
+/getAdsysCode?
 /getads|
 /getAdvancedPartnerDiv.
 /GetAdvertData?
@@ -29435,6 +29437,7 @@ _popunder+$popup
 ##a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="]
 ##a[href^="https://mk-ads.com/"]
 ##a[href^="https://mk-cdn.net/"]
+##a[href^="https://mob1ledev1ces.com/"]
 ##a[href^="https://playuhd.host/"]
 ##a[href^="https://porndeals.com/?track="]
 ##a[href^="https://porngames.adult/?SID="]
@@ -30676,6 +30679,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dardwebertoha.info^
 ||dcontonalscho.info^
 ||dddomainccc.com^
+||delainlygoverhe.info^
 ||dgafgadsgkjg.top^
 ||dingsincernett.info^
 ||dmastescaugh.info^
@@ -30699,17 +30703,20 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||estionexperime.info^
 ||eunformeranothe.info^
 ||fadsans.com^
+||fadsecs.com^
 ||fadsims.com^
 ||fadslims.com^
 ||fadsoks.com^
 ||fadspmz.com^
 ||fagmomqua.site^
 ||fazoumee.net^
+||feed777.me^
 ||feelineweatyeng.info^
 ||fishkekcamp.info^
 ||fufoatch.com^
 ||fuyuap.xyz^
 ||gadsans.com^
+||gadsats.com^
 ||gadsecz.com^
 ||gadsimz.com^
 ||gadsipz.com^
@@ -30786,6 +30793,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||osmondards.pro^
 ||otsurvedchange.info^
 ||oughgoalityabo.info^
+||ountapaveralle.info^
 ||ouzoadru.net^
 ||overribleintena.info^
 ||padsabz.com^
@@ -38691,6 +38699,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eatxurmf.com^$third-party
 ||eayyegrkujxcw.com^$third-party
 ||ebbhjxspf.com^$third-party
+||ebcpfsslht.com^$third-party
 ||ebfkifnjs.com^$third-party
 ||ebgaxsjgdsnr.com^$third-party
 ||ebhytolzhum.com^$third-party
@@ -49210,6 +49219,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zoomin.tv/video/*.flv$third-party,domain=twitch.tv
 ! hilltopads
 ||d141wsrw9m4as6.cloudfront.net^
+||d1jnvfp2m6fzvq.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dpd9yiocsyy6p.cloudfront.net^
