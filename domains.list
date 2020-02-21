@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002210945
+! Version: 202002211042
 ! Title: EasyList
-! Last modified: 21 Feb 2020 09:45 UTC
+! Last modified: 21 Feb 2020 10:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39102,6 +39102,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fnmubgld.com^$third-party
 ||fnprtscsvux.com^$third-party
 ||fnrqbhhyff.com^$third-party
+||fntstkghwldnoy.com^$third-party
 ||fnuuhrhfkvpbnm.com^$third-party
 ||fnyhewjd.com^$third-party
 ||fnytdllpzdv.com^$third-party
@@ -50095,6 +50096,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aerotime.aero/upload/banner/
 ||afedmag.com/uploaded/images/banner-
 ||afloat.ie^*/banners/
+||afr.com/assets/europa.
 ||africanbusinessmagazine.com/images/banners/
 ||africaonline.com.na^*/banners/
 ||aggnr.groovesharks.org^
@@ -50145,6 +50147,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||break.com^*/marketguide-
 ||brecorder.com^*/banners/
 ||brenz.net/img/bannerrss.gif
+||brisbanetimes.com.au/assets/europa.modern.js
 ||britishcolumbia.com/sys/ban.asp
 ||broadbandchoices.co.uk/aff.js
 ||browsershots.org/static/images/creative/
@@ -50508,6 +50511,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||skilouise.com/images/sponsors/
 ||smallseotools.com/images/$image,domain=smallseotools.com
 ||smashingapps.com/banner/
+||smh.com.au/assets/europa.modern.js
 ||smn-news.com/images/banners/
 ||softcab.com/google.php?
 ||sorcerers.net/images/aff/
@@ -50542,6 +50546,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tbib.org/gaming/clicker.php
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
+||theage.com.au/assets/europa.modern.js
 ||thecatholicuniverse.com^*-banner-
 ||thecenturion.co.za^*/banners/
 ||thecharlottepost.com/cache/sql/fba/
@@ -50596,6 +50601,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vobium.com/images/banners/
 ||wall.vgr.com^
 ||wapinda.in/images/downloadvideo.jpg
+||watoday.com.au/assets/europa.modern.js
 ||wcostream.com/tnc/$image,script
 ||web.tmearn.com^
 ||webdevforums.com/images/inmotion_banner.gif
