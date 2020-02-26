@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002260728
+! Version: 202002260851
 ! Title: EasyList
-! Last modified: 26 Feb 2020 07:28 UTC
+! Last modified: 26 Feb 2020 08:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -41256,6 +41256,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||napickmw.com^$third-party
 ||naxrjxij.com^$third-party
 ||nbbqgaeqnxun.com^$third-party
+||nbeejafjpbm.com^$third-party
 ||nbhubocsduzn.com^$third-party
 ||nbijjhqnzcwr.com^$third-party
 ||nbkcuewy.com^$third-party
@@ -50864,6 +50865,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||web.tmearn.com^
 ||webdevforums.com/images/inmotion_banner.gif
 ||webhostingtalk.com/images/style/lw-header.png
+||webkinz.com/images/bg-a_d-bb.png
 ||websiteseochecker.com/img/banner_adsy.jpg
 ||weekendpost.co.bw^*/banner_
 ||whatsonnamibia.com/images/banners/
@@ -53751,6 +53753,8 @@ novinite.com##.banner300x250
 mamul.am##.bannerb
 southfloridagaynews.com##.bannergroup
 forum.thaivisa.com##.banners-inside
+webkinz.com##.bg-bigbox
+webkinz.com##.bg-leaderboard
 teachingchannel.org##.bg-medium-gray
 androidpolice.com##.big-sponsor
 wakingtimes.com##.boxzilla-center-container
