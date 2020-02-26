@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002260935
+! Version: 202002261040
 ! Title: EasyList
-! Last modified: 26 Feb 2020 09:35 UTC
+! Last modified: 26 Feb 2020 10:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50506,7 +50506,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ebayrtm.com/rtm?RtmIt
 ||ebaystatic.com^*/ScandalJS-
 ||ebaystatic.com^*/ScandalSupportGFA-
-||ebkinz.com/images/a_d-bg.png
 ||eclipse.org/membership/promo/images/
 ||eco-business.com/static/assets/img/site_partners/
 ||ecommercetimes.com^*/sda/
@@ -50870,6 +50869,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||webdevforums.com/images/inmotion_banner.gif
 ||webhostingtalk.com/images/style/lw-header.png
 ||webkinz.com/a_d/
+||webkinz.com/images/a_d-bg.png
 ||webkinz.com/images/bg-a_d-bb.png
 ||websiteseochecker.com/img/banner_adsy.jpg
 ||weekendpost.co.bw^*/banner_
@@ -65067,6 +65067,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||apple.com^*/images/ads_$image,domain=apple.com
 @@||apple.com^*/includes/ads
 @@||apple.com^*/video-ad.html
+@@||arkadiumhosted.com/advertisement/video/$script,domain=usatoday.com
+@@||arkadiumhosted.com^*/arena/heap/$script,domain=usatoday.com
 @@||auctionzip.com/cgi-bin/showimage.cgi?
 @@||autotrader.co.uk^*/advert$~third-party
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
