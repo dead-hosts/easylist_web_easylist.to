@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002281223
+! Version: 202002281323
 ! Title: EasyList
-! Last modified: 28 Feb 2020 12:23 UTC
+! Last modified: 28 Feb 2020 13:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5294,6 +5294,7 @@
 /inner-ads-
 /inner-ads/*
 /innerads.
+/inpl.sponsor.
 /inpost-ad^
 /inquirer/ads/*
 /insertA.d.js
@@ -21300,6 +21301,7 @@ _popunder+$popup
 ##.adslist
 ##.adslisting
 ##.adslistingz
+##.adsload
 ##.adslogan
 ##.adslot
 ##.adslot-area
@@ -23284,6 +23286,8 @@ _popunder+$popup
 ##.category-ad
 ##.category-advertorial
 ##.category-top-ads
+##.categoryMosaic-advertising
+##.categoryMosaic-advertisingText
 ##.categorySponsorAd
 ##.category__big_game_container_body_games_advertising
 ##.categoryfirstad
@@ -25594,6 +25598,7 @@ _popunder+$popup
 ##.main-column-ad
 ##.main-footer-ad
 ##.main-google-ad-container
+##.main-news__ad
 ##.main-right-ads
 ##.main-tabs-ad-block
 ##.main-top-ad-container
@@ -40470,6 +40475,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jwcavytgs.com^$third-party
 ||jwgsepzz.com^$third-party
 ||jwmnryeoc.com^$third-party
+||jwmwtcmexc.com^$third-party
 ||jwofadcwpocm.com^$third-party
 ||jwuvfovjzwe.com^$third-party
 ||jwwyuxjv.com^$third-party
