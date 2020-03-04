@@ -13202,7 +13202,7 @@
     "autogidas.lt": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "autoguide.com": {
         "epoch": 1603584000.0,
@@ -15790,8 +15790,8 @@
         "state": "future"
     },
     "bestbuy.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1646352000.0,
+        "expiration_date": "04-mar-2022",
         "state": "future"
     },
     "bestcasinopartner.com": {
@@ -111157,7 +111157,7 @@
     "theawl.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "thebadandugly.com": {
         "epoch": 1603843200.0,
