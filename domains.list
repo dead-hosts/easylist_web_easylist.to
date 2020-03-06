@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003060159
+! Version: 202003060325
 ! Title: EasyList
-! Last modified: 06 Mar 2020 01:59 UTC
+! Last modified: 06 Mar 2020 03:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20509,6 +20509,7 @@ _popunder+$popup
 ##.ads--desktop
 ##.ads--full
 ##.ads--menu-principal
+##.ads--no-preload
 ##.ads--sidebar
 ##.ads--single
 ##.ads--square
@@ -25504,6 +25505,7 @@ _popunder+$popup
 ##.listings-ad-block
 ##.listings-bottom-ad-w
 ##.listings_ad
+##.lite-page-ad
 ##.literatumAd
 ##.little_vid_ads
 ##.live-search-list-ad-container
@@ -51056,6 +51058,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wranglerforum.com/images/sponsor/
 ||wrc.com^*/Partners/
 ||wrc.com^*/sponsors/
+||wsj.net/pb/pb.js
 ||ww2.gestyy.com^
 ||www.sdad.guru^$xmlhttprequest,domain=g01.msn.com
 ||x.castanet.net^
@@ -53869,7 +53872,7 @@ thecarconnection.com###banner-container
 webtoolhub.com###banner_704_107
 webtoolhub.com###banner_719_105
 steroid.com###banner_div
-nj.com###below-toprail
+cleveland.com,nj.com###below-toprail
 infoplease.com###block-ipleaderboardad
 wordreference.com###botSupp
 wakingtimes.com###boxzilla-overlay
@@ -53920,6 +53923,7 @@ pjmedia.com##.ad-container
 famously-dead.com,famouslyarrested.com,famouslyscandalous.com,slacker.com##.ad2
 prokerala.com##.adm-unit
 nykdaily.com##.adsbygoogle
+karger.com##.adv
 gsmarena.com##.adv-mid
 fruitnet.com##.advert
 thechive.com##.advertisement
