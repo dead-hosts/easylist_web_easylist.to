@@ -24099,15 +24099,6 @@
         "1579561307": {
             "motorcycletrader.co.nz": "INACTIVE"
         },
-        "1583754612": {
-            "feeds1.validclick.com": "INACTIVE"
-        },
-        "1583754622": {
-            "t.mdn2015x2.com": "INACTIVE"
-        },
-        "1583754702": {
-            "facebookcorewwwi.onion": "INACTIVE"
-        },
         "1583819524": {
             "cacheserve.*": "INVALID",
             "online.*": "INVALID",
@@ -24122,6 +24113,12 @@
         },
         "1583835316": {
             "nytimes3xbfgragh.onion": "INACTIVE"
+        },
+        "1583844997": {
+            "t.mdn2015x2.com": "INACTIVE"
+        },
+        "1583845077": {
+            "facebookcorewwwi.onion": "INACTIVE"
         }
     }
 }
