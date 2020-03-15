@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003150901
+! Version: 202003151130
 ! Title: EasyList
-! Last modified: 15 Mar 2020 09:01 UTC
+! Last modified: 15 Mar 2020 11:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -925,6 +925,7 @@
 /active-ad-
 /ad%20banners/*
 /ad%20images/*
+/ad--unit.
 /ad-125.
 /ad-300topleft.
 /ad-300x250.
@@ -30697,6 +30698,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||05xz0h2xo799.com^
 ||08b72e4833486d.com^
 ||0a225c134735c.com^
+||0klxjejyxak3.com^
 ||0s9dxlr07huu.com^
 ||11ccda709b5cdf5.com^
 ||14nuzznszbdp.com^
@@ -30920,6 +30922,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fadspms.com^
 ||fadspmz.com^
 ||fagmomqua.site^
+||fatbuydoc.com^
 ||fazoumee.net^
 ||feed.r-tb.com^
 ||feed777.me^
@@ -30945,6 +30948,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gadsipz.com^
 ||gadskis.com^
 ||gadskiz.com^
+||gadslims.com^
 ||gadsokz.com^
 ||gagnibcan.com^
 ||gapsfartrely.best^
@@ -30955,6 +30959,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gedspecificano.info^
 ||geepwnfly.club^
 ||geodestricy.site^
+||gflnzl1vqntw.com^
 ||gleergie.net^
 ||global-surveys.co^
 ||globwo.online^
@@ -31062,6 +31067,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mewnetwag.site^
 ||mibsooks.net^
 ||mikrairs.com^
+||minologyhesia.site^
 ||minsistereron.site^
 ||mirafaren.pw^
 ||misdem.pro^
@@ -31173,6 +31179,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||prevealhealth.info^
 ||productorbash.info^
 ||productorsy.pro^
+||prographiciko.site^
 ||provisituske.site^
 ||pryrhoohs.site^
 ||psoaksoo.com^
@@ -31237,6 +31244,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||simpaignsen.info^
 ||sincernething.site^
 ||singthouthappi.info^
+||sionsrathet.info^
 ||sisewepod.com^
 ||sisterncoalitical.info^
 ||smenqskfmpfxnb.bid^
@@ -49933,6 +49941,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d3t3lxfqz2g5hs.cloudfront.net^
 ||d3vnm1492fpnm2.cloudfront.net^
 ||dc5k8fg5ioc8s.cloudfront.net^
+||dm7gsepi27zsx.cloudfront.net^
 ||dn3uy6cx65ujf.cloudfront.net^
 ||dpd9yiocsyy6p.cloudfront.net^
 ||du01z5hhojprz.cloudfront.net^
@@ -66025,7 +66034,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||hentai-foundry.com^*/ads.js
 @@||huffingtonpost.co.uk^$generichide
 @@||huffingtonpost.com^$generichide
-@@||iamcdn.net^*/ads.js$script,domain=hydrax.net
+@@||iamcdn.net^*/ads.js$script,domain=hydrax.net|playhydrax.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abcnews.go.com|slacker.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=foxnews.com
 @@||informer.com/js/show_ads.js
