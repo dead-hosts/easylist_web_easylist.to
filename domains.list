@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003171209
+! Version: 202003171437
 ! Title: EasyList
-! Last modified: 17 Mar 2020 12:09 UTC
+! Last modified: 17 Mar 2020 14:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1134,6 +1134,7 @@
 /ad/adp_
 /ad/ads-
 /ad/afc_
+/ad/api/*
 /ad/article/*
 /ad/article_
 /ad/audsci.
@@ -30467,7 +30468,7 @@ gumtree.co.za#@#.googleAdSense
 nicovideo.jp#@#.googleAds
 davidsilverspares.co.uk#@#.greyAd
 komando.com#@#.grid-item-ad
-forums.digitalspy.com,waer.org#@#.has-ad
+forums.digitalspy.com,marketwatch.com,waer.org#@#.has-ad
 minecraftforge.net#@#.hasads
 adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
 greenbayphoenix.com,photobucket.com#@#.headerAd
