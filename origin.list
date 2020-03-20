@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003200657
+! Version: 202003200900
 ! Title: EasyList
-! Last modified: 20 Mar 2020 06:57 UTC
+! Last modified: 20 Mar 2020 09:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8178,6 +8178,8 @@ _prx/ba_$script
 /newPrebid.
 /pb.min.
 /pbjs-*.js
+/pbjsandwich-
+/pbjsandwich.
 /prebid-
 /prebid.$domain=~prebid.org
 /prebid/*
@@ -29298,6 +29300,7 @@ _popunder+$popup
 ##a[href^="http://tc.tradetracker.net/"] > img
 ##a[href^="http://tezfiles.com/pr/"]
 ##a[href^="http://tour.affbuzzads.com/"]
+##a[href^="http://tour.mrskin.com/"]
 ##a[href^="http://track.adform.net/"]
 ##a[href^="http://track.affiliatenetwork.co.za/"]
 ##a[href^="http://track.incognitovpn.com/"]
@@ -29530,6 +29533,7 @@ _popunder+$popup
 ##a[href^="https://tc.tradetracker.net/"] > img
 ##a[href^="https://topoffers.com/"][href*="/?pid="]
 ##a[href^="https://torguard.net/aff.php"]
+##a[href^="https://tour.mrskin.com/"]
 ##a[href^="https://track.52zxzh.com/"]
 ##a[href^="https://track.adform.net/"]
 ##a[href^="https://track.afftck.com/"]
@@ -41306,6 +41310,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||luraclhaunxv.com^$third-party
 ||lusfrsxgxopm.com^$third-party
 ||luysvlnrb.com^$third-party
+||lvbdvlnbht.com^$third-party
 ||lvcrcimfmfx.com^$third-party
 ||lvctzafuvn.com^$third-party
 ||lvesmhsex.com^$third-party
@@ -45492,6 +45497,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zjhnmbfqylme.com^$third-party
 ||zjiktkmjyo.com^$third-party
 ||zjkdrqtjowihn.com^$third-party
+||zjllvkfa.com^$third-party
 ||zjncvhnkh.com^$third-party
 ||zjnmgmidmx.com^$third-party
 ||zjsbdjkdtjzoxh.com^$third-party
@@ -50715,6 +50721,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||media.campartner.com^*?cp=$popup,third-party
 ||meetlocals.com^*popunder$popup
 ||mjtlive.com/exports/golive/?lp=*&afno=$popup,third-party
+||mrskin.com/?_$popup
 ||mydirtyhobby.com/*?$popup,third-party
 ||myfreecams.com/?co_id=$popup
 ||offersuperhub.com/landing/$popup,third-party
