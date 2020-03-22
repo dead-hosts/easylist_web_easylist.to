@@ -7567,7 +7567,7 @@
     "adultgames.xxx": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adultimate.net": {
         "epoch": 1592870400.0,
@@ -12992,7 +12992,7 @@
     "auctionstealer.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "auctiva.com": {
         "epoch": 1609286400.0,
