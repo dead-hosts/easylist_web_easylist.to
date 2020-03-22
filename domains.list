@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003220902
+! Version: 202003221002
 ! Title: EasyList
-! Last modified: 22 Mar 2020 09:02 UTC
+! Last modified: 22 Mar 2020 10:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15493,6 +15493,7 @@ _popunder+$popup
 ###mod-ad-msu-1
 ###mod-ad-msu-2
 ###mod-partner-center
+###mod-tafad
 ###mod_ad
 ###mod_ad_top
 ###modal-ad
@@ -33226,6 +33227,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||digadser.com^$third-party
 ||digipathmedia.com^$third-party
 ||digitaladvertisingalliance.org^$third-party
+||digitalpush.org^$third-party
 ||digitalthrottle.com^$third-party
 ||digitrevenue.com^$third-party
 ||digyepnag.club^$third-party
@@ -38606,6 +38608,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bggznyujioad.com^$third-party
 ||bgibrhkn.com^$third-party
 ||bgiiubagsuvv.com^$third-party
+||bgkxbknajdn.com^$third-party
 ||bglnzzsgigbto.com^$third-party
 ||bgmgyuzcfrujc.com^$third-party
 ||bgqddlvq.com^$third-party
@@ -39745,6 +39748,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fsphhbsklawjs.com^$third-party
 ||fspicbawd.com^$third-party
 ||fsqknqvlngde.com^$third-party
+||fsvulvfqg.com^$third-party
 ||fswinrje.com^$third-party
 ||fsxkporoe.com^$third-party
 ||ftcjcmcovx.com^$third-party
