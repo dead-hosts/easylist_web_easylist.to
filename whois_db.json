@@ -43617,7 +43617,7 @@
     "freeshipping.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeshippingrewards.com": {
         "epoch": 1610150400.0,
@@ -50730,8 +50730,8 @@
         "state": "future"
     },
     "harpcolumn.com": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "harpers.org": {
@@ -91292,7 +91292,7 @@
     "prosperityactions.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "prostylex.com": {
         "epoch": 1575849600,
