@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003280022
+! Version: 202003280105
 ! Title: EasyList
-! Last modified: 28 Mar 2020 00:22 UTC
+! Last modified: 28 Mar 2020 01:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6353,6 +6353,7 @@
 /rubicon_blacklist.js
 /rule34/ads/*
 /rule34v2/ads/*
+/runtime~ads.
 /s?*&slot=
 /s_ad.aspx?
 /sadasds.js
@@ -7007,6 +7008,7 @@
 /vbvua.js
 /vclkads.
 /vendor-ads-
+/vendors~ads.
 /vericaladtitle.
 /vert728ad.
 /vert_ad.
@@ -45781,6 +45783,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zrgssannk.com^$third-party
 ||zridsfev.com^$third-party
 ||zrlxjcsvib.com^$third-party
+||zronsunopja.com^$third-party
 ||zrosbqwecw.com^$third-party
 ||zrzeewya.com^$third-party
 ||zrzrpxzvsk.com^$third-party
@@ -48853,6 +48856,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||couponcp-a.akamaihd.net^$third-party
 ||couptopia.com/affiliate/$third-party
 ||coxnewsweb.com^*/ads/
+||cperformmedia-a.akamaihd.net^
 ||cpm.amateurcommunity.de^
 ||cpmstar.com/cached/
 ||cpmstar.com/view.aspx
