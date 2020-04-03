@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004031102
+! Version: 202004031204
 ! Title: EasyList
-! Last modified: 03 Apr 2020 11:02 UTC
+! Last modified: 03 Apr 2020 12:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24215,6 +24215,7 @@ _popunder+$popup
 ##.footerFullAd
 ##.footerGoogleAdMainWarp
 ##.footerTextAd
+##.footer__advert
 ##.footer_ad
 ##.footer_ad336
 ##.footer_ad_container
@@ -26337,6 +26338,7 @@ _popunder+$popup
 ##.page-ads
 ##.page-advert
 ##.page-box-ad
+##.page-content__advert
 ##.page-cover--ads
 ##.page-footer-ad
 ##.page-header-ad
@@ -28464,6 +28466,8 @@ _popunder+$popup
 ##.trc-content-sponsored
 ##.trc-content-sponsoredUB
 ##.treeAdBlockWithBanner_right
+##.trend-card-advert
+##.trend-card-advert__title
 ##.trending__ad
 ##.tribal-ad
 ##.trip_ad_center
@@ -31447,6 +31451,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tifybecausingp.info^
 ||tionpronomyim.info^
 ||tiveacquisitsprett.info^
+||tj9pcnb2ws.com^
 ||toapsira.net^
 ||tonewithough.info^
 ||topbetfast.com^
@@ -52619,7 +52624,7 @@ $webrtc,domain=uptobox.com
 ||swatchseries.to/main.js
 ||www*.swatchseries.to^$script
 ! Fembed
-$script,third-party,xmlhttprequest,domain=core1player.com|exvcon.com|fembed.com|fsimg.info|gaobook.review|mavplayer.xyz|novelplanet.me|secfilm.xyz|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com
+$script,third-party,xmlhttprequest,domain=core1player.com|exvcon.com|fembed.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com
 ||fembed.com/revenue
 ! Fastplay
 |http://$script,stylesheet,third-party,domain=fastplay.to
@@ -66012,7 +66017,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||cwtv.com^$generichide
 @@||d17lvj5xn8sco6.cloudfront.net/ad/$image,xmlhttprequest
 @@||dailymail.co.uk^$generichide
-@@||dailymotion.com/embed/$subdocument,domain=~gum-gum-streaming.co|~gum-gum-streaming.com|~gum-gum-streaming.tv|~streaming-vostfr.com
+@@||dailymotion.com/embed/$subdocument,domain=~gum-gum-streaming.co|~gum-gum-streaming.com|~gum-gum-streaming.tv|~mavanimes.co|~streaming-vostfr.com
 @@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
 @@||deployads.com/a/9gag.com.js$script,domain=9gag.com
 @@||dianomi.com/cgi-bin/smartads.pl$xmlhttprequest,domain=inc.com
