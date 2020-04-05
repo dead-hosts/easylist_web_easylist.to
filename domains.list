@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004050744
+! Version: 202004050911
 ! Title: EasyList
-! Last modified: 05 Apr 2020 07:44 UTC
+! Last modified: 05 Apr 2020 09:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4055,6 +4055,7 @@
 /bdcustomadsense-
 /bdvws.js
 /beacon/ad/*
+/beacon/ads/*
 /beacon/ads?
 /behaviorads/*
 /bennerad.min.
@@ -30898,6 +30899,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||boursnormaticm.info^
 ||boyaidare.club^
 ||boyalebut.site^
+||brassstacker.com^
 ||brinarynuker.site^
 ||bupserge.com^
 ||bursagarc.com^
@@ -30941,6 +30943,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cpalabtracking.com^
 ||cpcmart.com^
 ||creativetv.pro^
+||crimentasaju.site^
 ||criminglynuk.pro^
 ||crocopop.com^
 ||cryartarm.online^
@@ -31350,6 +31353,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||productorsy.pro^
 ||prographiciko.site^
 ||propeanfanku.site^
+||protection-booster.club^
 ||protection-cleaner.club^
 ||protection-device.club^
 ||protection-fix.club^
@@ -50410,6 +50414,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
+||d2ykons4g8jre6.cloudfront.net^
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d31mxuhvwrofft.cloudfront.net^
@@ -54660,6 +54665,7 @@ webkinz.com##.bg-bigbox
 webkinz.com##.bg-leaderboard
 teachingchannel.org##.bg-medium-gray
 androidpolice.com##.big-sponsor
+autocar.co.uk##.block-autocar-ads-mpu-flexible1
 wakingtimes.com##.boxzilla-center-container
 cryptocompare.com##.btn-home-trade
 globalnews.ca##.c-flyers
