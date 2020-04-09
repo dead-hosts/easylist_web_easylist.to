@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004091033
+! Version: 202004091143
 ! Title: EasyList
-! Last modified: 09 Apr 2020 10:33 UTC
+! Last modified: 09 Apr 2020 11:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30774,6 +30774,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ! ---------------------------Third-party advertisers---------------------------!
 ! *** easylist:easylist/easylist_adservers.txt ***
 ! Non-flagged (Revolving ad servers)
+||01dbf3a452b6.com^
 ||05xz0h2xo799.com^
 ||08a14e37bb.com^
 ||08b72e4833486d.com^
@@ -30789,6 +30790,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||1getbestf1le3.xyz^
 ||25348f89a3.com^
 ||2b815136jjjv.com^
+||2sh8fouhk84h.com^
 ||2tpwcqot22mb.com^
 ||36c6ce350b32.com^
 ||394b8b41ac5305d.com^
@@ -30796,17 +30798,20 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||3e53df6c390.com^
 ||3f49237cf0.com^
 ||3wdf4.xyz^
+||456c11816f.com^
 ||4prgkoj870j9.com^
 ||4t6u1amm3t3n.com^
 ||542fe1b0002a.com^
 ||55ebf493c42.com^
 ||645yvcj6c8rn.com^
 ||6942f24115b63.com^
+||6d2d5f558f3.com^
 ||6ped2nd3yp.com^
 ||87gw0fl0rc11.com^
 ||8b5a31f63acbeb2d1d88.com^
 ||8d9d548d35.com^
 ||8gzijqo4c85j.com^
+||8mb4qkd74cht.com^
 ||8ue4.xyz^
 ||933aaa9228923a.com^
 ||93453074ab3e3.com^
@@ -30847,6 +30852,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aliticalpassister.info^
 ||alldeveldefinite.info^
 ||allycollegedstrie.info^
+||ammankeyan.com^
 ||ampallall.site^
 ||ampleteexis.info^
 ||anatomicele.site^
@@ -30865,6 +30871,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||artapeare.site^
 ||arthwhilearthu.info^
 ||artneesrparkete.info^
+||asewlfjqwlflkew.com^
 ||ashaidart.site^
 ||ashamparm.site^
 ||askaspalb.online^
@@ -31173,6 +31180,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||housopsi.net^
 ||huckauhy.com^
 ||hwhiffonprotect.info^
+||hyinlegvghul.com^
 ||ideliv.net^
 ||ie8eamus.com^
 ||iglaique.net^
@@ -39724,6 +39732,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eqfnhtthkog.com^$third-party
 ||eqhawyidkdug.com^$third-party
 ||eqnqxfrxsmuy.com^$third-party
+||eqoivockikaue.com^$third-party
 ||eqrauafet.com^$third-party
 ||eqrbfjwnmxpy.com^$third-party
 ||equjalkngu.com^$third-party
@@ -51350,6 +51359,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||alachuacountytoday.com/images/banners/
 ||alibi.com/?request_type=aimg
 ||allclassical.org^*/banners/
+||allkpop.com/ads/
 ||allmovie.com^*/affiliate_
 ||allmusic.com^*_affiliate_
 ||alt-market.com^*/banners/
@@ -52142,11 +52152,11 @@ $webrtc,domain=ibit.to
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=upstream.to
 ! vidotodo
-@@||fonts.googleapis.com^$stylesheet,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|vittodo.com
-@@||vidtodo.com/srt/$xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|vittodo.com
-@@||vidtodo.com^$image,script,stylesheet,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|vittodo.com
-|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|vittodo.com
-|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|vittodo.com
+@@||fonts.googleapis.com^$stylesheet,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|viltodo.com|vittodo.com
+@@||vidtodo.com/srt/$xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|viltodo.com|vittodo.com
+@@||vidtodo.com^$image,script,stylesheet,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|viltodo.com|vittodo.com
+|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|viltodo.com|vittodo.com
+|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=allvids.co|lasmxciosd201id2s0o2axmelsopco212i1l0m.com|play4vid.com|playedvid.com|playto-vid.com|playtvid.com|playvidto.com|playzvid.com|vibtodo.com|vid-to-do.com|viditodo.com|vidotodo.com|vidstodo.me|vidtedo.com|vidto-do.com|vidtod.me|vidtodos.com|vidtodu.com|vidtopo.com|vidtoro.com|vidtoup.com|vidtudu.com|viltodo.com|vittodo.com
 ! tamilrockers
 @@||google.com/complete/search?$script,domain=tamilrockers.ws
 @@||google.com/cse$script,domain=tamilrockers.ws
@@ -54804,6 +54814,7 @@ thechive.com##.advertisement
 lifebuzz.com##.adwrapper
 fandom.com##.aff-unit__wrapper
 bestprosoft.com##.affiliate_download_imagebutton_container
+allkpop.com##.akp2_anchor_scr
 cryptoslate.com##.amfeix
 androidcentral.com##.article-leaderboard
 forbes.com##.article-speedbump
