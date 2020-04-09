@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004082130
+! Version: 202004082343
 ! Title: EasyList
-! Last modified: 08 Apr 2020 21:30 UTC
+! Last modified: 08 Apr 2020 23:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39900,6 +39900,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fhvdwhbnl.com^$third-party
 ||fiaehdnnx.com^$third-party
 ||ficrwcptjvfpd.com^$third-party
+||fiewqoyhdkdcm.com^$third-party
 ||fifnonxntvaszg.com^$third-party
 ||finsbfaizzx.com^$third-party
 ||fiozxmznaba.com^$third-party
@@ -43059,6 +43060,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ppzfvypsurty.com^$third-party
 ||pqajjgjg.com^$third-party
 ||pqcjtsrnx.bid^$third-party
+||pqdgvgxtshpny.com^$third-party
 ||pqdysthxgrpz.com^$third-party
 ||pqftlgwzkuzsg.com^$third-party
 ||pqgnezcfd.bid^$third-party
@@ -51573,6 +51575,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||idlebrain.com^*/square-
 ||iftn.ie/images/data/banners/
 ||imgc.sythe.org^
+||imgca.sythe.org^
 ||imgcache.sythe.org^
 ||imgking.co/frler.js
 ||imgshots.com/includes/js/layer.js
@@ -66809,8 +66812,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||g.doubleclick.net/gampad/ads?$domain=pccomponentes.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=pccomponentes.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=pccomponentes.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|klix.ba|nettavisen.no|news.tbs.co.jp|rtlnieuws.nl
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|nettavisen.no|news.tbs.co.jp|rtlnieuws.nl
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
 @@||koshien-live.net/99/adtag.xml$domain=sportsbull.jp
 @@||krotoszyn.pl/uploads/pub/ads_files/$image,~third-party
