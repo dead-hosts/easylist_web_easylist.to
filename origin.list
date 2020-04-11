@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004111011
+! Version: 202004111145
 ! Title: EasyList
-! Last modified: 11 Apr 2020 10:11 UTC
+! Last modified: 11 Apr 2020 11:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30819,6 +30819,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||6d2d5f558f3.com^
 ||6e1167fc12a.com^
 ||6ped2nd3yp.com^
+||7y6.xyz^
 ||87gw0fl0rc11.com^
 ||8a13cd2a7e.com^
 ||8b5a31f63acbeb2d1d88.com^
@@ -30884,6 +30885,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||apologixopyr.site^
 ||aptashant.club^
 ||areapebeg.club^
+||arketscolourse.site^
 ||armashair.site^
 ||arnessaudie.site^
 ||artantash.club^
@@ -31349,6 +31351,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mptedcazdep.info^
 ||mr5aqoqlegsp.com^
 ||mslimitages.site^
+||mslimitagesmo.site^
 ||munroadaz.site^
 ||nadjustifygas.info^
 ||nailowhe.net^
@@ -44108,6 +44111,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rumldlbbkhetyv.com^$third-party
 ||runwtxeisppmt.com^$third-party
 ||ruodzaboyf.com^$third-party
+||ruuwkftrtegqj.com^$third-party
 ||ruzrkjnd.com^$third-party
 ||rvbibmaixelnq.com^$third-party
 ||rvbxnnwdsi.com^$third-party
@@ -54766,6 +54770,10 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 @@||ajax.googleapis.com^$script,domain=smutr.com
 |http://$script,third-party,xmlhttprequest,domain=smutr.com
 |https://$script,third-party,xmlhttprequest,domain=smutr.com
+! porno333.com
+$script,domain=porno333.com
+@@||porno333.com/player/kt_player.js$script,domain=porno333.com
+@@||porno333.good-cdn.com/js/main.min.js$script,domain=porno333.com
 ! *** easylist:easylist_adult/adult_specific_block_popup.txt ***
 .com./$popup,domain=pornhub.com|pornhubthbh7ap3u.onion
 ^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
