@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004110909
+! Version: 202004111011
 ! Title: EasyList
-! Last modified: 11 Apr 2020 09:09 UTC
+! Last modified: 11 Apr 2020 10:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9354,6 +9354,7 @@ _popunder+$popup
 ###Adverts_AdDetailsBottom_300x600
 ###Adverts_AdDetailsMiddle_300x250
 ###ArticleBottomAd
+###ArticleContentAd
 ###BANNER_160x600
 ###BANNER_300x250
 ###BANNER_728x90
@@ -17489,6 +17490,7 @@ _popunder+$popup
 ##.Ad-Header
 ##.Ad-IframeWrap
 ##.Ad-MPU
+##.Ad-Title
 ##.Ad-Wrapper-300x100
 ##.Ad-label
 ##.Ad-leaderboard
@@ -24566,6 +24568,7 @@ _popunder+$popup
 ##.googleBannerWrapper
 ##.googleContentAds
 ##.googleInsideAd
+##.googleLeftSkyScrapper
 ##.googleLgRect
 ##.googleProfileAd
 ##.googleSearchAd_content
@@ -31028,6 +31031,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||denotatorum.site^
 ||desigactinific.pro^
 ||dgafgadsgkjg.top^
+||dhappeasesem.site^
 ||diantcummiere.info^
 ||dimessing-parker.com^
 ||dingsincernett.info^
@@ -31073,6 +31077,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||egroacho.com^
 ||elastinabuker.site^
 ||eleasuredfas.info^
+||electureencroo.site^
 ||elivescousingcr.info^
 ||ellorschairwaydis.site^
 ||elmbagask.com^
@@ -31251,6 +31256,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||kegpoihat.club^
 ||ketstheralinver.info^
 ||kitferdog.site^
+||kitrigthy.com^
 ||kniferasatte.info^
 ||knottishhuntilc.info^
 ||koocaucy.com^
@@ -31422,6 +31428,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||overnmentil.site^
 ||overribleintena.info^
 ||oweverycanvas.info^
+||padpitnon.site^
 ||padsabz.com^
 ||padsatz.com^
 ||padsbrown.com^
@@ -31511,6 +31518,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rh1hilm7j0ae.com^
 ||rheaddelainlyco.info^
 ||riahungardedig.info^
+||ribtopmop.com^
 ||ridgelorridorsag.info^
 ||rinedcountilconsiden.info^
 ||rintellsfundrew.info^
@@ -43901,6 +43909,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||qzcpotzdkfyn.com^$third-party
 ||qzdexbmyq.com^$third-party
 ||qzfnuwdc.com^$third-party
+||qzgbhuelut.com^$third-party
 ||qzhaqsxb.com^$third-party
 ||qzismxssqf.com^$third-party
 ||qzizjjyvsa.com^$third-party
@@ -49378,6 +49387,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d3aiy6aqoa3ykz.cloudfront.net^
 ||d3al52d8cojds7.cloudfront.net^
 ||d3dytsf4vrjn5x.cloudfront.net^
+||d3em0905j9y6sm.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hs51abvkuanv.cloudfront.net^
 ||d3l320urli0p1u.cloudfront.net^
@@ -54873,6 +54883,7 @@ adnetworkdirectory.com###lAd
 designtaxi.com###large-screen-notices
 news.sky.com###leaderboard
 wowhead.com###main > .blocks
+yahoo.com###mega-banner-wrapper
 myjoyonline.com###mjo-article-left_rectangle_mid
 bgr.in,thehealthsite.com###mywebsite-container
 nbcsports.com###nbcsports-leaderboard
