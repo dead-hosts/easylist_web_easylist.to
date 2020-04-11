@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004102121
+! Version: 202004102346
 ! Title: EasyList
-! Last modified: 10 Apr 2020 21:21 UTC
+! Last modified: 10 Apr 2020 23:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22163,6 +22163,7 @@ _popunder+$popup
 ##.advertising-top-banner
 ##.advertising-top-box
 ##.advertising-top-category
+##.advertising-vert
 ##.advertising160
 ##.advertising2
 ##.advertising300_home
@@ -47783,6 +47784,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||biosda.com^$third-party
 ||bitterstrawberry.org^$third-party
 ||black6adv.com^$third-party
+||blackpics.net^$third-party
 ||blossoms.com^$third-party
 ||board-books.com^$third-party
 ||boinkcash.com^$third-party
@@ -47900,6 +47902,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||doublegear.com^$third-party
 ||dtiserv2.com^$third-party
 ||dtprofit.com^$third-party
+||dumbpop.com^$third-party
 ||duroternout.info^$third-party
 ||eadulttraffic.com^$third-party
 ||easy-dating.org^$third-party
@@ -48052,6 +48055,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||itw.me^$third-party
 ||iwanttodeliver.com^$third-party
 ||iwinnersadvantage.com^$third-party
+||iwlnzreu5vlx.com^$third-party
 ||ixspublic.com^$third-party
 ||jackao.net^$third-party
 ||japanbros.com^$third-party
@@ -48369,6 +48373,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sixsigmatraffic.com^$third-party
 ||sjosteras.com^$third-party
 ||skeettools.com^$third-party
+||skkybrought.pro^$third-party
 ||smartbn.ru^$third-party
 ||smartclick.net^$third-party
 ||smopy.com^$third-party
@@ -48732,6 +48737,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||desklks.com^$popup
 ||dirty-tinder.com^$popup,third-party
 ||doublegear.com^$popup,third-party
+||dumbpop.com^$popup
 ||dynsrvazg.com^$popup
 ||dynsrvazh.com^$popup
 ||easysexdate.com^$popup
@@ -51589,6 +51595,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||exchangerates.org.uk/images/200x200_
 ||expatexchange.com/banner/
 ||extramovies.casa^*/freedownload.png
+||extreme-down.ninja/xvideo.js
 ||f1i.com^*/hype/
 ||facebook.com/video/instream_video/$xmlhttprequest
 ||facebook.com^*/instream/vast.xml?
@@ -51906,7 +51913,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tilt.heavenmedia.com^$domain=esportsheaven.com|hardwareheaven.com
 ||time.com/tgx/mm.min.js
 ||time.com^*/dianomi-
-||timeanddate.com/scripts/ts.php
 ||timeout.com/dist/js/adverts-
 ||torrenteditor.com/img/graphical-network-monitor.gif
 ||total-croatia-news.com/images/banners/
@@ -54542,6 +54548,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||xxxymovies.com/js/win.js
 ||xxxymovies.com^*/bottom-banner.
 ||yea.xxx/img/creatives/
+||yespornplease.porn^*/banner-
 ||yoerotica.com^$script,domain=neweroticparadise.com
 ||youaresogay.com/*.html
 ||youporn.com/capedorset/
@@ -65316,7 +65323,7 @@ analpornpix.com##.ban_list
 gayboystube.com##.bancentr
 fux.com##.baner-column
 xchimp.com##.bannadd
-4tube.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imageporter.com,imagezog.com,myxvids.com,paradisehill.cc,playvid.com,playvids.com,pornflip.com,pornhub.com,pornhubthbh7ap3u.onion,pornoreino.com,private.com,upornia.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,watchhentaivideo.com,waybig.com,xbabe.com,xhamster.com,yourdailygirls.com##.banner
+4tube.com,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,gaytube.com,hotmovs.com,imageporter.com,imagezog.com,momthumb.com,myxvids.com,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,pornflip.com,pornhub.com,pornhubthbh7ap3u.onion,pornoreino.com,private.com,upornia.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,watchhentaivideo.com,waybig.com,xbabe.com,xhamster.com,yourdailygirls.com##.banner
 watchindianporn.net##.banner-1
 hd-porn.me##.banner-actions
 adultpornvideox.com,jojobaa.net##.banner-box
@@ -65759,6 +65766,7 @@ boundhub.com##.table > noindex
 porndoe.com##.tablet-content-acontainer
 intporn.com##.tagcloudlink.level4
 amateuralbum.net##.tb3
+sxyprn.com##.tbd
 amateurvoyeurforum.com##.tborder[width="99%"][cellpadding="6"]
 pronpic.org##.teaser
 imagepost.com##.textads1
@@ -65890,7 +65898,7 @@ pornhub.com,pornhubthbh7ap3u.onion##a[href*=".download/"]
 redtube.com##a[href*=".hop.clickbank.net"]
 badjojo.com,boysfood.com,celebrity-leaks.net,definebabe.com,efukt.com,eskimotube.com,fantasti.cc,gaytube.com,girlsofdesire.org,imagepix.org,javfor.me,keezmovies.com,madthumbs.com,pornerbros.com,pornxs.com,redtube.com,shemaletubevideos.com,therealpornwikileaks.com,xhamster.com,xxxkingtube.com,yea.xxx,youngpornvideos.com,yourdailypornstars.com##a[href*=".php"]
 xxxporn.pics##a[href*=".solidcams.com?"]
-cfake.com,porn-w.org,porn99.net##a[href*="//bit.ly/"]
+cfake.com,porn-w.org,porn99.net,yespornplease.porn##a[href*="//bit.ly/"]
 cfake.com##a[href*="//bitly.com/"]
 dagay.com##a[href*="/aff_ad?"]
 adultfreex.com##a[href*="/brazzers-network/"]
@@ -65911,7 +65919,7 @@ efukt.com##a[href*="/videos/"]
 porndig.com##a[href*="/zone_link/"]
 celebrity-slips.com##a[href*="?_atc="]
 pornhat.com##a[href*="?aff="]
-adultfreex.com,animeidhentai.com,biqle.ru,daftsex.com,gotporn.com,katestube.com,megatube.xxx,pstargif.com,redtube.com,sextvx.com,spankbang.com,sxyprn.com,ultrahorny.com,vporn.com,xnostars.com,xozilla.com,xxxporn.pics,xxxymovies.com##a[href*="?ats="]
+adultfreex.com,animeidhentai.com,biqle.ru,daftsex.com,gotporn.com,katestube.com,megatube.xxx,pornhub.com,pornhubpremium.com,pstargif.com,redtube.com,sextvx.com,spankbang.com,sxyprn.com,ultrahorny.com,vporn.com,xnostars.com,xozilla.com,xxxporn.pics,xxxymovies.com##a[href*="?ats="]
 dachix.com##a[href*="?campaign_id="]
 pornhat.com,redtube.com,thumbzilla.com##a[href*="?coupon="]
 redtube.com##a[href*="?link_id="][href*="&tracker_id="]
@@ -66009,7 +66017,9 @@ porn.com##a[href^="http://www.slutfinder.com/"]
 eskimotube.com##a[href^="http://www.streamate.com/"]
 eskimotube.com##a[href^="http://www.tjoobvip.com/"]
 xxxprivates.com##a[href^="http://www.xxxprivates.com/out-sponsor-"]
+sxyprn.com##a[href^="https://ab.advertiserurl.com/"]
 katestube.com##a[href^="https://ads.traffichaus.com/"]
+pornhub.com,pornhubpremium.com##a[href^="https://ads.trafficjunky.net/"]
 xxxgames.biz##a[href^="https://detour.click/"]
 camwhores.tv##a[href^="https://go.stripcash.com/"]
 camvideos.tv,camwhores.tv,proporn.com,xhamster.com##a[href^="https://go.stripchat.com/"]
@@ -66338,7 +66348,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||foxnewsplayer-a.akamaihd.net^*/amp/prebid/$script,domain=foxbusiness.com|foxnews.com
 @@||fwmrm.net^*/AdManager.js$script
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=gamespot.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,domain=9gag.com|accuweather.com|webmd.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=9gag.com|accuweather.com|gamespot.com|webmd.com
 @@||glos.ac.uk/DataRepository/CourseDatabase/*/adv/$image,~third-party
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/search?sclient=*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
