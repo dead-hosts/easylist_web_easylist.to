@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004112122
+! Version: 202004112259
 ! Title: EasyList
-! Last modified: 11 Apr 2020 21:22 UTC
+! Last modified: 11 Apr 2020 22:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30658,6 +30658,7 @@ getprice.com.au#@#.sponsoredLinks
 giantlife.com,hellobeautiful.com,newsone.com,theurbandaily.com#@#.sticky-ad
 technical.ly#@#.story-ad
 ibtimes.co.in#@#.taboola-ad
+topclassactions.com#@#.tag-sponsored
 thoughtcatalog.com#@#.tc_ad_unit
 star.txstate.edu#@#.td-ad
 star.txstate.edu#@#.td-header-ad-wrap
@@ -53278,7 +53279,7 @@ $csp=worker-src 'none',domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.sup
 ||broadwayworld.com^$csp=script-src 'self' * 'unsafe-inline'
 ||btkitty.pet^$csp=script-src 'self' 'unsafe-inline' *.cloudflare.com *.googleapis.com *.jsdelivr.net
 ||campussports.net^$csp=script-src 'self' * 'unsafe-inline'
-||cheezburger.com^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.air.tv *.b2c.com *.chartbeat.com *.cheezburger.com *.chzbgr.com *.complex.com *.facebook.net *.google-analytics.com *.google.com *.gstatic.com *.instagram *.newrelic.com *.optimizely.com *.quantcount.com *.quantserve.com *.scorecardresearch.com *.spot.im *.twitter.com *.youtube.com *.ytimg.com
+||cheezburger.com^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.air.tv *.b2c.com *.twimg.com *.chartbeat.com *.cheezburger.com *.chzbgr.com *.complex.com *.facebook.net *.google-analytics.com *.google.com *.gstatic.com *.instagram *.newrelic.com *.optimizely.com *.quantcount.com *.quantserve.com *.scorecardresearch.com *.spot.im *.twitter.com *.youtube.com *.ytimg.com
 ||colourlovers.com^$csp=script-src 'self' * 'unsafe-inline'
 ||convertcase.net^$csp=script-src 'self' * blob: data:
 ||convertfiles.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -53311,7 +53312,7 @@ $csp=worker-src 'none',domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.sup
 ||oneload.site^$csp=script-src 'self' 'unsafe-inline'
 ||onion.ly^$csp=script-src 'self' * 'unsafe-inline'
 ||phonesreview.co.uk^$csp=script-src 'self' * 'unsafe-inline'
-||pirateiro.com^$csp=script-src 'self' 'unsafe-inline'
+||pirateiro.com^$csp=script-src 'self' 'unsafe-inline' https://hcaptcha.com *.hcaptcha.com
 ||pocketnow.com^$csp=script-src 'self' * 'unsafe-inline'
 ||pockettactics.com^$csp=script-src 'self' * 'unsafe-inline'
 ||pornsharing.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.google-analytics.com
