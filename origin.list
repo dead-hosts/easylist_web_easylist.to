@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004120314
+! Version: 202004120503
 ! Title: EasyList
-! Last modified: 12 Apr 2020 03:14 UTC
+! Last modified: 12 Apr 2020 05:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31091,6 +31091,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||elivescousingcr.info^
 ||ellorschairwaydis.site^
 ||elmbagask.com^
+||embargainew.site^
 ||emembersm.site^
 ||ememoricane.info^
 ||encountryf.pro^
@@ -31111,6 +31112,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||esauwoan.com^
 ||esconcentleu.site^
 ||estionexperime.info^
+||eswaldderinao.site^
 ||etsmercisely.site^
 ||eunformeranothe.info^
 ||eventurypol.site^
@@ -31242,6 +31244,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||inpagepush.com^
 ||instantresp.com^
 ||inswebt.com^
+||intinuedbgyuj.site^
 ||inwig3aqg9xq.com^
 ||ionrefreshotsev.info^
 ||ipsoorel.com^
@@ -31684,6 +31687,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||uzk4umokyri3.com^
 ||vanmapdug.club^
 ||veewakim.net^
+||verageousarra.site^
 ||verdriusuref.site^
 ||veremund-hon.com^
 ||viatepigan.com^
@@ -42935,6 +42939,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pdgxtdughbeks.com^$third-party
 ||pdidbylbwghsr.com^$third-party
 ||pdippmqmrkvn.com^$third-party
+||pdmtmribgaqctz.com^$third-party
 ||pdmucolwl.com^$third-party
 ||pdnoucwb.com^$third-party
 ||pdoijgyoxcjob.com^$third-party
@@ -52002,6 +52007,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wall.vgr.com^
 ||wapinda.in/images/downloadvideo.jpg
 ||watoday.com.au/assets/europa.modern.js
+||wccftech.com/wp-content/uploads/*-backgrund-$image
 ||wcostream.com/tnc/$image,script
 ||weather.com/weather/assets/120.$script
 ||web.tmearn.com^
@@ -55030,6 +55036,7 @@ save.ca##.leaderboardMainWrapper
 vg247.com##.leaderboards
 vg247.com##.low-leader-container
 politifact.com##.m-billboard
+wccftech.com##.main-background
 designtaxi.com##.masonry-brick.dynamic-width
 forbes.com##.medianet-wrapper
 imdb.com##.mediaviewer__head-banner
