@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004121144
+! Version: 202004121249
 ! Title: EasyList
-! Last modified: 12 Apr 2020 11:44 UTC
+! Last modified: 12 Apr 2020 12:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -605,7 +605,7 @@
 .com/a?network
 .com/a?pagetype
 .com/a?size
-.com/ad.$domain=~ad-tuning.de
+.com/ad.$~script,domain=~ad-tuning.de
 .com/ad/$~image,third-party,domain=~mediaplex.com
 .com/ad/$~third-party,domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~namemc.com
 .com/ad1/
@@ -620,7 +620,7 @@
 .com/adlib_
 .com/adpicture
 .com/ads-
-.com/ads.
+.com/ads.$~script
 .com/ads/$image,object,subdocument,domain=~sabotage-films.com
 .com/ads?
 .com/ads_
@@ -639,7 +639,7 @@
 .com/im_ad/
 .com/iplgadshow
 .com/js.ng/
-.com/js/ad.
+.com/js/ad.$~script
 .com/js/ads/
 .com/js/adsense
 .com/miads/
@@ -746,7 +746,7 @@
 .openx.$domain=~openx.com
 .openxtag.
 .org/ad-
-.org/ad.
+.org/ad.$~script
 .org/ad/
 .org/ad_
 .org/adgallery1
@@ -1050,7 +1050,7 @@
 /ad-rotator-
 /ad-scroll.
 /ad-serve?
-/ad-server.
+/ad-server.$~script
 /ad-server/*
 /ad-side/*
 /ad-sidebar-
@@ -1911,7 +1911,7 @@
 /adfox/*
 /adfoxLoader_
 /adfr.
-/adframe.
+/adframe.$~script
 /adframe/*
 /adframe120.
 /adframe120x240.
@@ -2398,7 +2398,6 @@
 /ads.gif
 /ads.htm
 /ads.jplayer.
-/ads.js.
 /ads.js/*
 /ads.js?
 /ads.json?
@@ -2406,7 +2405,6 @@
 /ads.load.
 /ads.min.js
 /ads.pbs
-/ads.php
 /ads.pl?
 /ads.png
 /ads.release/*
@@ -2954,12 +2952,11 @@
 /adsegmentation.
 /adseller/*
 /adsen/*
-/adsence.
 /adsenceSearch.
 /adsenceSearchTop.
 /adsEnd.
 /adsense-
-/adsense.$domain=~adsense.az|~adsense.googleblog.com
+/adsense.$~script,domain=~adsense.az|~adsense.googleblog.com
 /adsense/*
 /adsense1.
 /adsense2.
@@ -3447,7 +3444,7 @@
 /adversting/*
 /adversting?
 /advert-$domain=~advert-solutions.com|~advert-technology.com|~advert-technology.ru
-/advert.$domain=~advert.ae|~advert.ee|~advert.io|~advert.media|~motortrader.com.my
+/advert.$~script,domain=~advert.ae|~advert.ee|~advert.io|~advert.media|~motortrader.com.my
 /advert/*
 /advert01.
 /advert1-
@@ -3486,8 +3483,8 @@
 /advertise_
 /advertisebanners/*
 /advertisehere.
-/advertisement-$domain=~berlin-airport.de
-/advertisement.$domain=~advertisement.solutions.zalando.com
+/advertisement-$~script,domain=~berlin-airport.de
+/advertisement.$~script,domain=~advertisement.solutions.zalando.com
 /advertisement/*
 /advertisement1.
 /advertisement160.
@@ -3514,7 +3511,7 @@
 /advertises/*
 /advertisewithus_
 /advertising-$domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~microsoft.com|~outbrain.com|~yellowimages.com
-/advertising.$domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
+/advertising.$~script,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
 /advertising/*$~xmlhttprequest,domain=~advertising.org.il|~commercialplanet.eu|~kloterfarms.com|~temple.edu|~themarker.com
 /advertising02.
 /advertising2.
@@ -3898,7 +3895,7 @@
 /banmanpro/*
 /Banner-300x250.
 /banner-ad-
-/banner-ad.
+/banner-ad.$~script
 /banner-ad/*
 /banner-ad_
 /banner-ads-
@@ -4516,7 +4513,7 @@
 /display/ads?
 /display?ad_
 /display_ad
-/displayad.
+/displayad.$~script
 /displayad/*
 /displayad?
 /displayadbanner_
@@ -4992,7 +4989,7 @@
 /google_lander2.js
 /google_radlinks_
 /googlead-
-/googlead.
+/googlead.$~script
 /googlead/*
 /googlead1.
 /googlead160.
@@ -5399,8 +5396,8 @@
 /js.ng/pagepos=
 /js.ng/site=
 /js.ng/size=
-/js/ads-
-/js/ads.
+/js/ads-$~script
+/js/ads.$~script
 /js/ads_
 /js/adv.
 /js/adv/*
@@ -6385,12 +6382,12 @@
 /scn.php?
 /script-adv-
 /script/ad.$~script
-/script/ads.
+/script/ads.$~script
 /script/ads_
 /script/banniere_*.php?id=*&ref=$script,third-party
 /script/oas/*
 /scripts/ad-
-/scripts/ad.
+/scripts/ad.$~script
 /scripts/ad/*
 /scripts/ad_
 /scripts/ads.
@@ -6463,7 +6460,7 @@
 /showadcode2.
 /showadcontent.
 /showadjs.
-/showads.
+/showads.$~script
 /showads^
 /showads_
 /showadv2.
@@ -31144,6 +31141,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fazoumee.net^
 ||feed.r-tb.com^
 ||feed777.me^
+||feedinburgew.site^
 ||feelinedbusin.site^
 ||feelineweatyeng.info^
 ||fessmegilscha.info^
@@ -31348,6 +31346,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||miserintesto.site^
 ||mitsczechoesy.site^
 ||mjbuuxt7l18r.com^
+||mk1lyl406xmp.com^
 ||ml0z14azlflr.com^
 ||mlsys.xyz^
 ||moapteeg.net^
@@ -31615,6 +31614,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||streamclub.best^
 ||streamclub.fun^
 ||stremanp.com^
+||strialcurity.site^
 ||striesastanov.site^
 ||strikersucces.site^
 ||styheremo.site^
@@ -31638,6 +31638,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||televeniesuc.pro^
 ||tentdinationgab.info^
 ||terialnevitiesini.info^
+||tfncnhd8p95c.com^
 ||thamsais.com^
 ||theeburs.com^
 ||thefastpush.com^
@@ -31696,6 +31697,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||utpenedwritted.info^
 ||utstancecaricit.info^
 ||uzk4umokyri3.com^
+||vaipsona.com^
 ||vanmapdug.club^
 ||veewakim.net^
 ||verageousarra.site^
@@ -44028,6 +44030,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rfsfpomom.com^$third-party
 ||rgahmllbgubakm.com^$third-party
 ||rgcblgor.com^$third-party
+||rgdhiucvbtkpou.com^$third-party
 ||rgejlqtlr.com^$third-party
 ||rgiijsfm.com^$third-party
 ||rgttoipdr.com^$third-party
@@ -54984,6 +54987,7 @@ forbes.com##.article-speedbump
 armageddonexpo.com,blockchair.com,mmorpg.com,rugby365.com##.banner
 desinode.com,songspk.mobi##.banner-wrapper
 novinite.com##.banner300x250
+hostadvice.com##.banner_wrap
 mamul.am##.bannerb
 southfloridagaynews.com##.bannergroup
 forum.thaivisa.com##.banners-inside
