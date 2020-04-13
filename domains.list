@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004132123
+! Version: 202004132303
 ! Title: EasyList
-! Last modified: 13 Apr 2020 21:23 UTC
+! Last modified: 13 Apr 2020 23:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -231,7 +231,7 @@
 -ads-iframe.
 -ads-init&
 -ads-management/
--ads-manager/
+-ads-manager/$domain=~wordpress.org
 -ads-master/
 -ads-ns.
 -ads-placement.
@@ -3422,7 +3422,7 @@
 /advalue_
 /advaluewriter.
 /advanced-ads-
-/advanced-ads/*
+/advanced-ads/*$domain=~wordpress.org
 /advanced-advertising-
 /advault.
 /advbanner/*
@@ -50045,7 +50045,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
 ||mydownloader.net/banners/$third-party
 ||myezbz.com/marketplace/widget/$third-party
-||myfinance.com^$domain=cnn.com
+||myfinance.com^$domain=cnn.com|marketwatch.com
 ||myfreeresources.com/getimg.php?$third-party
 ||myfreeshares.com/120x60b.gif
 ||myhpf.co.uk/banners/
@@ -50388,6 +50388,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||slysoft.com/img/banner/$third-party
 ||smart.styria-digital.com^
 ||smartasset.com/embed.js
+||smartasset.com^$domain=marketwatch.com
 ||smartdestinations.com/ai/$third-party
 ||smartdreamers.hu/embed/$subdocument,third-party
 ||smblock.s3.amazonaws.com^
@@ -55123,6 +55124,7 @@ pennlive.com##.revenue-display
 thecarconnection.com##.review-continue-text
 coincodex.com##.right-sidebar
 designtaxi.com##.row.displayboard
+marketwatch.com##.sa-captivate-box
 beermoneyforum.com##.samBannerUnit
 searchenginejournal.com##.sej-banner-section
 studyfinds.org##.sfspot
