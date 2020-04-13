@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004122313
+! Version: 202004130053
 ! Title: EasyList
-! Last modified: 12 Apr 2020 23:13 UTC
+! Last modified: 13 Apr 2020 00:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1962,7 +1962,7 @@
 /adGpt.
 /adgraphics/*
 /adgroupdetailv2.
-/adguard.$domain=~adguard-com.cdn.ampproject.org|~adguard.com|~adguard.mobi|~adguard.oneskyapp.com|~greinr.com
+/adguard.$domain=~adguard-com.cdn.ampproject.org|~adguard.com|~adguard.mobi|~adguard.oneskyapp.com|~greinr.com|~marketplace.visualstudio.com
 /adguru.
 /adhads.
 /adhalfbanner.
@@ -22834,6 +22834,7 @@ _popunder+$popup
 ##.bizCardAd
 ##.bizDetailAds
 ##.bkg-ad-browse
+##.bl300_ad
 ##.bl_adv_right
 ##.blacboard-ads-container
 ##.blk_advert
@@ -23584,6 +23585,7 @@ _popunder+$popup
 ##.containerAdsense
 ##.containerSqAd
 ##.container_ad
+##.container_ad_v
 ##.container_row_ad
 ##.container_serendipity_plugin_google_adsense
 ##.contains-ad
@@ -30925,6 +30927,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||b460e308b59.com^
 ||ba138901a1dd4534b2d0.com^
 ||badsbads.com^
+||balanderramed.site^
 ||bathibsa.com^
 ||batwaxwok.site^
 ||bauthair.net^
@@ -31084,6 +31087,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eeltaung.com^
 ||eengaums.com^
 ||eergurty.net^
+||effectionerew.site^
 ||eforeantheirma.info^
 ||egroacho.com^
 ||elastinabuker.site^
@@ -31155,6 +31159,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fixsirrod.site^
 ||flowwiththetide.xyz^
 ||fnx2n3rqbuw7.com^
+||forcementsawe.site^
 ||forwayonlibe.site^
 ||frequestabure.site^
 ||ftigholm.site^
@@ -46328,6 +46333,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zygrlkimddjzd.com^$third-party
 ||zyikzhgqzjyvgu.com^$third-party
 ||zylotcosp.com^$third-party
+||zyrjagscswahgz.com^$third-party
 ||zywfpkagwwpm.com^$third-party
 ||zyxmnqkt.com^$third-party
 ||zzfycxsu.com^$third-party
@@ -47090,6 +47096,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||exdoller.com^$popup
 ||exdynsrv.com^$popup,third-party
 ||exosrv.com^$popup
+||expired-antiviruses.com^$popup
 ||explainidentifycoding.info^$popup,third-party
 ||explorads.com^$popup,third-party
 ||expmediadirect.com^$popup
@@ -50704,6 +50711,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zip2save.com/widget.php?
 ||zoomin.tv/video/*.flv$third-party,domain=twitch.tv
 ! hilltopads
+||cloudfront.net^$script,third-party,domain=site
 ||d141wsrw9m4as6.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
 ||d188elxamt3utn.cloudfront.net^
