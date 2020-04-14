@@ -45457,7 +45457,7 @@
     "gamecopyworld.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "gameduell.com": {
         "epoch": 1596412800.0,
@@ -48595,8 +48595,8 @@
         "state": "future"
     },
     "goraps.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "goredi.com": {
@@ -76827,6 +76827,11 @@
     "my-magazine.me": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "my-movie.club": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "my-proxy.com": {
@@ -122482,6 +122487,11 @@
     "vod-cash.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "vod09197d7.club": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "vodbordnhhemq.com": {
