@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004151637
+! Version: 202004151807
 ! Title: EasyList
-! Last modified: 15 Apr 2020 16:37 UTC
+! Last modified: 15 Apr 2020 18:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2259,7 +2259,7 @@
 /adpositionsizein-
 /AdPostInjectAsync.
 /AdPreview/*
-/adprime.$domain=~adprime.pl
+/adprime.$domain=~adprime.ltd|~adprime.pl
 /adproducts/*
 /adprove_
 /adprovider.
@@ -29603,7 +29603,7 @@ _popunder+$popup
 ##a[href^="https://t.mobtya.com/"]
 ##a[href^="https://tc.tradetracker.net/"] > img
 ##a[href^="https://topoffers.com/"][href*="/?pid="]
-##a[href^="https://torguard.net/aff.php"]
+##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://tour.mrskin.com/"]
 ##a[href^="https://track.52zxzh.com/"]
 ##a[href^="https://track.adform.net/"]
@@ -30450,7 +30450,7 @@ shopmos.net#@#.ads_top
 quebarato.com.br,search.conduit.com#@#.ads_wrapper
 alluc.org#@#.adsbottombox
 imagebam.com#@#.adsbox
-advancedrenamer.com,epicbundle.com,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,epicbundle.com,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
