@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004271604
+! Version: 202004271802
 ! Title: EasyList
-! Last modified: 27 Apr 2020 16:04 UTC
+! Last modified: 27 Apr 2020 18:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -560,7 +560,7 @@
 .adtech_
 .adtooltip&
 .adv.cdn.
-.advert.$domain=~advert.ae|~advert.io|~advert.ly|~advert.media
+.advert.$domain=~advert.ae|~advert.io|~advert.ly|~advert.media|~advert.org.pl
 .AdvertismentBottom.
 .advertmarket.
 .advertrecycling.
@@ -2335,6 +2335,7 @@
 /ads-300-
 /ads-300.
 /ads-5.
+/ads-890x100-
 /ads-admin.
 /ads-api.
 /ads-arc.
@@ -2784,6 +2785,7 @@
 /ads728.
 /ads728adn2.
 /ads728e.
+/ads728x90.
 /ads728x90_
 /ads728x90a.
 /ads790.
@@ -3445,7 +3447,7 @@
 /adversting/*
 /adversting?
 /advert-$domain=~advert-solutions.com|~advert-technology.com|~advert-technology.ru
-/advert.$~script,domain=~advert.ae|~advert.ee|~advert.io|~advert.media|~motortrader.com.my
+/advert.$~script,domain=~advert.ae|~advert.ee|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
 /advert/*
 /advert01.
 /advert1-
@@ -10988,6 +10990,7 @@ _popunder+$popup
 ###ad_btmslot
 ###ad_bucket_med_rectangle_1
 ###ad_bucket_med_rectangle_2
+###ad_buts
 ###ad_buttons
 ###ad_category_middle
 ###ad_cell
@@ -15897,6 +15900,7 @@ _popunder+$popup
 ###postads
 ###postads0
 ###postpageaddiv
+###pp-ad-slot
 ###ppcAdverts
 ###pr_ad
 ###pr_advertising
@@ -27539,6 +27543,7 @@ _popunder+$popup
 ##.site_ad--wrapper
 ##.site_ad_120_600
 ##.site_ad_300x250
+##.site_ads
 ##.site_sponsers
 ##.sitesponsor
 ##.sitesprite_ads
@@ -34530,6 +34535,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hindurinning.pro^$third-party
 ||hipersushiads.com^$third-party
 ||hiplair.com^$third-party
+||hiprofitnetworks.com^$third-party
 ||hipsarda.net^$third-party
 ||histock.info^$third-party
 ||hit-now.com^$third-party
@@ -52060,6 +52066,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||i-tech.com.au/media/wysiwyg/banner/
 ||i3investor.com/cm/img/offer_
 ||i3investor.com/cm/img/partner/
+||iamhansen.xyz/2-320x50.gif
 ||ibsrv.net/*214x30.
 ||ibsrv.net/*_215x30.
 ||ibsrv.net/*_215x30_
@@ -63602,7 +63609,7 @@ meta-calculator.com,meta-chart.com##a[href^="https://www.mathway.com/"]
 metal-archives.com##a[href^="https://www.metal-archives.com/affiliate/"]
 cnn.com##a[href^="https://www.myfinance.com/"]
 msn.com##a[href^="https://www.primevideo.com/?tag="]
-freenode.org,magnetdl.com,rarbg.to,rarbgmirror.com,rarbgproxy.com,torrentfreak.com##a[href^="https://www.privateinternetaccess.com/"]
+freenode.org,iamhansen.xyz,magnetdl.com,rarbg.to,rarbgmirror.com,rarbgproxy.com,torrentfreak.com##a[href^="https://www.privateinternetaccess.com/"]
 msn.com##a[href^="https://www.rentalcars.com/"]
 xscores.com##a[href^="https://www.rivalo1.com/?affiliateId="]
 depositfiles.com,dfiles.eu,dfiles.ru##a[href^="https://www.tuvpn.com/"]
