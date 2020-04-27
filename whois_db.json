@@ -23595,8 +23595,8 @@
         "state": "future"
     },
     "childfund.org": {
-        "epoch": 1583712000.0,
-        "expiration_date": "09-mar-2020",
+        "epoch": 1741478400.0,
+        "expiration_date": "09-mar-2025",
         "state": "future"
     },
     "chileindex.com": {
@@ -111705,8 +111705,8 @@
         "state": "future"
     },
     "theforecaster.net": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1645747200.0,
+        "expiration_date": "25-feb-2022",
         "state": "future"
     },
     "thefourthperiod.com": {
@@ -114619,6 +114619,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "topclassactions.com": {
+        "epoch": 1868313600.0,
+        "expiration_date": "16-mar-2029",
+        "state": "future"
+    },
     "topclassifieds.info": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
@@ -114940,8 +114945,8 @@
         "state": "future"
     },
     "torrentv.org": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "torrentz2.is": {
@@ -129630,8 +129635,8 @@
         "state": "future"
     },
     "xhamster.com": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "xhamster.one": {
