@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004280712
+! Version: 202004280836
 ! Title: EasyList
-! Last modified: 28 Apr 2020 07:12 UTC
+! Last modified: 28 Apr 2020 08:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29081,7 +29081,6 @@ _popunder+$popup
 ##.ysponsor
 ##.yt-adsfull-widget
 ##.ytd-carousel-ad-renderer
-##.ytp-ad-module
 ##.ytp-ad-progress
 ##.ytp-ad-progress-list
 ##.yui3-ad
@@ -30732,6 +30731,7 @@ express.de,focus.de#@#.trc_rbox_div .syndicatedItem
 express.de,focus.de#@#.trc_related_container div[data-item-syndicated="true"]
 yahoo.com#@#.type_ads_default
 wingsbirdpro.com#@#.vertical-ads
+youtube.com#@#.video-ads
 vinden.se#@#.view_ad
 nytimes.com,nytimes3xbfgragh.onion#@#.wideAd
 britannica.com,cam4.com#@#.withAds
@@ -52387,7 +52387,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||x.castanet.net^
 ||xbox-hq.com/html/images/banners/
 ||xinhuanet.com/s?
-||xp.apple.com/config/1/report/
 ||xtremesystems.org/fugger/
 ||yahoo.com/sdarla/$subdocument
 ||yellowpages.ae/UI/MR/
@@ -55323,7 +55322,6 @@ webkinz.com##.bg-leaderboard
 teachingchannel.org##.bg-medium-gray
 androidpolice.com##.big-sponsor
 autocar.co.uk##.block-autocar-ads-mpu-flexible1
-cointelegraph.com##.bottom-zone
 wakingtimes.com##.boxzilla-center-container
 cryptocompare.com##.btn-home-trade
 globalnews.ca##.c-flyers
