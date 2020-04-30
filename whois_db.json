@@ -45690,8 +45690,8 @@
         "state": "past"
     },
     "gamesfreak.net": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "gamesfree.com": {
@@ -46652,6 +46652,11 @@
     "get-a-fuck-tonight.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "get-download.club": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "get.com": {
@@ -116360,8 +116365,8 @@
         "state": "future"
     },
     "trust.zone": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "trustaffs.com": {
