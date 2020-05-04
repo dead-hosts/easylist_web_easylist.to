@@ -7125,8 +7125,8 @@
         "state": "future"
     },
     "ads2ads.net": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "ads2srv.com": {
@@ -7140,8 +7140,8 @@
         "state": "future"
     },
     "ads4cheap.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "ads4xxx.com": {
@@ -7565,13 +7565,13 @@
         "state": "future"
     },
     "adsrevenue.net": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "adsring.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "adsrv.me": {
@@ -8900,8 +8900,8 @@
         "state": "future"
     },
     "aepetor.pw": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "aepwqsajypyti.com": {
@@ -9340,8 +9340,8 @@
         "state": "future"
     },
     "afftrk.online": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "affutdmedia.com": {
@@ -10120,8 +10120,13 @@
         "state": "future"
     },
     "aj1090.online": {
-        "epoch": 1581120000.0,
-        "expiration_date": "08-feb-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
+    "aj1432.online": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "aj1574.online": {
@@ -10132,6 +10137,11 @@
     "aj1602.online": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "aj1913.online": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "aj2073.online": {
@@ -11749,6 +11759,11 @@
         "expiration_date": "15-feb-2023",
         "state": "future"
     },
+    "andantask.online": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "andarcair.club": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -12530,8 +12545,8 @@
         "state": "future"
     },
     "apexcdn.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "apfmwcktbj.com": {
@@ -12764,6 +12779,11 @@
         "expiration_date": "11-mar-2020",
         "state": "past"
     },
+    "aptapebog.online": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "aptashant.club": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
@@ -12984,6 +13004,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "arcaukalb.site": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "arccdyvgh.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -13139,6 +13164,11 @@
         "expiration_date": "11-apr-2021",
         "state": "future"
     },
+    "arkairbuy.site": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "arkalealb.site": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -13182,6 +13212,11 @@
     "armashair.site": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "armbadare.site": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "armedforcesjournal.com": {
@@ -13709,6 +13744,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "asparmany.site": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "state": "future"
+    },
     "aspartbib.site": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -13760,9 +13800,9 @@
         "state": "future"
     },
     "asrety.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "asrjtcddksm.com": {
         "epoch": 1601424000.0,
