@@ -33412,7 +33412,7 @@
     "dethao.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "detnews.com": {
         "epoch": 1634947200,
@@ -51295,8 +51295,8 @@
         "state": "future"
     },
     "gismeteo.md": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1651536000.0,
+        "expiration_date": "03-may-2022",
         "state": "future"
     },
     "git.tc": {
@@ -51810,8 +51810,8 @@
         "state": "future"
     },
     "globest.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "globrix.com": {
@@ -97100,8 +97100,8 @@
         "state": "past"
     },
     "pogo.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "pointblanknews.com": {
@@ -136115,8 +136115,8 @@
         "state": "future"
     },
     "watchmygirlfriend.tv": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "watchop.com": {
