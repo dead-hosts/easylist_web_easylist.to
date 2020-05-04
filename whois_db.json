@@ -23315,9 +23315,9 @@
         "state": "future"
     },
     "cap-cap-pop.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "capacitygrid.com": {
         "epoch": 1628380800.0,
@@ -24060,8 +24060,8 @@
         "state": "future"
     },
     "cbbp1.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "cbbsnmrwpqou.com": {
@@ -71370,9 +71370,9 @@
         "state": "future"
     },
     "krs1v2sl.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "krsccftmf.com": {
         "epoch": 1610323200.0,
@@ -73715,8 +73715,8 @@
         "state": "future"
     },
     "letrenhegenmi.pro": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "letsdoarbitrage.com": {
@@ -89565,9 +89565,9 @@
         "state": "future"
     },
     "nrdlj2ru.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "nrfort.com": {
         "epoch": 1590883200.0,
@@ -107130,8 +107130,8 @@
         "state": "future"
     },
     "reroplittrewheck.pro": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "resadvantco.info": {
@@ -116232,7 +116232,7 @@
     "softxbutt.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sohjah-thahka.info": {
         "epoch": 1618099200.0,
@@ -123295,8 +123295,8 @@
         "state": "future"
     },
     "thegreenzoneblog.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "thegremlin.co.za": {
@@ -136850,8 +136850,8 @@
         "state": "future"
     },
     "wasshoneaningar.pro": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "wastedamateurs.com": {
@@ -141780,8 +141780,8 @@
         "state": "past"
     },
     "wwwpromoter.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "wwzchzpluwuon.com": {
@@ -145979,6 +145979,11 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "yomeno.xyz": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "yomzansi.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -148290,8 +148295,8 @@
         "state": "future"
     },
     "zinrora.pw": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "zip-zip-swan.com": {
