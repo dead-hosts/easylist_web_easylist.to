@@ -18590,9 +18590,9 @@
         "state": "future"
     },
     "bitcoindifficulty.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "bitcoiner.net": {
         "epoch": 1604016000.0,
@@ -29195,8 +29195,8 @@
         "state": "future"
     },
     "coolifiedgames.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "coollcloud.com": {
@@ -46027,7 +46027,7 @@
     "flashx.space": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "flashx.top": {
         "epoch": 1584576000.0,
@@ -53220,9 +53220,9 @@
         "state": "future"
     },
     "golfstylesonline.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "golfweather.com": {
         "epoch": 1647043200.0,
@@ -100075,8 +100075,8 @@
         "state": "future"
     },
     "pricecheck.co.za": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "pricedekho.com": {
@@ -102270,8 +102270,8 @@
         "state": "future"
     },
     "pwtorch.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1746230400.0,
+        "expiration_date": "03-may-2025",
         "state": "future"
     },
     "px3792.com": {
@@ -123234,6 +123234,11 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "thefappening.xyz": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
     "thefappeningblog.com": {
         "epoch": 1712448000.0,
         "expiration_date": "07-apr-2024",
@@ -128577,7 +128582,7 @@
     "tub99.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tubaholic.com": {
         "epoch": 1603670400.0,
@@ -140775,9 +140780,9 @@
         "state": "future"
     },
     "worldgatas.com": {
-        "epoch": 1581984000.0,
-        "expiration_date": "18-feb-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "worldissues360.com": {
         "epoch": 1613520000.0,
