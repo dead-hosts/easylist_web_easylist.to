@@ -38989,6 +38989,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "edarabia.com": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
+    },
     "edchargina.pro": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -71300,8 +71305,8 @@
         "state": "future"
     },
     "kproxy.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "kpwjczeaajnhsc.com": {
@@ -112720,8 +112725,8 @@
         "state": "future"
     },
     "settv.co.za": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "seuojaesymeriv.com": {
@@ -138012,7 +138017,7 @@
     "webmail.co.za": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "webmaster-source.com": {
         "epoch": 1591056000.0,
