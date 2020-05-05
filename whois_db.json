@@ -40882,7 +40882,7 @@
     "epimg.net": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "epinions.com": {
         "epoch": 1613088000.0,
@@ -120895,8 +120895,8 @@
         "state": "future"
     },
     "targetingnow.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "targetnet.com": {
@@ -128240,9 +128240,9 @@
         "state": "future"
     },
     "trustedadserver.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "trustedreviews.com": {
         "epoch": 1591660800.0,
@@ -132215,8 +132215,8 @@
         "state": "future"
     },
     "uuidksinc.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "uujdthyg.com": {
@@ -140515,8 +140515,8 @@
         "state": "future"
     },
     "wood-pen.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "woodburybulletin.com": {
