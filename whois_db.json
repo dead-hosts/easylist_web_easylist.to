@@ -25360,8 +25360,8 @@
         "state": "future"
     },
     "charismanews.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "charitynavigator.org": {
@@ -89315,8 +89315,8 @@
         "state": "future"
     },
     "notepad.cc": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "noticiasautomotivas.com.br": {
@@ -106840,8 +106840,8 @@
         "state": "future"
     },
     "register-news.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "registercitizen.com": {
@@ -107030,9 +107030,9 @@
         "state": "future"
     },
     "reminderfox.org": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "remintrex.com": {
         "epoch": 1595635200.0,
@@ -111935,8 +111935,8 @@
         "state": "future"
     },
     "searchsafer.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "searchtabnew.com": {
@@ -121697,7 +121697,7 @@
     "techpounce.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "techpowerup.com": {
         "epoch": 1620950400.0,
@@ -122680,8 +122680,8 @@
         "state": "future"
     },
     "theadanews.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "theadex.com": {
