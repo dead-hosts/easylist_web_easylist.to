@@ -19907,7 +19907,7 @@
     "boingboing.net": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "boinkcash.com": {
         "epoch": 1605052800.0,
@@ -26382,6 +26382,11 @@
     "ciusqhujddbggb.com": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "civilserviceindia.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
         "state": "future"
     },
     "civitik.com": {
@@ -33184,6 +33189,11 @@
         "expiration_date": "29-dec-2021",
         "state": "future"
     },
+    "dealerservicecenter.in": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "dealextreme.com": {
         "epoch": 1662076800.0,
         "expiration_date": "02-sep-2022",
@@ -34892,6 +34902,11 @@
     "discoverapp.xyz": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "discoveredindia.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "discovermagazine.com": {
@@ -40575,9 +40590,9 @@
         "state": "future"
     },
     "enjore.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "enlarget.com": {
         "epoch": 1617580800.0,
@@ -59659,6 +59674,11 @@
         "expiration_date": "28-apr-2021",
         "state": "future"
     },
+    "hubs.ly": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "hubtraffic.com": {
         "epoch": 1633564800.0,
         "expiration_date": "07-oct-2021",
@@ -60969,6 +60989,11 @@
         "expiration_date": "27-dec-2020",
         "state": "future"
     },
+    "idiva.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
     "idlebrain.com": {
         "epoch": 1825977600.0,
         "expiration_date": "12-nov-2027",
@@ -61710,8 +61735,8 @@
         "state": "future"
     },
     "iloubnan.info": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "ilovecheating.com": {
@@ -62879,6 +62904,11 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "indusladies.com": {
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
+        "state": "future"
+    },
     "industryabout.com": {
         "epoch": 1575072000,
         "expiration_date": "30-nov-2019",
@@ -63040,8 +63070,8 @@
         "state": "future"
     },
     "informationweek.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "informe.com": {
@@ -71875,8 +71905,8 @@
         "state": "past"
     },
     "kveller.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1651708800.0,
+        "expiration_date": "05-may-2022",
         "state": "future"
     },
     "kvflzevaaco.com": {
@@ -76060,8 +76090,8 @@
         "state": "future"
     },
     "lorempixel.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "loricalreach.info": {
@@ -78175,8 +78205,8 @@
         "state": "future"
     },
     "mangareader.net": {
-        "epoch": 1587686400,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "mangarush.com": {
@@ -113480,8 +113510,8 @@
         "state": "future"
     },
     "shared2.me": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "sharedata.co.za": {
@@ -116112,6 +116142,11 @@
     "sociocast.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "sociologyguide.com": {
+        "epoch": 1644192000.0,
+        "expiration_date": "07-feb-2022",
         "state": "future"
     },
     "sociomantic.com": {
@@ -118850,8 +118885,8 @@
         "state": "future"
     },
     "streamhunter.top": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "streamingthe.net": {
