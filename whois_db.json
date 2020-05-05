@@ -35867,7 +35867,7 @@
     "domainmasters.co.ke": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "domainnamenews.com": {
         "epoch": 1603756800.0,
@@ -36075,8 +36075,8 @@
         "state": "future"
     },
     "dose.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "dosgamesarchive.com": {
@@ -36397,6 +36397,11 @@
     "downloadhelper.net": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "downloadhub.blog": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "downloadhub.life": {
@@ -68850,8 +68855,8 @@
         "state": "future"
     },
     "kabc.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "kacfofrcndc.com": {
@@ -71675,8 +71680,8 @@
         "state": "future"
     },
     "ktvb.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "ktvu.com": {
@@ -108725,8 +108730,8 @@
         "state": "future"
     },
     "rockol.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "rockpapershotgun.com": {
@@ -123015,8 +123020,8 @@
         "state": "future"
     },
     "thecurrent.org": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "thecut.com": {
