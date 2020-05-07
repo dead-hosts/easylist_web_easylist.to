@@ -33910,9 +33910,9 @@
         "state": "future"
     },
     "dethao.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "detnews.com": {
         "epoch": 1634947200,
@@ -35945,8 +35945,8 @@
         "state": "past"
     },
     "donthatethegeek.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "dooce.com": {
@@ -46215,8 +46215,8 @@
         "state": "future"
     },
     "flirtaescopa.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "flirtingsms.com": {
@@ -83202,7 +83202,7 @@
     "motortrade.me": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "motortrend.com": {
         "epoch": 1603929600.0,
@@ -91110,8 +91110,8 @@
         "state": "future"
     },
     "ocregister.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "ocrwyhamhfpfc.com": {
@@ -126217,6 +126217,11 @@
     "toksnn.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "tokyo-tube.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "tokyohive.com": {
