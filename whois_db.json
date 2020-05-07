@@ -2610,9 +2610,9 @@
         "state": "future"
     },
     "65xps.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "660a755deb8829fe.com": {
         "epoch": 1590105600.0,
@@ -49720,8 +49720,8 @@
         "state": "future"
     },
     "ga87z2o.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "gaana.com": {
@@ -94945,8 +94945,8 @@
         "state": "future"
     },
     "parwrite.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "parysgazette.co.za": {
@@ -116370,9 +116370,9 @@
         "state": "future"
     },
     "softxbutt.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "sohjah-thahka.info": {
         "epoch": 1618099200.0,
@@ -127225,8 +127225,8 @@
         "state": "future"
     },
     "trackerislive.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "tracki112.com": {
@@ -127910,8 +127910,8 @@
         "state": "future"
     },
     "trellian.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "tremorhub.com": {
@@ -144887,7 +144887,7 @@
     "yb0t.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ybaijkluq.com": {
         "epoch": 1604707200.0,
