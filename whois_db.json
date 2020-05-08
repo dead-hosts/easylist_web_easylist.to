@@ -11890,9 +11890,9 @@
         "state": "future"
     },
     "andtube.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "andvqrqaeu.com": {
         "epoch": 1618012800.0,
@@ -50405,9 +50405,9 @@
         "state": "future"
     },
     "gamezadvisor.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "gamezhero.com": {
         "epoch": 1580169600,
@@ -66055,8 +66055,8 @@
         "state": "future"
     },
     "javsin.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "javstreaming.net": {
@@ -104935,8 +104935,8 @@
         "state": "future"
     },
     "radio1584.co.za": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "radio531pi.com": {
@@ -110537,7 +110537,7 @@
     "sacommercialpropnews.co.za": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sacricketmag.com": {
         "epoch": 1618012800.0,
@@ -113055,9 +113055,9 @@
         "state": "future"
     },
     "sexseeimage.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "sextadate.net": {
         "epoch": 1604534400.0,
@@ -137897,7 +137897,7 @@
     "webconfs.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "webcontentassessor.com": {
         "epoch": 1591833600.0,
