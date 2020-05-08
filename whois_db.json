@@ -19930,9 +19930,9 @@
         "state": "future"
     },
     "boingboing.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "boinkcash.com": {
         "epoch": 1605052800.0,
@@ -33242,6 +33242,11 @@
     "dealsofamerica.com": {
         "epoch": 1693958400.0,
         "expiration_date": "06-sep-2023",
+        "state": "future"
+    },
+    "dealsofde.com": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "dealsonwheels.com": {
@@ -104285,8 +104290,8 @@
         "state": "future"
     },
     "quiz4fun.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "quizlet.com": {
@@ -105880,8 +105885,8 @@
         "state": "future"
     },
     "readarsenal.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "readastonvilla.com": {
@@ -115887,7 +115892,7 @@
     "snapfiles.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "snaptest.org": {
         "epoch": 1597881600.0,
