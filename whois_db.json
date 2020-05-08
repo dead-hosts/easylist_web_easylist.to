@@ -9190,8 +9190,8 @@
         "state": "future"
     },
     "affiliatewindow.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "affiliation-france.com": {
@@ -14869,6 +14869,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "awemwh.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
     "awentw.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -14882,6 +14887,11 @@
     "aweprotostatic.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "aweprt.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "awept.com": {
@@ -24740,8 +24750,8 @@
         "state": "future"
     },
     "cennter.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "centauro.net": {
@@ -72157,7 +72167,7 @@
     "kxqvnfcg.xyz": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "kxswxnbr.com": {
         "epoch": 1618617600.0,
@@ -75827,6 +75837,11 @@
     "lodqycbq.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "lofv.xyz": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "loganair.co.uk": {
@@ -93237,7 +93252,7 @@
     "ordermc.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ordingly.com": {
         "epoch": 1584316800.0,
@@ -99239,6 +99254,11 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "pornworld.online": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "pornxs.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -100952,6 +100972,11 @@
     "prscripts.com": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "prtawe.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "prulogzjtyksnh.com": {
@@ -106660,8 +106685,8 @@
         "state": "past"
     },
     "redirections.site": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "redirectnative.com": {
@@ -110675,8 +110700,8 @@
         "state": "past"
     },
     "sagimedyer.xyz": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "sagoodnews.co.za": {
@@ -121782,6 +121807,11 @@
     "techshout.com": {
         "epoch": 1630972800.0,
         "expiration_date": "07-sep-2021",
+        "state": "future"
+    },
+    "techsidea.website": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "techsplurge.com": {
