@@ -7715,8 +7715,8 @@
         "state": "future"
     },
     "adswick.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "adswikia.com": {
@@ -14265,8 +14265,8 @@
         "state": "future"
     },
     "audiostream.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "audioz.download": {
@@ -34455,8 +34455,8 @@
         "state": "future"
     },
     "diena.lt": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "dieohupl.com": {
@@ -38502,6 +38502,11 @@
     "easyflirt.com": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "easygamepromo.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "easyhits4u.com": {
@@ -83255,9 +83260,9 @@
         "state": "future"
     },
     "motortrade.me": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "motortrend.com": {
         "epoch": 1603929600.0,
@@ -96515,8 +96520,8 @@
         "state": "future"
     },
     "photobucket.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "photocrowd.com": {
@@ -129987,6 +129992,11 @@
     "ucaluco.com": {
         "epoch": 1620345600.0,
         "expiration_date": "07-may-2021",
+        "state": "future"
+    },
+    "ucam.xxx": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "ucas.com": {
