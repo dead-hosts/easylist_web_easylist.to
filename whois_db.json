@@ -1037,7 +1037,7 @@
     "247teencash.net": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "247view.net": {
         "epoch": 1609804800.0,
@@ -7330,8 +7330,8 @@
         "state": "future"
     },
     "adsession.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "adsfac.net": {
@@ -14665,8 +14665,8 @@
         "state": "future"
     },
     "avalhukof.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "avalopaly.com": {
@@ -34795,8 +34795,8 @@
         "state": "future"
     },
     "dinovala.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "dinozap.com": {
@@ -41264,6 +41264,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "erdecisesgeorg.info": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "erecommerchh.info": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -46580,8 +46585,8 @@
         "state": "future"
     },
     "fmebili.info": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "fmecsdelxmeks.com": {
@@ -63635,8 +63640,8 @@
         "state": "future"
     },
     "instantpaydaynetwork.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "instantpaysites.com": {
@@ -95800,8 +95805,8 @@
         "state": "future"
     },
     "peezette-intial.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "pegaumsi.com": {
@@ -97120,8 +97125,8 @@
         "state": "future"
     },
     "pipilida.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "pipiryiqu.com": {
@@ -97200,8 +97205,8 @@
         "state": "future"
     },
     "pitatagata.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "pitchero.com": {
@@ -148760,8 +148765,8 @@
         "state": "future"
     },
     "zirobata.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "zisboombah.net": {
