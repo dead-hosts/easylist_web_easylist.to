@@ -4417,7 +4417,7 @@
     "abbp1.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abbp1.pw": {
         "epoch": 1590969600.0,
@@ -13097,7 +13097,7 @@
     "are-ter.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "areandarm.com": {
         "epoch": 1595030400.0,
@@ -79552,7 +79552,7 @@
     "mdlsrv.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mdmag.com": {
         "epoch": 1643414400.0,
@@ -93410,9 +93410,9 @@
         "state": "future"
     },
     "ordermc.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "ordingly.com": {
         "epoch": 1584316800.0,
@@ -105065,8 +105065,8 @@
         "state": "future"
     },
     "rack-media.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "rackcdn.com": {
@@ -117095,8 +117095,8 @@
         "state": "future"
     },
     "souvlatraffic.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "sowetanlive.co.za": {
@@ -127905,8 +127905,8 @@
         "state": "future"
     },
     "traficmax.fr": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "trafmag.com": {
@@ -134180,8 +134180,8 @@
         "state": "future"
     },
     "vid123.net": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "vid2c.com": {
@@ -146330,8 +146330,8 @@
         "state": "future"
     },
     "yobihost.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "yobr.net": {
