@@ -4460,8 +4460,8 @@
         "state": "future"
     },
     "abc22now.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
         "state": "future"
     },
     "abc2news.com": {
@@ -10505,8 +10505,8 @@
         "state": "future"
     },
     "alc.edu.in": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1873152000.0,
+        "expiration_date": "11-may-2029",
         "state": "future"
     },
     "alchemysocial.com": {
@@ -35470,9 +35470,9 @@
         "state": "future"
     },
     "dlguru.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "dlh.net": {
         "epoch": 1589500800.0,
@@ -35490,8 +35490,8 @@
         "state": "future"
     },
     "dlldll.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "dllerrors-fix.com": {
@@ -35507,7 +35507,7 @@
     "dllnotfound.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dlmghzdca.com": {
         "epoch": 1595721600.0,
@@ -52935,9 +52935,9 @@
         "state": "future"
     },
     "gmx.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "gmxetthnzmqo.com": {
         "epoch": 1582761600.0,
@@ -67585,9 +67585,9 @@
         "state": "future"
     },
     "jobsetter.info": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "jobslike.win": {
         "epoch": 1565308800,
@@ -124990,8 +124990,8 @@
         "state": "future"
     },
     "theyeshivaworld.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "theync.com": {
