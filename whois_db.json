@@ -18605,8 +18605,8 @@
         "state": "future"
     },
     "bitchcrawler.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "bitchmagazine.org": {
@@ -76705,8 +76705,8 @@
         "state": "future"
     },
     "lshstream.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
         "state": "future"
     },
     "lshstreams.com": {
@@ -98880,8 +98880,8 @@
         "state": "future"
     },
     "porn4down.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "porn555.com": {
@@ -101747,6 +101747,11 @@
     "publir.com": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "publish0x.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "publisheradnetwork.com": {
@@ -112750,8 +112755,8 @@
         "state": "future"
     },
     "sensualgirls.org": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "sentinel-echo.com": {
