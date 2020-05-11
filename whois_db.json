@@ -7090,9 +7090,9 @@
         "state": "past"
     },
     "adrotator.se": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "adrsp.net": {
         "epoch": 1609113600.0,
@@ -112300,8 +112300,8 @@
         "state": "future"
     },
     "secretmedia.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "secure-softwaremanager.com": {
@@ -113920,13 +113920,13 @@
         "state": "future"
     },
     "shawsuburbanauto.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "shawsuburbanhomes.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "shazam.com": {
@@ -114237,6 +114237,11 @@
     "shooshtimeinc.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "shop-top1000.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "shop.com": {
@@ -124775,9 +124780,9 @@
         "state": "future"
     },
     "thetraderinpajamas.com": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "thetreuntalle.pro": {
         "epoch": 1619913600.0,
@@ -128162,7 +128167,7 @@
     "tremorhub.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tremormedia.com": {
         "epoch": 1624147200.0,
