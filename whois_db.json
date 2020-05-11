@@ -22082,7 +22082,7 @@
     "busiweek.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bustedcoverage.com": {
         "epoch": 1618444800.0,
@@ -32360,8 +32360,8 @@
         "state": "future"
     },
     "dailysun.co.za": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "dailysurge.com": {
@@ -34822,7 +34822,7 @@
     "diply.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "dippic.com": {
         "epoch": 1578614400,
@@ -55020,8 +55020,8 @@
         "state": "future"
     },
     "gulfnews.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "gulfsat.com": {
@@ -67882,7 +67882,7 @@
     "journeychristiannews.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "joursouvres.fr": {
         "epoch": 1597017600.0,
@@ -71142,7 +71142,7 @@
     "kohit.net": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "koindut.com": {
         "epoch": 1613779200.0,
@@ -78702,7 +78702,7 @@
     "marinmagazine.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "marionstar.com": {
         "epoch": 1606089600.0,
@@ -82480,8 +82480,8 @@
         "state": "future"
     },
     "mobygames.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "mobyler.com": {
@@ -109435,8 +109435,8 @@
         "state": "future"
     },
     "royston-crow.co.uk": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "rpcncuzsmpni.com": {
@@ -128545,8 +128545,8 @@
         "state": "future"
     },
     "trucksplanet.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "trucktrend.com": {
