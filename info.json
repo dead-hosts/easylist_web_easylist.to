@@ -1,23 +1,23 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true,
         "inactive_database": false
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2020-05-11T07:58:47.446144",
-    "finish_timestamp": 1589183927.446144,
-    "last_download_datetime": "2020-05-11T07:56:21.236758",
-    "last_download_timestamp": 1589183781.236758,
-    "latest_part_finish_datetime": "2020-05-11T07:58:47.446144",
-    "latest_part_finish_timestamp": 1589183927.446144,
-    "latest_part_start_datetime": "2020-05-11T07:56:21.264295",
-    "latest_part_start_timestamp": 1589183781.264295,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-05-13T21:04:57.794569",
+    "last_download_timestamp": 1589403897.794569,
+    "latest_part_finish_datetime": "2020-05-13T21:19:05.798756",
+    "latest_part_finish_timestamp": 1589404745.798756,
+    "latest_part_start_datetime": "2020-05-13T21:04:57.825167",
+    "latest_part_start_timestamp": 1589403897.825167,
     "live_update": true,
     "name": "easylist_web_easylist.to",
     "own_management": false,
     "ping": [],
     "raw_link": "https://easylist.to/easylist/easylist.txt",
-    "start_datetime": "2020-05-10T21:08:32.576081",
-    "start_timestamp": 1589144912.576081
+    "start_datetime": "2020-05-13T21:04:57.822453",
+    "start_timestamp": 1589403897.822453
 }
