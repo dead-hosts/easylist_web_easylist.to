@@ -1404,6 +1404,11 @@
         "expiration_date": "03-dec-2020",
         "state": "future"
     },
+    "30yo.xyz": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "3133a.xyz": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
@@ -52805,8 +52810,8 @@
         "state": "future"
     },
     "glowdot.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "glpyiiahtdmaan.com": {
@@ -55560,8 +55565,8 @@
         "state": "future"
     },
     "hackesie.net": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "hackingchinese.com": {
@@ -58720,9 +58725,9 @@
         "state": "past"
     },
     "hosoojat.net": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "host-host-ads.com": {
         "epoch": 1591056000.0,
@@ -76360,8 +76365,8 @@
         "state": "future"
     },
     "love-banner.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "loveadverts.com": {
