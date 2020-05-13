@@ -1937,7 +1937,7 @@
     "43plc.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "43yagowe3y.com": {
         "epoch": 1619308800.0,
@@ -2045,8 +2045,8 @@
         "state": "future"
     },
     "4b6994dfa47cee4.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "4bb6jls06l.com": {
@@ -2417,6 +2417,11 @@
     "5c577fc74618431b.com": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "5cwr93yyd4lf.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "5d02977f6511aa.com": {
@@ -4942,6 +4947,11 @@
     "acrsgxeah.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "acscdn.com": {
+        "epoch": 1651708800.0,
+        "expiration_date": "05-may-2022",
         "state": "future"
     },
     "acticgreasonsc.info": {
@@ -14410,9 +14420,9 @@
         "state": "future"
     },
     "aurtooks.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "ausagauw.net": {
         "epoch": 1606608000.0,
@@ -57639,6 +57649,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "himselvesobr.club": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
     "hinckleytimes.net": {
         "epoch": 1601251200,
         "expiration_date": "28-sep-2020",
@@ -66005,8 +66020,8 @@
         "state": "future"
     },
     "japan-webike.kr": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "japan-webike.se": {
@@ -92469,6 +92484,11 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "onclickgenius.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "onclickmax.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -94822,6 +94842,11 @@
     "paidsearchexperts.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "paintifiercute.club": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "pajhwok.com": {
@@ -112094,6 +112119,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "seaboblit.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "seacoastonline.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -123069,6 +123099,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "theatrialmero.club": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
     "theawesomer.com": {
         "epoch": 1627084800.0,
         "expiration_date": "24-jul-2021",
@@ -133060,8 +133095,8 @@
         "state": "future"
     },
     "vaipsona.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "vajiyqbb.com": {
