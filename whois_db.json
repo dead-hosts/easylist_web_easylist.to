@@ -19252,7 +19252,7 @@
     "blingcheese.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blinkadr.com": {
         "epoch": 1611360000.0,
@@ -33390,8 +33390,8 @@
         "state": "future"
     },
     "deccanchronicle.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "deccanherald.com": {
@@ -72825,9 +72825,9 @@
         "state": "future"
     },
     "lanewsmonitor.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "langosh.biz": {
         "epoch": 1564358400,
@@ -113275,9 +113275,9 @@
         "state": "future"
     },
     "sexpornimages.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
-        "state": "past"
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
     },
     "sexsearch.com": {
         "epoch": 1606176000.0,
@@ -119095,8 +119095,8 @@
         "state": "future"
     },
     "str8upgayporn.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "straighttalk.com": {
@@ -119502,7 +119502,7 @@
     "sublimedirectory.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sublimemedia.net": {
         "epoch": 1600041600.0,
