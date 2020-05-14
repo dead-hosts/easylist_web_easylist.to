@@ -11025,8 +11025,8 @@
         "state": "future"
     },
     "alltheragefaces.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "allthetests.com": {
@@ -13205,8 +13205,8 @@
         "state": "future"
     },
     "arizonasports.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1683936000.0,
+        "expiration_date": "13-may-2023",
         "state": "future"
     },
     "arjgnqlsdo.com": {
@@ -33325,8 +33325,8 @@
         "state": "future"
     },
     "dealspl.us": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "dealspure.com": {
@@ -45380,8 +45380,8 @@
         "state": "future"
     },
     "filesocean.net": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "filespart.com": {
@@ -61032,7 +61032,7 @@
     "id-box.biz": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "idahostatejournal.com": {
         "epoch": 1630281600.0,
@@ -80692,7 +80692,7 @@
     "meteovista.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "meteox.co.uk": {
         "epoch": 1628294400,
@@ -114847,7 +114847,7 @@
     "simplefilesearch.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "simpleprogrammer.com": {
         "epoch": 1732406400.0,
@@ -124525,8 +124525,8 @@
         "state": "future"
     },
     "thescottishfarmer.co.uk": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1652313600.0,
+        "expiration_date": "12-may-2022",
         "state": "future"
     },
     "thesearchenginelist.com": {
@@ -130415,9 +130415,9 @@
         "state": "future"
     },
     "uefa.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "uehequcuvujkyf.com": {
         "epoch": 1605139200.0,
