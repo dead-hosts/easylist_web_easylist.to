@@ -58550,8 +58550,8 @@
         "state": "future"
     },
     "hookedonads.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "hookupbucks.com": {
@@ -92715,8 +92715,8 @@
         "state": "future"
     },
     "onlinefreetv.net": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "onlinegardenroute.co.za": {
@@ -99732,7 +99732,7 @@
     "power987.co.za": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "powerad.ai": {
         "epoch": 1607299200.0,
@@ -137115,8 +137115,8 @@
         "state": "future"
     },
     "wantedinrome.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "wantitall.co.za": {
