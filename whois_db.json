@@ -46597,7 +46597,7 @@
     "fmcktrmnlyfjr.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "fmebili.info": {
         "epoch": 1620604800.0,
@@ -114937,6 +114937,11 @@
     "singthouthappi.info": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "sinmufar.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "sinsoftu.com": {
