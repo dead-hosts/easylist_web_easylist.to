@@ -21650,8 +21650,8 @@
         "state": "future"
     },
     "bubblebox.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "bubbles-uk.com": {
@@ -33747,6 +33747,11 @@
     "demogeek.com": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "demonslayermanga.com": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "denis-pj0823031-491201b.com": {
@@ -47385,8 +47390,8 @@
         "state": "future"
     },
     "fourwaysreview.co.za": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "fouwazou.net": {
@@ -63540,8 +63545,8 @@
         "state": "future"
     },
     "insideradio.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1652486400.0,
+        "expiration_date": "14-may-2022",
         "state": "future"
     },
     "insidercdn.com": {
@@ -77467,7 +77472,7 @@
     "lyrics19.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lyricsbogie.com": {
         "epoch": 1613779200.0,
@@ -122805,8 +122810,8 @@
         "state": "future"
     },
     "tgdaily.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "tgdhimcwww.com": {
@@ -128557,6 +128562,11 @@
     "troyhunt.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "troypoint.com": {
+        "epoch": 1709078400.0,
+        "expiration_date": "28-feb-2024",
         "state": "future"
     },
     "trroawdnmt.com": {
@@ -140210,8 +140220,8 @@
         "state": "future"
     },
     "winnipegfreepress.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "winnipeggasprices.com": {
@@ -141700,8 +141710,8 @@
         "state": "future"
     },
     "wrmj.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1652313600.0,
+        "expiration_date": "12-may-2022",
         "state": "future"
     },
     "wrno.com": {
