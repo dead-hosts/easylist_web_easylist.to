@@ -49295,8 +49295,8 @@
         "state": "future"
     },
     "future-hawk-content.co.uk": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "future.net.uk": {
@@ -54730,9 +54730,9 @@
         "state": "future"
     },
     "grt02.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "grt03.com": {
         "epoch": 1598054400.0,
@@ -64125,8 +64125,8 @@
         "state": "future"
     },
     "intextdirect.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "intextscript.com": {
@@ -66005,8 +66005,8 @@
         "state": "future"
     },
     "jads.co": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1652659200.0,
+        "expiration_date": "16-may-2022",
         "state": "future"
     },
     "jaguarforums.com": {
@@ -72800,8 +72800,8 @@
         "state": "future"
     },
     "laim.tv": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "laineygossip.com": {
@@ -73155,8 +73155,8 @@
         "state": "future"
     },
     "launchers.network": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "lauxanh.us": {
@@ -74892,6 +74892,11 @@
     "linkoffers.net": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "linkredirect.biz": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "linkreferral.com": {
@@ -77685,8 +77690,8 @@
         "state": "future"
     },
     "lzjl.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "lzkuqbptcjqta.com": {
