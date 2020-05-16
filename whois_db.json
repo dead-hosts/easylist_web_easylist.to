@@ -817,12 +817,12 @@
     "1han-rit-ten.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "1hanritten.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "1j7740kd.website": {
         "epoch": 1562284800,
@@ -19237,7 +19237,7 @@
     "blatungo.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "blbclassic.org": {
         "epoch": 1654992000.0,
@@ -21300,8 +21300,8 @@
         "state": "future"
     },
     "broomboxmain.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "brothersincash.com": {
@@ -35090,8 +35090,8 @@
         "state": "future"
     },
     "discoverredirect.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "discuss.com.hk": {
@@ -106170,9 +106170,9 @@
         "state": "future"
     },
     "rddywd.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "rdfpnzisjyiwtu.com": {
         "epoch": 1599177600.0,
@@ -115882,7 +115882,7 @@
     "smaato.net": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "smac-ssp.com": {
         "epoch": 1612051200.0,
@@ -136990,8 +136990,8 @@
         "state": "future"
     },
     "w3exit.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "w3newspapers.com": {
@@ -138500,8 +138500,8 @@
         "state": "future"
     },
     "webeatyouradblocker.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "weberotic.net": {
@@ -141730,8 +141730,8 @@
         "state": "future"
     },
     "wpnjs.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "wpqvggsnc.com": {
@@ -142924,6 +142924,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "xadsmart.com": {
+        "epoch": 1776470400.0,
+        "expiration_date": "18-apr-2026",
+        "state": "future"
+    },
     "xafkdsxnwinmj.com": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
@@ -143152,7 +143157,7 @@
     "xcelltech.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "xcelsiusadserver.com": {
         "epoch": 1617753600.0,
@@ -146145,8 +146150,8 @@
         "state": "future"
     },
     "yieldbuild.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "yieldkit.com": {
@@ -147705,8 +147710,8 @@
         "state": "past"
     },
     "yvmads.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "yvmjtjtfuaspc.com": {
@@ -148680,8 +148685,8 @@
         "state": "future"
     },
     "zerezas.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "zergnet.com": {
