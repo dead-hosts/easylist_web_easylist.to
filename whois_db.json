@@ -5055,9 +5055,9 @@
         "state": "future"
     },
     "ad-bay.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "ad-clicks.com": {
         "epoch": 1602201600.0,
@@ -7514,6 +7514,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "adsloom.com": {
+        "epoch": 1666569600.0,
+        "expiration_date": "24-oct-2022",
+        "state": "future"
+    },
     "adslot.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -7995,8 +8000,8 @@
         "state": "future"
     },
     "adult-adv.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "adult-sex-games.com": {
@@ -10545,8 +10550,8 @@
         "state": "future"
     },
     "alchemysocial.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "alcidebrought.pro": {
