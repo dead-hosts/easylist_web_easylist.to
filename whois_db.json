@@ -18907,7 +18907,7 @@
     "bizfo.co.uk": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bizjournals.com": {
         "epoch": 1645660800.0,
@@ -27285,8 +27285,8 @@
         "state": "future"
     },
     "clicksor.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "clicksure.com": {
@@ -27595,8 +27595,8 @@
         "state": "past"
     },
     "cloudiiv.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "cloudioo.net": {
@@ -27657,7 +27657,7 @@
     "clrstm.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clsvugmivpf.com": {
         "epoch": 1599782400.0,
@@ -28190,8 +28190,8 @@
         "state": "future"
     },
     "coguan.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "cohhcaahxxcf.com": {
@@ -30805,8 +30805,8 @@
         "state": "future"
     },
     "cryptoads.space": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "cryptoarticles.com": {
@@ -40495,9 +40495,9 @@
         "state": "future"
     },
     "emediate.dk": {
-        "epoch": 1582934400.0,
-        "expiration_date": "29-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "emediate.se": {
         "epoch": 1617408000.0,
@@ -68427,6 +68427,11 @@
     "jubna.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "judaisydfs.club": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "judgeporn.com": {
