@@ -455,8 +455,8 @@
         "state": "future"
     },
     "123moviesfree.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "123people.co.uk": {
@@ -83215,8 +83215,8 @@
         "state": "future"
     },
     "monsterindia.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "monstersandcritics.com": {
@@ -88305,8 +88305,8 @@
         "state": "future"
     },
     "newswiretoday.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "newsx.com": {
@@ -115165,9 +115165,9 @@
         "state": "future"
     },
     "simplefilesearch.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "simpleprogrammer.com": {
         "epoch": 1732406400.0,
@@ -118885,8 +118885,8 @@
         "state": "future"
     },
     "startlr.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "startpage.com": {
@@ -140747,6 +140747,11 @@
     "withingsessed.pro": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "withinknuko.club": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "withoughstors.club": {
