@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005170331
+! Version: 202005170356
 ! Title: EasyList
-! Last modified: 17 May 2020 03:31 UTC
+! Last modified: 17 May 2020 03:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30955,6 +30955,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||6f2bdffd6587d.com^
 ||6f363e072e82206b.com^
 ||6ped2nd3yp.com^
+||6yfory7f0njw.com^
 ||6zw2rcfd.com^
 ||755431a59e7.com^
 ||7651d44da06c.com^
@@ -37614,6 +37615,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||z6vmw.top^$third-party
 ||zafrc.5780.site^$third-party
 ||zaijacho.net^$third-party
+||zampad.com^$third-party
 ||zangocash.com^$third-party
 ||zanox-affiliate.de/ppv/$third-party
 ||zanox.com/ppv/$third-party
@@ -65472,11 +65474,12 @@ almasdarnews.com,antonymsfor.com,breakingisraelnews.com,codeproject.com,coed.com
 almasdarnews.com,antonymsfor.com,breakingisraelnews.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,daclips.in,dailygalaxy.com,destructoid.com,diffen.com,drudgereport.com,easybib.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,israelnationalnews.com,jerusalemonline.com,jewsnews.co.il,jpost.com,kizi.com,kshowonline.com,magnetdl.com,mmorpg.com,msn.com,nba-stream.com,newsarama.com,opensubtitles.org,phonesreview.co.uk,playbill.com,pocketnow.com,readmng.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,toptenz.net,trifind.com,uproxx.com,videotoolbox.com,vrheads.com,wnd.com,xda-developers.com##[style*="data:"]
 antonymsfor.com,blacklistednews.com,breakingisraelnews.com,chicagotribune.com,citationmachine.net,codeproject.com,coed.com,colourlovers.com,convert-me.com,convertcase.net,crackberry.com,dailygalaxy.com,destructoid.com,diffen.com,drudgereport.com,easybib.com,elbooru.com,eurweb.com,freewarefiles.com,fullmatchesandshows.com,genfb.com,grammarist.com,indiewire.com,jerusalemonline.com,jewsnews.co.il,jpost.com,kizi.com,kshowonline.com,magnetdl.com,mmorpg.com,nba-stream.com,newsarama.com,opensubtitles.org,phonesreview.co.uk,playbill.com,pocketnow.com,readmng.com,roadracerunner.com,sh.st,sportspickle.com,teslacentral.com,the4thofficial.net,thebarchive.com,toptenz.net,trifind.com,uproxx.com,videotoolbox.com,vrheads.com,wnd.com#?#:-abp-properties(base64)
 ! sythe
+sythe.org##.pageContent > div > span > [href]
+sythe.org##[href="https://www.sythe.org/r/"]
 sythe.org##[style*="90px"]
-sythe.org##[style*="max-height:90"]
+sythe.org##[style*="max-height:9"]
 sythe.org##[style*="max-height:calc"]
-sythe.org##[target="_blank"]
-sythe.org##[target="_new"]
+sythe.org##[target*="_"]
 sythe.org##div > span > [border]
 ! gelbooru.com
 gelbooru.com##.contain-push > .hidden-xs
