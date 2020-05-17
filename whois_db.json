@@ -714,6 +714,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "1aogoh1j81g3.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "1b6a637cbe7bb65ac.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -1780,8 +1785,8 @@
         "state": "future"
     },
     "3gporn.biz": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "3jmcwio.com": {
@@ -22974,6 +22979,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "cadspms.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "cadspmz.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -34844,6 +34854,11 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "dimfarlow.com": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "dimpawlam.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -46044,6 +46059,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "fixchidie.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "fixionmedia.com": {
         "epoch": 1630368000.0,
         "expiration_date": "31-aug-2021",
@@ -55230,8 +55250,8 @@
         "state": "future"
     },
     "gunzblazingpromo.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "guoyhfjrpt.com": {
@@ -77212,7 +77232,7 @@
     "luvcom.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "luvnrybocrcgl.com": {
         "epoch": 1618444800.0,
@@ -85520,8 +85540,8 @@
         "state": "future"
     },
     "mynetab.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "mynewssplash.com": {
@@ -92960,8 +92980,8 @@
         "state": "future"
     },
     "onlineshopping.website": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "onlinestars.net": {
@@ -101100,8 +101120,8 @@
         "state": "future"
     },
     "propbn.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "propeanfanku.site": {
@@ -111120,8 +111140,8 @@
         "state": "future"
     },
     "safelinktracker.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "safelistextreme.com": {
@@ -113870,8 +113890,8 @@
         "state": "future"
     },
     "sghehllds.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "sgidkvwd.com": {
@@ -118347,7 +118367,7 @@
     "srv-ad.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "srv2trking.com": {
         "epoch": 1593216000.0,
@@ -140490,9 +140510,9 @@
         "state": "future"
     },
     "winhugebonus.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "winkeyfinder.com": {
         "epoch": 1612915200.0,
