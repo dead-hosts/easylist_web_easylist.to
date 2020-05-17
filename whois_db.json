@@ -4702,7 +4702,7 @@
     "absoluteradio.co.uk": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abundance-and-happiness.com": {
         "epoch": 1591660800.0,
@@ -24879,6 +24879,11 @@
         "expiration_date": "20-oct-2021",
         "state": "future"
     },
+    "cellmapper.net": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "cellular-news.com": {
         "epoch": 1642291200.0,
         "expiration_date": "16-jan-2022",
@@ -28274,6 +28279,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "coingecko.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "coinmama.com": {
         "epoch": 1650153600.0,
         "expiration_date": "17-apr-2022",
@@ -29517,6 +29527,11 @@
     "corateencountry.pro": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "cordcutters.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "cordcutting.com": {
@@ -30997,6 +31012,11 @@
     "css-style-95.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "css-tricks.com": {
+        "epoch": 1751587200.0,
+        "expiration_date": "04-jul-2025",
         "state": "future"
     },
     "css3generator.com": {
@@ -51904,6 +51924,11 @@
         "expiration_date": "02-aug-2024",
         "state": "future"
     },
+    "gfinityesports.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "gfladrimbg.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -62715,7 +62740,7 @@
         "state": "future"
     },
     "imore.com": {
-        "epoch": 1663545600,
+        "epoch": 1663545600.0,
         "expiration_date": "19-sep-2022",
         "state": "future"
     },
@@ -66272,6 +66297,11 @@
     "jasonsvid.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "jatan.blog": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "jaugloup.com": {
@@ -77665,9 +77695,9 @@
         "state": "future"
     },
     "lyrics19.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "lyricsbogie.com": {
         "epoch": 1613779200.0,
@@ -125642,6 +125672,11 @@
     "threepercenternation.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "thrifter.com": {
+        "epoch": 1749859200.0,
+        "expiration_date": "14-jun-2025",
         "state": "future"
     },
     "thriftyfun.com": {
