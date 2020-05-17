@@ -2164,6 +2164,11 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "4fcams.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "4fuckr.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -12152,7 +12157,7 @@
     "animeyt2.tv": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "animits.com": {
         "epoch": 1610409600.0,
@@ -19774,6 +19779,11 @@
         "expiration_date": "30-apr-2021",
         "state": "future"
     },
+    "bngpt.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "bnhtml.com": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
@@ -24750,8 +24760,8 @@
         "state": "future"
     },
     "ceforum.co.uk": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "cefqvuhygky.com": {
@@ -119467,7 +119477,7 @@
     "streamen.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "streamer247.com": {
         "epoch": 1616544000.0,
@@ -146270,8 +146280,8 @@
         "state": "future"
     },
     "yimg.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "yinmyar.xyz": {
