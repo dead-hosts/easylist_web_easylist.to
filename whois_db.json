@@ -395,8 +395,8 @@
         "state": "future"
     },
     "1130thetiger.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "118aa629a7968e75e.com": {
@@ -64780,8 +64780,8 @@
         "state": "future"
     },
     "ipodnn.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "ipornia.com": {
@@ -95455,8 +95455,8 @@
         "state": "future"
     },
     "parent24.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "parentdish.co.uk": {
@@ -107182,6 +107182,11 @@
     "recreativ.ru": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "recruisefukiby.club": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "recusticks.co": {
@@ -120612,7 +120617,7 @@
     "suvudu.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "suvvihvbskvnii.com": {
         "epoch": 1563235200,
@@ -125232,7 +125237,7 @@
     "theteachercorner.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "theteacherscorner.net": {
         "epoch": 1614729600.0,
