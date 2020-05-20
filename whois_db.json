@@ -4602,7 +4602,7 @@
     "ablogica.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "abnad.net": {
         "epoch": 1603065600.0,
@@ -18222,7 +18222,7 @@
     "bidverdrs.com": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bidvertiser.com": {
         "epoch": 1620864000.0,
