@@ -10810,8 +10810,8 @@
         "state": "future"
     },
     "all-shares.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "all4divx.com": {
@@ -14435,8 +14435,8 @@
         "state": "future"
     },
     "augusta.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1653004800.0,
+        "expiration_date": "20-may-2022",
         "state": "future"
     },
     "auhqnsjbvizeey.com": {
@@ -81697,7 +81697,7 @@
     "military-vehicle-photos.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "military.com": {
         "epoch": 1608681600.0,
@@ -125270,8 +125270,8 @@
         "state": "future"
     },
     "thetfordandbrandontimes.co.uk": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "thethateronjus.pro": {
