@@ -7272,7 +7272,7 @@
     "adsbr.info": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsbreak.com": {
         "epoch": 1604188800.0,
@@ -40300,9 +40300,9 @@
         "state": "future"
     },
     "elekted.com": {
-        "epoch": 1582675200.0,
-        "expiration_date": "26-feb-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "elektro.info.pl": {
         "epoch": 1612915200.0,
@@ -77395,9 +77395,9 @@
         "state": "future"
     },
     "luvcom.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "luvnrybocrcgl.com": {
         "epoch": 1618444800.0,
@@ -79190,8 +79190,8 @@
         "state": "future"
     },
     "marketresearchglobal.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "marketsmojo.com": {
@@ -90050,8 +90050,8 @@
         "state": "future"
     },
     "november-lax.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "novhyaxaioxaon.com": {
@@ -118570,9 +118570,9 @@
         "state": "future"
     },
     "srv-ad.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "srv2trking.com": {
         "epoch": 1593216000.0,
@@ -121102,7 +121102,7 @@
     "symkashop.ru": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "symphoneupcom.site": {
         "epoch": 1614124800.0,
@@ -121415,8 +121415,8 @@
         "state": "future"
     },
     "tagsd.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "tagshost.com": {
