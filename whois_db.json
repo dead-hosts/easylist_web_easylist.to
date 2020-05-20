@@ -15065,8 +15065,8 @@
         "state": "future"
     },
     "awin1.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "awjkddtq.com": {
@@ -27695,9 +27695,9 @@
         "state": "future"
     },
     "cloudlocker.biz": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
     },
     "cloudpro.co.uk": {
         "epoch": 1614470400.0,
@@ -29165,8 +29165,8 @@
         "state": "future"
     },
     "consolpub.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "consorcraightyc.info": {
@@ -29852,7 +29852,7 @@
     "couptopia.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "courant.com": {
         "epoch": 1621468800.0,
@@ -56147,7 +56147,7 @@
     "hapend.biz": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "happer.info": {
         "epoch": 1616284800.0,
