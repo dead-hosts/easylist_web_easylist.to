@@ -2,6 +2,7 @@
 # Date of generation: 2020-05-22T21:08:58.238109
 
 0.0.0.0 cacheserve.*
+0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 online.*
 0.0.0.0 ox-d.*
 0.0.0.0 serve.*
