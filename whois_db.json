@@ -29850,9 +29850,9 @@
         "state": "future"
     },
     "couptopia.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "courant.com": {
         "epoch": 1621468800.0,
@@ -119687,7 +119687,7 @@
     "streamateaccess.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "streamclub.best": {
         "epoch": 1613520000.0,
@@ -120675,8 +120675,8 @@
         "state": "past"
     },
     "sv2.biz": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "svbfcmumrj.com": {
@@ -123782,7 +123782,7 @@
     "thebunsenburner.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "thebusinessdesk.com": {
         "epoch": 1613001600.0,
