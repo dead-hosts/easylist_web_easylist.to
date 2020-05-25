@@ -70625,8 +70625,8 @@
         "state": "future"
     },
     "kikuzip.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "killerdirectory.com": {
@@ -75130,8 +75130,8 @@
         "state": "future"
     },
     "linkredirect.biz": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "linkreferral.com": {
@@ -80107,7 +80107,7 @@
     "media-networks.ru": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "media-sapiens.com": {
         "epoch": 1590883200.0,
