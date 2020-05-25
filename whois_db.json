@@ -14544,6 +14544,11 @@
         "expiration_date": "08-dec-2020",
         "state": "future"
     },
+    "authorneratu.club": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
     "authornernsa.pro": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
@@ -17192,6 +17197,11 @@
     "behance.net": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "behavingsali.club": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "behealthydaily.com": {
@@ -91124,6 +91134,11 @@
         "expiration_date": "21-apr-2021",
         "state": "future"
     },
+    "ny8yoo2ro5aa.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "nyacampwk.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -94354,6 +94369,11 @@
         "expiration_date": "02-feb-2021",
         "state": "future"
     },
+    "oukreesy.net": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
+    },
     "ouloutso.net": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
@@ -96717,6 +96737,11 @@
     "pezrphjl.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "pf34zdjoeycr.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
         "state": "future"
     },
     "pfcjhjogq.com": {
@@ -100097,6 +100122,11 @@
     "potentingaknt.club": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "potentingxyr.club": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "potentionsdarket.site": {
@@ -113392,6 +113422,11 @@
     "seroundtable.com": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "sersproposal.club": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "serve-sys.com": {
@@ -127002,7 +127037,7 @@
     "tobarandualchais.co.uk": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "toblender.com": {
         "epoch": 1594425600.0,
@@ -138927,7 +138962,7 @@
     "webike.la": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "webike.mx": {
         "epoch": 1591574400.0,
