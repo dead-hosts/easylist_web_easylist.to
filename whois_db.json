@@ -21005,8 +21005,8 @@
         "state": "future"
     },
     "bravotube.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "bravotv.com": {
@@ -51525,8 +51525,8 @@
         "state": "future"
     },
     "gelbooru.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1874361600.0,
+        "expiration_date": "25-may-2029",
         "state": "future"
     },
     "gematsu.com": {
@@ -60930,9 +60930,9 @@
         "state": "future"
     },
     "iamhansen.xyz": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "iamwire.com": {
         "epoch": 1652313600.0,
@@ -73445,8 +73445,8 @@
         "state": "future"
     },
     "lawprofessorblogs.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "lawrence.com": {
@@ -75285,8 +75285,8 @@
         "state": "future"
     },
     "linuxtracker.org": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "linx.cloud": {
@@ -90390,8 +90390,8 @@
         "state": "future"
     },
     "ns4w.org": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "nsboaqyssquk.com": {
@@ -134883,6 +134883,11 @@
         "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
         "state": "past"
+    },
+    "vidazoo.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
     },
     "vidbear.com": {
         "epoch": 1608940800.0,
