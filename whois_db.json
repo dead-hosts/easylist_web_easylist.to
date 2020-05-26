@@ -48664,6 +48664,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "friendsfullepisodes.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "friendster.com": {
         "epoch": 1616371200.0,
         "expiration_date": "22-mar-2021",
@@ -51425,8 +51430,8 @@
         "state": "future"
     },
     "geekculture.co": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "geekdoing.com": {
@@ -101900,8 +101905,8 @@
         "state": "future"
     },
     "psnprofiles.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "psoaghie.net": {
@@ -147200,8 +147205,8 @@
         "state": "future"
     },
     "yopmail.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "yopmail.fr": {
