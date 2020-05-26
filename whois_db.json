@@ -33340,9 +33340,9 @@
         "state": "future"
     },
     "dcxitlzzmyxbwn.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
-        "state": "past"
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
     },
     "dcxtvftrdd.com": {
         "epoch": 1614038400.0,
@@ -37950,8 +37950,8 @@
         "state": "future"
     },
     "dvokgydenwaksi.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "dvoyy3qexr.com": {
@@ -102117,6 +102117,11 @@
     "ptoulsey.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
+    "ptoushoa.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "ptp22.com": {
