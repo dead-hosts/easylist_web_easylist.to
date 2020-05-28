@@ -112447,7 +112447,7 @@
     "scanscout.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "scanwith.com": {
         "epoch": 1615161600.0,
@@ -113200,9 +113200,9 @@
         "state": "future"
     },
     "securesoft.info": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "securesurf.biz": {
         "epoch": 1621728000.0,
@@ -116190,9 +116190,9 @@
         "state": "future"
     },
     "skyactivate.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
-        "state": "past"
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
     },
     "skyandtelescope.com": {
         "epoch": 1722556800.0,
@@ -119500,9 +119500,9 @@
         "state": "future"
     },
     "statesol.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "static-api.com": {
         "epoch": 1583107200,
@@ -128595,8 +128595,8 @@
         "state": "future"
     },
     "traffboost.net": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "traffic-c.com": {
@@ -129095,9 +129095,9 @@
         "state": "future"
     },
     "treksol.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "trellian.com": {
         "epoch": 1620172800.0,
@@ -133345,9 +133345,9 @@
         "state": "past"
     },
     "usswrite.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "ustralpublicate.site": {
         "epoch": 1613865600.0,
