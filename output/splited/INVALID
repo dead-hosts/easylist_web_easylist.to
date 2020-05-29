@@ -11,9 +11,15 @@ cacheserve.*                                                                    
 cas.*.criteo.com                                                                                     SYNTAX     XXX        2020-05-29T04:09:00.095247
 caw.*.criteo.com                                                                                     SYNTAX     XXX        2020-05-29T04:09:01.401542
 cdaz.ciu                                                                                             SYNTAX     XXX        2020-05-29T03:38:17.615812
+get.*.website                                                                                        SYNTAX     XXX        2020-05-29T04:24:30.455468
+iad-*.blaze.com                                                                                      SYNTAX     XXX        2020-05-29T04:24:50.658205
+images.*.criteo.net                                                                                  SYNTAX     XXX        2020-05-29T04:24:53.513145
 mobileoffers-*-download.com                                                                          SYNTAX     XXX        2020-05-28T22:44:32.381969
 online.*                                                                                             SYNTAX     XXX        2020-05-28T21:20:50.410475
 ox-d.*                                                                                               SYNTAX     XXX        2020-05-28T21:20:50.412992
+quickflix*.gridserver.com                                                                            SYNTAX     XXX        2020-05-29T04:26:04.819956
+rcm*.amazon.                                                                                         SYNTAX     XXX        2020-05-29T04:26:08.227951
+rdi.*.criteo.com                                                                                     SYNTAX     XXX        2020-05-29T04:26:08.516869
 serve.*                                                                                              SYNTAX     XXX        2020-05-28T21:20:50.412093
 tracker*.bingohall.ag                                                                                SYNTAX     XXX        2020-05-29T03:51:31.406855
 tracker*.richcasino.com                                                                              SYNTAX     XXX        2020-05-29T03:51:31.420199
