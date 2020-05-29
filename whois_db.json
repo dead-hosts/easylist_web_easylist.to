@@ -33515,7 +33515,7 @@
         "state": "future"
     },
     "deadspin.com": {
-        "epoch": 1603238400,
+        "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
@@ -51055,8 +51055,8 @@
         "state": "future"
     },
     "gardentenders.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "gardenweb.com": {
@@ -52687,6 +52687,11 @@
     "gizmodo.co.uk": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "gizmodo.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "gizmodo.in": {
@@ -66419,6 +66424,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "jalopnik.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "jamaica-gleaner.com": {
         "epoch": 1714608000.0,
         "expiration_date": "02-may-2024",
@@ -67302,6 +67312,11 @@
     "jewsnews.co.il": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "jezebel.com": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "jf71qh5v14.com": {
@@ -71904,6 +71919,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "kotaku.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "koten.zone": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
@@ -74969,6 +74989,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "lifehacker.com": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "lifeideas.site": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -75457,6 +75482,11 @@
     "linuxinsider.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "linuxize.com": {
+        "epoch": 1765843200.0,
+        "expiration_date": "16-dec-2025",
         "state": "future"
     },
     "linuxmint.com": {
@@ -89235,9 +89265,9 @@
         "state": "future"
     },
     "nigeriafootball.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "nigeriamasterweb.com": {
         "epoch": 1589068800,
@@ -100012,7 +100042,7 @@
     "pornomovies.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "pornoow.com": {
         "epoch": 1610582400.0,
@@ -100130,8 +100160,8 @@
         "state": "future"
     },
     "porntalk.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "porntrack.com": {
@@ -105912,6 +105942,11 @@
     "radio.com": {
         "epoch": 1628467200.0,
         "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
+    "radio.garden": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "radio1584.co.za": {
@@ -114190,8 +114225,8 @@
         "state": "future"
     },
     "sexvid.xxx": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "sexvideogif.com": {
@@ -125627,6 +125662,11 @@
     "thesurvivalistblog.net": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "thetakeout.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "thetandd.com": {
@@ -145817,7 +145857,7 @@
     "xxxjizz.net": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "xxxkingtube.com": {
         "epoch": 1607385600.0,
