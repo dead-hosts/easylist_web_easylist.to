@@ -4,7 +4,10 @@
 0.0.0.0 130.211.
 0.0.0.0 142.91.
 0.0.0.0 216.21.13.
+0.0.0.0 algart.net*_banner_
 0.0.0.0 cacheserve.*
+0.0.0.0 cas.*.criteo.com
+0.0.0.0 caw.*.criteo.com
 0.0.0.0 cdaz.ciu
 0.0.0.0 mobileoffers-*-download.com
 0.0.0.0 online.*
