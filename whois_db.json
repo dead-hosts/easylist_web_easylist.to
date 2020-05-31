@@ -5755,8 +5755,8 @@
         "state": "future"
     },
     "addroplet.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1685404800.0,
+        "expiration_date": "30-may-2023",
         "state": "future"
     },
     "addynamix.com": {
@@ -6209,6 +6209,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "adinplay.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "adintend.com": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -6265,8 +6270,8 @@
         "state": "future"
     },
     "adition.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "aditize.com": {
@@ -11765,8 +11770,8 @@
         "state": "future"
     },
     "ampxchange.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1653868800.0,
+        "expiration_date": "30-may-2022",
         "state": "future"
     },
     "amren.com": {
@@ -12715,8 +12720,8 @@
         "state": "past"
     },
     "aphookkensidah.pro": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "aphycolourses.info": {
@@ -15497,7 +15502,7 @@
     "azjmp.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "azlyrics.com": {
         "epoch": 1604707200.0,
