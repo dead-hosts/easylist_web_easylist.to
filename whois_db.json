@@ -10305,8 +10305,8 @@
         "state": "future"
     },
     "ajc.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "ajchomefinder.com": {
@@ -12275,8 +12275,8 @@
         "state": "future"
     },
     "aniweather.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "anizedglittledisco.info": {
@@ -23387,7 +23387,7 @@
     "campervan-photos.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "campinglife.com": {
         "epoch": 1598745600.0,
@@ -40852,7 +40852,7 @@
     "emporis.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "empowernetwork.com": {
         "epoch": 1704672000.0,
@@ -87205,8 +87205,8 @@
         "state": "future"
     },
     "natureasia.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "naucaips.com": {
@@ -121930,8 +121930,8 @@
         "state": "future"
     },
     "tablesleague.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "tabletmag.com": {
@@ -124745,8 +124745,8 @@
         "state": "future"
     },
     "thefinancialexpress-bd.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "thefirearmblog.com": {
@@ -124790,8 +124790,8 @@
         "state": "future"
     },
     "thefrisky.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "thefuncoolstuff.com": {
