@@ -21880,8 +21880,8 @@
         "state": "future"
     },
     "bucyrustelegraphforum.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "buddyhead.com": {
@@ -25017,7 +25017,7 @@
     "celebuzz.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "celeritascdn.com": {
         "epoch": 1634688000.0,
@@ -48005,8 +48005,8 @@
         "state": "future"
     },
     "foxsoccer.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "foxsports.com": {
@@ -51370,8 +51370,8 @@
         "state": "future"
     },
     "gazettextra.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "gazukakdlk.com": {
@@ -57725,8 +57725,8 @@
         "state": "future"
     },
     "hertfordshirelife.co.uk": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "hertfordshiremercury.co.uk": {
@@ -70440,8 +70440,8 @@
         "state": "future"
     },
     "kens5.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "kent-life.co.uk": {
@@ -98005,8 +98005,8 @@
         "state": "future"
     },
     "pinkisthenewblog.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1654041600.0,
+        "expiration_date": "01-jun-2022",
         "state": "future"
     },
     "pinknews.co": {
@@ -101240,8 +101240,8 @@
         "state": "future"
     },
     "prewarcar.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "prexista.com": {
@@ -107230,8 +107230,8 @@
         "state": "future"
     },
     "readhuddersfield.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "readhull.com": {
@@ -108070,8 +108070,8 @@
         "state": "future"
     },
     "reflector.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1654041600.0,
+        "expiration_date": "01-jun-2022",
         "state": "future"
     },
     "reflethenfortoft.info": {
@@ -118550,8 +118550,8 @@
         "state": "future"
     },
     "spin.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1654041600.0,
+        "expiration_date": "01-jun-2022",
         "state": "future"
     },
     "spin1038.com": {
@@ -120090,9 +120090,9 @@
         "state": "future"
     },
     "stocktwits.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
     },
     "stockvault.net": {
         "epoch": 1602892800.0,
@@ -121380,8 +121380,8 @@
         "state": "future"
     },
     "swanseacitynews.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1653868800.0,
+        "expiration_date": "30-may-2022",
         "state": "future"
     },
     "swanseasound.co.uk": {
@@ -130225,8 +130225,8 @@
         "state": "future"
     },
     "tucsonsentinel.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "tucsonweekly.com": {
@@ -138470,8 +138470,8 @@
         "state": "future"
     },
     "warwickshirelife.co.uk": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "washingtoncitypaper.com": {
