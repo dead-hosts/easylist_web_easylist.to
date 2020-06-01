@@ -58934,6 +58934,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "home-barista.com": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "home-made-videos.com": {
         "epoch": 1872028800.0,
         "expiration_date": "28-apr-2029",
@@ -86165,8 +86170,8 @@
         "state": "future"
     },
     "mynewssplash.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "mynintendonews.com": {
@@ -90557,6 +90562,11 @@
     "nowspots.com": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "nowthisnews.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "nowtoronto.com": {
@@ -132949,6 +132959,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "uploader.link": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "uploadgig.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
@@ -148105,8 +148120,8 @@
         "state": "future"
     },
     "youthincmag.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "youtube.com": {
