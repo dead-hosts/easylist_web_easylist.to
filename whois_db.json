@@ -47829,9 +47829,19 @@
         "expiration_date": "19-dec-2024",
         "state": "future"
     },
+    "fox10phoenix.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
     "fox1150.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "fox13news.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "fox13now.com": {
@@ -47849,9 +47859,34 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "fox26houston.com": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "fox29.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "fox2detroit.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "fox2now.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "fox32chicago.com": {
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
+    },
+    "fox35orlando.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "fox40.com": {
@@ -47869,9 +47904,29 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "fox4news.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "fox59.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "fox5atlanta.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "fox5dc.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "fox5ny.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "fox5sandiego.com": {
@@ -47884,9 +47939,19 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "fox7austin.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "fox8.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "fox9.com": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "foxafrica.com": {
@@ -47912,6 +47977,11 @@
     "foxct.com": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
+    "foxla.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "foxlaytg.com": {
@@ -52260,8 +52330,8 @@
         "state": "future"
     },
     "gfycatporn.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "gfyrxikptop.com": {
@@ -85644,6 +85714,11 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "my9nj.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "myaarzoo.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
@@ -100130,9 +100205,9 @@
         "state": "future"
     },
     "pornomovies.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "pornoow.com": {
         "epoch": 1610582400.0,
@@ -114365,8 +114440,8 @@
         "state": "future"
     },
     "sexy-youtubers.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "sexyandfunny.com": {
@@ -123145,8 +123220,8 @@
         "state": "future"
     },
     "techweb.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "techweez.com": {
@@ -139629,6 +139704,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "webseed.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "webseeds.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -142037,6 +142117,11 @@
     "woghqyjpiwddme.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "wogx.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "wolf-howl.com": {
@@ -145990,9 +146075,9 @@
         "state": "future"
     },
     "xxxjizz.net": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
     },
     "xxxkingtube.com": {
         "epoch": 1607385600.0,
@@ -146055,8 +146140,8 @@
         "state": "future"
     },
     "xxxselected.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "xxxstash.com": {
