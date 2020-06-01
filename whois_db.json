@@ -27780,9 +27780,9 @@
         "state": "future"
     },
     "cloudifer.net": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "cloudiiv.com": {
         "epoch": 1621123200.0,
@@ -44500,8 +44500,8 @@
         "state": "future"
     },
     "fastcompany.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1748736000.0,
+        "expiration_date": "01-jun-2025",
         "state": "future"
     },
     "fastdld.com": {
@@ -69770,8 +69770,8 @@
         "state": "future"
     },
     "kaldata.net": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "kalemaro.com": {
@@ -89355,8 +89355,8 @@
         "state": "future"
     },
     "nickjr.co.uk": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "nickjr.com": {
@@ -93100,8 +93100,8 @@
         "state": "future"
     },
     "oldversion.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1748649600.0,
+        "expiration_date": "31-may-2025",
         "state": "future"
     },
     "olfkptkfop.com": {
@@ -117665,8 +117665,8 @@
         "state": "future"
     },
     "softnyx.net": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "softonic.com": {
@@ -119080,8 +119080,8 @@
         "state": "future"
     },
     "squidoo.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "squren.com": {
@@ -122240,8 +122240,8 @@
         "state": "future"
     },
     "tampabay.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "tampermonkey.net": {
@@ -124932,7 +124932,7 @@
     "thehollywoodgossip.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "thehoopdoctors.com": {
         "epoch": 1615593600.0,
