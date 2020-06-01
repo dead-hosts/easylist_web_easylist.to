@@ -264,6 +264,11 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "1-vr.xyz": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
+    },
     "1001tracklists.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -85240,8 +85245,8 @@
         "state": "future"
     },
     "murkymouse.online": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "murphymonitor.com": {
@@ -85595,8 +85600,8 @@
         "state": "future"
     },
     "mxtads.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "mxvncslrduda.com": {
@@ -90475,9 +90480,9 @@
         "state": "future"
     },
     "nowspots.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "nowtoronto.com": {
         "epoch": 1600560000.0,
@@ -92355,8 +92360,8 @@
         "state": "future"
     },
     "ofeetles.pro": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "ofenltlzepz.com": {
@@ -95985,8 +95990,8 @@
         "state": "future"
     },
     "pas-rahav.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "pasaigul.com": {
@@ -99572,7 +99577,7 @@
     "poprevenue.net": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "popsads.com": {
         "epoch": 1613779200.0,
@@ -104670,8 +104675,8 @@
         "state": "past"
     },
     "qnsr.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "qnwjhpingotrmc.com": {
@@ -112600,9 +112605,9 @@
         "state": "future"
     },
     "scanscout.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "scanwith.com": {
         "epoch": 1615161600.0,
@@ -113580,8 +113585,8 @@
         "state": "future"
     },
     "selectablemedia.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "selectparkhomes.com": {
