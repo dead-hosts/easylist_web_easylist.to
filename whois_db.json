@@ -149695,9 +149695,9 @@
         "state": "past"
     },
     "zfmagxsjqypmya.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "zfnvguzg.com": {
         "epoch": 1595721600.0,
@@ -151092,7 +151092,7 @@
     "zursiicizyhd.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "zuszohaosnrssk.com": {
         "epoch": 1597622400.0,
