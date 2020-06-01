@@ -63365,8 +63365,8 @@
         "state": "future"
     },
     "indeed.fr": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "independent.co.ug": {
@@ -75682,7 +75682,7 @@
     "literatureandlatte.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "literotica.com": {
         "epoch": 1826668800.0,
@@ -112355,8 +112355,8 @@
         "state": "future"
     },
     "satshop.tv": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "satsupreme.com": {
@@ -114452,7 +114452,7 @@
     "sfcdn.in": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sfchronicle.com": {
         "epoch": 1599696000.0,
