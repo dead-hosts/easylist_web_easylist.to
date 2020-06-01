@@ -9882,7 +9882,7 @@
     "agvinhvex.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "agvzvwof.com": {
         "epoch": 1594944000.0,
@@ -10442,7 +10442,7 @@
     "akhlkkdrxwav.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "akiba-online.com": {
         "epoch": 1635638400.0,
@@ -12650,8 +12650,8 @@
         "state": "future"
     },
     "aovajfmsy.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "aowmaijlvxdcs.com": {
