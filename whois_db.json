@@ -91879,6 +91879,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "o-e.xyz": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
     "o-oo.ooo": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -103890,9 +103895,9 @@
         "state": "future"
     },
     "qagnufdwht.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "qaiqromd.com": {
         "epoch": 1606435200.0,
@@ -105460,9 +105465,9 @@
         "state": "future"
     },
     "quhlryzpyyion.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "quhpkwtljkvedc.com": {
         "epoch": 1562112000,
