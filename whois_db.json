@@ -4034,6 +4034,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "9xupload.xyz": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
     "a-ads.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -9550,8 +9555,8 @@
         "state": "future"
     },
     "afr.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "afreecodec.com": {
@@ -11565,9 +11570,9 @@
         "state": "future"
     },
     "ambya.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "amcpusvcit.com": {
         "epoch": 1600819200.0,
@@ -26940,8 +26945,8 @@
         "state": "future"
     },
     "clarksvilleonline.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "claro-search.com": {
@@ -28327,7 +28332,7 @@
     "codenull.net": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "codeonclick.com": {
         "epoch": 1619481600.0,
@@ -43277,7 +43282,7 @@
     "exposedteencelebs.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "exposedwebcams.com": {
         "epoch": 1608422400.0,
@@ -65140,8 +65145,8 @@
         "state": "future"
     },
     "ipornia.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "ipornxxx.net": {
@@ -73245,9 +73250,9 @@
         "state": "future"
     },
     "laborates.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "laboratoryequipment.com": {
         "epoch": 1737504000.0,
@@ -85125,8 +85130,8 @@
         "state": "future"
     },
     "mtoon.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "mtoor.com": {
