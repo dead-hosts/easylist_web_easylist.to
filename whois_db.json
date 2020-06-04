@@ -10620,8 +10620,8 @@
         "state": "future"
     },
     "albertonrecord.co.za": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "albireo.xyz": {
@@ -19312,7 +19312,7 @@
     "blackburnnews.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "blackchronicle.com": {
         "epoch": 1601337600,
@@ -28825,8 +28825,8 @@
         "state": "future"
     },
     "comicgenesis.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "comicsalliance.com": {
@@ -91550,8 +91550,8 @@
         "state": "past"
     },
     "nwtgasprices.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "nwwiirgkuqtxwa.com": {
@@ -93065,8 +93065,8 @@
         "state": "future"
     },
     "okcupid.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "okdvodyejd.com": {
@@ -125005,9 +125005,9 @@
         "state": "future"
     },
     "thehollywoodgossip.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "thehoopdoctors.com": {
         "epoch": 1615593600.0,
@@ -125315,8 +125315,8 @@
         "state": "future"
     },
     "themonitor.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "themoreheadnews.com": {
@@ -139257,7 +139257,7 @@
     "wdel.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "wdet.org": {
         "epoch": 1696809600.0,
@@ -146530,8 +146530,8 @@
         "state": "future"
     },
     "yasni.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "yatab.net": {
