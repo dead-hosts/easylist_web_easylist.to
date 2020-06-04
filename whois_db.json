@@ -32745,8 +32745,8 @@
         "state": "future"
     },
     "dailywire.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1748908800.0,
+        "expiration_date": "03-jun-2025",
         "state": "future"
     },
     "dailyworld.com": {
@@ -35090,8 +35090,8 @@
         "state": "future"
     },
     "dillons.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "dillweqbducwi.com": {
@@ -40725,8 +40725,8 @@
         "state": "future"
     },
     "elyricsworld.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "elystandard.co.uk": {
@@ -59055,8 +59055,8 @@
         "state": "future"
     },
     "homesandantiques.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "homeschoolmath.net": {
@@ -64155,8 +64155,8 @@
         "state": "future"
     },
     "insideedition.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1654128000.0,
+        "expiration_date": "02-jun-2022",
         "state": "future"
     },
     "insideevs.com": {
@@ -76652,6 +76652,11 @@
     "loadingz.com": {
         "epoch": 1695945600.0,
         "expiration_date": "29-sep-2023",
+        "state": "future"
+    },
+    "loadout.tf": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "loaphour.com": {
@@ -106517,7 +106522,7 @@
     "rantsports.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "raoplenort.biz": {
         "epoch": 1589328000.0,
@@ -123670,8 +123675,8 @@
         "state": "future"
     },
     "teoma.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1654128000.0,
+        "expiration_date": "02-jun-2022",
         "state": "future"
     },
     "teosredic.com": {
@@ -140235,8 +140240,8 @@
         "state": "future"
     },
     "westernpeople.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "westerntelegraph.co.uk": {
@@ -147327,7 +147332,7 @@
     "yippy.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "yiqyefznxc.com": {
         "epoch": 1581379200.0,
