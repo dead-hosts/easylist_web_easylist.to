@@ -52885,8 +52885,8 @@
         "state": "future"
     },
     "givemeburg3r.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "givemefile.net": {
@@ -56825,8 +56825,8 @@
         "state": "future"
     },
     "havamedia.net": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "havenwrite.com": {
@@ -79787,7 +79787,7 @@
     "marketleverage.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "marketnetwork.com": {
         "epoch": 1593475200.0,
