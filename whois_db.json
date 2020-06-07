@@ -20635,8 +20635,8 @@
         "state": "future"
     },
     "borncity.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "borneobulletin.com.bn": {
@@ -21025,8 +21025,8 @@
         "state": "future"
     },
     "brainyquote.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1686096000.0,
+        "expiration_date": "07-jun-2023",
         "state": "future"
     },
     "brainz.org": {
@@ -32705,8 +32705,8 @@
         "state": "future"
     },
     "dailypost.co.uk": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "dailypost.ng": {
@@ -64315,8 +64315,8 @@
         "state": "future"
     },
     "insider.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "insideradio.com": {
@@ -75840,8 +75840,8 @@
         "state": "future"
     },
     "linuxtopia.org": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "linuxtracker.org": {
@@ -76180,8 +76180,8 @@
         "state": "future"
     },
     "liverpoolecho.co.uk": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "liverpoolfc.com": {
@@ -96250,8 +96250,8 @@
         "state": "future"
     },
     "parentherald.com": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "parenthood.com": {
@@ -99677,7 +99677,7 @@
     "politifact.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "politiken.dk": {
         "epoch": 1617148800.0,
@@ -106755,9 +106755,9 @@
         "state": "future"
     },
     "rantsports.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "raoplenort.biz": {
         "epoch": 1589328000.0,
@@ -118885,8 +118885,8 @@
         "state": "future"
     },
     "spikedhumor.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "spin.com": {
@@ -147640,9 +147640,9 @@
         "state": "future"
     },
     "yippy.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "yiqyefznxc.com": {
         "epoch": 1581379200.0,
