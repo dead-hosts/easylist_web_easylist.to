@@ -19355,9 +19355,9 @@
         "state": "future"
     },
     "blackburnnews.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "blackchronicle.com": {
         "epoch": 1601337600,
@@ -23980,8 +23980,8 @@
         "state": "future"
     },
     "carmitimes.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1654560000.0,
+        "expiration_date": "07-jun-2022",
         "state": "future"
     },
     "carnalnation.com": {
@@ -38915,8 +38915,8 @@
         "state": "future"
     },
     "earthlink.net": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "earthmoversmagazine.co.uk": {
@@ -59822,7 +59822,7 @@
     "hotonlinenews.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotpepper-gourmet.com": {
         "epoch": 1612828800.0,
@@ -81175,8 +81175,8 @@
         "state": "future"
     },
     "megadrive.tv": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "megafileupload.com": {
@@ -125710,8 +125710,8 @@
         "state": "future"
     },
     "thenewsstar.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "thenewstribe.com": {
@@ -139560,9 +139560,9 @@
         "state": "future"
     },
     "wdel.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "wdet.org": {
         "epoch": 1696809600.0,
@@ -149682,7 +149682,7 @@
     "zattoo.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "zaugroaw.net": {
         "epoch": 1612483200.0,
