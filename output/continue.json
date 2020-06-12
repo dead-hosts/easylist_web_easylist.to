@@ -30214,7 +30214,9 @@
             "worcesternews.co.uk",
             "yeovilexpress.co.uk",
             "yourlocalguardian.co.uk",
-            "app.fahimpace.pro"
+            "app.fahimpace.pro",
+            "cdn.mgid.com",
+            "jsc.mgid.com"
         ],
         "INACTIVE": [
             "googleme.eu",
@@ -31951,6 +31953,7 @@
             "torrentz.*",
             "vidstream.*",
             "t8.*.com",
+            "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
