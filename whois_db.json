@@ -99985,9 +99985,9 @@
         "state": "future"
     },
     "politifact.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "politiken.dk": {
         "epoch": 1617148800.0,
@@ -103500,8 +103500,8 @@
         "state": "future"
     },
     "pulse1.co.uk": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1654819200.0,
+        "expiration_date": "10-jun-2022",
         "state": "future"
     },
     "pulse2.co.uk": {
@@ -110210,8 +110210,8 @@
         "state": "future"
     },
     "rivertowns.net": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "riwdydttgbczku.com": {
@@ -116450,13 +116450,13 @@
         "state": "future"
     },
     "signal1.co.uk": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "signal2.co.uk": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "signbucks.com": {
@@ -130580,8 +130580,8 @@
         "state": "future"
     },
     "trustedreviews.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1654732800.0,
+        "expiration_date": "09-jun-2022",
         "state": "future"
     },
     "trustx.org": {
@@ -138740,8 +138740,8 @@
         "state": "future"
     },
     "w3techs.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "w4.com": {
@@ -140077,6 +140077,11 @@
     "weather.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "weather.us": {
+        "epoch": 1713830400.0,
+        "expiration_date": "23-apr-2024",
         "state": "future"
     },
     "weather24.com": {
@@ -142065,8 +142070,8 @@
         "state": "future"
     },
     "winbeta.org": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "winbuyer.com": {
