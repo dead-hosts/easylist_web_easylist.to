@@ -1095,8 +1095,8 @@
         "state": "future"
     },
     "24smile.org": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "24video.net": {
@@ -5500,9 +5500,9 @@
         "state": "future"
     },
     "adboost.it": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "adbooth.com": {
         "epoch": 1712793600.0,
@@ -13305,9 +13305,9 @@
         "state": "future"
     },
     "ardintcoin.com": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "ardrossanherald.com": {
         "epoch": 1611705600.0,
@@ -20990,8 +20990,8 @@
         "state": "future"
     },
     "bposterss.net": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "bpplltxabaayhm.com": {
@@ -23400,8 +23400,8 @@
         "state": "future"
     },
     "caltat.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "cam-lolita.net": {
@@ -27075,8 +27075,8 @@
         "state": "future"
     },
     "cl96rwprue.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "clactonandfrintongazette.co.uk": {
@@ -36250,8 +36250,8 @@
         "state": "future"
     },
     "dnckawxatc.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "dneglectionsinter.info": {
@@ -38975,8 +38975,8 @@
         "state": "future"
     },
     "eaoueopa.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "eaoxitwrlr.com": {
@@ -46144,6 +46144,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "filexan.com": {
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "state": "future"
+    },
     "filhadaputa.tv": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -47395,8 +47400,8 @@
         "state": "future"
     },
     "fmscash.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "fmstigat.online": {
@@ -47610,8 +47615,8 @@
         "state": "future"
     },
     "folmetor.com": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "foloatoo.com": {
@@ -48322,7 +48327,7 @@
     "foxsnews.net": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "foxsoccer.com": {
         "epoch": 1622419200.0,
@@ -51130,8 +51135,8 @@
         "state": "future"
     },
     "gameonmom.net": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "gameorc.net": {
@@ -59547,7 +59552,7 @@
     "hopilos.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hoppr.co": {
         "epoch": 1593561600.0,
@@ -59555,8 +59560,8 @@
         "state": "future"
     },
     "hoptopboy.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "hoqqzlvwukpo.com": {
@@ -85995,8 +86000,8 @@
         "state": "future"
     },
     "mvmbs.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "mvnrepository.com": {
@@ -89415,9 +89420,9 @@
         "state": "future"
     },
     "newton1.club": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
     },
     "newtueads.com": {
         "epoch": 1614902400.0,
@@ -111045,8 +111050,8 @@
         "state": "future"
     },
     "routgveriprt.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "rouvoute.net": {
