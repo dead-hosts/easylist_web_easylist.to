@@ -13189,6 +13189,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "aranlucas.pro": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "arasyqslwmfat.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -55090,8 +55095,8 @@
         "state": "future"
     },
     "grantland.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "grapeshot.co.uk": {
@@ -56952,6 +56957,11 @@
     "harrenmedianetwork.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "harriscote.pro": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "harrowtimes.co.uk": {
@@ -106599,6 +106609,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "r-tb.com": {
+        "epoch": 1648512000.0,
+        "expiration_date": "29-mar-2022",
+        "state": "future"
+    },
     "r18.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -110969,6 +110984,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "roseolsen.pro": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "roshantv.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -111542,6 +111562,11 @@
     "rtcc.org": {
         "epoch": 1582243200,
         "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "rtclx.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "rtdogcdkovndho.com": {
