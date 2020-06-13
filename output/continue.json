@@ -31155,7 +31155,9 @@
             "fooooo.com",
             "mailinator.com",
             "didyoumean-generator.com",
-            "addgadgets.com"
+            "addgadgets.com",
+            "snapsed.club",
+            "turbocap.net"
         ],
         "INACTIVE": [
             "googleme.eu",
@@ -32897,6 +32899,7 @@
             "torrentz.*",
             "vidstream.*",
             "t8.*.com",
+            "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
