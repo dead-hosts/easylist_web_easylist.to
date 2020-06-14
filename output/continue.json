@@ -31706,7 +31706,8 @@
             "trifind.com",
             "jdoodle.com",
             "altenen.com",
-            "live.com"
+            "live.com",
+            "holidates.club"
         ],
         "INACTIVE": [
             "googleme.eu",
@@ -33467,6 +33468,7 @@
             "torrentz.*",
             "vidstream.*",
             "t8.*.com",
+            "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
