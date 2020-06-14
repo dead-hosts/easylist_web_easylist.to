@@ -11352,7 +11352,7 @@
     "altenen.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "alternads.info": {
         "epoch": 1604275200.0,
@@ -67560,8 +67560,8 @@
         "state": "past"
     },
     "jdoodle.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "jdoqocy.com": {
@@ -69655,8 +69655,8 @@
         "state": "future"
     },
     "just-dice.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "just-download.com": {
