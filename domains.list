@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006141115
+! Version: 202006141710
 ! Title: EasyList
-! Last modified: 14 Jun 2020 11:15 UTC
+! Last modified: 14 Jun 2020 17:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7289,7 +7289,7 @@
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
+://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://adv.$domain=~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.rest|~adv.ru|~adv.trinet.ru|~adv.vg|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -23619,6 +23619,7 @@ _popunder+$popup
 ##.cntrad
 ##.cobalt-ad
 ##.codeneric_ultimate_ads_manager_ad_wrapper
+##.coinzilla-ad
 ##.col-ad
 ##.col-ad-hidden
 ##.col-has-ad
@@ -24744,6 +24745,7 @@ _popunder+$popup
 ##.googleads
 ##.googleads-bottommiddle
 ##.googleads-container
+##.googleads-height
 ##.googleads-topmiddle
 ##.googleads_300x250
 ##.googleads_title
@@ -26226,6 +26228,7 @@ _popunder+$popup
 ##.narrow_ads
 ##.nationalad
 ##.native-ad
+##.native-ad-article
 ##.native-ad-container
 ##.native-ad-item
 ##.native-ad-link
@@ -31154,6 +31157,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||augnuxun.net^
 ||aujaujoa.net^
 ||aukalerim.com^
+||aulingimpora.club^
 ||aulrains.com^
 ||aurdeert.net^
 ||aurdosti.com^
@@ -31565,6 +31569,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fnacgbik9v14.com^
 ||fnx2n3rqbuw7.com^
 ||fontainsuny.club^
+||foowafoa.com^
 ||forcementsawe.site^
 ||forwayonlibe.site^
 ||freementgd.club^
@@ -31575,6 +31580,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fufoatch.com^
 ||fundardsesaz.club^
 ||futckgpfbgzfn.com^
+||futurershnh.club^
 ||fuyuap.xyz^
 ||fz5akngy5o6r.com^
 ||g1dxj6q1qfl2.com^
@@ -31845,6 +31851,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||malharvoice.pro^
 ||manatomicbru.site^
 ||mancehostic.site^
+||marketeret.club^
 ||martafatass.pro^
 ||martyappear.pro^
 ||marwinhitted.site^
@@ -32273,6 +32280,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||saumooly.net^
 ||sbc7wfnaakau.com^
 ||sbroughhig.info^
+||scientialy.club^
 ||sculifinanthools.site^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
@@ -52315,7 +52323,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||as.inbox.com^
 ||ascii-art-generator.org/cnc/$xmlhttprequest
 ||askbobrankin.com/awpopup*.js
-||assets.msn.com/*/v1/cms/api/amp/$xmlhttprequest
+||assets.msn.com/content/v1/cms/api/amp/Document/$xmlhttprequest
 ||aveherald.com/images/banners/
 ||bahamaslocal.com/img/banners/
 ||ban.seriesonlinex.org^
@@ -54567,6 +54575,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||3movs.com/ai/
 ||3movs.com/contents/content_sources/
 ||3movs.com/pp/
+||3naked.com/nb/
 ||4sex4.com/pd/
 ||4tube.com/assets/abpe-
 ||4tube.com/assets/adf-
@@ -55136,6 +55145,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||porn.com/737cdn189/$image
 ||porn.com/assets/partner_
 ||porn.com/js/pu.js
+||porn300.com/nb.
 ||porn4down.com^*/ryuvuong.gif
 ||porn5.com^$subdocument,~third-party
 ||porn555.com/ps/
@@ -55242,6 +55252,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||realhomesex.net/ae/$subdocument
 ||realhomesex.net/floater.js
 ||realhomesex.net/pop/
+||reamporn.com/nb/
 ||redtube.com/barelylegal/
 ||redtube.com/bestporn/
 ||redtube.com/nymphos/
@@ -55325,6 +55336,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||socaseiras.com.br/arquivos/banners/
 ||socaseiras.com.br/banner_
 ||socaseiras.com.br/banners.php?
+||sonorousporn.com/nb/
 ||spankbang.com/api/live_
 ||spankbang.com/api/livecam_
 ||spankbang.com^*/ero_loader.
@@ -55888,6 +55900,7 @@ insider.com##.coupons-link
 troypoint.com##.cp-subscriber-newsletter
 dailywire.com##.css-99f077.e1rizci20
 androidcentral.com##.cta
+seattlepi.com##.ctpl-fullbanner
 trancentral.tv##.custom_banners_big_link
 freesteam.io##.d-lg-block
 coingecko.com##.d-md-block
