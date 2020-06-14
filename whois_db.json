@@ -91845,8 +91845,8 @@
         "state": "future"
     },
     "numgen.org": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1655164800.0,
+        "expiration_date": "14-jun-2022",
         "state": "future"
     },
     "numibit.net": {
@@ -101940,8 +101940,8 @@
         "state": "future"
     },
     "prettifycss.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1654992000.0,
+        "expiration_date": "12-jun-2022",
         "state": "future"
     },
     "prettyincash.com": {
@@ -104220,8 +104220,8 @@
         "state": "past"
     },
     "pwdgen.org": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1655164800.0,
+        "expiration_date": "14-jun-2022",
         "state": "future"
     },
     "pwekxhwrgpfr.com": {
@@ -121067,6 +121067,11 @@
     "stopthedrugwar.org": {
         "epoch": 1635033600.0,
         "expiration_date": "24-oct-2021",
+        "state": "future"
+    },
+    "storieswatch.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "stormyshock.com": {
