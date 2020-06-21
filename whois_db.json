@@ -20930,8 +20930,8 @@
         "state": "future"
     },
     "bournemouthecho.co.uk": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1655596800.0,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "boursnormaticm.info": {
@@ -32820,8 +32820,8 @@
         "state": "future"
     },
     "dailyecho.co.uk": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1655596800.0,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "dailyfinancegroup.com": {
@@ -52035,8 +52035,8 @@
         "state": "future"
     },
     "gcnlive.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "gcomrarlta.com": {
@@ -105487,7 +105487,7 @@
     "qikr.co": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "qinxpsktrelpl.com": {
         "epoch": 1611619200.0,
