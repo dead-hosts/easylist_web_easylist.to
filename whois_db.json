@@ -73074,6 +73074,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "krunker.io": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
+    },
     "krwasgyensttng.com": {
         "epoch": 1616371200.0,
         "expiration_date": "22-mar-2021",
@@ -134820,8 +134825,8 @@
         "state": "future"
     },
     "usatodayhss.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "usautoparts.net": {
@@ -142135,8 +142140,8 @@
         "state": "future"
     },
     "whattoexpect.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1749859200.0,
+        "expiration_date": "14-jun-2025",
         "state": "future"
     },
     "whatuni.com": {

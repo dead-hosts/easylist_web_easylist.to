@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006211115
+! Version: 202006211138
 ! Title: EasyList
-! Last modified: 21 Jun 2020 11:15 UTC
+! Last modified: 21 Jun 2020 11:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1827,7 +1827,7 @@
 /adcycle.
 /adcycle/*
 /add728.
-/addata.$domain=~addata.io
+/addata.$domain=~addata.io|~addata.se
 /addatasandbox?
 /addeals/*
 /addefend.
@@ -29268,6 +29268,7 @@ _popunder+$popup
 ##a[href*=".inclk.com/"]
 ##a[href*=".intab.fun/"]
 ##a[href*=".irtyc.com/"]
+##a[href*=".mfroute.com/"]
 ##a[href*=".opskln.com/"]
 ##a[href*=".orange2258.com/"]
 ##a[href*=".purple6401.com/"]
@@ -55496,6 +55497,7 @@ daringfireball.net###SidebarMartini
 imcdb.org###SiteLifeSupport
 road.cc###Top-Billboard
 ndtv.com###_pcwgtlhs
+krunker.io###aHolder
 campusrn.com,jigzone.com,theoswatch.com###ad
 clip.dj,wordreference.com###ad1
 wordreference.com###ad2
@@ -65622,6 +65624,7 @@ ign.com##.zergnet-container
 baltimoresun.com,boston.com,calgaryherald.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,edmontonjournal.com,edmunds.com,financialpost.com,gofugyourself.com,hearthhead.com,ign.com,infinitiev.com,latimes.com,leaderpost.com,lolking.net,mcall.com,montrealgazette.com,nasdaq.com,nationalpost.com,orlandosentinel.com,ottawacitizen.com,pcmag.com,ranker.com,sandiegouniontribune.com,saveur.com,sherdog.com,spin.com,sun-sentinel.com,theprovince.com,thestarphoenix.com,tmn.today,torontosun.com,twincities.com,vancouversun.com,vibe.com,windsorstar.com,wowhead.com##.zergnet-holder
 gelbooru.com##[href*="adtng.com/"]
 broadwayworld.com##[id="outbrain_widget_"]
+mediafire.com##a[href*="mfroute.com/"]
 revclouds.com##a[href^="http://adtrack123.pl/"]
 flashx.tv##a[href^="http://data.committeemenencyclopedicrepertory.info/"]
 christianforums.com##a[href^="http://go.tryonlinetherapy.com/aff_c?offer_id="]
