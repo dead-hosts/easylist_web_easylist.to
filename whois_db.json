@@ -1020,8 +1020,8 @@
         "state": "future"
     },
     "22pixx.xyz": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "23205523023daea6.com": {
@@ -4760,8 +4760,8 @@
         "state": "future"
     },
     "absoluporn.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "absolute.com": {
@@ -30775,8 +30775,8 @@
         "state": "future"
     },
     "crackwhoreconfessions.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "cracwrddcb.com": {
@@ -48915,8 +48915,8 @@
         "state": "future"
     },
     "freebunker.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "freecamsexposed.com": {
@@ -49935,8 +49935,8 @@
         "state": "future"
     },
     "fuckuh.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "fuckyoucash.com": {
@@ -69105,8 +69105,8 @@
         "state": "future"
     },
     "jooble.org": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "joomla.org": {
@@ -86200,8 +86200,8 @@
         "state": "future"
     },
     "musicatorrents.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "musicjesus.com": {
@@ -118404,6 +118404,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "smushcdn.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "smut6.com": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -128452,7 +128457,7 @@
     "titanbrowser.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "titantv.com": {
         "epoch": 1602633600.0,
