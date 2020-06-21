@@ -22279,6 +22279,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "buriatelyn.club": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "burjam.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
@@ -72870,8 +72875,8 @@
         "state": "future"
     },
     "kpbs.org": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1749859200.0,
+        "expiration_date": "14-jun-2025",
         "state": "future"
     },
     "kpchywhqcrkz.com": {
@@ -142630,8 +142635,8 @@
         "state": "future"
     },
     "wigantoday.net": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "wigetmedia.com": {
