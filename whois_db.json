@@ -39194,6 +39194,11 @@
         "expiration_date": "20-aug-2022",
         "state": "future"
     },
+    "easternpush.xyz": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "eastgrinsteadcourier.co.uk": {
         "epoch": 1601596800,
         "expiration_date": "02-oct-2020",
@@ -107135,8 +107140,8 @@
         "state": "future"
     },
     "rackspacecloud.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "radaronline.com": {
@@ -108335,8 +108340,8 @@
         "state": "future"
     },
     "readme.ru": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "readmetro.com": {
@@ -111529,6 +111534,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "rowoardog.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "rowthetresparhed.net": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
@@ -113975,9 +113985,9 @@
         "state": "future"
     },
     "sciremedia.tv": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "scitechdaily.com": {
         "epoch": 1607558400.0,
@@ -117912,6 +117922,11 @@
     "slyck.com": {
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "slykeyhot.site": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "slysoft.com": {
@@ -131305,8 +131320,8 @@
         "state": "future"
     },
     "ttgtmedia.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "ttgvmqdpomt.com": {
@@ -152357,6 +152372,11 @@
     "zrnedsainsteady.info": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "zro56hd6szoy.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "zronsunopja.com": {
