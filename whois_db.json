@@ -53459,6 +53459,11 @@
         "expiration_date": "26-may-2021",
         "state": "future"
     },
+    "givestment.club": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "givingsol.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -148187,6 +148192,11 @@
     "yamvideo.com": {
         "epoch": 1623369600.0,
         "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
+    "yanderthundr.fun": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "yanskweqyuma.com": {
