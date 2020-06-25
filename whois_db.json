@@ -12864,6 +12864,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "apihotels.net": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "apiryrkxkhil.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -131522,6 +131527,11 @@
     "trutv.com": {
         "epoch": 1778284800.0,
         "expiration_date": "09-may-2026",
+        "state": "future"
+    },
+    "trvl-px.com": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "trvtrk.com": {
