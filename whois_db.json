@@ -82834,6 +82834,11 @@
         "expiration_date": "01-mar-2021",
         "state": "future"
     },
+    "mgrantzenint.fun": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
     "mgti1kofb8.com": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
@@ -130288,6 +130293,11 @@
         "epoch": 1563235200,
         "expiration_date": "16-jul-2019",
         "state": "past"
+    },
+    "tpresearchcre.fun": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
     },
     "tptfopotrzg.com": {
         "epoch": 1599436800.0,
