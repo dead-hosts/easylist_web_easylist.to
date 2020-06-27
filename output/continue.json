@@ -32375,7 +32375,12 @@
             "whois.net",
             "tomopop.com",
             "stabroeknews.com",
-            "maximumpcguides.com"
+            "maximumpcguides.com",
+            "auto-types.com",
+            "mapsofindia.com",
+            "keo.co.za",
+            "hostcabi.net",
+            "bfads.net"
         ],
         "INACTIVE": [
             "adfarm.mediaplex.com",
@@ -33956,6 +33961,7 @@
             "vidstream.*",
             "tipico.*?affiliateid=",
             "t8.*.com",
+            "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
