@@ -26849,6 +26849,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "cimg.co": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "cimg.in": {
         "epoch": 1615161600.0,
         "expiration_date": "08-mar-2021",
@@ -31492,6 +31497,11 @@
     "cryptomininggame.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "cryptonews.com": {
+        "epoch": 1646956800.0,
+        "expiration_date": "11-mar-2022",
         "state": "future"
     },
     "cryptoslate.com": {
