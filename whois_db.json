@@ -13434,6 +13434,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "arentpremi.space": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "arescadon.com": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
