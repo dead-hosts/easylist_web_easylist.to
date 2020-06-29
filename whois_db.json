@@ -17419,6 +17419,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "bedrapiona.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
     "bedrooming.club": {
         "epoch": 1618272000.0,
         "expiration_date": "13-apr-2021",
@@ -62487,6 +62492,11 @@
     "iclbkrgjdstqt.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "iclickcdn.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "iclwy.xyz": {
