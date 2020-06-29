@@ -32442,7 +32442,10 @@
             "china.cn",
             "thegardenisland.com",
             "japannewsreview.com",
-            "speedmonkey.net"
+            "speedmonkey.net",
+            "mecontentassent.website",
+            "gstatic.com",
+            "p.d.1emn.com"
         ],
         "INACTIVE": [
             "adfarm.mediaplex.com",
@@ -34023,6 +34026,7 @@
             "vidstream.*",
             "tipico.*?affiliateid=",
             "t8.*.com",
+            "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
