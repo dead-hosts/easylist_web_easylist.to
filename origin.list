@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006301004
+! Version: 202006301026
 ! Title: EasyList
-! Last modified: 30 Jun 2020 10:04 UTC
+! Last modified: 30 Jun 2020 10:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50781,6 +50781,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sfimg.com/SFIBanners/
 ||sfm-offshore.com/images/banners/
 ||sfstatic.com^*/js/fl.js$third-party
+||sfstatic.net^*/promoBlock-
 ||shaadi.com^*/get-banner.php?
 ||shaadi.com^*/get-html-banner.php?
 ||shareasale.com/image/$third-party
