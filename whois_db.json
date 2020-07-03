@@ -60199,6 +60199,11 @@
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
+    "hooligapps.com": {
+        "epoch": 1713916800.0,
+        "expiration_date": "24-apr-2024",
+        "state": "future"
+    },
     "hoood.info": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -108837,6 +108842,11 @@
     "rdthuvynnwgind.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "rdtrck2.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "rdvinfidele.club": {
