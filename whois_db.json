@@ -60784,6 +60784,11 @@
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
+    "hotukdeals.com": {
+        "epoch": 1754870400.0,
+        "expiration_date": "11-aug-2025",
+        "state": "future"
+    },
     "hotwords.com": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -78823,6 +78828,11 @@
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "past"
+    },
+    "ltdome.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
     },
     "ltdwkrgogvkgn.com": {
         "epoch": 1610409600.0,
