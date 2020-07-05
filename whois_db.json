@@ -36614,6 +36614,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "dmm.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
     "dmnangpsbpm.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
