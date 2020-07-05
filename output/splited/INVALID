@@ -2,10 +2,10 @@
 # Date of generation: 2020-06-20T21:39:27.459557
 
 Subject                                                                                              Source     HTTP Code  Analyze Date        
+88.208.23.                                                                                           SYNTAX     XXX        2020-06-21T05:53:02.590176
 130.211.                                                                                             SYNTAX     XXX        2020-06-21T04:35:17.204343
 142.91.                                                                                              SYNTAX     XXX        2020-06-21T04:35:17.220713
 216.21.13.                                                                                           SYNTAX     XXX        2020-06-21T04:35:17.235733
-88.208.23.                                                                                           SYNTAX     XXX        2020-06-21T05:53:02.590176
 ads-*.hulu.com                                                                                       SYNTAX     XXX        2020-06-21T05:54:28.101183
 algart.net*_banner_                                                                                  SYNTAX     XXX        2020-06-21T04:56:57.904182
 banners*.spacash.com                                                                                 SYNTAX     XXX        2020-06-21T05:53:08.516337
@@ -50,7 +50,6 @@ steamplay.*                                                                     
 streamplay.*                                                                                         SYNTAX     XXX        2020-06-21T06:13:41.027709
 t8.*.com                                                                                             SYNTAX     XXX        2020-06-21T06:33:59.234811
 thepiratebay.                                                                                        SYNTAX     XXX        2020-06-21T06:13:50.538998
-tipico.*                                                                                             SYNTAX     XXX        2020-06-21T05:34:54.312134
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-06-21T05:34:54.601387
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-06-21T05:52:59.537975
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-06-21T06:12:32.732397
@@ -827,6 +826,8 @@ tipico.*?affiliateid=                                                           
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-07-05T21:36:30.181096
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-07-05T22:17:02.043464
 tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-07-05T22:33:55.671674
+tipico.*?affiliateid=                                                                                SYNTAX     XXX        2020-07-05T22:50:56.045481
+tipico.*                                                                                             SYNTAX     XXX        2020-06-21T05:34:54.312134
 torrentz.*                                                                                           SYNTAX     XXX        2020-06-21T06:14:11.012674
 torrentz.*                                                                                           SYNTAX     XXX        2020-06-21T06:14:11.028975
 tracker*.bingohall.ag                                                                                SYNTAX     XXX        2020-06-21T04:34:59.916427
