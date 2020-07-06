@@ -7649,6 +7649,11 @@
         "expiration_date": "16-may-2021",
         "state": "future"
     },
+    "adskeeper.com": {
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "state": "future"
+    },
     "adskpak.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -142712,6 +142717,11 @@
     "westside-eldos.co.za": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "westwarese.club": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "westword.com": {
