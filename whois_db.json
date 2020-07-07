@@ -41289,6 +41289,11 @@
         "expiration_date": "09-feb-2021",
         "state": "future"
     },
+    "elevantpds.club": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "state": "future"
+    },
     "elevenmyanmar.com": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
@@ -111577,6 +111582,11 @@
     "risingsunoverport.co.za": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "ristbuchingu.space": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "ristintriestenforth.info": {
