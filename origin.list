@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007080457
+! Version: 202007080520
 ! Title: EasyList
-! Last modified: 08 Jul 2020 04:57 UTC
+! Last modified: 08 Jul 2020 05:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32737,6 +32737,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||thitegnu.net^
 ||thodsserentlya.info^
 ||thomagejut.site^
+||thoutiquede.club^
 ||thterras.com^
 ||tibacta.com^
 ||tifybecausingp.info^
@@ -50313,6 +50314,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||grscty.com/images/banner/$third-party
 ||gsniper.com/images/$third-party
 ||gstatic.com/0emm/
+||gstatic.com/0emn/
 ||gstaticadssl.l.google.com^$~font,third-party,~xmlhttprequest
 ||guim.co.uk/guardian/thirdparty/tv-site/side.html
 ||gulfsat.com^$domain=flysat.com
