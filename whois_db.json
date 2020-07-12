@@ -37134,6 +37134,11 @@
         "expiration_date": "01-aug-2027",
         "state": "future"
     },
+    "domaintyper.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "domdex.com": {
         "epoch": 1629936000.0,
         "expiration_date": "26-aug-2021",
