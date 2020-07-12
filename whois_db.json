@@ -56269,6 +56269,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "grirault.net": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
+    },
     "grist.org": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
@@ -135667,6 +135672,11 @@
     "upforit.com": {
         "epoch": 1778716800.0,
         "expiration_date": "14-may-2026",
+        "state": "future"
+    },
+    "upgulpinon.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "upheasted.club": {
