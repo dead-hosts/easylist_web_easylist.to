@@ -107564,6 +107564,11 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "questaurah.club": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "questionmarket.com": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
@@ -126077,6 +126082,11 @@
     "telemetryverification.net": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "telephants.club": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "teleread.com": {
