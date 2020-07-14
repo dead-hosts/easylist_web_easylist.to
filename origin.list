@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007140141
+! Version: 202007140202
 ! Title: EasyList
-! Last modified: 14 Jul 2020 01:41 UTC
+! Last modified: 14 Jul 2020 02:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20274,6 +20274,7 @@ _popunder+$popup
 ##.ad_trick_header
 ##.ad_trick_left
 ##.ad_ttl
+##.ad_two
 ##.ad_txt2
 ##.ad_type_1
 ##.ad_type_adsense
@@ -55719,6 +55720,7 @@ usatoday.com##.gnt_tb
 usatoday.com##.gnt_tbr
 usatoday.com##.gnt_x__lbl
 thehackernews.com##.google
+groovypost.com##.groov-adlabel
 whistleout.com.au##.has-hover
 laptopmag.com##.hawk-review-container
 pcgamer.com,tomsguide.com##.hawk-widget

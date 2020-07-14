@@ -56434,6 +56434,11 @@
         "expiration_date": "11-apr-2021",
         "state": "future"
     },
+    "groovypost.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "groupcommerce.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
