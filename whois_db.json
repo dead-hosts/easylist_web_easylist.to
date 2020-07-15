@@ -65409,6 +65409,11 @@
         "expiration_date": "26-jan-2021",
         "state": "future"
     },
+    "infotel.ca": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "infowars.com": {
         "epoch": 1867536000.0,
         "expiration_date": "07-mar-2029",
