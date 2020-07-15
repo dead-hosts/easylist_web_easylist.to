@@ -146454,6 +146454,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "wskiglimpso.info": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "wsockd.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
