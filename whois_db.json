@@ -11399,6 +11399,11 @@
         "expiration_date": "13-sep-2029",
         "state": "future"
     },
+    "allyopenetic.info": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "almanacnews.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
@@ -17672,6 +17677,11 @@
     "beforeitsnews.com": {
         "epoch": 1789430400.0,
         "expiration_date": "15-sep-2026",
+        "state": "future"
+    },
+    "beforement.club": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "beformine.club": {
@@ -40512,6 +40522,11 @@
     "edgevertise.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "edgreateria.info": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "edhappearer.info": {
