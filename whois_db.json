@@ -31499,6 +31499,11 @@
         "expiration_date": "21-may-2021",
         "state": "future"
     },
+    "cretextsma.info": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "crewechronicle.co.uk": {
         "epoch": 1596412800,
         "expiration_date": "03-aug-2020",
@@ -133257,6 +133262,11 @@
     "tstobkl.pro": {
         "epoch": 1625616000.0,
         "expiration_date": "07-jul-2021",
+        "state": "future"
+    },
+    "tstrokenga.info": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "tsundedhimse.fun": {
