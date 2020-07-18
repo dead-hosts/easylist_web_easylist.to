@@ -93369,6 +93369,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "ntsparallycalc.info": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
     "ntv.io": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
