@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007190432
+! Version: 202007190453
 ! Title: EasyList
-! Last modified: 19 Jul 2020 04:32 UTC
+! Last modified: 19 Jul 2020 04:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18286,6 +18286,7 @@ _popunder+$popup
 ##.ad-728x90-1
 ##.ad-728x90-top
 ##.ad-728x90-top0
+##.ad-728x90-wrapper
 ##.ad-728x90_forum
 ##.ad-768
 ##.ad-8
@@ -31225,6 +31226,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aniashboy.club^
 ||anklandas.club^
 ||anlcld.com^
+||announcilsd.info^
 ||anotherederi.site^
 ||anothingahy.club^
 ||anothingerg.club^
@@ -31665,6 +31667,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ecominalber.club^
 ||econdardseeg.site^
 ||ecurrenchoutliness.fun^
+||edampeci.com^
 ||edcritessuspi.info^
 ||edencourtbrita.info^
 ||edgreateria.info^
@@ -31945,6 +31948,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hadspms.com^
 ||haftobso.net^
 ||hagainstan.space^
+||haithoaz.net^
 ||halleyperson.pro^
 ||hamadotax.site^
 ||hapogzu9a19m5fhe56pb.pro^
@@ -32066,6 +32070,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jqk72ugyl2pz.com^
 ||judaisydfs.club^
 ||junmediadirect.com^
+||juroudaw.com^
 ||justickedukil.club^
 ||justookr.net^
 ||jzhzm30o49gv.com^
@@ -32164,6 +32169,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ljamingrepre.site^
 ||lk1mft33pj2f.com^
 ||lloenerginqu.info^
+||loamauji.com^
 ||loaphour.com^
 ||locothet.com^
 ||lomkgojdoeffl.com^
@@ -32497,6 +32503,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pattentinevec.site^
 ||paula-secundinus.com^
 ||paveralleycoun.info^
+||pb5oqguywycj.com^
 ||pcommaging.site^
 ||pd-news.com^
 ||pearerinven.fun^
@@ -32517,6 +32524,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pgradualirelev.info^
 ||phabsoun.net^
 ||pharougn.com^
+||phastoag.com^
 ||pheekrie.com^
 ||pheevoug.com^
 ||phenylketh.site^
@@ -33586,6 +33594,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adip.ly^$third-party
 ||adiqglobal.com^$third-party
 ||adireland.com^$third-party
+||adireto.com^$third-party
 ||adisfy.com^$third-party
 ||adisn.com^$third-party
 ||adit-media.com^$third-party
