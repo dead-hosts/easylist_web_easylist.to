@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007190518
+! Version: 202007190907
 ! Title: EasyList
-! Last modified: 19 Jul 2020 05:18 UTC
+! Last modified: 19 Jul 2020 09:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31689,6 +31689,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||effixtile-inceive.com^
 ||eforeantheirma.info^
 ||egfqtvewksktz.com^
+||egrettyjokilin.info^
 ||egroacho.com^
 ||eieocp6mdu59.com^
 ||eighbourge.club^
@@ -53031,6 +53032,7 @@ $websocket,domain=olympicstreams.me|strikeout.co|strikeout.nu|vipleague.pw|vipst
 @@||kissanime.ru/ads/$subdocument,~third-party
 @@||novelplanet.com^$image,domain=kissanime.ru
 @@||static.mgid.com/js/jquery.inputmask.min.js$script,domain=kissanime.ru
+@@||zencdn.net^$script,domain=kissanime.ru
 ! kiss-anime.ws
 @@||kiss-anime.ws/embed.php$subdocument,~third-party
 ||kiss-anime.ws^$subdocument,~third-party
