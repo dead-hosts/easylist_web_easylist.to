@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007190026
+! Version: 202007190243
 ! Title: EasyList
-! Last modified: 19 Jul 2020 00:26 UTC
+! Last modified: 19 Jul 2020 02:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6991,6 +6991,7 @@
 /UploadAds/*
 /uploaded/ads/*
 /UploadedAds/*
+/uploads/ad-tech/*
 /uploads/ads/*$domain=~bayie.com
 /uploads/adv/*
 /uploads/adv_
@@ -11267,6 +11268,7 @@ _popunder+$popup
 ###ad_play_300
 ###ad_player
 ###ad_plugs
+###ad_pos_targeted_in_article
 ###ad_post
 ###ad_post_300
 ###ad_poster
@@ -24019,6 +24021,7 @@ _popunder+$popup
 ##.dfp_ad_inner
 ##.dfp_ad_unit
 ##.dfp_slot
+##.dfp_top-ad
 ##.dfp_unit
 ##.dfp_unit-ad_container
 ##.dfrads
@@ -26787,6 +26790,7 @@ _popunder+$popup
 ##.post_ads
 ##.post_advert
 ##.post_seperator_ad
+##.post_sidebar_ads
 ##.post_sponsor_unit
 ##.post_sponsored
 ##.postad
@@ -27683,6 +27687,7 @@ _popunder+$popup
 ##.single_advert
 ##.single_bottom_ad
 ##.single_fm_ad_bottom
+##.single_page_ads_header
 ##.single_post_ads_cont
 ##.single_related_posts_ad_container
 ##.single_top_ad
@@ -27710,6 +27715,7 @@ _popunder+$popup
 ##.site_ad_120_600
 ##.site_ad_300x250
 ##.site_ads
+##.site_ads_home
 ##.site_sponsers
 ##.sitesponsor
 ##.sitesprite_ads
@@ -29292,6 +29298,7 @@ _popunder+$popup
 ##[href*="//xml.revrtb.com/"]
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://www.xiloy.site/"]
+##[href^="https://IS.ltroute.com/"]
 ##[href^="https://get-download.club/"]
 ##[href^="https://maskip.co/"]
 ##[id^="adframe_wrap_"]
@@ -30777,6 +30784,7 @@ bestgunsafepro.com#@#.easyazon-block
 economist.com#@#.ec-ads-remove-if-empty
 boattrader.com#@#.featured-ad
 racingjunk.com#@#.featuredAdBox
+thestudentroom.co.uk#@#.fixed_ad
 webphunu.net#@#.flash-advertisement
 songlyrics.com#@#.footer-ad
 employmentguide.com#@#.footer-ads
@@ -31171,6 +31179,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aimaniape.club^
 ||aimassare.club^
 ||aimrawwas.site^
+||airportedede.club^
 ||airsanguages.info^
 ||airstossiplarge.info^
 ||aj2073.online^

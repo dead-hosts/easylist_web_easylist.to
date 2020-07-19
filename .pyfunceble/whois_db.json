@@ -10434,6 +10434,11 @@
         "expiration_date": "02-jun-2021",
         "state": "future"
     },
+    "airportedede.club": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
+    },
     "airpush.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
@@ -129132,6 +129137,11 @@
     "thestreet.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "thestudentroom.co.uk": {
+        "epoch": 1693612800.0,
+        "expiration_date": "02-sep-2023",
         "state": "future"
     },
     "thesuburban.com": {
