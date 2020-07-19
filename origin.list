@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007190322
+! Version: 202007190342
 ! Title: EasyList
-! Last modified: 19 Jul 2020 03:22 UTC
+! Last modified: 19 Jul 2020 03:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -289,6 +289,7 @@
 -adv.jpg
 -adv.js
 -advert-100x100.
+-Advert-Banner-
 -Advert-JPEG-
 -advert-label-
 -advert-placeholder.
@@ -4633,6 +4634,7 @@
 /eht.js?site_
 /emailads/*
 /embed-ad-
+/embed/ad/*
 /embed/ads.
 /embed_ad.
 /emediatead.
@@ -12815,6 +12817,7 @@ _popunder+$popup
 ###advertorial_links
 ###advertorial_red_listblock
 ###adverts
+###adverts--footer
 ###adverts-top-container
 ###adverts-top-left
 ###adverts-top-middle
@@ -22389,6 +22392,7 @@ _popunder+$popup
 ##.advertorialwidget
 ##.advertplay
 ##.adverts
+##.adverts--banner
 ##.adverts-125
 ##.adverts-inline
 ##.adverts2
@@ -32644,6 +32648,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||redewdit.pro^
 ||redirect2719.ws^
 ||redolymerse.top^
+||redresseducatedage.com^
 ||reforeightolikm.site^
 ||refunsiy.net^
 ||refyewdye.com^
@@ -49691,6 +49696,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ads.linkedin.com^$third-party
 ||ads.mp.mydas.mobi^
 ||ads.servebom.com^
+||ads.sportradar.com^
 ||ads.tremorhub.com^
 ||adss.dotdo.net^
 ||advanced-intelligence.com/banner
@@ -52332,7 +52338,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dubcnm.com/Adon/
 ||duckduckgo.com/m.js?*^cb=ddg_spice_amazon^
 ||duplichecker.com/img/popup/
-||dyncdn.me/static/20/js/expla*.js$domain=rarbg.to|rarbg2019.org|rarbg2020.org|rarbg2021.org|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgp2p.org|rarbgproxied.org|rarbgproxy.org|rarbgprx.org|rarbgto.org|rarbgunblocked.org|rarbgway.org
+||dyncdn.me/static/20/js/expla*.js$domain=rarbg.to|rarbg2019.org|rarbg2020.org|rarbg2021.org|rarbgaccess.org|rarbgaccessed.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgp2p.org|rarbgproxied.org|rarbgproxy.org|rarbgprx.org|rarbgto.org|rarbgunblocked.org|rarbgway.org
+||dyncdn.me/static/20/js/showads.js$domain=rarbgaccessed.org
 ||eawaz.com^*/ml-slider/
 ||ebay.com^*/ScandalLoader.js
 ||ebayrtm.com/rtm?RtmCmd*&enc=
@@ -52549,6 +52556,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||namepros.com/images/backers/
 ||narutoget.io/*.html$subdocument
 ||nas1.flashx.
+||nation.cymru^*/AmGen
+||nation.cymru^*/Plaid-Cymru.gif
 ||nativetimes.com/images/banners/
 ||naukri.com/banners
 ||netindian.in/frontsquare*.php
@@ -55616,7 +55625,7 @@ capitalxtra.com###banner-wrapper
 webtoolhub.com###banner_704_107
 webtoolhub.com###banner_719_105
 steroid.com###banner_div
-cleveland.com,masslive.com,nj.com,oregonlive.com###below-toprail
+al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com###below-toprail
 infoplease.com###block-arcamaxemailsubscriptionwidgetschoolopeningpoll
 infoplease.com###block-ipabovethefold
 infoplease.com###block-ipbtfad
@@ -55746,6 +55755,7 @@ autocar.co.uk##.block-autocar-ads-mpu-flexible1
 cointelegraph.com##.bnrs-list
 wakingtimes.com##.boxzilla-center-container
 cryptocompare.com##.btn-home-trade
+insurancejournal.com##.bzn
 globalnews.ca##.c-flyers
 globalnews.ca##.c-stickyRail
 mangareader.net##.c10
@@ -55882,7 +55892,7 @@ hongkiat.com##.promote
 provideocoalition.com##.provi-sticky
 kathmandupost.com##.pt-0
 ancient.eu##.pub
-pennlive.com##.revenue-display
+al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.revenue-display
 thecarconnection.com##.review-continue-text
 sociologyguide.com##.rgt_banners
 coincodex.com##.right-sidebar
@@ -60250,7 +60260,6 @@ efe.com##.boxPubli
 efe.com##.boxPubliBlanco
 fliiby.com##.box_300x250
 bmwblog.com##.box_banners_125
-al.com,cleveland.com,masslive.com,mlive.com,nj.com,nola.com,pennlive.com##.box_grayoutline
 findicons.com##.box_info
 ashampoo.com##.box_recommend2
 zambianeye.com##.box_skitter
@@ -62336,7 +62345,6 @@ washingtonexaminer.com##.rev
 nzautocar.co.nz##.revMRECRight
 bitcandy.com##.rev_cont_below
 crooksandliars.com##.revblock
-al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,nola.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.revenueUnit
 informer.com##.review_a1
 hindustantimes.com##.rft_logos
 alltheragefaces.com##.rg

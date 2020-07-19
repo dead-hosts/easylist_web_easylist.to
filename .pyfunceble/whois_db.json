@@ -66054,6 +66054,11 @@
         "expiration_date": "21-may-2021",
         "state": "future"
     },
+    "insurancejournal.com": {
+        "epoch": 1816387200.0,
+        "expiration_date": "24-jul-2027",
+        "state": "future"
+    },
     "inswebt.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
@@ -89189,6 +89194,11 @@
         "expiration_date": "31-dec-2020",
         "state": "future"
     },
+    "nation.cymru": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
     "nation.sc": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -110737,6 +110747,11 @@
     "redpineapplemedia.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "redresseducatedage.com": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "redsharknews.com": {
