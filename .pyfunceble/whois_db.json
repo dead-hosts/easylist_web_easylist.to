@@ -103829,6 +103829,11 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "previsibilisais.website": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "prewarcar.com": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -118647,6 +118652,11 @@
     "shreveporttimes.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "shrinkearn.com": {
+        "epoch": 1644019200.0,
+        "expiration_date": "05-feb-2022",
         "state": "future"
     },
     "shroomery.org": {
