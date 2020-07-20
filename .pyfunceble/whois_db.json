@@ -14309,6 +14309,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "asonaloccu.info": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "asooda.com": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -81932,6 +81937,11 @@
     "mation.xyz": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "mationen.club": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "matiro.com": {
