@@ -14864,6 +14864,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "aud3g.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "audersmi.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -54959,6 +54964,11 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "gloumsee.net": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "gloumtol.net": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -64877,6 +64887,11 @@
     "imgmega.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "imgpak.xyz": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "imgrock.net": {
@@ -86437,6 +86452,11 @@
     "motherboard.tv": {
         "epoch": 1748736000.0,
         "expiration_date": "01-jun-2025",
+        "state": "future"
+    },
+    "motheregarded.info": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "motherehoom.pro": {
@@ -130107,6 +130127,11 @@
     "thogethoffic.co": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "thogrypufe.pro": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "thomagejut.site": {
