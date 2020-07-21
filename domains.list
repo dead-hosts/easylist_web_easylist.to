@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007210550
+! Version: 202007210926
 ! Title: EasyList
-! Last modified: 21 Jul 2020 05:50 UTC
+! Last modified: 21 Jul 2020 09:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31422,6 +31422,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||c5b39ff13b3259df.com^
 ||cadfixbig.site^
 ||cadsecz.com^
+||cadskiz.com^
 ||cadslimz.com^
 ||cadspms.com^
 ||caiteesh.net^
@@ -31570,6 +31571,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cupallask.site^
 ||cutopportings.info^
 ||cyclosen.club^
+||cyih0e43aty7.com^
 ||cyneburg-yam.com^
 ||d4d48974197052ea.com^
 ||d6jfiirio372.com^
@@ -32095,6 +32097,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jarailso.com^
 ||jauchuwa.net^
 ||jaugloup.com^
+||jautouze.net^
 ||jazmonbetter.pro^
 ||jb7hvcksstar.com^
 ||jb7hvckszone.com^
@@ -32259,6 +32262,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mattemptad.club^
 ||mattempts.info^
 ||mauzobou.net^
+||mawsewtow.com^
 ||mbethnarrowe.info^
 ||mbledeparatea.info^
 ||mdlsite.com^
@@ -32578,6 +32582,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||phabsoun.net^
 ||pharougn.com^
 ||phastoag.com^
+||phauwooz.net^
 ||pheekrie.com^
 ||pheevoug.com^
 ||phenylketh.site^
@@ -33131,6 +33136,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ustedpicklyba.space^
 ||ustralpublicate.site^
 ||ustriptomorbie.site^
+||uthorner.info^
 ||uthworkreaseu.info^
 ||utpenedwritted.info^
 ||utq55kl9vyqv.com^
@@ -51855,10 +51861,10 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 /get/path/.banners.$image,third-party
 /market.php?$domain=adf.ly
 |blob:$domain=allthetests.com|ancient-origins.net|antonymsfor.com|filmlinks4u.is|firstrowau.eu|gofirstrow.eu|jerusalemonline.com|jewsnews.co.il|keepvid.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|lolcounter.com|ludokado.com|merriam-webster.com|olympicstreams.me|phonesreview.co.uk|pocketnow.com|primewire.to|sockshare.net|sportspickle.com|streamgaroo.com|textsfromlastnight.com|torrentz2.eu|trifind.com|videotoolbox.com|vidtodo.com|vivo.sx|watchvideo.us|webfirstrow.eu
-|http*://$image,other,third-party,domain=mp3clan.one|powvideo.net|streamplay.to
-|http*://$image,stylesheet,third-party,xmlhttprequest,domain=123movies.net|123moviesfree.com|clipconverter.cc|flyordie.com|kissanime.ru|kissasian.sh|mp3clan.one
-|http*://$script,third-party,domain=1jalshamoviez.cc|mp3clan.one|prostylex.org|starmusiq.net|topwwnews.com
-|http*://$subdocument,third-party,domain=adf.ly|adfoc.us|adv.li|adyou.me|ay.gy|j.gs|mylink.zone|q.gs|sh.st|vidspot.net
+|http*://$image,other,third-party,domain=powvideo.net|streamplay.to
+|http*://$image,stylesheet,third-party,xmlhttprequest,domain=123movies.net|123moviesfree.com|clipconverter.cc|flyordie.com|kissanime.ru|kissasian.she
+|http*://$script,third-party,domain=1jalshamoviez.cc|prostylex.org
+|http*://$subdocument,third-party,domain=adf.ly|adfoc.us|adv.li|adyou.me|ay.gy|j.gs|mylink.zone|q.gs|sh.st
 |http://creative.*/smart.js$script,third-party
 |http://j.gs/omnigy*.swf
 |http://p.pw^$subdocument
@@ -53335,10 +53341,6 @@ $websocket,domain=povvideo.net|powv1deo.net|powvideo.net|powvldeo.co|powvldeo.ne
 @@||connect.facebook.net^$script,third-party,domain=cinenews.be
 |http://$script,third-party,xmlhttprequest,domain=cinenews.be
 |https://$script,third-party,xmlhttprequest,domain=cinenews.be
-! vidspot.net
-@@||jwpsrv.com/library/$script,domain=vidspot.net
-|http://$script,third-party,xmlhttprequest,domain=vidspot.net
-|https://$script,third-party,xmlhttprequest,domain=vidspot.net
 ! vidshare.tv
 $script,stylesheet,third-party,xmlhttprequest,domain=vidshare.tv
 ! opensubtitles
@@ -54084,7 +54086,6 @@ $popup,third-party,domain=prettyfast.to|senimovie.co
 ||upvid.co^*.html|$popup,domain=upvid.co
 ||videowood.tv/pop$popup
 ||videowood.tv^$popup,domain=micast.tv
-||vidspot.net^*http$popup
 ||vidstream.*/cv.$popup
 ||vidzi.tv/mp4?$popup
 ||vkpass.com/goo.php?link=$popup,~third-party
@@ -57830,7 +57831,7 @@ autotrader.co.uk###placeholderTopLeaderboard
 thevideobee.to###play_hd
 trendingviews.co###playerOverlay
 indiana.edu###playerSponsor
-allmyvideos.net,vidspot.net###player_img
+allmyvideos.net###player_img
 magnovideo.com###player_overlay
 ytmnd.com###please_dont_block_me
 cargames1.com###plyadu
@@ -63984,8 +63985,6 @@ topdocumentaryfilms.com##div[id^="AdAuth"]
 internetautoguide.com,motorcyclistonline.com##div[id^="GOOGLE_ADS_"]
 automotive.com##div[id^="LEADER_BOARD_"]
 sockshare.net##div[id^="MGWrap"]
-vidspot.net##div[id^="On1Pl"]
-vidspot.net##div[id^="On2Pl"]
 yourstory.com##div[id^="YS-MastHead"]
 yourstory.com##div[id^="YS-ZONE"]
 shortlist.com##div[id^="ad-slot"]
@@ -67040,7 +67039,6 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||motortrader.com.my/advert/$image,~third-party
 @@||msmedia.morningstar.com^*/size=*/random=*/viewid=$script,domain=morningstar.in
 @@||msn.com^$generichide
-@@||mzstatic.com/image/$image,domain=mp3clan.one
 @@||nationalreview.com/wp-content/themes/national-review/client/build/js/$script
 @@||networkworld.com/www/js/ads/gpt_includes.js?
 @@||news4jax.com/gmg.static/ads/$script
@@ -67132,9 +67130,6 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||videotoolbox.com^$generichide
 @@||vidible.tv/prod/$media,object,other
 @@||vidible.tv/stage/$media,object,other
-@@||vidspot.net/blank.html|$subdocument
-@@||vidspot.net/builtin-$subdocument
-@@||vidspot.net/tmp/status.html?*upload=file$subdocument
 @@||volterra.io^*/advertise_policy$~third-party
 @@||volterra.us^*/advertise_policy$~third-party
 @@||wallpapersmania.com/ad/$image,~third-party
