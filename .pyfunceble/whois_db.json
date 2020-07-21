@@ -54259,6 +54259,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "giftsale.co.uk": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "giftube.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
@@ -73262,6 +73267,11 @@
     "kiss959.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "kissanime.digital": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "kisscartoon.is": {
@@ -144097,6 +144107,11 @@
     "weedwatch.com": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "weedzy.co.uk": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "weegebul.net": {
