@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007220220
+! Version: 202007220423
 ! Title: EasyList
-! Last modified: 22 Jul 2020 02:20 UTC
+! Last modified: 22 Jul 2020 04:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18492,11 +18492,13 @@ _popunder+$popup
 ##.ad-content
 ##.ad-content-area
 ##.ad-content-rectangle
+##.ad-content-slot
 ##.ad-context
 ##.ad-cover
 ##.ad-curtain
 ##.ad-custom-size
 ##.ad-d
+##.ad-declare-explicit-parallax
 ##.ad-defer
 ##.ad-desktop
 ##.ad-desktop-only
@@ -18661,6 +18663,7 @@ _popunder+$popup
 ##.ad-leaderboard-hero
 ##.ad-leaderboard-marquee
 ##.ad-leaderboard-middle
+##.ad-leaderboard-slot
 ##.ad-leaderboard-splitter
 ##.ad-leaderboard-top
 ##.ad-leaderboard-wrapper
@@ -26086,6 +26089,7 @@ _popunder+$popup
 ##.mobile-ad
 ##.mobile-ad-container
 ##.mobile-ad-nav
+##.mobile-ad-negative-space
 ##.mobile-instream-ad-holder-single
 ##.mobile-related-ad
 ##.mobileAdWrap
@@ -30035,10 +30039,10 @@ _popunder+$popup
 ##input[onclick^="window.open('http://www.FriendlyDuck.com/"]
 ##input[onclick^="window.open('http://www.friendlyduck.com/"]
 ! Malware hotlinks
-##[href^="http://etracking.pro"]
-##[href^="http://mclick.net"]
-##[href^="http://www.etracking.pro"]
-##[href^="http://www.mclick.net"]
+##[href*=".etracking.pro"]
+##[href*=".mclick.net"]
+##[href*="//etracking.pro"]
+##[href*="//mclick.net"]
 ! ezoic
 ###ezmob_footer
 ! Anti-adblock (https://forums.lanik.us/viewtopic.php?f=62&t=32738)
@@ -32526,6 +32530,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||onegalact.com^
 ||onergong.com^
 ||onesegreativec.site^
+||onesignal.com^
 ||onetouch4.com^
 ||onindexicowillio.info^
 ||onscribedpastrong.info^
@@ -32888,6 +32893,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||seaboblit.com^
 ||searchmulty.com^
 ||seasonssna.fun^
+||seayipsex.com^
 ||sebadu.com^
 ||seconomica.info^
 ||seconomics.club^
