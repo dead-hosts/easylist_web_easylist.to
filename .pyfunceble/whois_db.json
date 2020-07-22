@@ -101099,6 +101099,11 @@
         "expiration_date": "18-jun-2021",
         "state": "future"
     },
+    "pirateproxy.voto": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "pirateshore.org": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
