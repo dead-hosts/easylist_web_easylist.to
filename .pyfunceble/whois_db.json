@@ -29139,6 +29139,11 @@
         "expiration_date": "11-feb-2021",
         "state": "future"
     },
+    "cmtmzvrku9uae.host": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "cnbarnfxq.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -33442,6 +33447,11 @@
     "d2ship.com": {
         "epoch": 1664928000.0,
         "expiration_date": "05-oct-2022",
+        "state": "future"
+    },
+    "d2vybwwevieya6j.monster": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "d31ea41705818c9.com": {
@@ -109322,6 +109332,11 @@
     "qtahsbgdqbu.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "qtbb6.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "qtbvatpkwxq.com": {
