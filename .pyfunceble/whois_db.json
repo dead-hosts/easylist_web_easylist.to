@@ -35484,6 +35484,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "dentedporc.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "denverpost.com": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
@@ -35747,6 +35752,11 @@
     "destructoid.com": {
         "epoch": 1647820800.0,
         "expiration_date": "21-mar-2022",
+        "state": "future"
+    },
+    "deteran.club": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "determsclo.info": {
@@ -59958,6 +59968,11 @@
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
         "state": "past"
+    },
+    "hequentsevent.club": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "herald.ca": {
         "epoch": 1598486400.0,
