@@ -78104,6 +78104,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "libcdn.xyz": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
+    },
     "libedgolart.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -133502,6 +133507,11 @@
     "topoffers.com": {
         "epoch": 1781395200.0,
         "expiration_date": "14-jun-2026",
+        "state": "future"
+    },
+    "topperformance.xyz": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "topperyregard.fun": {
