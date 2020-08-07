@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008070644
+! Version: 202008070833
 ! Title: EasyList
-! Last modified: 07 Aug 2020 06:44 UTC
+! Last modified: 07 Aug 2020 08:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3353,6 +3353,7 @@
 /adv-scroll-
 /adv-scroll.
 /adv-socialbar-
+/adv-top-bottom.
 /adv.asp
 /adv.css?
 /adv.html
@@ -6505,6 +6506,7 @@
 /side-ad-
 /side-ad.
 /side-ads-
+/side-ads/*
 /side_ads/*
 /side_adverts.
 /sidead.
@@ -8029,6 +8031,7 @@ _sectionfront_ad.
 _show_ads.
 _show_ads=
 _show_ads_
+_side-ad_
 _sidead.
 _sidebar_ad.
 _sidebar_ad/
@@ -31758,6 +31761,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||denotatorum.site^
 ||dentedporc.club^
 ||deparabides.club^
+||depicturalki.club^
 ||dersmembrac.fun^
 ||derthundrew.club^
 ||deserswhene.club^
@@ -32500,6 +32504,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||martafatass.pro^
 ||martyappear.pro^
 ||marwinhitted.site^
+||matchintsv.club^
 ||matekernes.fun^
 ||mationen.club^
 ||matricavfr.club^
