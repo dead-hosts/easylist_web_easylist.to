@@ -45139,6 +45139,11 @@
         "expiration_date": "29-jun-2020",
         "state": "future"
     },
+    "exmarketplace.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "exmo.me": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
