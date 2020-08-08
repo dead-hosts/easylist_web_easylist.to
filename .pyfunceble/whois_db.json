@@ -13684,6 +13684,11 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "arbingfifted.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "arcadebannerexchange.org": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -83224,6 +83229,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "mauringer.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "mauritiusnews.co.uk": {
         "epoch": 1584489600,
         "expiration_date": "18-mar-2020",
@@ -120397,6 +120407,11 @@
     "shinyshiny.tv": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "shionmanc.club": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "shipsandharbours.com": {
