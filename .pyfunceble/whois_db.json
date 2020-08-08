@@ -12954,6 +12954,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "antrademic.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "antronio.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
@@ -91424,6 +91429,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "nejm.org": {
+        "epoch": 1696636800.0,
+        "expiration_date": "07-oct-2023",
+        "state": "future"
+    },
     "neko-miku.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -104117,6 +104127,11 @@
     "poratav.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "porchiteds.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "poredii.com": {
