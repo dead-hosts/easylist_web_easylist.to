@@ -32079,6 +32079,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "crentexgate.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "creoads.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -98107,6 +98112,11 @@
     "opoapibs.net": {
         "epoch": 1626393600.0,
         "expiration_date": "16-jul-2021",
+        "state": "future"
+    },
+    "opoxv.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "opportunityonline.co.za": {
