@@ -85484,6 +85484,11 @@
         "expiration_date": "05-mar-2027",
         "state": "future"
     },
+    "mightseers.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "mightydeals.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
