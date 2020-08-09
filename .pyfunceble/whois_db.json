@@ -3674,6 +3674,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "8bf8170108e3304.com": {
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
+    },
     "8c9cc6d2b0e13.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -47667,6 +47672,11 @@
     "fhidehpl.com": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "fhkfffnepwia.com": {
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "fhluqrhmqs.com": {
