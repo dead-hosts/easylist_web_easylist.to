@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008091158
+! Version: 202008091200
 ! Title: EasyList
-! Last modified: 09 Aug 2020 11:58 UTC
+! Last modified: 09 Aug 2020 12:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30043,6 +30043,7 @@ _popunder+$popup
 ##div[id^="div_openx_ad_"]
 ##div[id^="dmRosAdWrapper"]
 ##div[id^="drudge-column-ads-"]
+##div[id^="ezoic-pub-ad"]
 ##div[id^="google_ads_iframe_"]
 ##div[id^="google_dfp_"]
 ##div[id^="gtm-ad-"]
@@ -48715,6 +48716,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adplexo.com^
 ||adservi.com^
 ||aebadu.com^
+||aelphotog.pro^
 ||anycdndata.info^
 ||bebadu.com^
 ||billionpops.com^
@@ -48803,6 +48805,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tplpages.com^
 ||trmnsite.com^
 ||tsandycateup.com^
+||ucdn.website^
 ||uebadu.com^
 ||ulukaris.com^
 ||uoredi.com^
@@ -50959,6 +50962,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 .php?pub=*&trw_adblocker=$subdocument
 /exports/livemodel/?$subdocument
 /shantii.php?$xmlhttprequest
+||18onlygirls.tv/wp-content/banners/
 ||193.34.134.18^*/banners/
 ||193.34.134.74^*/banners/
 ||204.140.25.247/ads/
@@ -53836,6 +53840,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||between-legs.com/banners2/
 ||between-legs.com^*/banners/
 ||bigboobs.hu/banners/
+||bigcock.one/worker.js
 ||biguz.net/*.php
 ||blackredtube.com/fadebox2.js
 ||bnnr.pornpics.com^
