@@ -118104,6 +118104,11 @@
         "expiration_date": "28-jun-2023",
         "state": "future"
     },
+    "scotlandon.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "scotsman.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
