@@ -123939,6 +123939,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "southene.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "southerncourier.co.za": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -125367,6 +125372,11 @@
     "starcourier.com": {
         "epoch": 1653782400.0,
         "expiration_date": "29-may-2022",
+        "state": "future"
+    },
+    "stardedbio.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "stardoll.com": {
