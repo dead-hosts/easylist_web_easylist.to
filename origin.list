@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008131840
+! Version: 202008132135
 ! Title: EasyList
-! Last modified: 13 Aug 2020 18:40 UTC
+! Last modified: 13 Aug 2020 21:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20473,6 +20473,7 @@ _popunder+$popup
 ##.adcopy
 ##.adcrt980x250
 ##.adctr
+##.add-970-90
 ##.add-column2
 ##.add-header-area
 ##.add-position-right
@@ -22166,6 +22167,7 @@ _popunder+$popup
 ##.advertise_box
 ##.advertise_box1
 ##.advertise_box4
+##.advertise_brand
 ##.advertise_carousel
 ##.advertise_here
 ##.advertise_link
@@ -33254,6 +33256,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rsl2dd0twlym.com^
 ||rsleaderingmu.info^
 ||rsvph.xyz^
+||rtaliseintru.club^
 ||rtclx.com^
 ||rticultcontro.info^
 ||rtionalgospecul.site^
@@ -33789,6 +33792,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||woovooza.net^
 ||wordshipopa.club^
 ||woredi.com^
+||workshirty.club^
 ||worldmapd.online^
 ||worthersefim.club^
 ||wowjogsot.com^
@@ -57910,6 +57914,7 @@ moviechat.org##.adc
 caughtoffside.com,fanatix.com,ibtimes.co.in,nfl.com,theconstructionindex.co.uk,tucsonsentinel.com,wikihow.com##.adcontainer
 caffeineinformer.com,runnerspace.com,sumanasa.com##.adcontent
 allrovi.com,edutourism.in,hotnewhiphop.com,keepvid.com,nciku.com,newsroom.co.nz,newvision.co.ug,telegraphindia.com,thehindu.com##.add
+moneycontrol.com##.add-ban
 africareview.com##.add-banner
 buzz.ie,irishpost.com,newsie.co.nz,theweekendsun.co.nz##.add-block
 1049.fm,drgnews.com,mybasin.com##.add-box
@@ -57917,6 +57922,7 @@ morningstar.in,pbs.org##.add-container
 irishpost.com##.add-pad
 ndtv.com,www-ndtv-com.cdn.ampproject.org##.add-section
 samachar.com##.add-slot-fluid
+moneycontrol.com##.add-spot
 skymetweather.com##.add-top
 bronchiectasisandntminitiative.org##.add-top-margin
 addictivetips.com##.add-under-post
@@ -59332,6 +59338,7 @@ thenewslens.com##.help-tnl-container-970_250
 metrolyrics.com##.here
 hi5.com##.hi5-common-header-banner-ad
 classiccars.com##.hia_banner
+moneycontrol.com##.hide-mobile
 theguardian.com##.hide-on-popup
 mobilesyrup.com##.hide_768
 speedtest.net##.high-placeholder
