@@ -84359,6 +84359,11 @@
         "expiration_date": "14-apr-2021",
         "state": "future"
     },
+    "medcovern.club": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "media-amazon.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
