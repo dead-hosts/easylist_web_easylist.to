@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008161003
+! Version: 202008161116
 ! Title: EasyList
-! Last modified: 16 Aug 2020 10:03 UTC
+! Last modified: 16 Aug 2020 11:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4372,6 +4372,7 @@
 /couponAd.
 /cover_ad.
 /coxads/*
+/cpg_ads.
 /cpm160.
 /cpm728.
 /cpm_ad.
@@ -5577,6 +5578,7 @@
 /localads.
 /localcom-ad-
 /locker.php?pub=*&gateid=$script
+/lockeradgoal.
 /log-user-event/*
 /log_ad?
 /log_ad_
@@ -7703,6 +7705,7 @@ _ads.html
 _ads.js.
 _ads.js?
 _ads.php?
+_ads.station.
 _ads/css/
 _ads/horiz/
 _ads/horiz_
@@ -32476,6 +32479,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||justickedukil.club^
 ||justookr.net^
 ||jzhzm30o49gv.com^
+||k3csecp6zklq.com^
 ||k4bg1u10omks.com^
 ||kaelpossible.pro^
 ||kagrooxa.net^
@@ -33514,6 +33518,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||streamclub.fun^
 ||streamspeedygreatlyapplication.best^
 ||stremanp.com^
+||stressfulpyjamas.com^
 ||strialcurity.site^
 ||strialestionoff.club^
 ||striesastanov.site^
@@ -33780,6 +33785,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||vgw35hwr4w6x.com^
 ||viatepigan.com^
 ||vid4vip.com^
+||vidalak.com^
 ||viebitgreasy.email^
 ||viighj.com^
 ||viihot.com^
@@ -63341,7 +63347,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||politiken.dk/static/$script
 @@||portalbici.es^*-advertisement.$~third-party,xmlhttprequest
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
-@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp
+@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=chiebukuro.yahoo.co.jp|sports.yahoo.co.jp
 @@||s0.2mdn.net/instream/html5/ima3.js$script,domain=tilt.fi
 @@||samplefan.com/img/ad/$image
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk
