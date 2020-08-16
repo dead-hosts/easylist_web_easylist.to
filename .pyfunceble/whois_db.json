@@ -9309,6 +9309,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "adxpub.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "adxscope.com": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
@@ -21177,6 +21182,11 @@
     "boardgamegeek.com": {
         "epoch": 1747612800.0,
         "expiration_date": "19-may-2025",
+        "state": "future"
+    },
+    "boardinaccuratecompulsion.com": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "boards2go.com": {
@@ -35624,6 +35634,11 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "deckthroughout.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
     "decoist.com": {
         "epoch": 1674345600.0,
         "expiration_date": "22-jan-2023",
@@ -37382,6 +37397,11 @@
     "dishusa.net": {
         "epoch": 1590710400,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "disloyalstrapunderstatement.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "disney.com": {
@@ -54302,6 +54322,11 @@
     "gclcehwfvl.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "gcloud.live": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "gclwsuzxwiotyf.com": {
@@ -71909,6 +71934,11 @@
         "expiration_date": "15-jun-2021",
         "state": "future"
     },
+    "joobuste.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "joomla.org": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
@@ -82317,6 +82347,11 @@
     "maases.com": {
         "epoch": 1623456000.0,
         "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "maastriesyu.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "mabeetam.com": {
@@ -127394,6 +127429,11 @@
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
+    "supplegrassgrapes.com": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "state": "future"
+    },
     "supplyframe.com": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
@@ -128722,6 +128762,11 @@
     "tapinfluence.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "tapixesa.pro": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "tapjoyads.com": {
