@@ -31409,6 +31409,11 @@
         "expiration_date": "26-dec-2021",
         "state": "future"
     },
+    "copinionytw.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "cops.com": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
@@ -50092,6 +50097,11 @@
     "folkestoneherald.co.uk": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
+    "followfact.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "folmetor.com": {
