@@ -129709,6 +129709,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "technical.city": {
+        "epoch": 1651104000.0,
+        "expiration_date": "28-apr-2022",
+        "state": "future"
+    },
     "technical.ly": {
         "epoch": 1733875200.0,
         "expiration_date": "11-dec-2024",
