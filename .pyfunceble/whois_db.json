@@ -37239,6 +37239,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "dinneredaq.club": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
+    },
     "dinnertool.com": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -51202,6 +51207,11 @@
     "freakshare.net": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "freakspybad.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "fredericknewspost.com": {
