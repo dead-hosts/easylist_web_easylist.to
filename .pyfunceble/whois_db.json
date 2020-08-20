@@ -15384,6 +15384,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "audiosech.club": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
     "audiostream.com": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -43197,6 +43202,11 @@
     "ematicsolutions.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "ematumes.club": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "emaxhealth.com": {
