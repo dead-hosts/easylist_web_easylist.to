@@ -40619,6 +40619,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "dynsrvcab.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
     "dynsrvtbg.com": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
@@ -86857,6 +86862,11 @@
     "missoulian.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "misspkl.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "miszwaojrn.com": {
@@ -147932,6 +147942,11 @@
     "wfnt.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "wfordsgoo.club": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "wfqeqnvqdjvs.com": {
