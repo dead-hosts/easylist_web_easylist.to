@@ -61689,6 +61689,11 @@
         "expiration_date": "13-feb-2026",
         "state": "future"
     },
+    "hiouschron.club": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "hipals.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
@@ -136317,6 +136322,11 @@
     "trapasol.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "trapothere.club": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "trasholita.com": {
