@@ -118464,6 +118464,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "samsungads.com": {
+        "epoch": 1719360000.0,
+        "expiration_date": "26-jun-2024",
+        "state": "future"
+    },
     "samvaulter.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -118642,6 +118647,11 @@
     "sardfereose.com": {
         "epoch": 1623801600.0,
         "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
+    "saredithere.club": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "sareunited.com": {
