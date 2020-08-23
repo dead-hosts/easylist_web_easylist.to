@@ -87025,8 +87025,8 @@
         "state": "future"
     },
     "mixdrop.co": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "mixedmartialarts.com": {
@@ -143857,6 +143857,11 @@
     "vistandpoint.com": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "visualcapitalist.com": {
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "visualsteel.net": {
