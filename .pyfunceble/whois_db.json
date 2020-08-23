@@ -62399,6 +62399,11 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "holdierpriv.club": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
+    },
     "holexknw.loan": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
@@ -127097,6 +127102,11 @@
     "strathallantimes.co.uk": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "stratingtrea.club": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "strawdense.com": {
