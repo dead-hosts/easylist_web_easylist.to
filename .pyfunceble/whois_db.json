@@ -79269,6 +79269,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "lifehacker.co.uk": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "lifehacker.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
