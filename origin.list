@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008230839
+! Version: 202008230910
 ! Title: EasyList
-! Last modified: 23 Aug 2020 08:39 UTC
+! Last modified: 23 Aug 2020 09:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7799,6 +7799,7 @@ _adv/overlay/
 _adv_468.
 _Adv_Banner_
 _adv_label.
+_adv_open_x/
 _advert.
 _advert/
 _Advert09.
@@ -62244,6 +62245,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||ads.freewheel.tv/|$media,domain=cnbc.com|fxnetworks.com|my.xfinity.com|nbc.com|nbcsports.com
 @@||ads.muxiv.com/address/$xmlhttprequest
 @@||ads.nationmedia.com/webfonts/$font
+@@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
 @@||ads1.atpclick.com/atpClick.aspx?$image,script,domain=jobnet.co.il|jobs-israel.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
