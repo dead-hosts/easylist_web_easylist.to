@@ -12969,6 +12969,11 @@
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
+    "anismane.club": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
     "aniview.com": {
         "epoch": 1732060800.0,
         "expiration_date": "20-nov-2024",
@@ -44257,6 +44262,11 @@
     "eredmights.club": {
         "epoch": 1625529600.0,
         "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
+    "eredunass.club": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "ereintroductc.fun": {
