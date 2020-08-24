@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008240337
+! Version: 202008240404
 ! Title: EasyList
-! Last modified: 24 Aug 2020 03:37 UTC
+! Last modified: 24 Aug 2020 04:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30698,7 +30698,7 @@ namesecure.com,superhry.cz#@#.adHolder
 superhry.cz#@#.adHoldert
 autotrader.co.za,gumtree.co.nz,gumtree.co.za,gumtree.com,gumtree.com.au,gumtree.ie,gumtree.pl,gumtree.sg,ikea.com,kijiji.ca,ksl.com#@#.adImg
 ceskatelevize.cz,ct24.cz,escortera.com#@#.adItem
-greatergood.com,tweakers.net,uol.com.br#@#.adLink
+greatergood.com,hdfcbank.com,tweakers.net,uol.com.br#@#.adLink
 abc.go.com#@#.adMessage
 seznam.cz#@#.adMiddle
 cheaptickets.com,orbitz.com#@#.adMod
@@ -30745,7 +30745,7 @@ oxforddictionaries.com#@#.ad_trick_left
 wg-gesucht.de#@#.ad_wrap
 athensmagazine.gr#@#.ad_wrapper
 choone.com#@#.adarea
-espni.go.com,m.espn.com,nownews.com,nva.gov.lv#@#.adbanner
+espni.go.com,hdfcbank.com,m.espn.com,nownews.com,nva.gov.lv#@#.adbanner
 fifthinternational.org,sudoku.com.au#@#.adbar
 smilelocal.com#@#.adbottom
 thelog.com#@#.adbutton
@@ -60564,6 +60564,7 @@ fxempire.com##.widget_latest_promotions_right
 theiphoneappreview.com##.widget_links
 geek.com##.widget_logicbuy_first_deal
 massivelyop.com##.widget_massivelyop_advertisement
+circuitbasics.com##.widget_media_image
 cyclingweekly.com##.widget_monetizer_widget
 modamee.com##.widget_nav_menu
 fxempire.com##.widget_recommended_brokers
@@ -60702,6 +60703,7 @@ unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 ettv.to##[href^="https://www.my-privacy-protection.com/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
+circuitbasics.com##[href^="https://www.pcbway.com/"]
 provideocoalition.com##[href^="https://www.provideocoalition.com/linkout/"]
 clickmngr.com##[href^="https://www.safenetdir.com/"]
 visualcapitalist.com##[href^="https://www.visualcapitalist.com/linkout/"]
