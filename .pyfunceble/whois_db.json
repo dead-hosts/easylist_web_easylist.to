@@ -26809,6 +26809,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "cfgr3.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "cfhkiriics.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -74442,6 +74447,11 @@
     "kephyr.com": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "kepler-37b.com": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "keprtv.com": {
@@ -146322,6 +146332,11 @@
     "washtimesherald.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "wasp-182b.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "wasshoneaningar.pro": {
