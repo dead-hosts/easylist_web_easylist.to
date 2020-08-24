@@ -28214,6 +28214,11 @@
         "expiration_date": "31-dec-2020",
         "state": "future"
     },
+    "circuitbasics.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
     "circuitdigest.com": {
         "epoch": 1651190400.0,
         "expiration_date": "29-apr-2022",
