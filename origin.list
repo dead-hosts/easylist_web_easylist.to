@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008270227
+! Version: 202008270602
 ! Title: EasyList
-! Last modified: 27 Aug 2020 02:27 UTC
+! Last modified: 27 Aug 2020 06:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29932,6 +29932,7 @@ _popunder+$popup
 ##a[href^="https://traffic.bannerator.com/"]
 ##a[href^="https://trafficmedia.center/"]
 ##a[href^="https://transfer.xe.com/signup/track/redirect?"]
+##a[href^="https://trappist-1d.com/"]
 ##a[href^="https://trf.bannerator.com/"]
 ##a[href^="https://trklvs.com/"]
 ##a[href^="https://trust.zone/go/r.php?RID="]
@@ -32254,6 +32255,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fingahvf.top^
 ||finized.co^
 ||firewoodnativewoodlands.com^
+||fireworkssetstill.com^
 ||fishkekcamp.info^
 ||fixchidie.com^
 ||fixsirrod.site^
@@ -32601,6 +32603,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||keepinfit.net^
 ||kegpoihat.club^
 ||kegsandremembrance.com^
+||kelt-195b.com^
 ||kemperare.club^
 ||kenfeeask.com^
 ||kennetting.club^
@@ -33844,6 +33847,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||traighteri.club^
 ||transardugde.club^
 ||trapothere.club^
+||trappist-1d.com^
 ||trblocked.com^
 ||treammicr.club^
 ||treaturesfg.club^
@@ -50821,6 +50825,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||shemalenova.com/smn/banners/
 ||shinypics.com/blogbanner/$third-party
 ||simonscans.com/banner/
+||skyprivate.com^*/external/$third-party
 ||sleepgalleries.com/recips/$third-party
 ||slickcash.com/flash/subtitles_$third-party
 ||smartmovies.net/promo_$third-party
@@ -53110,6 +53115,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||camwhores.tv/banners/
 ||camwhores.tv/contents/other/player/
 ||camwhores.tv^*/e*.mp4
+||camwhores.tv^*/f*.mp4
 ||celeb.gate.cc/banner/
 ||celeb.gate.cc/misc/event_*.js
 ||celebrity-slips.com/bst/
