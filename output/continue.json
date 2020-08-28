@@ -38527,7 +38527,8 @@
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
             "tipico.*?affiliateid=",
-            "streamp1ay.*"
+            "streamp1ay.*",
+            "tipico.*?affiliateid="
         ]
     }
 }
