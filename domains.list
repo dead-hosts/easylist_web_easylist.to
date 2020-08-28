@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008280225
+! Version: 202008280237
 ! Title: EasyList
-! Last modified: 28 Aug 2020 02:25 UTC
+! Last modified: 28 Aug 2020 02:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29368,6 +29368,8 @@ _popunder+$popup
 ##.zmgad-right-rail
 ##.zone-advertisement
 ##.zoneAds
+##.zox-post-bot-ad
+##.zox_ad_widget
 ##AD-SLOT
 ##AD-TRIPLE-BOX
 ##ADS-RIGHT
@@ -54046,10 +54048,8 @@ gtopala.com###affiliate-index-300x250
 carmall.com###affiliates
 indycar.com###affiliatesDiv
 ovguide.com###affiliates_outter
-metal-archives.com###affiliation
 search.rr.com###afsBot
 search.rr.com###afsTop
-investorplace.com###after-post-banner
 allgames.com###ag_AdBannerTop
 thehardtimes.net###aht-New-In-Content
 aol.com###ai300x250
@@ -54059,12 +54059,7 @@ ajchomefinder.com###ajc-homefinder-leaderboard
 unknown-horizons.org###akct
 luckyacepoker.com###alertpop
 release-ddl.com###alexa
-blisstree.com,mommyish.com,teen.com,thegloss.com,thegrindstone.com###alloy-300x250-tile2
-teen.com###alloy-300x250-tile3
-gurl.com,teen.com###alloy-728x90-tile1
-gurl.com,teen.com###alloy-728x90-tile4
-ohjoy.blogs.com###alpha
-ohjoy.blogs.com###alpha-inner
+blisstree.com,mommyish.com,thegloss.com,thegrindstone.com###alloy-300x250-tile2
 sportsgrid.com,thejanedough.com###am-ngg-ss-unit-label
 3dtin.com,juicefm.com,ovguide.com,pulse1.co.uk,pulse2.co.uk,signal1.co.uk,signal2.co.uk,swanseasound.co.uk,thewave.co.uk,wave965.com,wbgo.org,wbur.org,wirefm.com,wishfm.net###amazon
 imdb.com###amazon-affiliates
@@ -54079,7 +54074,6 @@ realbeauty.com###ams_728_90
 aim.org###amznCharityBanner
 visitsundsvall.se###annons-panel
 ex.ua###announce
-thurrott.com###announcement-bar-container
 hardocp.com###announcements
 peliculas-flv.com###anuncio
 esut.de###anzeige
@@ -54108,11 +54102,7 @@ ktar.com###askadv
 autoblog.com###asl_bot
 autoblog.com###asl_top
 pv-tech.org###associations-wrapper
-forwardprogressives.com###aswift_1_expand
-forwardprogressives.com###aswift_2_expand
-forwardprogressives.com###aswift_3_expand
 sporcle.com###atf-300x600
-ecoustics.com###atf_right_300x250
 hackthissite.org###atimg
 pogo.com###avertising
 scalemates.com###avph
@@ -54421,7 +54411,6 @@ phonescoop.com###botlink
 hplusmagazine.com,j.gs,q.gs###bottom
 jillianmichaels.com###bottom-300
 cheese.com,collider.com,investorplace.com,kiz10.com,lyrics19.com,radionomy.com###bottom-banner
-thurrott.com###bottom-interstitial
 ohio.com###bottom-leader-position
 audioreview.com,fayobserver.com,g4chan.com,icanhasinternets.com,thenextweb.com,topcultured.com###bottom-leaderboard
 startupnation.com###bottom-leaderboard-01
@@ -54501,7 +54490,6 @@ cineuropa.org###bt
 indiaresults.com###bt_banner1
 sporcle.com###btf-300x600
 imdb.com###btf_rhs2_wrapper
-ecoustics.com###btf_right_300x250
 overdrive.in###btm_banner1
 w3newspapers.com###btmadd
 theedge.co.nz###bugjuice
@@ -56778,6 +56766,7 @@ italymagazine.com###zone-user-wrapper
 hulkshare.com,rockyou.com###zone1
 hulkshare.com###zone2
 luxury-insider.com###zone_728x90
+ecoustics.com###zox-lead-bot
 videohelp.com###zqFhRMLGTfwB
 theverge.com##.-ad
 automobilemag.com##.-adslot
@@ -58566,7 +58555,6 @@ jango.com##.intro_block_module:last-child
 bridgemi.com##.investors-wrapper
 physicsworld.com##.iopp-sidebar
 indianexpress.com##.ipad
-investorplace.com##.ipm-sidebar-ad-text
 twitter.com##.is-promoted
 drivearcade.com,freegamesinc.com##.isk180
 abovethelaw.com,dealbreaker.com,hbr.org,itwire.com##.island
