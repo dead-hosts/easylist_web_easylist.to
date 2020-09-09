@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202009092224
+! Version: 202009092248
 ! Title: EasyList
-! Last modified: 09 Sep 2020 22:24 UTC
+! Last modified: 09 Sep 2020 22:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18157,6 +18157,7 @@ _popunder+$popup
 ##.ad--468-60
 ##.ad--728x90
 ##.ad--970-750-336-300
+##.ad--970-90
 ##.ad--BANNER
 ##.ad--MAIN
 ##.ad--article-top
@@ -61978,7 +61979,12 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||thefreedictionary.com^$generichide
 @@||videotoolbox.com^$generichide
 @@||web.archive.org^$generichide
+@@||wikibooks.org^$generichide
+@@||wikidata.org^$generichide
+@@||wikinews.org^$generichide
 @@||wikipedia.org^$generichide
+@@||wikiquote.org^$generichide
+@@||wikiversity.org^$generichide
 @@||wiktionary.org^$generichide
 @@||yibada.com^$generichide
 @@||zippyshare.com^$generichide
