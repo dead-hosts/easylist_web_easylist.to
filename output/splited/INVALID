@@ -8,6 +8,12 @@ cacheserve.*                                                                    
 142.91.                                                                                              SYNTAX     XXX        2020-10-31T06:01:12.217115
 172.255.6.                                                                                           SYNTAX     XXX        2020-10-31T06:01:12.228763
 216.21.13.                                                                                           SYNTAX     XXX        2020-10-31T06:01:12.240561
+algart.net*_banner_                                                                                  SYNTAX     XXX        2020-10-31T06:26:12.547966
+cas.*.criteo.com                                                                                     SYNTAX     XXX        2020-10-31T06:26:14.723919
+caw.*.criteo.com                                                                                     SYNTAX     XXX        2020-10-31T06:26:14.843195
+get.*.website                                                                                        SYNTAX     XXX        2020-10-31T06:26:19.976146
+iad-*.blaze.com                                                                                      SYNTAX     XXX        2020-10-31T06:26:21.286843
+images.*.criteo.net                                                                                  SYNTAX     XXX        2020-10-31T06:26:21.469431
 online.*                                                                                             SYNTAX     XXX        2020-10-31T01:20:11.285276
 ox-d.*                                                                                               SYNTAX     XXX        2020-10-31T01:20:11.286261
 serve.*                                                                                              SYNTAX     XXX        2020-10-31T01:20:11.287223
