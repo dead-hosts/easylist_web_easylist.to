@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202012011006
+! Version: 202012011044
 ! Title: EasyList
-! Last modified: 01 Dec 2020 10:06 UTC
+! Last modified: 01 Dec 2020 10:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52313,6 +52313,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||audioz.download^*/promotional/
 ||aveherald.com/images/banners/
 ||bahamaslocal.com/img/banners/
+||bank-codes.com/*.html?c=
 ||basingstokeobserver.co.uk/wp-content/uploads/2018/09/wk40-petra-leaderboard.jpg
 ||beap.gemini.yahoo.com^
 ||bernama.com/storage/banner/
@@ -54055,6 +54056,8 @@ $popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com|vidclou
 ||milffox.com/ai/s/s/su.
 ||milffox.com/ai/s/s/suo.
 ||milffox.com/ai/s/s/supc.
+||milffox.com/local_su.js
+||milffox.com/su4unbl-r.js
 ||milkmanbook.com/dat/promo/
 ||miragepics.com/images/11361497289209202613.jpg
 ||mobilepornmovies.com/images/banners/
