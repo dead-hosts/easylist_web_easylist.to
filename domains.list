@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202012040317
+! Version: 202012040620
 ! Title: EasyList
-! Last modified: 04 Dec 2020 03:17 UTC
+! Last modified: 04 Dec 2020 06:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49,7 +49,6 @@
 &adsafe=
 &adserv=
 &adserver=
-&adsize=
 &adslot=
 &adslots=
 &adsourceid=
@@ -63,7 +62,6 @@
 &adv_keywords=
 &advert_
 &advertiserid=$domain=~bee.gl|~cpashka.ru
-&advid=$~image
 &adzone=
 &banner_id=
 &bannerid=
@@ -1150,7 +1148,6 @@
 /ad/audsci.
 /ad/b_view?
 /ad/banner.
-/ad/banner/*
 /ad/banner?
 /ad/banner_
 /ad/bannerdetails/*
@@ -2467,7 +2464,6 @@
 /ads/banid/*
 /ads/banner-
 /ads/banner.
-/ads/banner/*
 /ads/banner01.
 /ads/banner?
 /ads/banner_
@@ -3505,10 +3501,7 @@
 /advertisement-$~script,domain=~berlin-airport.de
 /advertisement.$~script,domain=~advertisement.solutions.zalando.com
 /advertisement/*
-/advertisement1.
 /advertisement160.
-/advertisement2.
-/advertisement3.
 /advertisement_
 /advertisementAPI/*
 /advertisementheader.
@@ -3517,7 +3510,6 @@
 /advertisements-
 /advertisements.
 /advertisements/*$domain=~ellefanningfan.net
-/advertisements2.
 /advertisements?
 /advertisements_
 /AdvertisementShare.
@@ -6466,8 +6458,6 @@
 /showadcode2.
 /showadcontent.
 /showadjs.
-/showads.$~script
-/showads^
 /showads_
 /showadv2.
 /showadvert.
@@ -7429,7 +7419,6 @@
 ?advtile=
 ?advurl=
 ?adx=
-?adzone=
 ?aff_id=*&offer_id=
 ?AffiliateID=*&campaignsVpIds=
 ?banner.id=
@@ -7731,12 +7720,10 @@ _adscommon.
 _adscript.
 _adsdaq.
 _adsense.
-_adsense_
 _adserve.
 _adserve/
 _adserved.
 _adserver.
-_adserver/
 _adsetup.
 _adsetup_
 _adsframe.
@@ -7816,7 +7803,6 @@ _adverts3.
 _advertsarea.
 _AdvertsImgs/
 _adview?
-_adview_
 _advservices.
 _advsetup.
 _adwrap.
@@ -46344,6 +46330,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||smartadserver.com^$third-party
 ||smartadtags.com^$third-party
 ||smartadv.ru^$third-party
+||smartasset.com^$third-party
 ||smartclip.net^$third-party
 ||smartdevicemedia.com^$third-party
 ||smartredirect.de^$third-party
@@ -51065,6 +51052,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pokerstars.com/?source=$subdocument,third-party
 ||pokerstars.com/euro_bnrs/
 ||popeoftheplayers.eu/ad
+||popin.cc/popin_discovery
 ||popmog.com^$third-party
 ||pops.freeze.com^$third-party
 ||pornturbo.com/tmarket.php
@@ -54778,6 +54766,7 @@ $script,domain=porno333.com
 ||hegansex.com/exo.php$popup
 ||heganteens.com/exo.php$popup
 ||hilostripper.com/live/$popup
+||icebns.com/redirect/$popup,domain=iceporn.com
 ||imagebam.com/redirect_awe.php$popup
 ||imgadult.com/url.php$popup
 ||livejasmin.com/pu/$popup
@@ -55602,6 +55591,7 @@ hackaday.com,joystiq.com,peninsuladailynews.com###medrect
 atom.com,happytreefriends.com###medrect-container
 joystiq.com###medrectrb
 michiguide.com###medrectright
+zdnet.com###medusa-unit
 comesrilanka.com###meerkat-wrap
 encyclopedia-titanica.org###menuheaderbio
 spinitron.com###merchpanel
