@@ -1,13 +1,13 @@
 {
     "/home/travis/build/dead-hosts/easylist_web_easylist.to/domains.list": {
         "base": {
-            "datetime_iso": "2020-12-25T00:05:53.158289",
-            "hash": "c6b931bbcdbe72605d1ce2cc60b0b1c5b2ef1610324666f0c7019b2d"
+            "datetime_iso": "2020-12-27T22:56:05.868923",
+            "hash": "f2db3a8776ca6035184b0a30711c8748242a466877919484d6f1a79e"
         },
         "latest": {
-            "datetime_iso": "2020-12-25T02:09:36.070430",
-            "hash": "c6b931bbcdbe72605d1ce2cc60b0b1c5b2ef1610324666f0c7019b2d"
+            "datetime_iso": "2020-12-27T22:56:05.868923",
+            "hash": "f2db3a8776ca6035184b0a30711c8748242a466877919484d6f1a79e"
         },
-        "position": 0
+        "position": 38297
     }
 }
