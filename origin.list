@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202101141027
+! Version: 202101141102
 ! Title: EasyList
-! Last modified: 14 Jan 2021 10:27 UTC
+! Last modified: 14 Jan 2021 11:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26223,6 +26223,7 @@ _popunder+$popup
 ##.listAdvertGenerator
 ##.listad
 ##.listicle--ad-rail
+##.listing-card-ad
 ##.listing-content-ad-container
 ##.listing-inline-ad
 ##.listing-item-ad
@@ -26547,6 +26548,7 @@ _popunder+$popup
 ##.mmc-ad
 ##.mmc-ad-wrap-2
 ##.mmcAd_Iframe
+##.mmy-ads
 ##.mnopolarisAd
 ##.mntl-gpt-adunit
 ##.mo_googlead
@@ -54854,7 +54856,9 @@ powerpointstyles.com###smowtion300250
 denverpost.com###snowReportFooter
 tfportal.net###snt_wrapper
 soccer24.co.zw###soccer24-ad
+toumpano.net###sp-feature
 armyrecognition.com###sp-google-advertising-2x-468x100
+toumpano.net###sp-right
 thedailygreen.com###sp_footer
 collegefashion.net###spawnsers
 searchenginejournal.com###spcat_ifr
@@ -56447,6 +56451,7 @@ steroid.com##[href*="https://www.anabolics.com"]
 audiobookbay.net##[href="/dl-14-days-trial"]
 1movies.is##[href="/user/premiummembership"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
+toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
 mhktricks.org##[href="https://www.deepbrid.com/"]
@@ -56467,12 +56472,14 @@ unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
 ownedcore.com##[href^="https://www.ownedcore.com/forums/b.php"]
+porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 bikeroar.com##[href^="https://www.roaradventures.com/"]
 noypigeeks.com##[href^="https://www.vivo.com/"]
 monova.org##[onclick] > [target="_blank"]
 monova.org##[onclick] > a[class]
 audioz.download##[src*="/promo/"]
 linuxtopia.org##[src^="/includes/index.php/?img="]
+porngames.club##[src^="https://wheelwheel.space/"]
 smallseotools.com##[style*="height: 300px;"]
 wahm.com##[style="min-height:250px;"]
 torrentresource.com##[width="150"]:last-child
