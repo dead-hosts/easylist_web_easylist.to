@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202101250007
+! Version: 202101250038
 ! Title: EasyList
-! Last modified: 25 Jan 2021 00:07 UTC
+! Last modified: 25 Jan 2021 00:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7312,7 +7312,7 @@
 ://oas.*@
 ://ox-*/jstag^
 ://pop-over.
-://promo.$third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com
+://promo.$third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://rss.*/~a/
 ://synad.
 ://wrapper.*/a?
@@ -37974,6 +37974,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||murdened.club^
 ||murdenedo.club^
 ||mushroomresolved.com^
+||mutenessdollyheadlong.com^
 ||muttonvalet.com^
 ||muwjxxvovtb.com^
 ||muyoozrkkyr.com^
