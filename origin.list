@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104171757
+! Version: 202104171821
 ! Title: EasyList
-! Last modified: 17 Apr 2021 17:57 UTC
+! Last modified: 17 Apr 2021 18:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -631,7 +631,7 @@
 .com/adpicture
 .com/ads-
 .com/ads.$~script,~xmlhttprequest
-.com/ads/$image,object,subdocument,domain=~sabotage-films.com
+.com/ads/$image,object,subdocument,domain=~developers.google.com|~sabotage-films.com
 .com/ads?
 .com/ads_
 .com/adv/$domain=~advantabankcorp.com|~archiproducts.com|~tritondigital.com
@@ -30266,6 +30266,7 @@ _popunder+$popup
 ##a[href*=".red90121.com/"]
 ##a[href*=".revimedia.com/"]
 ##a[href*=".smartadserver.com"]
+##a[href*=".surfmdia.com/"]
 ##a[href*=".tfaln.com/"]
 ##a[href*=".trck5.com/"]
 ##a[href*=".udncoeln.com/"]
@@ -48093,6 +48094,7 @@ menstennisforums.com#@#.top_ads
 ||vroll.net^$third-party
 ||vrstage.com^$third-party
 ||vsexshop.ru^$third-party
+||w4vecl1cks.com^$third-party
 ||wa4etw9l.top^$third-party
 ||walprater.com^$third-party
 ||wamcash.com^$third-party
@@ -54219,7 +54221,7 @@ scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
 ancient-origins.net,avclub.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,mydramalist.com,ssbcrack.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
 sociologyguide.com##a[href^="https://www.baghvillas.com/"]
 indusladies.com##a[href^="https://www.codewizardshq.com/?utm_"]
-futbin.com##a[href^="https://www.eneba.com/"][href*=?af_id="]
+futbin.com##a[href^="https://www.eneba.com/"][href*="?af_id="]
 domaintyper.com##a[href^="https://www.kqzyfj.com/"]
 torrentfreak.com##a[href^="https://www.privateinternetaccess.com/"]
 provideocoalition.com##a[href^="https://www.provideocoalition.com/ghost/"]
