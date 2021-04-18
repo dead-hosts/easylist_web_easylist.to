@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104180803
+! Version: 202104180847
 ! Title: EasyList
-! Last modified: 18 Apr 2021 08:03 UTC
+! Last modified: 18 Apr 2021 08:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38687,6 +38687,7 @@ menstennisforums.com#@#.top_ads
 ||newsunads.com^
 ||newthuads.com^
 ||newvideos.xyz^
+||nextgencounter.com^
 ||neyhdjwpumivpa.com^
 ||nfanxxuegzp.com^
 ||nfkq8jy5db0b.com^
@@ -40884,6 +40885,7 @@ menstennisforums.com#@#.top_ads
 ||sowlobptfzfh.com^
 ||soza6rsz3ezi.com^
 ||spaderonium.com^
+||spagat.space^
 ||spanhamweb.com^
 ||spankswindlewatchman.com^
 ||sparagken.com^
@@ -41004,6 +41006,7 @@ menstennisforums.com#@#.top_ads
 ||sthourselft.top^
 ||stiffenpersevere.com^
 ||stilfb.com^
+||stimmtso.space^
 ||stimtavy.net^
 ||stingjagged.com^
 ||stingygirlieaccompany.com^
@@ -52230,7 +52233,7 @@ liligo.com###midbanner
 trackingthepros.com###mini-container
 pch.com###minipath_panel
 myjoyonline.com###mjo-article-left_rectangle_mid
-mmorpg.com###mmorpg_300x250_1
+mmorpg.com###mmorpg_desktop_list_1
 longreads.com###mobile_banner
 samachar.com###mobileapppromo
 buzzfeed.com###mod-product-labs-promo-1
@@ -54152,7 +54155,6 @@ noypigeeks.com##[href^="https://nypgks.com/"]
 readlightnovel.org##[href^="https://readlightnovelnew.onelink.me/"]
 darknetdaily.com##[href^="https://shop.ledger.com/"]
 cnx-software.com##[href^="https://www.amazon.com/"]
-mmorpg.com##[href^="https://www.blackdesertonline.com/"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
@@ -54160,7 +54162,6 @@ unknowncheats.me##[href^="https://www.iwantcheats.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
 ownedcore.com##[href^="https://www.ownedcore.com/forums/b.php"]
-porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 majorgeeks.com##[href^="https://www.restoro.com/"]
 bikeroar.com##[href^="https://www.roaradventures.com/"]
 upload.ee##[href^="https://www.upload.ee/click.php"]
@@ -54171,7 +54172,7 @@ audioz.download##[src*="/promo/"]
 manganelo.com##[src^="/ads/"]
 ice.hockey##[src^="/images/banners/"]
 linuxtopia.org##[src^="/includes/index.php/?img="]
-porngames.club##[src^="https://wheelwheel.space/"]
+tampermonkey.net##[src^="data:image"]
 wahm.com##[style="min-height:250px;"]
 guru99.com##[style^="float"]
 torrentresource.com##[width="150"]:last-child
@@ -54202,7 +54203,6 @@ twitter.com##a[href*="src=promoted_trend_click"] + div
 unitconversion.org##a[href="../noads.html"]
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##a[href][target="_blank"] > button
 facebook.com,shroomery.org##a[href^="/ads/"]
-tampermonkey.net##a[href^="/f.php?f="]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 xbox-hq.com##a[href^="banners.php?"]
 depositfiles.com,dfiles.eu##a[href^="http://ads.depositfiles.com/"]
@@ -54292,20 +54292,17 @@ sltrib.com##div[id^="sltrib-promo-"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 opensubtitles.org##div[itemscope=""][itemtype="http://schema.org/Movie"] > fieldset
 9gag.com##div[style*="width: 500px; height: 281px;"]
-fansshare.com,iconarchive.com,unexplained-mysteries.com##div[style*="width:300px"]
+datacenterdynamics.com,fansshare.com,hairboutique.com,iconarchive.com,imagetwist.com,memecenter.com,paultan.org,unexplained-mysteries.com,windsorite.ca,xtra.com.my##div[style*="width:300px"]
 rlslog.net##div[style*="z-index:"]:first-child
 filesharingtalk.com##div[style="background-color: white; border-width: 2px; border-style: dashed; border-color: white;"]
 fansshare.com##div[style="background-image:url(http://img23.fansshare.com/media/img/advertisement.png);width:335px;height:282px;"]
 hints.macworld.com##div[style="border-bottom: 2px solid #7B7B7B; padding-bottom:8px; margin-bottom:5px;"]
 bsplayer.com##div[style="height: 281px; overflow: hidden"]
-add0n.com##div[style="height: 90px; max-width: 728px; text-align: center"]
 samachar.com##div[style="height:100%; left:50%; position:fixed; width:957px; top:50px; z-index:3; overflow:hidden;margin-left:510px;"]
 sentinelnews.com,theandersonnews.com##div[style="height:620px;width:279px;margin:auto;margin-top:5px;background-color:#eaeaea;"]
 worstpreviews.com##div[style="margin-top:15px;width:160;height:600;background-color:#FFFFFF;"]
 gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 drivespark.com##div[style="min-height: 260px;"]
-news18.com##div[style="min-height:90px"]
-add0n.com##div[style="min-height:90px;max-width:728px;text-align:center"]
 technical.city##div[style="padding-bottom: 20px"] > div[style="min-height: 250px"]
 bitcoin-otc.com##div[style="padding-left: 10px; padding-bottom: 10px; text-align: center; font-family: Helvetica;"]
 rlslog.net##div[style="padding-left:40px;"]
@@ -54316,21 +54313,16 @@ croatia.org##div[style="width: 120px; text-align:center"]
 googletutor.com##div[style="width:125px;text-align:center;"]
 worstpreviews.com##div[style="width:160;height:600;background-color:#FFFFFF;"]
 today.az##div[style="width:240px; height:400px;\""]
-windsorite.ca##div[style="width:300px; min-height: 600px;"]
-memecenter.com##div[style="width:300px;height: 250px;display:inline-block"]
-hairboutique.com##div[style="width:300px;height:250px;"]
-datacenterdynamics.com##div[style="width:300px;height:250px;margin:0;padding:0"]
-xtra.com.my##div[style="width:300px;margin:auto"]
 reactiongifs.com##div[style="width:499px; background:#ffffff; margin:00px 0px 35px 180px; padding:20px 0px 20px 20px; "]
 whdh.com##div[style="width:970px;height:250px;"]
 whatmobile.com.pk##div[style^="background-color:#EBEBEB;"]
-paultan.org##div[style^="height:250px; width:300px;"]
+add0n.com##div[style^="height: 90px;"]
 whatmobile.com.pk##div[style^="height:610px"]
 google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
+add0n.com,news18.com##div[style^="min-height:90px"]
 passiveaggressivenotes.com,twcenter.net##div[style^="width: 728px;"]
-imagetwist.com##div[style^="width:300px; height:250px;"]
 napuzba.com##div[style^="width:336px"]
-jwire.com.au##div[style^="width:468px;height:60px"]
+jwire.com.au##div[style^="width:468px;"]
 interglot.com,stopmalvertising.com##div[style^="width:728px;"]
 ebay.com##div[title="ADVERTISEMENT"]
 adblock-tester.com##embed[width="240"]
@@ -54358,10 +54350,8 @@ windycitymediagroup.com,windycitytimes.com##img[name="Sponsor"]
 modelhorseblab.com##img[name="js_ad"]
 forum.blackhairmedia.com##img[src*="/?AdID="]
 nsfwyoutube.com##img[src*="data"]
-tampermonkey.net##img[style="display:block;"]
 britishexpat.com##img[style="width: 468px; height: 60px;"]
-bcmagazine.net##img[style="width:300px; height:250px; border:0px;"]
-bcmagazine.net##img[style="width:300px; height:400px; border:0px;"]
+bcmagazine.net##img[style^="width:300px;"]
 abpclub.co.uk##img[width="118"]
 howtogermany.com##img[width="120"]
 lyngsat-logo.com,lyngsat-maps.com,lyngsat-stream.com,lyngsat.com,newswireni.com,webhostingtalk.com##img[width="160"]
@@ -55281,10 +55271,12 @@ xxxgames.biz##[href="javascript:void(0);"]
 hentai-top100.com##[href^="http://sexmaxx.com"]
 hentai-top100.com##[href^="http://www.grainesdecannabis.fr/"]
 sexuhot.com##[href^="https://referrer.space/"]
+porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 ero-advertising.com##[id][style]
 imagevenue.com##[id^="MarketGid"]
 youporn.com##[id^="parent_zone_"]
 extremetube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[src*="blob:"]
+porngames.club##[src^="https://wheelwheel.space/"]
 pornhub.com,pornhubthbh7ap3u.onion##[srcdoc]
 extremetube.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="base64"]
 extremetube.com,pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]
@@ -55375,7 +55367,7 @@ pornhub.com,pornhubthbh7ap3u.onion##ads
 pornhub.com,pornhubthbh7ap3u.onion##aside > [style="display: block;"] > table
 pornhub.com,pornhubthbh7ap3u.onion##aside > span:first-child
 mysexgames.com##body > div[style*="z-index:"]
-8boobs.com,alrincon.com,boobieblog.com,thenipslip.com,wetpussygames.com##canvas
+8boobs.com,alrincon.com,boobieblog.com,porngames.club,thenipslip.com,wetpussygames.com##canvas
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
 pornhub.com,pornhubthbh7ap3u.onion##div > aside > aside
 porngames.com##div > canvas
