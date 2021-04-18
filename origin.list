@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104180727
+! Version: 202104180737
 ! Title: EasyList
-! Last modified: 18 Apr 2021 07:27 UTC
+! Last modified: 18 Apr 2021 07:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23024,6 +23024,7 @@ _popunder+$popup
 ##.amp-ad
 ##.amp-ads
 ##.amp-ads-container
+##.ampFlyAdd
 ##.amsSparkleAdWrapper
 ##.anc_ads_show
 ##.anchor-ad-wrapper
@@ -54242,6 +54243,7 @@ amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_wid
 pcgamer.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 issuu.com##div[class*="adPlacement"]
 issuu.com##div[class*="adSkyscraper"]
+keengamer.com##div[class*="gameon-above-"]
 barrons.com##div[class^="BarronsTheme--adWrapper"]
 apnews.com##div[class^="Component-adTitle-"]
 apnews.com##div[class^="Component-placeholderWrapper-"]
@@ -54255,7 +54257,9 @@ goodrx.com##div[class^="adContainer"]
 goodrx.com##div[class^="adWrapper-"]
 greatandhra.com##div[class^="add"]
 technical.city##div[class^="banner_"]
+keengamer.com##div[class^="gameon-in-"]
 keengamer.com##div[class^="gameon-mpu-"]
+keengamer.com##div[class^="gameon-top-"]
 pcgamer.com,techradar.com,tomsguide.com,tomshardware.com##div[class^="slot-"]
 kijiji.ca##div[class^="sponsored-"]
 whatsondisneyplus.com##div[class^="whats-"]
@@ -54328,6 +54332,7 @@ whdh.com##div[style="width:970px;height:250px;"]
 whatmobile.com.pk##div[style^="background-color:#EBEBEB;"]
 paultan.org##div[style^="height:250px; width:300px;"]
 whatmobile.com.pk##div[style^="height:610px"]
+google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
 imagetwist.com##div[style^="width:300px; height:250px;"]
 napuzba.com##div[style^="width:336px"]
 gta3.com,gtagarage.com,gtasanandreas.net,myanimelist.net,pastebin.com##div[style^="width:728px;"]
