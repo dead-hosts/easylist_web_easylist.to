@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104181140
+! Version: 202104181219
 ! Title: EasyList
-! Last modified: 18 Apr 2021 11:40 UTC
+! Last modified: 18 Apr 2021 12:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27081,6 +27081,7 @@ _popunder+$popup
 ##.nda-ad
 ##.nda-ad--leaderboard
 ##.ndmadkit
+##.neo-advert
 ##.nested-ad
 ##.netPost_ad1
 ##.netPost_ad3
@@ -27102,6 +27103,7 @@ _popunder+$popup
 ##.news-ad-block-a
 ##.news-ad-square-a
 ##.news-ad-square-box
+##.news-advert__column
 ##.news-place-ad-info
 ##.newsAd
 ##.news_ad_box
@@ -50820,7 +50822,6 @@ menstennisforums.com#@#.top_ads
 ||hotstar.com^*/midroll?$~third-party
 ||hotstar.com^*/preroll?$~third-party
 ||howtogermany.com/images/bnr-
-||hulkstream.com/jvpop
 ||i-tech.com.au/media/wysiwyg/banner/
 ||ice.hockey/images/sponsoren/
 ||iceinspace.com.au/iisads/
@@ -50845,7 +50846,6 @@ menstennisforums.com#@#.top_ads
 ||itweb.co.za^*/sponsors
 ||jackstream.com/jvpop
 ||jackstream.com/wa.html
-||jackstream.net/cjs.js
 ||jackstream.org/algclo1gex2JF2pwcd155BiQB8GJyUqLdfLHZv6A9yK.php
 ||jordantimes.com/accu/
 ||kdnuggets.com/aps/
