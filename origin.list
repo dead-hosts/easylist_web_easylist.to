@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104200456
+! Version: 202104200506
 ! Title: EasyList
-! Last modified: 20 Apr 2021 04:56 UTC
+! Last modified: 20 Apr 2021 05:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10268,6 +10268,7 @@ _popunder+$popup
 ###ad-slot-1
 ###ad-slot-2
 ###ad-slot-4
+###ad-slot-lb
 ###ad-slot-mpu-1-desktop
 ###ad-slot-right
 ###ad-slot-top
@@ -21089,6 +21090,7 @@ _popunder+$popup
 ##.ads-300x600-wrapper
 ##.ads-300x80
 ##.ads-301
+##.ads-320x250
 ##.ads-336-197-qu
 ##.ads-336x280
 ##.ads-468
@@ -23862,6 +23864,7 @@ _popunder+$popup
 ##.box_adv_728
 ##.box_adv_hp
 ##.box_adv_new
+##.box_advert
 ##.box_advertising
 ##.box_advertising_info
 ##.box_advertisment_62_border
@@ -27161,6 +27164,9 @@ _popunder+$popup
 ##.not-an-ad-header
 ##.note-advertisement
 ##.noticeAd_pc_wrap
+##.np-advert_apu
+##.np-advert_apu-double
+##.np-advert_info
 ##.np-header-ad
 ##.np-right-ad
 ##.npAdGoogle
@@ -52887,7 +52893,7 @@ swahilihub.com##.ban125x125
 izismile.com##.ban_top
 lexico.com##.banbox
 lexico.com##.banbox-mini
-adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+abplive.com,adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 oilprice.com##.banner--articleSidebar
 ariacharts.com.au,nation.sc,techshout.com##.banner-1
 nation.sc##.banner-2
@@ -52998,6 +53004,7 @@ autocar.co.uk##.block-autocar-ads-mpu-flexible1
 autocar.co.uk##.block-autocar-ads-mpu-flexible2
 autocar.co.uk##.block-autocar-ads-mpu1
 taxsutra.com##.block-banner
+abplive.com##.block-container.container
 pocket-lint.com##.block-inline
 pocket-lint.com##.block-mpu
 practicalpainmanagement.com##.block-oas
@@ -53012,6 +53019,7 @@ bnonews.com##.bnone-widget
 mediamanager.co.za##.bnr
 armenpress.am##.bnrcontainer
 southerntimesafrica.com##.body-header-banner
+btcmanager.com##.boo_3oo_6oo
 cmo.com.au,interiordesign.net##.boombox
 etherscan.io##.border-top
 pixxxels.cc##.bottom-a
@@ -53110,7 +53118,7 @@ geekspin.co,getdroidtips.com,kanonitv.net,naturalnews.com,whats-on-netflix.com##
 getdroidtips.com##.code-block-13
 getdroidtips.com##.code-block-15
 geekspin.co,kanonitv.net##.code-block-2
-getdroidtips.com##.code-block-4
+getdroidtips.com,thegayuk.com##.code-block-4
 geekspin.co##.code-block-7
 getdroidtips.com##.code-block-8
 link-base.org##.col-lg-12
@@ -53247,6 +53255,7 @@ mobafire.com##.exhibit-vertical
 miami.com##.expedia-widget
 yourbittorrent.com##.extneed
 thefinancialexpress-bd.com##.extraLink
+btcmanager.com##.f_man_728
 steroid.com##.fancybox-overlay
 steroid.com##.fancybox-wrap
 themoviedb.org##.fanhattan
@@ -53505,7 +53514,8 @@ bakercityherald.com##.leaderTop
 freelanceswitch.com,stockvault.net,tutsplus.com##.leader_board
 10daily.com.au,923thefox.com,advosports.com,adyou.me,androidfirmwares.net,autoaction.com.au,autos.ca,ballstatedaily.com,browardpalmbeach.com,cantbeunseen.com,chairmanlol.com,clicktogive.com,clinicaltrialsarena.com,coastandcountrynews.co.nz,comingsoon.net,commercialappeal.com,cosmopolitan.co.uk,cosmopolitan.in,cosmopolitan.ng,courierpress.com,cprogramming.com,dailynews.co.zw,digitalspy.com,diyfail.com,donchavez.com,driving.ca,dummies.com,edmunds.com,electrek.co,elledecor.com,explainthisimage.com,foodista.com,forums.thefashionspot.com,fox.com.au,funnyexam.com,funnytipjars.com,galatta.com,gamesindustry.biz,gamesville.com,goldenpages.be,hardware.info,hi-mag.com,hot1035.com,hourdetroit.com,hypegames.com,iamdisappoint.com,imedicalapps.com,independentmail.com,intomobile.com,itnews.com.au,japanisweird.com,legion.org,lifezette.com,mac-forums.com,mapcarta.com,marieclaire.co.za,meteovista.co.uk,meteovista.com,miaminewtimes.com,milesplit.com,mix.com.au,modbee.com,monocle.com,morefailat11.com,myrtlebeachonline.com,nameberry.com,naplesnews.com,nature.com,nbl.com.au,newarkrbp.org,newsobserver.com,newstatesman.com,nxfm.com.au,objectiface.com,onnradio.com,openfile.ca,organizedwisdom.com,overclockers.com,passedoutphotos.com,pehub.com,peoplespharmacy.com,perfectlytimedphotos.com,phoenixnewtimes.com,photographyblog.com,pinknews.co,radiowest.com.au,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,rebubbled.com,recode.net,redding.com,reporternews.com,roadrunner.com,rollcall.com,roulettereactions.com,sacarfan.co.za,scifinow.co.uk,seafm.com.au,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,shocktillyoudrop.com,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,starfm.com.au,stopdroplol.com,straitstimes.com,stripes.com,sunfm.com.au,sunherald.com,supersport.com,tattoofailure.com,tcpalm.com,techdigest.tv,techzim.co.zw,thecrimson.com,thejewishnews.com,theriver.com.au,theskanner.com,thestar.com.my,thestate.com,timescolonist.com,timesrecordnews.com,titantv.com,treehugger.com,triplem.com.au,uswitch.com,vcstar.com,waterline.co.nz,westword.com,where.ca,wmagazine.com,yodawgpics.com,yoimaletyoufinish.com##.leaderboard
 arabiaweather.com,gamesindustry.biz,news957.com,newscientist.com##.leaderboard-container
-huffpost.com##.leaderboard-flex-placeholder
+huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder
+huffingtonpost.co.uk##.leaderboard-flex-placeholder-desktop
 cbssports.com,nowthisnews.com,scout.com,thedodo.com,thrillist.com##.leaderboard-wrap
 save.ca##.leaderboardMainWrapper
 cargurus.com##.leaderboardParent
@@ -53538,6 +53548,7 @@ vg247.com##.low-leader-container
 bikeroar.com##.lower-panel
 omegle.com##.lowergaybtn
 omegle.com##.lowersexybtn
+greatbritishlife.co.uk##.lp_track_vertical2
 hltv.org##.luckbox-firstcol-box
 readwrite.com##.m-adaptive
 politifact.com##.m-billboard
