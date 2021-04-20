@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104200110
+! Version: 202104200136
 ! Title: EasyList
-! Last modified: 20 Apr 2021 01:10 UTC
+! Last modified: 20 Apr 2021 01:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32535,6 +32535,7 @@ menstennisforums.com#@#.top_ads
 ||71d7511a4861068.com^
 ||729dcbaa57e80c1e.com^
 ||72b8869dfc34690.com^
+||7310e12f1b0.com^
 ||739c49a8c68917.com^
 ||73c6c063b238097.com^
 ||73s.xyz^
@@ -32653,6 +32654,7 @@ menstennisforums.com#@#.top_ads
 ||9053fe03868ab.com^
 ||91jsnzw.xyz^
 ||920sbo17zn88.com^
+||9237eda19f.com^
 ||924e60106cd9d0e.com^
 ||927a8dd1afec73.com^
 ||9376ec23d50b1.com^
@@ -32989,6 +32991,7 @@ menstennisforums.com#@#.top_ads
 ||ahfdsply.com^
 ||ahgdsply.com^
 ||ahhdsply.com^
+||ahidsply.com^
 ||ahjdwb31.xyz^
 ||ahoigzbodtcd.com^
 ||ahojer.com^
@@ -33906,6 +33909,7 @@ menstennisforums.com#@#.top_ads
 ||c9emgwai66zi.com^
 ||ca4ec6874a33a13.com^
 ||ca72472d7aee.com^
+||caac1761385.com^
 ||cab-too-low.com^
 ||cabineteen.club^
 ||cabresenalitie.club^
@@ -36719,6 +36723,7 @@ menstennisforums.com#@#.top_ads
 ||harassinglimb.com^
 ||hardydisplayedprawn.com^
 ||harriscote.pro^
+||harryticket.com^
 ||hartaim.com^
 ||hash-hash-tag.com^
 ||hastikapubli.club^
@@ -37220,6 +37225,7 @@ menstennisforums.com#@#.top_ads
 ||ivjkdyrjjgxhch.com^
 ||ivjtgtjcizwh.com^
 ||ivsdajtjh.com^
+||ivtcdnhshx.com^
 ||ivwtqfbmkwen.com^
 ||iwampeasw.com^
 ||iwhugaul.com^
@@ -37469,6 +37475,7 @@ menstennisforums.com#@#.top_ads
 ||kikoucuy.net^
 ||killerjuke.xyz^
 ||killerparadehay.com^
+||killingwirelesshumiliation.com^
 ||kindlyfeebleremembered.com^
 ||kindsworthmp.club^
 ||kindznnd998.xyz^
@@ -41976,10 +41983,12 @@ menstennisforums.com#@#.top_ads
 ||video-adblocker.com^
 ||videoaccess.xyz^
 ||videosubsi.fun^
+||videosvstincredible.com^
 ||videotapespecialize.com^
 ||vidpay.com^
 ||vidsdelivery.com^
 ||vidsforuz.com^
+||vidsorg.com^
 ||viewablemedia.net^
 ||viewclc.com^
 ||vignerez.net^
@@ -42038,6 +42047,7 @@ menstennisforums.com#@#.top_ads
 ||vksmmvykm.com^
 ||vlitag.com^
 ||vlnwqiloadoqt.com^
+||vloudsze.com^
 ||vlrzhoueyoxw.com^
 ||vltwox7zl7h1wv.com^
 ||vltxcrkyxtv.com^
@@ -42593,6 +42603,7 @@ menstennisforums.com#@#.top_ads
 ||xygediwe.xyz^
 ||xywdvhd.com^
 ||xyz0k4gfs.xyz^
+||xzidjitondzt.com^
 ||xzipy.com^
 ||xzixbirtfo.com^
 ||y2020ad.xyz^
@@ -50090,6 +50101,7 @@ menstennisforums.com#@#.top_ads
 ||d3a49eam5ump99.cloudfront.net^
 ||d3asksgk2foh5m.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
+||d3beefy8kd1pr7.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
@@ -51464,7 +51476,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ! *** easylist:easylist/easylist_specific_block_popup.txt ***
 $popup,third-party,domain=cloudvideo.tv|loader.to|mystream.to|play.hydracdn.network|playtube.ws|streamtape.com|strtape.cloud|supervideo.tv|upstream.to|vidcloud9.com|vidlox.me|vivo.sx|voe.sx|vupload.com
 :text^$popup,domain=zippyshare.com
-||adf.ly/*.php?$popup
 ||adf.ly/_$popup
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
 ||bit.ly^$popup,domain=dexerto.com|eteknix.com|gdriveplayer.us|kitguru.com|ouo.io|ouo.press|sh.st
@@ -51495,13 +51506,12 @@ $popup,third-party,domain=cloudvideo.tv|loader.to|mystream.to|play.hydracdn.netw
 ||uploadrocket.net^$popup,~third-party
 ||videowood.tv/pop$popup
 ||videowood.tv^$popup,domain=micast.tv
-||vido.fun/out.php$popup
 ||vpnfortorrents.app/*?$popup
 ||vpnfortorrents.how/*?$popup
 ! about:blank popups
 /about:blank#/$popup,domain=22pixx.xyz|9anime.to|disk.ly|dood.to|dood.video|dood.watch|fcdn.stream|fmovies.to|gogoanime.pro|hydracdn.network|imagetwist.com|meomeo.pw|mixdrop.co|mp4upload.com|mstream.xyz|player.cineflixtv.com|player.cineflixtv.net|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|spcdn.cc|steamplay.cc|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|streamz.vg|strtape.cloud|upstream.to|uptostream.com|vev.io|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vidup.io|voe.sx|vortez.net|vshare.eu|vumoo.to|waaw.to|watchserieshd.tv
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|php|html|svg|ico|js)/$popup,domain=5movies.fm|animepahe.com|cmovies.ac|dood.to|dood.video|dood.watch|fcdn.stream|hqq.to|hulkstreams.com|jackstreams.com|meomeo.pw|mixdrop.co|mp4upload.com|mystream.to|olympicstreams.me|player.cineflixtv.com|putlockers.fm|redirect-ads.com|speedvideo.net|streamsb.net|streamtape.cc|streamtape.net|strikeout.nu|strtape.cloud|telerium.net|upvid.co|vidnext.net|vipleague.cc|voe.sx|vumoo.to|watchserieshd.tv
+/^https?:\/\/.*\.(jpg|png|php|html|svg|ico|js)/$popup,domain=5movies.fm|adf.ly|animepahe.com|cmovies.ac|dood.to|dood.video|dood.watch|fcdn.stream|hqq.to|hulkstreams.com|jackstream.net|jackstreams.com|meomeo.pw|mixdrop.co|mp4upload.com|mystream.to|olympicstreams.me|player.cineflixtv.com|putlockers.fm|redirect-ads.com|speedvideo.net|streamsb.net|streamtape.cc|streamtape.net|strikeout.nu|strtape.cloud|telerium.net|upvid.co|vidnext.net|vido.fun|vipleague.cc|voe.sx|vumoo.to|watchserieshd.tv
 ! 
 /^https?:\/\/.*\.(info|pro|icu|app|xyz|pet|win|live|me|io|cc|pw|is|zone|bid|cf|ovh|site|review|ml)\.?(\/|:|$)/$popup,domain=dood.watch|fcdn.stream|fmovies.to|idup.io|mixdrop.co|mixdrop.to|mp4upload.com|powvideo.net|powvldeo.cc|putlocker.style|streamsb.net|strtape.cloud|thepiratebay.org|upstream.to|uptostream.com|vev.io|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vortez.net|vshare.eu
 ! semi-generic popup block
