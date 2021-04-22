@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104212303
+! Version: 202104212332
 ! Title: EasyList
-! Last modified: 21 Apr 2021 23:03 UTC
+! Last modified: 21 Apr 2021 23:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3740,6 +3740,7 @@
 /affiliate/promo/*
 /affiliate/script.php?
 /affiliate/small_banner/*
+/affiliate_amazon.
 /affiliate_banner/*
 /affiliate_banners/*
 /affiliate_base/banners/*
@@ -55709,6 +55710,11 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||z.moatads.com^$script,domain=reuters.com
 @@||zergnet.com^$image,script,stylesheet,domain=ci.craveonline.com|ci.gamerevolution.com|ci.momtastic.com|ci.thefashionspot.com|ci.totallyher.com
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
+! wordpress.org https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/
+@@||ps.w.org^$image,domain=wordpress.org
+@@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
+@@||wordpress.org/plugins/$domain=wordpress.org
+@@||wordpress.org/stats/plugin/$domain=wordpress.org
 ! uBO-CNAME (Specific allowlists)
 @@||hwcdn.net^$script,domain=mp4upload.com
 ! ezfunnels.com (https://forums.lanik.us/viewtopic.php?f=64&t=44355)
