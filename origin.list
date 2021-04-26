@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104261215
+! Version: 202104261259
 ! Title: EasyList
-! Last modified: 26 Apr 2021 12:15 UTC
+! Last modified: 26 Apr 2021 12:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -37008,6 +37008,7 @@ menstennisforums.com#@#.top_ads
 ||hqpass.com^
 ||hqr9q6f30371.com^
 ||hqtlvmcrpb.com^
+||hqvwniado.com^
 ||hrahdmon.com^
 ||hrgbolmbxmovli.com^
 ||hriaaim06kts.com^
@@ -42608,6 +42609,7 @@ menstennisforums.com#@#.top_ads
 ||xogvagdtgehxm.com^
 ||xokikdassjjhrn.com^
 ||xorcibleboth.club^
+||xouzmvlt.com^
 ||xpigohyzfdcgp.com^
 ||xpsurtfhsllozy.com^
 ||xptslcoedn.com^
@@ -49004,6 +49006,7 @@ menstennisforums.com#@#.top_ads
 ||fastcccam.com/images/fcbanner2.gif
 ||fatads.toldya.com^$third-party
 ||fatburningfurnace.com^*/fbf-banner-
+||fcdn.stream/asset/bann.js
 ||fcgadgets.blogspot.com^$third-party
 ||feedburner.com/~a/
 ||femalefirst.co.uk/widgets/$third-party
@@ -51471,7 +51474,6 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||csgofast.com^$popup,domain=hltv.org
 ||deb.gs^*?ref=$popup
 ||embed.mystream.to^$popup
-||fashionsaga.com^$popup,domain=putlocker.is
 ||filecrypt.cc/pax/$popup
 ||flashx.tv^$popup,~third-party,domain=flashx.tv
 ||flixhq.net/?$popup
@@ -51487,9 +51489,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||plarium.com/play/*adCampaign=$popup
 ||reutersmedia.net/resources_$popup,domain=reuters.com
 ||streamtunerhd.com/signup?$popup,third-party
-||toptrailers.net^$popup,domain=uploadrocket.net
 ||tracker1.richcasino.com^$popup
-||uploadrocket.net^$popup,~third-party
 ||videowood.tv/pop$popup
 ||videowood.tv^$popup,domain=micast.tv
 ||vpnfortorrents.*?$popup
