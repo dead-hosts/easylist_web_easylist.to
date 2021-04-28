@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104281520
+! Version: 202104281541
 ! Title: EasyList
-! Last modified: 28 Apr 2021 15:20 UTC
+! Last modified: 28 Apr 2021 15:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -36676,6 +36676,7 @@ menstennisforums.com#@#.top_ads
 ||grupticaje.pro^
 ||grursusy.com^
 ||grutopsathu.pro^
+||grygrothapi.pro^
 ||gscarcinoh.club^
 ||gseyriwpozfxf.com^
 ||gsfillegesga.club^
@@ -46864,6 +46865,7 @@ menstennisforums.com#@#.top_ads
 ||getalltraffic.com^$popup
 ||getmyads.com^$popup
 ||gfdfhdh5t5453.com^$popup
+||giddinessdefensivesubject.com^$popup
 ||giveaways.club^$popup
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
@@ -46885,6 +46887,7 @@ menstennisforums.com#@#.top_ads
 ||groorgex.net^$popup
 ||grown-zero-breeze-belong.xyz^$popup
 ||grtyj.com^$popup
+||grygrothapi.pro^$popup
 ||gsniper2.com^$popup
 ||h3lw971ym6.com^$popup
 ||h8vzwpv.com^$popup
@@ -51047,7 +51050,7 @@ menstennisforums.com#@#.top_ads
 ! 
 /^https?:\/\/.*.(club|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|biz|re|me|casa|top|space|network|live|work|systems|me|ml|world|life)\/.*/$third-party,domain=9xupload.xyz|bdupload.asia|desiupload.co|flashx.tv|powvideo.net|powvldeo.me|videobin.co
 ! 
-/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$third-party,domain=9xmovies.app|9xupload.xyz|cloudvideo.tv|dood.watch|mixdrop.co|mixdrop.to|mystream.to|ovagames.com|playtube.ws|strtape.cloud|supervideo.tv|uproxy.to|upstream.to|vidlox.me|vivo.sx|voe.sx|vupload.com|wowlive.info
+/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$third-party,domain=9xmovies.app|9xupload.xyz|cloudvideo.tv|dood.watch|mixdrop.co|mixdrop.sx|mixdrop.to|mystream.to|ovagames.com|playtube.ws|strtape.cloud|supervideo.tv|uproxy.to|upstream.to|vidlox.me|vivo.sx|voe.sx|vupload.com|wowlive.info
 ! 
 ! Buff sites
 /^https?:\/\/[a-z0-9]{4,}\.(dotabuff|trackdota|speedrun|overbuff|dotabuff)\.com\/[a-z0-9]{1,6}.*/$script,~third-party,xmlhttprequest
