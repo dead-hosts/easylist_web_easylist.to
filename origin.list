@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104280137
+! Version: 202104280309
 ! Title: EasyList
-! Last modified: 28 Apr 2021 01:37 UTC
+! Last modified: 28 Apr 2021 03:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51091,6 +51091,7 @@ menstennisforums.com#@#.top_ads
 ! prebid specific
 ||bustle.com^*/prebid-
 ||dw.com/js/advertisement/
+||jwplatform.com/libraries/tdeymorh.js
 ||wsj.net/pb/pb.js
 ! In-page video advertising.
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
@@ -53879,6 +53880,7 @@ alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.co
 bizarrepedia.com##.spsnrd
 kissanimefree.tv##.spu-bg
 motorauthority.com##.sq-block
+reneweconomy.com.au##.sq_get_quotes
 ftvlive.com##.sqs-block-image-link
 nutritioninsight.com##.squarblk
 autoaction.com.au##.square
