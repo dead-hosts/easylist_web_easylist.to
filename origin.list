@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202104301123
+! Version: 202104301156
 ! Title: EasyList
-! Last modified: 30 Apr 2021 11:23 UTC
+! Last modified: 30 Apr 2021 11:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6423,7 +6423,7 @@
 /scrollAd-
 /scrollads/*
 /scrpads.
-/sd_ads_
+/sd_ads_$domain=~rakuten.co.jp
 /search-ads?
 /search.php?uid=*.*&src=
 /search/ad/*
@@ -29834,6 +29834,7 @@ _popunder+$popup
 ##.vjs-ad-iframe
 ##.vjs-ad-overlay
 ##.vjs-ima3-ad-container
+##.vjs-overlay.size-300x250
 ##.vl-ad-item
 ##.vlog-ad
 ##.vmp-ad
@@ -53146,6 +53147,7 @@ digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 yts.mx##.durs-bordered
 nomadlist.com##.dynamic-fill
+presskitaquat.com##.e3lan-top
 nytimes.com##.e12j3pa50
 arabtimesonline.com,chtupdate.net##.e3lan
 tiresandparts.net##.e3lanat-layout-rotator
@@ -53736,6 +53738,7 @@ independent.co.uk##.sc-pscky.kBPJSk.sc-qQYBZ
 independent.co.uk##.sc-qZtCU.wIkUb.sc-qQYBZ
 newindianexpress.com##.scc
 readmng.com##.scroll_target_top
+st.chatango.com##.sdlg-main-cbdr-cpbg
 semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
 wbur.org##.section--breakout
@@ -54288,6 +54291,8 @@ elitepvpers.com##img[width="968"]
 dailyuploads.net##input[value^="Download From Server"]
 broadbandforum.co##ins[data-ad-client]
 adblock-tester.com##object[width="240"]
+opensubtitles.org##p[style="font-size:130%; font-weight:bold; margin-top:3px; text-decoration: underline;"], p[style="font-size:130%; font-weight:bold; margin-top:3px; text-decoration: underline;"] + div[style="text-align: left"]
+monova.org##script + [class] > [class]:first-child
 nsfwyoutube.com##pp
 racingtv.com##ruk-video-promotion
 bbc.com##section[data-e2e="advertisement"]
