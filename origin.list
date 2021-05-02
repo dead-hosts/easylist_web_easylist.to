@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105020431
+! Version: 202105020458
 ! Title: EasyList
-! Last modified: 02 May 2021 04:31 UTC
+! Last modified: 02 May 2021 04:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53763,7 +53763,6 @@ independent.co.uk##.sc-pscky.kBPJSk.sc-qQYBZ
 independent.co.uk##.sc-qZtCU.wIkUb.sc-qQYBZ
 newindianexpress.com##.scc
 readmng.com##.scroll_target_top
-st.chatango.com##.sdlg-main-cbdr-cpbg
 semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
 wbur.org##.section--breakout
@@ -54054,6 +54053,7 @@ uploader.link##[class^="ads"]
 swarajyamag.com##[class^="banner-ad-"]
 coinmarketcap.com##[class^="sponsoredMark_"]
 torlock.com##[class^="wrn"]
+washingtonpost.com##[data-sc-c="adslot"]
 gadgetsnow.com##[data-type="mtf"]
 naturalnews.com##[href*="/WBA-"]
 naturalnewsblogs.com##[href*="/WBA/"]
