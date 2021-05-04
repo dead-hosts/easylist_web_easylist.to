@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105041241
+! Version: 202105041653
 ! Title: EasyList
-! Last modified: 04 May 2021 12:41 UTC
+! Last modified: 04 May 2021 16:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -109,6 +109,7 @@
 -ad-313x232.
 -ad-336x280-
 -ad-340x400-
+-Ad-360.
 -ad-360x600.
 -ad-360x72.
 -ad-400.
@@ -7092,6 +7093,7 @@
 /viewbannerad.
 /viewer/rad?
 /viewid=*/site=*/size=
+/views-native-ads.
 /views/ads/*
 /vifGoogleAd.
 /virtuagirl.
@@ -10144,6 +10146,7 @@ _popunder+$popup
 ###ad-manager
 ###ad-manager-ad-bottom-0
 ###ad-manager-ad-top-0
+###ad-masthead
 ###ad-medium
 ###ad-medium-lower
 ###ad-medium-rectangle
@@ -54139,6 +54142,7 @@ games.dailymail.co.uk##div[class^="HomeCategory__adWrapper_"]
 qwant.com##div[class^="HomeFlag-module__CommercialFlagContainer"]
 games.dailymail.co.uk##div[class^="HomeTemplate__afterCategoryAd_"]
 versus.com##div[class^="LegendSingle__show"]
+qwant.com##div[class^="ProductAdsMicrosoft-"]
 games.dailymail.co.uk##div[class^="RightRail__displayAdRight_"]
 barandbench.com##div[class^="ad-service-"]
 barandbench.com##div[class^="ad-slot"]
@@ -54509,6 +54513,7 @@ windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"
 windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
 ! msn.com
+msn.com###native_ad_nativead-1
 msn.com###promotedlinksplaceholder
 msn.com##.ad-content
 msn.com##.adsContent-DS-EntryPoint1-1
@@ -54518,7 +54523,9 @@ msn.com##.dynamicRRWrapper
 msn.com##.extnativead
 msn.com##.extnativeaditem
 msn.com##.medianetintraarticlenativead
+msn.com##.modernRightRail_topAd_container-DS-EntryPoint1-1
 msn.com##.nativeAd-DS-card1-1
+msn.com##.nativeAdsCard_fluentCard-DS-EntryPoint1-1
 msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
 msn.com##.replacead23
@@ -54529,6 +54536,7 @@ msn.com##a.nativead[target="_blank"]
 msn.com##a[href*=".booking.com/"]
 msn.com##a[href*="clk.tradedoubler.com/click?"]
 msn.com##a[href^="https://rover.ebay.com/"]
+msn.com##display-ads
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 ! Bing
 bing.com###mm_pla
