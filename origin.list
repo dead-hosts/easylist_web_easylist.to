@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105040054
+! Version: 202105040117
 ! Title: EasyList
-! Last modified: 04 May 2021 00:54 UTC
+! Last modified: 04 May 2021 01:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9772,6 +9772,7 @@ _popunder+$popup
 ###above-comments-ad
 ###above-fold-ad
 ###above-footer-ads
+###above-the-fold-ad
 ###aboveAd
 ###aboveGbAd
 ###aboveNodeAds
@@ -12389,6 +12390,7 @@ _popunder+$popup
 ###adsquare2
 ###adsright
 ###adss
+###adsside
 ###adssidebar2
 ###adssidebar3
 ###adsspace
@@ -13636,6 +13638,7 @@ _popunder+$popup
 ###btnAdDP
 ###btnAds
 ###btnads
+###btopads
 ###btr_horiz_ad
 ###budget_adDiv
 ###burn_header_ad
@@ -21928,6 +21931,7 @@ _popunder+$popup
 ##.adserverad
 ##.adserving
 ##.adset
+##.adsfloat
 ##.adsforums
 ##.adsghori
 ##.adsgrd
@@ -22112,6 +22116,7 @@ _popunder+$popup
 ##.adtextleft
 ##.adtextright
 ##.adtexts
+##.adthrive
 ##.adthrive-ad
 ##.adthrive-header
 ##.adthx
@@ -22861,9 +22866,11 @@ _popunder+$popup
 ##.advertising_hibu_lef
 ##.advertising_hibu_mid
 ##.advertising_hibu_rig
+##.advertising_horizontal_title
 ##.advertising_images
 ##.advertising_square
 ##.advertising_top
+##.advertising_vertical_title
 ##.advertising_widget
 ##.advertisingarea
 ##.advertisingarea-homepage
@@ -37276,6 +37283,7 @@ menstennisforums.com#@#.top_ads
 ||ioiylgyf.com^
 ||iomppdwwmbvq.com^
 ||ionaloutlerscrisi.fun^
+||iople.com^
 ||iouuorpkc.com^
 ||ipfmbexfdzb.com^
 ||ipiech.com^
@@ -50715,6 +50723,7 @@ menstennisforums.com#@#.top_ads
 ||allclassical.org/wp-content/banners/
 ||amazon.com/aan/$subdocument
 ||aolcdn.com/ads/$script
+||api.qwant.com/*/ia/shopping?
 ||armyrecognition.com^*/customer/
 ||as.inbox.com^
 ||ascii-art-generator.org/cnc/$xmlhttprequest
@@ -52045,6 +52054,7 @@ comicbookrealm.com###brad
 w3newspapers.com###btmadd
 music-news.com###buy-tickets
 channel4.com###c4ad-Top
+faucethilo.xyz###captcha-adspace
 csdb.dk###casdivhor
 csdb.dk###casdivver
 autocarindia.com###castrol-ad-sec
@@ -53402,6 +53412,7 @@ thelakewoodscoop.com##.headerPromo
 bostonglobe.com##.height_600--tablet
 thenewslens.com##.help-tnl-container-300_250
 thenewslens.com##.help-tnl-container-970_250
+igorslab.de##.herald-sidebar
 provideocoalition.com##.hero-promotions
 daijiworld.com##.hidden-xs > [href]
 moneycontrol.com##.hide-mobile
@@ -53944,6 +53955,7 @@ golfmagic.com##.sticky-container
 babylonbee.com##.sticky-footer-image
 theportugalnews.com##.sticky-pub
 oilcity.news##.sticky-sponsors-large
+faucethilo.xyz##.sticky-top
 thesimsresource.com##.sticky_bottom
 theloadout.com##.sticky_rail600
 politico.com##.story-continued
@@ -54235,6 +54247,7 @@ python-graph-gallery.com##div > [href^="https://www.datacamp.com"]
 python-graph-gallery.com##div > [href^="https://www.dataquest.io/course/"]
 healthline.com##div.css-0 > div[class]:not([id])
 guru99.com##div.custom > .hidden-phone
+website.informer.com##div[align="center"]
 nexusradio.com##div[align=center]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_widget_id*="_SponsoredProducts"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_widget_id*="_ad-placements-"]
@@ -54274,6 +54287,7 @@ reddit.com##div[data-before-content="advertisement"]
 pushsquare.com##div[data-dfp-id]
 livejournal.com##div[data-google-query-id]
 windowsreport.com##div[data-insertion]
+qwant.com##div[data-testid^="snippet"]
 techspot.com##div[data-type="zadbl_downloads_single"]
 quora.com##div[id$="content_box"]
 buzzfeednews.com##div[id^="BF_ADX_"]
