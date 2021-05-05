@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105051346
+! Version: 202105051401
 ! Title: EasyList
-! Last modified: 05 May 2021 13:46 UTC
+! Last modified: 05 May 2021 14:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38188,7 +38188,6 @@ menstennisforums.com#@#.top_ads
 ||mega-fla.com^
 ||megaad.nz^
 ||megapopads.com^
-||megastats.net^
 ||megaudent.xyz^
 ||megmeallab.com^
 ||megmobpoi.club^
@@ -55632,6 +55631,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
 @@||anandabazar.com/js/anandabazar-bootstrap/$script
 @@||api.friends.ponta.jp/api/$~third-party
+@@||asahi.com/ads/$image,~third-party
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
 @@||ascii.jp/img/ad/yayoi/rank_$image,~third-party
