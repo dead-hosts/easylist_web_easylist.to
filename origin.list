@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105130419
+! Version: 202105130434
 ! Title: EasyList
-! Last modified: 13 May 2021 04:19 UTC
+! Last modified: 13 May 2021 04:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16341,6 +16341,7 @@ _popunder+$popup
 ###right-content-ad
 ###right-featured-ad
 ###right-mpu-1-ad-container
+###right-rail-ad-slot-content-top
 ###right-uppder-adverts
 ###right-uppder-adverts-container
 ###right1-ad
@@ -38831,6 +38832,7 @@ menstennisforums.com#@#.top_ads
 ||notablemomentcohabit.com^
 ||notchchatterboxdoor.com^
 ||notchcollectormuffin.com^
+||notesbook.in^
 ||notestscredi.club^
 ||notheredef.fun^
 ||nothickner.club^
@@ -45499,6 +45501,7 @@ menstennisforums.com#@#.top_ads
 ||scootloor.com^$third-party
 ||scrap.me^$third-party
 ||scurewall.co^$third-party
+||sda.seesaa.jp^$third-party
 ||sdasasyydd.com^$third-party
 ||sdfsdvc.com^$third-party
 ||seaofads.com^$third-party
@@ -48320,6 +48323,7 @@ menstennisforums.com#@#.top_ads
 ||alpsat.com/banner/
 ||altushost.com/docs/$third-party
 ||alysson.de^$domain=radio.at|radio.de|radio.dk|radio.es|radio.fr|radio.it|radio.net|radio.pl|radio.pt|radio.se|radiome.at|radiome.de|radiome.fr
+||amazonaws.com/mailcache.appinthestore.com/
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=ndtv.com|streamplay.to|usersfiles.com|vshare.eu|yify-movies.net
 ||amazonaws.com^$third-party,xmlhttprequest,domain=downloadpirate.com|vshare.eu
 ||an.yandex.ru^$domain=~e.mail.ru
@@ -50942,6 +50946,7 @@ menstennisforums.com#@#.top_ads
 ||youtube.com/get_video_info?*adunit$~third-party
 ! CPU abuse
 ! https://publicwww.com/websites/%22cloudfront.net%2Fscript.js%22/
+||cloudfront.net./script.js$script,third-party
 ||cloudfront.net/script.js$script,third-party
 ! bit.ly
 /^https?:\/\/.*bit(ly)?\.(com|ly)\//$domain=1337x.to|eztv.io|eztv.tf|eztv.yt|fmovies.taxi|fmovies.world|fullmatchesandshows.com|limetorrents.info|megaup.net|mrunlock.kim|newser.com|sendit.cloud|torlock.com|uiz.io|userscloud.com|vev.red|vidbull.tv|vidop.icu|vidup.io|yourbittorrent2.com
@@ -51354,6 +51359,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||8boobs.com/images/8boobs.com/banners/
 ||8boobs.com/images/8boobs.com/istripper/
 ||absoluporn.com/code/script/
+||adrotic.girlonthenet.com^
 ||adult-sex-games.com/images/promo/
 ||adultasianporn.com/puty3s/
 ||adultdeepfakes.com/banners?
@@ -55075,6 +55081,7 @@ barelist.com##a[onclick="CallServer('ad', '')"]
 pornhub.com,pornhubthbh7ap3u.onion##ads
 pornhub.com,pornhubthbh7ap3u.onion##aside > [style="display: block;"] > table
 pornhub.com,pornhubthbh7ap3u.onion##aside > span:first-child
+girlonthenet.com##aside[data-adrotic]
 mysexgames.com##body > div[style*="z-index:"]
 8boobs.com,alrincon.com,boobieblog.com,porngames.club,thenipslip.com,wetpussygames.com##canvas
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
@@ -55260,7 +55267,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||fbcdn.net/rsrc.php/*.css$stylesheet,~third-party
 @@||fdyn.pubwise.io^$script,domain=urbanglasgow.co.uk
 @@||flying-lines.com/banners/$image,~third-party
-@@||forum.miuiturkiye.net/konu/reklam.$xmlhttprequest,~third-party
+@@||forum.miuiturkiye.net/konu/reklam.$~third-party,xmlhttprequest
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
 @@||freelitecoin.vip/assets/img/ad_$~third-party
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
