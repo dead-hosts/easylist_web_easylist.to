@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105150427
+! Version: 202105151158
 ! Title: EasyList
-! Last modified: 15 May 2021 04:27 UTC
+! Last modified: 15 May 2021 11:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15230,6 +15230,7 @@ _popunder+$popup
 ###imgad1
 ###imu_ad_module
 ###in-article-ad
+###in-article-mpu
 ###in-content-ad
 ###in-story-ad-wrapper
 ###in-video-ad-center-main
@@ -45106,6 +45107,7 @@ menstennisforums.com#@#.top_ads
 ||partypartners.com^$third-party
 ||partypoker.com^$third-party
 ||pas-rahav.com^$third-party
+||paslsa.com^$third-party
 ||passionfruitads.com^$third-party
 ||passive-earner.com^$third-party
 ||patiskcontentdelivery.info^$third-party
@@ -52120,6 +52122,7 @@ active.com###med_rec_bottom
 active.com###med_rec_top
 gismeteo.com###media-right
 kavogaming.com###media_image-3
+palestinechronicle.com###media_image-4
 mostlyblogging.com###media_image-5
 ostatic.com###media_partner_gallery
 cgchannel.com###mediumRectangle
@@ -53416,6 +53419,7 @@ allnurses.com##.medrec
 techrepublic.com##.medusa_right-rail
 2ip.me##.menu_banner
 eawaz.com##.metaslider
+palestinechronicle.com##.mh-header-widget-2
 investing.com##.midHeader
 newsday.com##.midPg
 edutourism.in##.middMain
