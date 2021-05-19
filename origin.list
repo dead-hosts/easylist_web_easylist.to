@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105192127
+! Version: 202105192206
 ! Title: EasyList
-! Last modified: 19 May 2021 21:27 UTC
+! Last modified: 19 May 2021 22:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34837,6 +34837,7 @@ menstennisforums.com#@#.top_ads
 ||cultwithough.info^
 ||cumgfzvm.com^
 ||cupidonmedia.com^
+||cupidrecession.com^
 ||cupmidnithe.com^
 ||curedonswab.com^
 ||curlsrare.com^
@@ -37304,6 +37305,7 @@ menstennisforums.com#@#.top_ads
 ||intermediaryinvoluntaryflippant.com^
 ||internewsweb.com^
 ||interst12.com^
+||intervalssuggested.com^
 ||intimidatewearisomespecialist.com^
 ||intimidatingclinchwily.com^
 ||intimidatinggodlessketchup.com^
@@ -39588,6 +39590,7 @@ menstennisforums.com#@#.top_ads
 ||plashcashierbleach.com^
 ||plasminori.club^
 ||platinumarrangements.com^
+||platitudefivesnack.com^
 ||platitudewildest.com^
 ||plausiblebyeshear.com^
 ||playerseo.club^
@@ -43629,7 +43632,6 @@ menstennisforums.com#@#.top_ads
 ||affiliatemembership.com^$third-party
 ||affiliatenetwork.co.za^$third-party
 ||affiliatesensor.com^$third-party
-||affiliatesrebels.com^$third-party
 ||affiliation-france.com^$third-party
 ||affiliationcash.com^$third-party
 ||affiliationworld.com^$third-party
@@ -50847,6 +50849,7 @@ menstennisforums.com#@#.top_ads
 ||marineterms.com/images/banners/
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masternodes.online/baseimages/
+||mavplay.xyz/asset/bann.js
 ||maxgames.com/img/sponsor_
 ||mbauniverse.com/sites/default/files/shree.png
 ||mbl.is/augl/
@@ -50953,6 +50956,7 @@ menstennisforums.com#@#.top_ads
 ||streams.tv/js/slidingbanner.js
 ||streamtape.com/adult
 ||streamtape.site/adult
+||strcloud.club/mainstream
 ||sundayworld.co.za^*/home-page-take-over-
 ||surfmusic.de/anz
 ||survivalblog.com/marketplace/
@@ -54610,6 +54614,7 @@ porn18sex.com###invideo
 postyourpuss.com###leaderboard
 dachix.com###link-buttons
 bootyoftheday.co###lj
+4tube.com###main-jessy-grid
 peekvids.com###mediaPlayerBanner
 cockcheese.com,gfssex.com###mediaspace
 hotmovs.com###mjs-undervideo
@@ -55708,6 +55713,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||gamestar.de/gs_cb/assets/core/js/libs/dfp/prebid.$script,domain=gamestar.de
+@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$xmlhttprequest,~third-party
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||gunosy.co.jp/img/ad/$image,~third-party
@@ -55959,6 +55965,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ragnsells.se/globalassets/sverige/inspireras/*1160x600.$domain=ragnsells.se
 @@||reastatic.net/150x200-$domain=realestate.com.au
 @@||rehabs.com^*/xicons_social_sprite_400x60.png
+@@||resize.blogsys.jp^*/300x250/$image
 @@||roofandfloor.com/listing_$image,~third-party
 @@||russia-direct.org/custom_ajax/widget?*=300x250&$script
 @@||site-*.mozfiles.com/files/*/banners/$image
