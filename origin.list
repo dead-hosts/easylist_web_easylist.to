@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105210112
+! Version: 202105210147
 ! Title: EasyList
-! Last modified: 21 May 2021 01:12 UTC
+! Last modified: 21 May 2021 01:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8507,6 +8507,7 @@ _atblockdetector/
 /300x250/*$~media
 /300x250_
 /300x250b.
+/300x250bw.
 /300x250px-
 /300x250px_
 /300x350.
@@ -29679,6 +29680,7 @@ _popunder+$popup
 ##.towerAdLeft
 ##.towerAds
 ##.tower_ad
+##.tower_ad_desktop
 ##.tower_ad_disclaimer
 ##.towerad
 ##.tp-ad-label
@@ -50630,6 +50632,7 @@ menstennisforums.com#@#.top_ads
 ||click.livedoor.com^
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
 ||cnn.com/ad/
+||codelist.cc/bluehostbanner.jpg
 ||coincheck.com/images/affiliates/
 ||coincodex.com^$subdocument,~third-party
 ||coingolive.com/assets/img/partners/
@@ -50814,6 +50817,7 @@ menstennisforums.com#@#.top_ads
 ||norwaypost.no/images/banners/
 ||notdoppler.com^*-promo-
 ||nu2.nu/gfx/sponsor/
+||nulled-scripts.cc/wp-content/uploads/2019/09/bluehost.jpg
 ||ohmygore.com/ef_pub
 ||oncyprus.com/media/ems/banners/
 ||onlineshopping.co.za/expop/
@@ -53928,6 +53932,7 @@ swarajyamag.com##[class*="page-top-adv-wrapper"]
 zerohedge.com##[class^="Advert_"]
 uploader.link##[class^="ads"]
 swarajyamag.com##[class^="banner-ad-"]
+romhustler.org##[class^="leaderboard_ad"]
 coinmarketcap.com##[class^="sponsoredMark_"]
 torlock.com##[class^="wrn"]
 washingtonpost.com##[data-sc-c="adslot"]
