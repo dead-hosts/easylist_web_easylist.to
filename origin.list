@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105252142
+! Version: 202105260227
 ! Title: EasyList
-! Last modified: 25 May 2021 21:42 UTC
+! Last modified: 26 May 2021 02:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32869,6 +32869,7 @@ menstennisforums.com#@#.top_ads
 ||a258c3523a5c4a47bda.com^
 ||a26d31d5d6986cbe.com^
 ||a2c653c4d145fa5f96a.com^
+||a31daecf420.com^
 ||a337b163a0bc.com^
 ||a353364ec1bd19a.com^
 ||a35c92d96766745.com^
@@ -38571,6 +38572,7 @@ menstennisforums.com#@#.top_ads
 ||monotonoussurveytoxic.com^
 ||montafp.top^
 ||montkpl.top^
+||montpdp.top^
 ||montwam.top^
 ||monxserver.com^
 ||mooaleoat.com^
@@ -40994,6 +40996,7 @@ menstennisforums.com#@#.top_ads
 ||snifferent.club^
 ||snitswaspshaft.com^
 ||snormida.top^
+||snortedbingo.com^
 ||snortedconsciencethaw.com^
 ||snowdayonline.xyz^
 ||sntjim.com^
@@ -41493,6 +41496,7 @@ menstennisforums.com#@#.top_ads
 ||thigeeph.com^
 ||thighiny.com^
 ||thimoaph.net^
+||thinazuthy.pro^
 ||thingrealtape.com^
 ||thinnerlessenfounded.com^
 ||third-tracking.com^
@@ -42079,7 +42083,9 @@ menstennisforums.com#@#.top_ads
 ||verblife-5.co^
 ||vercraneans.club^
 ||veremund-hon.com^
+||verotezzz.com^
 ||versusberryoutdoor.com^
+||verymerybery.com^
 ||veryoneresp.club^
 ||vessoupy.com^
 ||vetodelaycourageous.com^
@@ -42148,6 +42154,7 @@ menstennisforums.com#@#.top_ads
 ||visiblemeasures.com^
 ||visitimportantly.com^
 ||visitsfunk.com^
+||visitstats.com^
 ||visitstrack.com^
 ||visitweb.com^
 ||vistoolr.net^
@@ -42580,6 +42587,7 @@ menstennisforums.com#@#.top_ads
 ||wybutary.xyz^
 ||wynather.com^
 ||wynzuadujkd.com^
+||wypovuwu.pro^
 ||wysoloneau.com^
 ||wysyshypti.pro^
 ||wz5y80ab60p5.com^
@@ -46765,6 +46773,7 @@ menstennisforums.com#@#.top_ads
 ||com-878979.info^$popup
 ||com-online.website^$popup
 ||com-wkejf32ljd23409system.net^$popup
+||combatmootcrucial.com^$popup
 ||comfortlessweave.com^$popup
 ||cominghamer.info^$popup
 ||comm-news.com^$popup
@@ -46990,6 +46999,7 @@ menstennisforums.com#@#.top_ads
 ||ijjiii.is^$popup
 ||il05pzhujicf.com^$popup
 ||imbetan.info^$popup
+||impactserving.com^$popup
 ||imsnp.com^$popup
 ||inabsolor.com^$popup
 ||inclk.com^$popup
@@ -51728,6 +51738,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||plx.porndig.com^
 ||porn-star.com/buttons/
 ||pornbay.re/k2sbanner
+||porndoo.com/pup/
 ||pornicom.com/nb/
 ||pornj.com/gabril/
 ||pornjam.com/assets/js/renderer.
@@ -51819,44 +51830,18 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 ||3movs.com/sd3/
 ! *** easylist:easylist_adult/adult_specific_block_popup.txt ***
 .com./$popup,domain=pornhub.com|pornhubthbh7ap3u.onion
-^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
 |http*://*?$popup,third-party,domain=pornhub.com|pornhubthbh7ap3u.onion|pornsocket.com|redtube.com|tube8.com|vidz78.com|xxxkingtube.com|youporn.com|youporngay.com
-||adultvideoz.net/lovex/$popup
-||bitchcrawler.com/?$popup
-||delivery.porn.com^$popup
-||downloadableporn.org/xxx/$popup
-||eporner.com/pop.php$popup
-||fantasti.cc^*?ad=$popup
 ||fantastube.com/track.php$popup
-||fc2.com^$popup,domain=xvideos.com
-||fileparadox.in/free$popup,domain=tdarkangel.com
-||goo.gl^$popup,domain=thisav.com
-||h2porn.com/pu.php$popup
-||hegansex.com/exo.php$popup
-||heganteens.com/exo.php$popup
+||hegansex.com^$popup
 ||hilostripper.com/live/$popup
 ||hotscopes.net/hotgo.php$popup
+||hotscopes.to/goway.php?$popup
 ||icebns.com/redirect/$popup,domain=iceporn.com
-||imagebam.com/redirect_awe.php$popup
-||imgadult.com/url.php$popup
+||imgadult.com/url2.php$popup
 ||imgtaxi.com/url.php?$popup
 ||livejasmin.com/pu/$popup
-||movies.askjolene.com/c64?clickid=$popup
-||namethatporn.com/ntpoo$popup
-||nuvidp.com^$popup
-||pop.fapxl.com^$popup
-||porn101.com^$popup,domain=lexsteele.com
-||porndoo.com/pup/
-||pornflip.com/away/pop?$popup
-||publicagent.com/bigzpup.php$popup
-||r18.com/*utm_source$popup
-||rackcdn.com^$popup,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|tube8.com|youporn.com|youporngay.com
-||site-rips.org^$popup,domain=backupload.net
-||xvideos-free.com/d/$popup
 ! about:blank popups
 /about:blank.*/$popup,domain=bitporno.com|katestube.com
-! third-party popups
-/^https?:\/\/.*\.(club|news|guru|live|online|store|tech|cloud|bid|xyz|site|pro|info|online|icu|monster|buzz|fun|website|re|casa|top|today|space|network|live|work|systems|ml|world|life)\/.*/$popup,domain=1vag.com|4tube.com|asianpornmovies.com|getsex.xxx|hclips.com|hdzog.com|homemadevids.org|hotmovs.com|milfzr.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|puporn.com|see.xxx|shemalez.com|sss.xxx|thegay.com|thegay.porn|tits-guru.com|tubepornclassic.com|tuberel.com|txxx.com|txxx.tube|upornia.com|vjav.com|voyeurhit.com|xozilla.com
 ! generic popup block
 /^http*.:\/\/.*[?=&%#+].*/$popup,domain=femefun.com
 ! ipaddresses
