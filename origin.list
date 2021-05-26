@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105260415
+! Version: 202105260625
 ! Title: EasyList
-! Last modified: 26 May 2021 04:15 UTC
+! Last modified: 26 May 2021 06:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48434,6 +48434,7 @@ menstennisforums.com#@#.top_ads
 ||go-route.com^$popup
 ||grtyv.com^$popup
 ||hizlireklam.com^$popup
+||hookhub.webcam^$popup
 ||hornymatches.com^$popup,third-party
 ||hpyrdr.com^$popup
 ||hrtya.com^$popup
@@ -55109,10 +55110,9 @@ pornhub.com,pornhubthbh7ap3u.onion##aside > [style="display: block;"] > table
 pornhub.com,pornhubthbh7ap3u.onion##aside > span:first-child
 girlonthenet.com##aside[data-adrotic]
 mysexgames.com##body > div[style*="z-index:"]
-8boobs.com,alrincon.com,boobieblog.com,porngames.club,thenipslip.com,wetpussygames.com##canvas
+imgadult.com,porngames.club,porngames.com,thenipslip.com,wetpussygames.com##canvas
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
 pornhub.com,pornhubthbh7ap3u.onion##div > aside > aside
-porngames.com##div > canvas
 redtube.com##div > iframe
 motherless.com##div > table[style][border]
 publicflashing.me##div.hentry
