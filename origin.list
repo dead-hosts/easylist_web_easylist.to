@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105290716
+! Version: 202105291054
 ! Title: EasyList
-! Last modified: 29 May 2021 07:16 UTC
+! Last modified: 29 May 2021 10:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3509,7 +3509,7 @@
 /advertisement.$~script
 /advertisement/*
 /advertisement160.
-/advertisement_
+/advertisement_$~script
 /advertisementAPI/*
 /advertisementheader.
 /advertisementmapping.
@@ -6066,7 +6066,6 @@
 /pop_under.
 /pop_under/*
 /popad-
-/popad.$domain=~popad.co
 /popads/*
 /popads_
 /popadscpm.
@@ -8247,9 +8246,6 @@ _prebid_
 ! /g00 adware insertion
 ! https://github.com/uBlockOrigin/uAssets/issues/227
 /g00/*/clientprofiler/adb
-! Doubleclick
-/jquery.dfp.js$script
-/jquery.dfp.min.js$script
 ! linkbucks.com script
 /webservices/jsparselinks.aspx?$script
 ! CDN-based filters
@@ -35234,6 +35230,7 @@ menstennisforums.com#@#.top_ads
 ||doomail.org^
 ||doomna.com^
 ||dooptoug.net^
+||doormanb.com^
 ||dopor.info^
 ||dorbanise.pw^
 ||dorimnews.com^
@@ -38392,6 +38389,7 @@ menstennisforums.com#@#.top_ads
 ||mixpo.com^
 ||mixturehopeful.com^
 ||mjbuuxt7l18r.com^
+||mjiszovwqwn.com^
 ||mjlpqbklxgt.com^
 ||mjlsiopjesbn.com^
 ||mk1lyl406xmp.com^
@@ -39483,6 +39481,7 @@ menstennisforums.com#@#.top_ads
 ||pettybureaushady.com^
 ||peuzubuqo.com^
 ||pf34zdjoeycr.com^
+||pfcdnc.com^
 ||pfdgbyoj.com^
 ||pffw8mgd.com^
 ||pgebqmezguxz.com^
@@ -39981,6 +39980,7 @@ menstennisforums.com#@#.top_ads
 ||qfcrjdrp.com^
 ||qfigzwpgzzkf.com^
 ||qfjherc.com^
+||qfolkbbij.com^
 ||qfszmlxypcqqyb.com^
 ||qfwjclpckrdehi.com^
 ||qgevavwyafjf.com^
@@ -41146,6 +41146,7 @@ menstennisforums.com#@#.top_ads
 ||strangersincentive.com^
 ||stratingtrea.club^
 ||strawdense.com^
+||strawldeli.biz^
 ||strayhepatitisbruise.com^
 ||stream-all.com^
 ||streamsearchclub.com^
@@ -42057,6 +42058,7 @@ menstennisforums.com#@#.top_ads
 ||videoaccess.xyz^
 ||videoonecom.com^
 ||videosflop.com^
+||videosfromla.com^
 ||videosubsi.fun^
 ||videosvstincredible.com^
 ||videotapespecialize.com^
@@ -42610,6 +42612,7 @@ menstennisforums.com#@#.top_ads
 ||xnkmmbfpyokevaxsjtky.com^
 ||xoalt.com^
 ||xoassxowovsrk.com^
+||xoflgafl.com^
 ||xogvagdtgehxm.com^
 ||xokikdassjjhrn.com^
 ||xorcibleboth.club^
