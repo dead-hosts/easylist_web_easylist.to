@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202105311136
+! Version: 202105311153
 ! Title: EasyList
-! Last modified: 31 May 2021 11:36 UTC
+! Last modified: 31 May 2021 11:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38137,6 +38137,7 @@ menstennisforums.com#@#.top_ads
 ||mancehostic.site^
 ||manconsider.com^
 ||mandearersi.club^
+||mandhes.club^
 ||mandistreet.top^
 ||mangelobsolden.cam^
 ||manholecrate.com^
@@ -40798,6 +40799,7 @@ menstennisforums.com#@#.top_ads
 ||setbackrelishdivine.com^
 ||setemoump.com^
 ||setmeg.com^
+||setoyourad.biz^
 ||setpadchat.com^
 ||setupbarton.com^
 ||sevenedgesteve.com^
@@ -42525,6 +42527,7 @@ menstennisforums.com#@#.top_ads
 ||wlzohrpjbuq.com^
 ||wm-abms.com^
 ||wmniqkqrr.com^
+||wmonthsaft.biz^
 ||wmruzfvtg.com^
 ||wndhsykmbe.com^
 ||wndlkj.com^
@@ -52681,7 +52684,7 @@ swahilihub.com##.ban125x125
 izismile.com##.ban_top
 lexico.com##.banbox
 lexico.com##.banbox-mini
-abplive.com,adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
+abplive.com,adnkronos.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,internetnews.com,irishtimes.com,japantimes.co.jp,jpost.com,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,residentadvisor.net,reversephonesearch.com.au,scientificamerican.com,smartcarfinder.com,speedcafe.com,sportsvibe.co.uk,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thetriangle.org,timeslive.co.za,timesofisrael.com,tmi.me,twirlit.com,universalmusic.com,vice.com,victoriafalls24.com,vloot.io,vnexpress.net,weather.gc.ca,weatheronline.co.uk,webfg.com,wego.com,whatsock.com,worldcrunch.com,worldtimeserver.com,xbiz.com,yabeat.com,ynetnews.com,zbigz.com##.banner
 oilprice.com##.banner--articleSidebar
 dailynewsegypt.com##.banner-250
 usahealthcareguide.com##.banner-300-250
@@ -55349,6 +55352,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||yadayadayada.nl/banner/banner.php$image,domain=murf.nl|workhardclimbharder.nl
 @@||yahoo.com/combo?$stylesheet
+@@||yaytrade.com^*/chunks/pages/advert/$~third-party
 @@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
 @@||yimg.com/ss/rapid-3.53.3.js$domain=aol.com
 @@||yimg.com/ss/rapid3.js$script,domain=aol.com
