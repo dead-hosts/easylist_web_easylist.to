@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106020804
+! Version: 202106021120
 ! Title: EasyList
-! Last modified: 02 Jun 2021 08:04 UTC
+! Last modified: 02 Jun 2021 11:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23003,6 +23003,7 @@ _popunder+$popup
 ##.alt_ad_block
 ##.alternatives_ad
 ##.am-adContainer
+##.am-adslot
 ##.am-articleItem--bodyAds
 ##.am-bazaar-ad
 ##.amAdvert
@@ -50646,13 +50647,11 @@ menstennisforums.com#@#.top_ads
 ||adblock-tester.com/banners/
 ||ads.leovegas.com^
 ||adswikia.com^*banner
-||afedmag.com/uploaded/images/banner-
 ||afloat.ie/images/banners/
 ||afr.com/assets/europa.
 ||allclassical.org/wp-content/banners/
 ||amazon.com/aan/$subdocument
 ||aolcdn.com/ads/$script
-||api.qwant.com/*/ia/shopping?
 ||armyrecognition.com/images/stories/customer/
 ||as.inbox.com^
 ||ascii-art-generator.org/cnc/$xmlhttprequest
@@ -50666,13 +50665,11 @@ menstennisforums.com#@#.top_ads
 ||beap.gemini.yahoo.com^
 ||bernama.com/storage/banner/
 ||bestblackhatforum.com/images/my_compas/
-||bikeforums.net/images/sponsors/
 ||binlist.net/clearhaus-top-banner.png
 ||bioinformatics.org/images/ack_banners/
 ||bit.com.au/scripts/js_$script
 ||blbclassic.org/assets/images/*banners/
 ||borneobulletin.com.bn/wp-content/banners/
-||boxthislap.org/app/uploads/logos/banners_
 ||brisbanetimes.com.au/assets/europa.
 ||brudirect.com/images/banners/
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
@@ -50683,11 +50680,6 @@ menstennisforums.com#@#.top_ads
 ||calguns.net/images/ad
 ||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
 ||carfinderph.com/popup/
-||carmag.co.za/upload/dmx_banners/
-||catholicregister.org/images/banners/
-||cd1025.com/www/assets/a/
-||cdjapan.co.jp/aff/tmpl/big_banner_728x90i.js
-||ceforum.co.uk/images/misc/PartnerLinks
 ||celebjihad.com/celeb-jihad/pu_stc.js
 ||celebstoner.com/assets/components/bdlistings/uploads/
 ||celebstoner.com/assets/images/img/sidebar/$image
@@ -52002,6 +51994,7 @@ transfermarkt.com###home-rectangle-spotlight
 downloadsafer.com###homebannerbottom
 semiconductor-today.com###homeright
 nutritioninsight.com###horizontalblk
+cd1025.com###hp-leader
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
 hltv.org###i3_middle
 unitconversion.org###ileft
@@ -52275,6 +52268,7 @@ abbreviations.com,definitions.net,grammar.com,kamus.net,lyrics.com,rhymes.net,sc
 filedropper.com###sidebar
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
 ftvlive.com###sidebar-one-wrapper
+carmag.co.za###sidebar-primary
 scotsman.com###sidebarMPU1
 scotsman.com###sidebarMPU2
 opendocument.xml.org###sidebarright
@@ -53436,7 +53430,7 @@ comedycentral.com.au##.pane-vimn-coda-gpt-panes
 tpblist.us##.panel-danger
 news18.com##.pani-wid
 panarmenian.net##.panner_2
-myfigurecollection.net,prolificnotion.co.uk##.partner
+cd1025.com,myfigurecollection.net,prolificnotion.co.uk##.partner
 hbr.org##.partner-center
 mail.com##.partner-container
 mavin.io##.partner-content
@@ -53883,7 +53877,7 @@ gamecopyworld.com,gamecopyworld.eu##[href*="@"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,carmag.co.za,cnx-software.com,coingolive.com,digitallydownloaded.net,downturk.net,fresherslive.com,gizmochina.com,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,litecoin-faucet.com,mbauniverse.com,myreadingmanga.info,owaahh.com,parkablogs.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
 whatleaks.com##[href*="doublevpn.com"]
 steroid.com##[href*="https://www.anabolics.com"]
-audiobookbay.ch##[href="/dl-14-days-trial"]
+audiobookbay.nl##[href*="trial"]
 winaero##[href="/fix-windows-issues-performance/"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
