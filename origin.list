@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106020251
+! Version: 202106020325
 ! Title: EasyList
-! Last modified: 02 Jun 2021 02:51 UTC
+! Last modified: 02 Jun 2021 03:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30295,6 +30295,7 @@ _popunder+$popup
 ##[href^="https://go.astutelinks.com/"]
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://mysbitl.com"]
+##[href^="https://r.kraken.com/"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
 ##[href^="https://shiftnetwork.infusionsoft.com/go/"]
@@ -53952,9 +53953,8 @@ noypigeeks.com##[href^="https://nypgks.com/"]
 manganelo.com##[href^="https://oackoubs.com/"]
 analyticsindiamag.com##[href^="https://praxis.ac.in/"]
 analyticsindiamag.com##[href^="https://programs.upgrad.com/"]
-readlightnovel.org##[href^="https://readlightnovelnew.onelink.me/"]
-darknetdaily.com##[href^="https://shop.ledger.com/"]
 cnx-software.com##[href^="https://www.amazon.com/"]
+bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
 complaintsingapore.com##[href^="https://www.bullionstar.com/"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
