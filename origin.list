@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106042227
+! Version: 202106042321
 ! Title: EasyList
-! Last modified: 04 Jun 2021 22:27 UTC
+! Last modified: 04 Jun 2021 23:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18717,6 +18717,7 @@ _popunder+$popup
 ##.ad-element
 ##.ad-embedded
 ##.ad-enabled
+##.ad-endcap-wrapper
 ##.ad-engage
 ##.ad-entity-container
 ##.ad-entry-wrapper
@@ -53566,6 +53567,7 @@ al-monitor.com##.region--header-banner
 eneuro.org,jneurosci.org#@#.region-ad-top
 middleeasteye.net##.region-before-navigation
 futbol24.com##.rek
+keengamer.com##.reserved-970
 3g2upl4pq6kufc4m.onion,duckduckgo.com##.result--ad > .result__body
 qwant.com##.result--ext
 classifiedads.com##.resultmarg
@@ -54054,6 +54056,7 @@ technical.city##div[class^="banner_"]
 keengamer.com##div[class^="gameon-in-"]
 keengamer.com##div[class^="gameon-mpu-"]
 keengamer.com##div[class^="gameon-top-"]
+productreview.com.au##div[class^="leaderboard_"]
 pcgamer.com,techradar.com,tomsguide.com,tomshardware.com##div[class^="slot-"]
 kijiji.ca##div[class^="sponsored-"]
 whatsondisneyplus.com##div[class^="whats-"]
