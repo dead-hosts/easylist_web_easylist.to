@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106052358
+! Version: 202106060034
 ! Title: EasyList
-! Last modified: 05 Jun 2021 23:58 UTC
+! Last modified: 06 Jun 2021 00:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13681,6 +13681,7 @@ _popunder+$popup
 ###componentAdRectangle
 ###componentAdSkyscraper
 ###conduitAdPopupWrapper
+###connatix-moveable
 ###container-ad
 ###container-ad-content-rectangle
 ###container-ad-topright
@@ -26098,6 +26099,8 @@ _popunder+$popup
 ##.inside_ad_box
 ##.insideads
 ##.inslide-ad
+##.instoryAdBlock
+##.instoryAdNoBlock
 ##.instructionAdvHeadline
 ##.insurance-ad
 ##.intad
@@ -27142,6 +27145,7 @@ _popunder+$popup
 ##.new-ads-scroller
 ##.newArv_2nd_adv_blk
 ##.newHeaderAd
+##.newPageAd
 ##.newPex_forumads
 ##.newTopAdContainer
 ##.new_ad1
@@ -51759,6 +51763,7 @@ search.snapdo.com###AfloatingD
 weegy.com###BannerDiv
 talk.collegeconfidential.com###CC_T_D_1
 kijiji.ca###CTMTopSrpBanner
+gayemagazine.com###Containera2sdv > div > div > div[id^="comp-"]
 webmd.com###ContentPane40
 new-kissanime.me###CvBNILUxis
 healthline.com###DMR1__slot
@@ -52660,6 +52665,7 @@ scoop.co.nz##.article-left-box
 nintendolife.com,purexbox.com##.article-recommendations
 people.com##.articleContainer__rail
 audizine.com##.articleIMG
+wallpaper.com##.articleSidebar
 news18.com##.article_mad
 1movies.best##.asdjyA
 cnx-software.com##.asensor-single
@@ -53336,6 +53342,7 @@ jpost.com##.line-left-side-before-and-after-container
 jpost.com##.line-one-row-before-and-after-container
 babynamegenie.com,forless.com,worldtimeserver.com##.links
 gosearchresults.com##.listing-right
+researchgate.net##.lite-page__above
 goodgearguide.com.au,pcworld.co.nz,pcworld.idg.com.au##.lo-toppromos
 1071thepeak.com##.logo-scroll
 siberiantimes.com##.logoBanner
@@ -53373,6 +53380,7 @@ tradetrucks.com.au##.middle-banner-list
 ibtimes.co.uk##.middle-leaderboard
 investopedia.com##.mntl-leaderboard-spacer
 islamicfinder.org##.mobile-cards
+pcmacstore.com##.mobileHide
 thedailybeast.com##.mobiledoc-sizer
 livelaw.in##.modal_wrapper_frame
 webmd.com##.module-f-hs
@@ -53660,6 +53668,7 @@ greatis.com##.sing
 deshdoaba.com##.site-branding
 infosecurity-magazine.com,sassyhongkong.com##.site-leaderboard
 wahcricket.com##.site-mainhead
+wallpaper.com##.site-top
 faithtalk1500.com,kfax.com,wmca.com##.siteWrapLink
 inthesetimes.com##.sites-of-interest
 9gag.tv##.size-728x90
@@ -53735,6 +53744,7 @@ faucethilo.xyz##.sticky-top
 litecoin-faucet.com##.sticky-top1
 thesimsresource.com##.sticky_bottom
 theloadout.com##.sticky_rail600
+dailyherald.com##.stnContainer
 politico.com##.story-continued
 twitter.com##.stream-item-group-start[label="promoted"]
 todayuknews.com##.stream-item-top-wrapper
@@ -53746,7 +53756,7 @@ monocle.com##.super-leaderboard
 cdromance.com##.support-us
 radiotoday.co.uk##.supportHideBack
 fstoppers.com##.supportImg
-moddb.com##.supporter
+indiedb.com,moddb.com##.supporter
 thespinoff.co.nz##.supporters-block
 timesofmalta.com##.sw-Top
 emoneyspace.com##.t_a_c
@@ -54983,6 +54993,7 @@ pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr,xvide
 hentai-top100.com##[href^="http://sexmaxx.com"]
 tophentai.biz##[href^="http://tm-offers.gamingadult.com/"]
 hentai-top100.com##[href^="http://www.grainesdecannabis.fr/"]
+rule34.xxx##[href^="https://kanako.store/products/"]
 masalaseen.net##[href^="https://rajabets.com/"]
 porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 imagevenue.com##[id^="MarketGid"]
