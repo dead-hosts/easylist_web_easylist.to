@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106052152
+! Version: 202106052345
 ! Title: EasyList
-! Last modified: 05 Jun 2021 21:52 UTC
+! Last modified: 05 Jun 2021 23:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30321,6 +30321,7 @@ _popunder+$popup
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://go.astutelinks.com/"]
 ##[href^="https://join3.bannedsextapes.com"]
+##[href^="https://mylead.global/sl/"]
 ##[href^="https://mysbitl.com"]
 ##[href^="https://r.kraken.com/"]
 ##[href^="https://refpahrwzjlv.top/"]
@@ -46592,6 +46593,7 @@ menstennisforums.com#@#.top_ads
 ||adexchangetracker.com^$popup,third-party
 ||adexprtz.com^$popup
 ||adfclick1.com^$popup,third-party
+||adfpoint.com^$popup
 ||adglare.net^$popup
 ||adhealers.com^$popup
 ||adhoc2.net^$popup
@@ -50727,6 +50729,7 @@ menstennisforums.com#@#.top_ads
 ||dj1symwmxvldi.cloudfront.net/r/$image,domain=coderwall.com
 ||dmxleo.dailymotion.com^
 ||dnsleaktest.com/assets/img/cute-box-image.png
+||dogemate.com/banner/
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com^*/banners/
 ||dotaoutpost.com/stable/js/ab/$script,domain=wowhead.com
