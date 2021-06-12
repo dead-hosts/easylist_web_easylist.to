@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106120429
+! Version: 202106120750
 ! Title: EasyList
-! Last modified: 12 Jun 2021 04:29 UTC
+! Last modified: 12 Jun 2021 07:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53557,7 +53557,7 @@ mail.com##.indeed
 brudirect.com##.index-banner
 theinertia.com##.inertia-ad-300x250
 bab.la##.info-panel
-eatthis.com##.inline
+bestlifeonline.com,eatthis.com##.inline
 kijiji.ca##.inline-banner
 pcgamesn.com,theloadout.com##.inlinerail
 nintendolife.com##.insert
@@ -53746,6 +53746,7 @@ forums.somethingawful.com##.oma_pal
 thedigitalfix.com##.ot-widget-banner
 out.com##.ourSponsors
 mma-core.com##.outVidAd
+techadvisor.com##.outer-wrapper
 golfweather.com##.ox300x250
 beermoneyforum.com##.p-body-sidebar
 worldoftanks-wot.com##.p2small
@@ -54146,7 +54147,7 @@ tumblr.com##.vd2CF
 fox10phoenix.com##.vendor-unit
 tetris.com##.verticalAx
 videogameschronicle.com##.vgc-boxout
-eatthis.com##.vi-video-wrapper
+bestlifeonline.com,eatthis.com##.vi-video-wrapper
 vice.com##.vice-ad__container
 yahoo.com##.viewer-sda-container
 variety.com##.vip-banner
@@ -54175,6 +54176,7 @@ miniclip.com##.widget-mpu
 wplift.com##.widget_bsa
 cnx-software.com,techdows.com##.widget_custom_html
 eos.org##.widget_eosadvertisement
+bestlifeonline.com##.widget_gm_karmaadunit_widget
 extremetech.com##.widget_gptwidget
 theiphoneappreview.com##.widget_links
 deshdoaba.com,washingtonmonthly.com##.widget_media_image
@@ -54277,6 +54279,7 @@ upload.ee##[href^="https://www.upload.ee/click.php"]
 searchenginejournal.com##[id^="SEJ_300x250_"]
 geeksforgeeks.org##[id^="bsa-zone"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
+techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
 audioz.download##[src*="/promo/"]
 manganelo.com##[src^="/ads/"]
