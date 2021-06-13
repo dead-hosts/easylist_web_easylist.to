@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106130517
+! Version: 202106131137
 ! Title: EasyList
-! Last modified: 13 Jun 2021 05:17 UTC
+! Last modified: 13 Jun 2021 11:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18299,6 +18299,7 @@ _popunder+$popup
 ##.ad--BANNER
 ##.ad--MAIN
 ##.ad--article-top
+##.ad--articlemodule
 ##.ad--b
 ##.ad--bottom
 ##.ad--bottom-label
@@ -23271,6 +23272,7 @@ _popunder+$popup
 ##.badge-style-type-ad
 ##.bads300
 ##.badxcn
+##.bam-ad-slot
 ##.bam-dcRefreshableAd
 ##.ban-720-container
 ##.ban300side
@@ -27360,6 +27362,7 @@ _popunder+$popup
 ##.outermainadtd1
 ##.outgameadbox
 ##.outside_ad
+##.outsider-ad
 ##.outstream-ad-outer-wrapper
 ##.ovAdLabel
 ##.ovAdPromo
@@ -31789,7 +31792,7 @@ livedoorblogstyle.jp#@#.ad-center
 jobmail.co.za,odysseyware.com#@#.ad-display
 foxnews.com,yahoo.com#@#.ad-enabled
 seattletimes.com#@#.ad-fixed
-mac-torrent-download.net,motortrade.me#@#.ad-header
+arukikata.com,mac-torrent-download.net,motortrade.me#@#.ad-header
 bigfishaudio.com,cnbcafrica.com,dublinairport.com,yahoo.com#@#.ad-holder
 transparencyreport.google.com#@#.ad-icon
 freebitco.in,lastpass.com,recycler.com,usedvictoria.com#@#.ad-img
@@ -55650,6 +55653,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
 @@||anandabazar.com/js/anandabazar-bootstrap/$script
 @@||api.friends.ponta.jp/api/$~third-party
+@@||arukikata.com/images_ad/$image,~third-party
 @@||asahi.com/ads/$image,~third-party
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
