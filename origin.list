@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106201145
+! Version: 202106201158
 ! Title: EasyList
-! Last modified: 20 Jun 2021 11:45 UTC
+! Last modified: 20 Jun 2021 11:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51248,6 +51248,7 @@ menstennisforums.com#@#.top_ads
 ||ragezone.com/wp-content/uploads/2019/02/Widget_HF.png
 ||readlightnovel.org/assets/taoist_images/
 ||receive-sms-online.info/img/banner_
+||republicmonitor.com/images/lundy-placeholder.jpeg
 ||richardroeper.com/assets/banner/
 ||rpgcodex.net^*/gog_button.jpg
 ||s.radioreference.com/sm/$image
@@ -53255,6 +53256,7 @@ marketwatch.com##.container--sponsored
 miniclip.com##.container-300x250
 villagesoup.com##.container-popup
 ina.fr##.container-pubcarre
+thejournal-news.net##.container.lightblue
 jokersupdates.com##.container_contentrightspan
 bbh.cc##.content + .sidebar
 adfoc.us##.content > iframe
@@ -54484,6 +54486,7 @@ google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div
 add0n.com,news18.com##div[style^="min-height:90px"]
 lovehug.net##div[style^="position: fixed; display: flow-root; z-index:"]
 integral-calculator.com,passiveaggressivenotes.com,twcenter.net##div[style^="width: 728px;"]
+thejournal-news.net##div[style^="width:300px; height:250px;"]
 napuzba.com##div[style^="width:336px"]
 jwire.com.au##div[style^="width:468px;"]
 interglot.com,stopmalvertising.com##div[style^="width:728px;"]
