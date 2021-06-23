@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106230039
+! Version: 202106230125
 ! Title: EasyList
-! Last modified: 23 Jun 2021 00:39 UTC
+! Last modified: 23 Jun 2021 01:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23374,6 +23374,7 @@ _popunder+$popup
 ##.banner125x125
 ##.banner160
 ##.banner160x600
+##.banner200x200
 ##.banner250_250
 ##.banner300
 ##.banner300_250
@@ -45043,6 +45044,7 @@ menstennisforums.com#@#.top_ads
 ||imonomy.com^$third-party
 ||imp*.tradedoubler.com^$third-party
 ||impact-ad.jp^$third-party
+||impactify.io^$third-party
 ||impactradius-go.com^$third-party
 ||impactradius.com^$third-party
 ||impactserving.com^$third-party
@@ -49358,6 +49360,7 @@ menstennisforums.com#@#.top_ads
 ||dm0acvguygm9h.cloudfront.net^
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmx.districtm.io^$third-party
+||do69ll745l27z.cloudfront.net^
 ||dojx47ab4dyxi.cloudfront.net^
 ||domain.com.au/widget/$subdocument,third-party
 ||domainapps.com/assets/img/domain-apps.gif$third-party
@@ -50958,6 +50961,7 @@ menstennisforums.com#@#.top_ads
 ||adblock-tester.com/banners/
 ||ads.leovegas.com^
 ||adswikia.com^*banner
+||adultswim.com/ad/
 ||afloat.ie/images/banners/
 ||afr.com/assets/europa.
 ||allclassical.org/wp-content/banners/
@@ -53057,6 +53061,7 @@ propertyfinderph.com##.banners-wrapper
 rt.com##.banners__border
 unixmen.com##.banners_home
 euronews.com##.base-leaderboard
+manatoki95.net##.basic-banner
 teamfortress.tv##.bau
 washingtonpost.com##.bb.b-ns.b-none
 washingtonpost.com##.bb.dn-hp-xs
@@ -53119,6 +53124,7 @@ weather-forecast.com##.bn-placeholder
 bnonews.com##.bnone-widget
 mediamanager.co.za##.bnr
 armenpress.am##.bnrcontainer
+manatoki95.net##.board-tail-banner
 southerntimesafrica.com##.body-header-banner
 btcmanager.com##.boo_3oo_6oo
 cmo.com.au,interiordesign.net##.boombox
@@ -53889,6 +53895,7 @@ nzherald.co.nz##.recommended-articles > .recommended-articles__heading
 forestriverforums.com##.recommended-stories
 dailynews.co.zw,dosgamesarchive.com##.rectangle
 knowyourmeme.com##.rectangle-unit-wrapper
+arras.io##.referral
 al-monitor.com##.region--after-content
 al-monitor.com##.region--header-banner
 eneuro.org,jneurosci.org#@#.region-ad-top
