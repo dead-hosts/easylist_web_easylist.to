@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106270413
+! Version: 202106270422
 ! Title: EasyList
-! Last modified: 27 Jun 2021 04:13 UTC
+! Last modified: 27 Jun 2021 04:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -701,7 +701,7 @@
 .internads.
 .io/ads/
 .is/ads/
-.jp/ads/$domain=~hs-exp.jp
+.jp/ads/$third-party,domain=~hs-exp.jp
 .js?dfp=
 .jsp?adcode=
 .ke/ads/
@@ -7507,7 +7507,6 @@ _ad/public/
 _ad/section_
 _ad/show/
 _ad01.$domain=~adv.asahi.com
-_ad01_
 _ad1.$~stylesheet
 _ad103.
 _ad120x120_
@@ -51801,6 +51800,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||nordvpn.com^$popup,domain=browserleaks.com
 ||nordvpn.net^$popup,domain=browserleaks.com
 ||notube.lol/p/$popup
+||sendspace.com/defaults/sendspace-pop.html$popup
 ||vpnfortorrents.*?$popup
 ! about:blank popups
 /about:blank#/$popup,domain=22pixx.xyz|9anime.to|dailyuploads.net|disk.ly|dood.so|dood.to|dood.video|dood.watch|fcdn.stream|filmesportorrents.com|fmovies.to|french-stream.lol|gogoanime.pro|gowatchseries.bz|hydracdn.network|imagetwist.com|meomeo.pw|mixdrop.co|mp4upload.com|mstream.xyz|player.cineflixtv.com|player.cineflixtv.net|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|spcdn.cc|steamplay.cc|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|streamz.vg|strtape.cloud|strtape.tech|tapecontent.net|upstream.to|uptostream.com|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vidup.io|voe.sx|vortez.net|vshare.eu|vumoo.to|waaw.to|watchserieshd.tv
@@ -51869,6 +51869,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||bravotube.net/cc/
 ||bravotube.net^*/abbs.
 ||bravotube.net^*/clickback.
+||broncs.net/pub/pop_min.js
 ||bunnylust.com/sponsors/
 ||camclips.cc/api/$image,script
 ||camclips.cc/npJDy
