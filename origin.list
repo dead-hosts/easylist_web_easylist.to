@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106270351
+! Version: 202106270413
 ! Title: EasyList
-! Last modified: 27 Jun 2021 03:51 UTC
+! Last modified: 27 Jun 2021 04:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19371,6 +19371,7 @@ _popunder+$popup
 ##.ad-wallpaper-container
 ##.ad-wallpaper-panorama-container
 ##.ad-warning
+##.ad-warp
 ##.ad-watermark
 ##.ad-wgt
 ##.ad-wide
@@ -31105,6 +31106,7 @@ _popunder+$popup
 ##aside[itemtype="https://schema.org/WPAdBlock"]
 ##bottomadblock
 ##dile-cookies-consent
+##display-ads
 ##div[aria-label="Ads"]
 ##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
 ##div[class$="_b-ad-main"]
@@ -31768,7 +31770,7 @@ adultswim.com#@##game-ad
 google.com#@##google-ads
 pescorner.net#@##googlead
 chicagoreader.com,sfexaminer.com#@##gridAdSidebar
-hostalia.com#@##gwd-ad
+hostalia.com,yuukinohana.co.jp#@##gwd-ad
 cozi.com,uwcu.org#@##head-ad
 fashionmagazine.com#@##header-ads
 newgrowbook.com#@##headerAd
@@ -31999,6 +32001,7 @@ members.portalbuzz.com#@#.ads-holder
 gratisaftehalen.nl#@#.ads-image
 t3.com#@#.ads-inline
 celogeek.com,checkrom.com#@#.ads-item
+hatenacorp.jp#@#.ads-link
 circus-dev.com#@#.ads-list
 bannerist.com#@#.ads-right
 apple.com#@#.ads-section
@@ -51037,6 +51040,7 @@ menstennisforums.com#@#.top_ads
 ||crn.com.au/scripts/js_$script
 ||daily-sun.com/assets/images/banner/
 ||dailymail.co.uk^*/linkListItem-$domain=thisismoney.co.uk
+||daniweb.com/js/articles/bsa/
 ||datum.blockchair.io^
 ||delivery.smashing.services^
 ||designtaxi.com/i-combine.php
@@ -53348,6 +53352,7 @@ designtaxi.com##.dt_rcjs
 digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 yts.mx##.durs-bordered
+daniweb.com##.dw-inject-bsa
 nomadlist.com##.dynamic-fill
 nytimes.com##.e12j3pa50
 arabtimesonline.com,chtupdate.net##.e3lan
@@ -54767,10 +54772,11 @@ msn.com##.dynamicRRWrapper
 msn.com##.medianetintraarticlenativead
 msn.com##.nativeAd-DS-card1-1
 msn.com##.nativeadserversidecontentmodule
-msn.com##.replacead23
 msn.com##.sameoab_ad_container
+msn.com##.serversidenativead.secondary
 msn.com##.widead
 msn.com##a.nativead[target="_blank"]
+msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 ! Bing
 bing.com##.ad_sc
@@ -55795,6 +55801,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||gunosy.co.jp/img/ad/$image,~third-party
+@@||hatenacorp.jp/_next/static/chunks/pages/ads-$script,~third-party
 @@||iejima.org/ad-banner/$image,~third-party
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
@@ -55826,6 +55833,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
+@@||s0.2mdn.net/ads/studio/Enabler.js$domain=yuukinohana.co.jp
 @@||s0.2mdn.net/instream/html5/ima3.js$script,domain=tilt.fi
 @@||samplefan.com/img/ad/$image
 @@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk
