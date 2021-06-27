@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106270132
+! Version: 202106270231
 ! Title: EasyList
-! Last modified: 27 Jun 2021 01:32 UTC
+! Last modified: 27 Jun 2021 02:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6815,6 +6815,7 @@
 /tag_sys.
 /tagadv_
 /talkads/*
+/tapad/*
 /targetingAd.
 /targetpushad.
 /taxonomy-ads.
@@ -11349,6 +11350,7 @@ _popunder+$popup
 ###ad_txt
 ###ad_under_game
 ###ad_unit
+###ad_unit1
 ###ad_unit2
 ###ad_unit_slot1
 ###ad_unit_slot2
@@ -53326,6 +53328,7 @@ riverbender.com##.divClickLeft
 riverbender.com##.divClickRight
 jpost.com##.divConnatix
 alternativeto.net##.divLeaderboardLove
+animefire.net##.divSection3
 ebaumsworld.com##.divider
 thelist.com##.divider-heading-container
 weather.us##.dkpw-billboard-margin
@@ -53657,6 +53660,7 @@ babynamegenie.com,forless.com,worldtimeserver.com##.links
 gosearchresults.com##.listing-right
 researchgate.net##.lite-page__above
 goodgearguide.com.au,pcworld.co.nz,pcworld.idg.com.au##.lo-toppromos
+reverso.net##.locd-rca
 1071thepeak.com##.logo-scroll
 siberiantimes.com##.logoBanner
 netwerk24.com,wheels24.co.za##.love2meet
@@ -53886,6 +53890,7 @@ dawn.com##.radWrapper
 w3newspapers.com##.rads
 mydorpie.com##.rbancont
 forebet.com##.rbannerDiv
+reverso.net##.rcacontent
 nypost.com,pagesix.com##.recirc
 wallpapers-room.com##.recommendations-468x60
 biblegateway.com##.recommendations-header-column
