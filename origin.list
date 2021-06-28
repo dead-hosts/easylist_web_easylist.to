@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106281220
+! Version: 202106281326
 ! Title: EasyList
-! Last modified: 28 Jun 2021 12:20 UTC
+! Last modified: 28 Jun 2021 13:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27072,6 +27072,7 @@ _popunder+$popup
 ##.mpu-holder
 ##.mpu-leaderboard
 ##.mpu-left
+##.mpu-left-bk
 ##.mpu-mediatv
 ##.mpu-right
 ##.mpu-title
@@ -42557,6 +42558,7 @@ menstennisforums.com#@#.top_ads
 ||vaipsona.com^
 ||vaipsouw.com^
 ||vaivafie.net^
+||vak345.com^
 ||vallegalikty.club^
 ||valonghost.xyz^
 ||valuethemarkets.info^
@@ -42570,6 +42572,7 @@ menstennisforums.com#@#.top_ads
 ||vapourgrievously.com^
 ||variabilitycomprehension.com^
 ||varietyofdisplayformats.com^
+||variouscreativeformats.com^
 ||varybailedascend.com^
 ||varylioness.com^
 ||vasgenerete.site^
@@ -51328,7 +51331,7 @@ menstennisforums.com#@#.top_ads
 ||tb.turbocap.net/a637rw3.js
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
-||techpowerup.com/thlknzrjbv/
+||techpowerup.com/gjizhgdreg/
 ||techrepublic.com/leadgen/
 ||theage.com.au/assets/europa.
 ||thecenturion.co.za^*/banners/
