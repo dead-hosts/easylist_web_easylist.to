@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106282318
+! Version: 202106290023
 ! Title: EasyList
-! Last modified: 28 Jun 2021 23:18 UTC
+! Last modified: 29 Jun 2021 00:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52295,9 +52295,7 @@ hwhills.com###footerbanner
 feedicons.com###footerboard
 imgbox.com###full-page-redirect
 reviewgeek.com###future_Y_R_0_1
-hltv.org###g0_news
 hltv.org###g0_right
-hltv.org###g4_bottom
 colourlovers.com###ga-above-footer
 colourlovers.com###ga-below-header
 9bis.net###gad
@@ -53281,6 +53279,7 @@ disqus.com##.col-promoted
 nycgo.com##.colBBox
 jamendo.com##.col_extra
 iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
+hltv.org##.column-ASdvuasdr123Gazx-box
 2pass.co.uk##.column_right
 arcadebomb.com##.colunit1
 knowyourmeme.com##.combo-wrapper
@@ -53408,7 +53407,6 @@ notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
 onmsft.com##.enhanced-text-widget
 technipages.com##.entry-content > div
-hltv.org##.etbx
 mobafire.com##.exhibit-narrow
 mobafire.com##.exhibit-vertical
 miami.com##.expedia-widget
@@ -53715,9 +53713,8 @@ netwerk24.com,wheels24.co.za##.love2meet
 vg247.com##.low-leader-container
 bikeroar.com##.lower-panel
 greatbritishlife.co.uk##.lp_track_vertical2
-hltv.org##.luckbox-firstcol-box
 politifact.com##.m-billboard
-euronews.com##.m-object--is-branded
+aol.com##.m-jac-ad
 tech.hindustantimes.com##.m-to-add
 net-load.com##.m7s-81.m7s
 wccftech.com##.main-background-wrap
@@ -55442,8 +55439,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|go.cnn.com|history.com|keloland.com|radio.com|rd.com|thehealthy.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazonaws.com^*/sponsorbanners/$image,domain=members.portalbuzz.com
-@@||aolcdn.com^*/adsWrapper.$domain=aol.com|engadget.com|mapquest.com
-@@||aone-soft.com/style/images/ad*.jpg
+@@||aone-soft.com/style/images/ad2.jpg
 @@||api.adinplay.com^*/tag.min.js$script,domain=bigescapegames.com|findcat.io|squadd.io
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.paymentwall.com^$domain=adguard.com
