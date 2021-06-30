@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202106301234
+! Version: 202106301310
 ! Title: EasyList
-! Last modified: 30 Jun 2021 12:34 UTC
+! Last modified: 30 Jun 2021 13:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31067,6 +31067,7 @@ _popunder+$popup
 ##a[href^="https://unreshiramor.com/"]
 ##a[href^="https://usenetxs.website/"]
 ##a[href^="https://vod09197d7.club/"]
+##a[href^="https://wantopticalfreelance.com/"]
 ##a[href^="https://watchmygirlfriend.tv/"]
 ##a[href^="https://weedzy.co.uk/"][href*="&utm_"]
 ##a[href^="https://windscribe.com/promo/"]
@@ -36488,6 +36489,7 @@ menstennisforums.com#@#.top_ads
 ||flmuqa.com^
 ||flodonas.com^
 ||flomigo.com^
+||flongshartail.com^
 ||floordisclosewhereas.com^
 ||flopinclose.com^
 ||floraltaperiez.xyz^
@@ -41926,6 +41928,7 @@ menstennisforums.com#@#.top_ads
 ||tathitch.net^
 ||tauntdoctrineestablishment.com^
 ||tbkjttmdcjduhs.com^
+||tbm09.com^
 ||tbnmmjm.com^
 ||tbtrck.com^
 ||tbv157xq.com^
@@ -42918,6 +42921,7 @@ menstennisforums.com#@#.top_ads
 ||wandara113.xyz^
 ||wangfenxi.com^
 ||wantmimic.com^
+||wantopticalfreelance.com^
 ||wapdollar.in^
 ||waploft.cc^
 ||wapoawoo.net^
@@ -50750,6 +50754,7 @@ menstennisforums.com#@#.top_ads
 ||adfreevision.com^$popup
 ||adrotator.se^$popup
 ||adserving.unibet.com^$popup,third-party
+||adskipnow.com/?v=$popup,third-party
 ||allnewmembers.com^$popup
 ||amazing-dating.com^$popup,third-party
 ||bet365.com^*affiliate=$popup
@@ -50820,6 +50825,8 @@ menstennisforums.com#@#.top_ads
 ||awempt.com/embed/
 ||awestat.com^*/banner/
 ||b-cdn.net/media/cb/
+||babes-mansion.s3.amazonaws.com^
+||babesmansion.com/banner/$third-party
 ||bangdom.com^$third-party
 ||banner.themediaplanets.com^
 ||banners.adultfriendfinder.com^
@@ -52085,6 +52092,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||pornj.com/gabril/
 ||pornjam.com/assets/js/renderer.
 ||porno666.com/code/script/
+||pornone.com/VPAIDFlash.swf
 ||pornorips.com/td7ab49db374.js
 ||pornrabbit.com^$subdocument
 ||pornwhite.com/nb/
@@ -55360,6 +55368,7 @@ tryindianporn.com##.uvk
 tuberel.com##.vda-item
 indianpornvideos.com##.vdo-unit
 julesjordanvideo.com##.vertical_banner
+pornone.com##.video-add
 niceporn.xxx##.video-aside
 watchmygf.tv##.video-aside-spot
 sexseeimage.com##.video-block-happy
