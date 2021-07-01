@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107010256
+! Version: 202107010300
 ! Title: EasyList
-! Last modified: 01 Jul 2021 02:56 UTC
+! Last modified: 01 Jul 2021 03:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19328,6 +19328,7 @@ _popunder+$popup
 ##.ad-towers
 ##.ad-transition
 ##.ad-two
+##.ad-twos
 ##.ad-txt
 ##.ad-type
 ##.ad-type-branding
@@ -21055,6 +21056,7 @@ _popunder+$popup
 ##.adpic
 ##.adplace
 ##.adplace_center
+##.adplaceholder-top
 ##.adplacement
 ##.adplate-background
 ##.adpod
@@ -27078,6 +27080,7 @@ _popunder+$popup
 ##.mosaicAd
 ##.mostpop_sponsored_ad
 ##.motherboard-ad
+##.movv-ad
 ##.mp-ad
 ##.mpsponsor
 ##.mpu-ad
@@ -31266,6 +31269,7 @@ _popunder+$popup
 ##img[alt^="Fuckbook"]
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##span[data-component-type="s-ads-metrics"]
+##span[title="Ads by Google"]
 ##topadblock
 ! (invideo advertising)
 ###mplayer-embed
