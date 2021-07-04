@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107041737
+! Version: 202107042035
 ! Title: EasyList
-! Last modified: 04 Jul 2021 17:37 UTC
+! Last modified: 04 Jul 2021 20:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25619,6 +25619,7 @@ _popunder+$popup
 ##.grid-ad
 ##.grid-ad-section
 ##.grid-advertisement
+##.grid-block-ad
 ##.grid-item-ad
 ##.grid-sm-ad-300
 ##.gridAd
@@ -52474,6 +52475,7 @@ slideme.org###block-block-31
 infoplease.com###block-ipabovethefold
 infoplease.com###block-ipbtfad
 infoplease.com###block-ipleaderboardad
+enca.com###block-views-block-sponsored-block-1
 mbauniverse.com###block-views-home-page-banner-block
 picfont.com###block_a
 smbc-comics.com###boardleader
@@ -54275,6 +54277,7 @@ readmng.com##.scroll_target_top
 semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
 wbur.org##.section--breakout
+sowetanlive.co.za##.section-article-sponsored
 nzherald.co.nz##.section-iframe
 pipeflare.io##.section-promo-banner
 coingecko.com##.selected
@@ -54372,7 +54375,7 @@ cd1025.com,domainincite.com,europages.co.uk,gamingcloud.com,kpbs.org,phillyvoice
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,herald.co.zw,msn.com##.sponsored
+chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,herald.co.zw,msn.com,timeslive.co.za##.sponsored
 phillyvoice.com##.sponsored-article-widget
 washingtontimes.com##.sponsored-heading
 armageddonexpo.com,audiforums.com,ferrarichat.com,jaguarforums.com,pypi.org,thebugle.co.za,waamradio.com,wbal.com##.sponsors
