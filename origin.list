@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107070627
+! Version: 202107070646
 ! Title: EasyList
-! Last modified: 07 Jul 2021 06:27 UTC
+! Last modified: 07 Jul 2021 06:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47804,6 +47804,7 @@ menstennisforums.com#@#.top_ads
 ||trilema.com^$popup
 ||triumphantplace.com^$popup
 ||trklnks.com^$popup
+||trmobc.com^$popup
 ||trw12.com^$popup
 ||tsyndicate.com^$popup
 ||ttoc8ok.com^$popup
@@ -52316,6 +52317,7 @@ mostlyblogging.com###media_image-5
 ostatic.com###media_partner_gallery
 cgchannel.com###mediumRectangle
 newburyportnews.com###mediumRectangle_atf
+thepiratebay.org###meta-right
 trackingthepros.com###mini-containerr
 pch.com###minipath_panel
 myjoyonline.com###mjo-article-left_rectangle_mid
