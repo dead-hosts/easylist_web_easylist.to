@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107070407
+! Version: 202107070424
 ! Title: EasyList
-! Last modified: 07 Jul 2021 04:07 UTC
+! Last modified: 07 Jul 2021 04:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52529,7 +52529,6 @@ belgie.fm,danmark.fm,deutschland.fm,espana.fm,india.fm,italia.fm,nederland.fm###
 baltic-course.com###bannerbottom
 baltic-course.com###bannerleft
 phuketwan.com###bannersTop
-adsl2exchanges.com.au###bannerside
 baltic-course.com,webfail.com###bannertop
 h-online.com###bannerzone
 uinterview.com###below-content
@@ -52880,7 +52879,6 @@ mdjonline.com###promos
 sherdog.net###promotion_container
 newsroomamerica.com###promotional
 bnnbloomberg.ca###promotions
-thehomepage.com.au###prop-foot-728x90
 my-proxy.com###proxy-bottom
 newyorker.com###ps2_fs2_yrail
 newyorker.com###ps3_fs1_yrail
@@ -54831,7 +54829,6 @@ keengamer.com##div[class^="gameon-mpu-"]
 keengamer.com##div[class^="gameon-top-"]
 technologyreview.com##div[class^="headerTemplate__leaderboardRow-"]
 goal.com##div[class^="layout_banner_"]
-productreview.com.au##div[class^="leaderboard_"]
 pcgamer.com,techradar.com,tomsguide.com,tomshardware.com##div[class^="slot-"]
 kijiji.ca##div[class^="sponsored-"]
 whatsondisneyplus.com##div[class^="whats-"]
