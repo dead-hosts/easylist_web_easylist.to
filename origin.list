@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107101530
+! Version: 202107101555
 ! Title: EasyList
-! Last modified: 10 Jul 2021 15:30 UTC
+! Last modified: 10 Jul 2021 15:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24527,9 +24527,12 @@ _popunder+$popup
 ##.content_middle_adv
 ##.content_tagsAdTech
 ##.contentad
+##.contentad-end
 ##.contentad-home
 ##.contentad-storyad-1
 ##.contentad-superbanner-2
+##.contentad-top
+##.contentad2
 ##.contentad300x250
 ##.contentad_right_col
 ##.contentadarticle
@@ -24562,6 +24565,8 @@ _popunder+$popup
 ##.cp-smalladv
 ##.cp_ad
 ##.cpaAdPosition
+##.cpg-ad-placeholder-desktop
+##.cpg-ad-placeholder-mobile
 ##.cpmstarHeadline
 ##.cpmstarText
 ##.cpoma-adlabel
@@ -24816,6 +24821,14 @@ _popunder+$popup
 ##.divider-full-width-ad
 ##.divider_ad
 ##.dlSponsoredLinks
+##.dm-adSlotBillboard
+##.dm-adSlotNative1
+##.dm-adSlotNative2
+##.dm-adSlotNative3
+##.dm-adSlotRectangle1
+##.dm-adSlotRectangle2
+##.dm-adSlotSkyscraper
+##.dm-adSlot__sticky
 ##.dm-ads-125
 ##.dm-ads-350
 ##.dmRosAdBody
@@ -26142,6 +26155,7 @@ _popunder+$popup
 ##.in-between-ad
 ##.in-content-ad
 ##.in-content-ad--container
+##.in-content-ad-wrapper
 ##.in-latest-news-advertisement-container
 ##.in-node-ad-300x250
 ##.in-page-ad
