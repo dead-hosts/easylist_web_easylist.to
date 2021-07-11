@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107110814
+! Version: 202107110955
 ! Title: EasyList
-! Last modified: 11 Jul 2021 08:14 UTC
+! Last modified: 11 Jul 2021 09:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32223,7 +32223,8 @@ theonion.com#@#.boxad
 abc.net.au#@#.btn-ad
 socialclub.rockstargames.com#@#.btnSocial
 weather.yahoo.com#@#.can_ad_slug
-deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,photopoint.com.ua#@#.category-ad
+8field.net,deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,freedom-shift.net,kotan.link,markekaizen.jp,netafull.net,photopoint.com.ua#@#.category-ad:not(html):not(body)
+business-hack.net,clip.m-boso.net,iine-tachikawa.net,meihong.work#@#.category-ads:not(html):not(body)
 blog.notebooksbilliger.de#@#.category-advertorial
 gegenstroemung.org#@#.change_AdContainer
 deals.kinja.com#@#.commerce-inset
@@ -51870,6 +51871,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||x0r.urlgalleries.net^
 ||xbooru.com/script/application.js
 ||xcafe.com/f8EhAZPqj0Gu/
+||xnxxporn.video/askdrej/
 ||xpics.me/everyone.
 ||xxerotica.com/xxerotica.js
 ||xxxporntalk.com/images/
@@ -54984,6 +54986,7 @@ boundhub.com##.o3pt
 finaid.org##.one
 lustgalore.com##.opac_bg
 baja-opcionez.com##.opaco2
+pornchimp.com##.opt
 hentaistream.com##.othercontent
 dagay.com##.overlay-media
 empflix.com##.pInterstitialx
@@ -55065,7 +55068,7 @@ pornstarchive.com##.squarebanner
 lewdninja.com##.stargate
 sexyandshocking.com##.sub-holder
 simply-hentai.com##.superbanner
-4kporn.xxx,fpo.xxx,gayck.com,intporn.com,mrdeepfakes.com,rare-videos.net##.table
+4kporn.xxx,fpo.xxx,gayck.com,intporn.com,mrdeepfakes.com,pornchimp.com,rare-videos.net##.table
 sxyprn.com##.tbd
 amateurvoyeurforum.com##.tborder[width="99%"][cellpadding="6"]
 pronpic.org##.teaser
@@ -55101,6 +55104,7 @@ tube8.com,tube8.es,tube8.fr##.underplayerBanner
 tryindianporn.com##.uvk
 tuberel.com##.vda-item
 indianpornvideos.com##.vdo-unit
+xnxxporn.video##.vertbars
 julesjordanvideo.com##.vertical_banner
 pornone.com##.video-add
 niceporn.xxx##.video-aside
