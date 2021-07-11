@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107110955
+! Version: 202107111025
 ! Title: EasyList
-! Last modified: 11 Jul 2021 09:55 UTC
+! Last modified: 11 Jul 2021 10:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32076,6 +32076,7 @@ iejima.org#@#.ad_banner
 focustaiwan.tw,lavozdegalicia.es,sozai-good.com#@#.ad_block
 panarmenian.net#@#.ad_body
 joins.com#@#.ad_bottom
+m.nettiauto.com,m.nettikaravaani.com,m.nettikone.com,m.nettimarkkina.com,m.nettimokki.com,m.nettimoto.com,m.nettivaraosa.com,m.nettivaraosa.com,m.nettivene.com,m.nettivuokraus.com#@#.ad_caption
 go.com,robhasawebsite.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se#@#.ad_container
 environmentjob.co.uk,lowcarbonjobs.com,myhouseabroad.com#@#.ad_description
 318racing.org,linuxforums.org,modelhorseblab.com#@#.ad_global_header
@@ -37200,6 +37201,7 @@ menstennisforums.com#@#.top_ads
 ||hg8dc7bm.com^
 ||hgbasics.com^
 ||hgbn.rocks^
+||hgcmnews.pro^
 ||hgglguotkgfo.com^
 ||hghit.com^
 ||hghm4u7b61.com^
@@ -51072,7 +51074,6 @@ menstennisforums.com#@#.top_ads
 ||newstalkzb.co.nz/media/*/newstalkzb-website-takeover-
 ||newstrackindia.com/images/hairfallguru728x90.jpg
 ||ngegas.files.im^
-||nicoad.nicovideo.jp^$domain=~blog.nicovideo.jp|~live.nicovideo.jp|~live2.nicovideo.jp|~nicoad.nicovideo.jp
 ||nigerianbulletin.com/data/siropu/
 ||ninemanga.com/files/js/ninemanga_300.js
 ||norwaypost.no/images/banners/
@@ -51768,6 +51769,7 @@ $popup,third-party,domain=cloudvideo.tv|highstream.tv|loader.to|mystream.to|play
 ||go.pornav.net^
 ||go.strpjmp.com^
 ||h2porn.com/aa474eaa.js
+||hdpornfree.xxx/tmp/
 ||hellporno.com/_a_xb/
 ||hellporno.com^$subdocument,~third-party
 ||hentairules.net/eroges.js
@@ -53976,6 +53978,7 @@ protocol.com##.tag-sponsored
 recombu.com##.takeover-right
 shacknews.com##.takeover-skin
 routesonline.com##.takeoverBanner
+igg-games.com##.taxonomy-description
 cyberparse.co.uk,gamezone.com,gizmochina.com,greekreporter.com,musictech.net,newsnext.live,nme.com,pdevice.com##.td-a-rec
 alextimes.com##.td-a-rec-id-content_bottom
 telugubullet.com##.td-a-rec-id-custom-spot
@@ -54800,7 +54803,7 @@ pornburst.xxx##.b4nners
 devatube.com##.ban-list
 analpornpix.com##.ban_list
 gayboystube.com##.bancentr
-analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,porngames.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com,youx.xxx##.banner
+3movs.xxx,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvid.com,playvids.com,porngames.com,private.com,vid2c.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,yourdailygirls.com,youx.xxx##.banner
 adultpornvideox.com,jojobaa.net##.banner-box
 wcareviews.com##.banner-links
 grannymommy.com##.banner-on-player
@@ -55056,7 +55059,7 @@ gotporn.com##.spnsrd
 pornpics.com##.spons-block
 anyporn.com,fpo.xxx,pervertslut.com,sexpornimages.com,xbabe.com##.sponsor
 fux.com,pornerbros.com,porntube.com##.sponsored
-bravotube.net,camvideos.tv,dixyporn.com,hello.porn,hotmovs.com,vjav.com##.spot
+3movs.xxx,bravotube.net,camvideos.tv,dixyporn.com,hello.porn,hotmovs.com,vjav.com##.spot
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 qcock.com##.spot-thumbs
 homo.xxx##.spot.column
@@ -55189,6 +55192,7 @@ xcritic.com##a[href^="http://www.adultdvdempire.com/"][href*="?partner_id="]
 hentairules.net##a[href^="http://www.gallery-dump.com"]
 pornhub.com,pornhubpremium.com,redtube.com##a[href^="https://ads.trafficjunky.net/"]
 redgifs.com##a[href^="https://camsfinders.com/"]
+hog.tv##a[href^="https://clickaine.com"]
 smutr.com##a[href^="https://smutr.com/?action=trace"]
 gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
