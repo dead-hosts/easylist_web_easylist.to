@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107140731
+! Version: 202107140806
 ! Title: EasyList
-! Last modified: 14 Jul 2021 07:31 UTC
+! Last modified: 14 Jul 2021 08:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9908,7 +9908,9 @@ _popunder+$popup
 ###ad-cube-Middle
 ###ad-cube-sec
 ###ad-cube-top
+###ad-desktop-bottom
 ###ad-desktop-footer
+###ad-desktop-top
 ###ad-desktop-wrap
 ###ad-discover
 ###ad-display-ad
@@ -51042,6 +51044,7 @@ menstennisforums.com#@#.top_ads
 ||freedownloadmanager.org/js/achecker.js
 ||freeworldgroup.com/banner
 ||funnyjunk.com/site/js/extra/pre
+||gamasexual.com/a/i/$image
 ||gamecopyworld.com/games/js/p1.js
 ||gamecopyworld.eu/games/js/p1.js
 ||goal.com/img/sponsor/
@@ -52010,7 +52013,7 @@ imagebam.com###aad-header-3
 uinterview.com###above-content
 amazon.com,campusrn.com,fivethirtyeight.com,jigzone.com,theoswatch.com,xe.com,ytmp3.cc###ad
 informer.com###ad0
-pimpandhost.com,timeanddate.com,wordreference.com###ad1
+boards.net,pimpandhost.com,timeanddate.com,wordreference.com###ad1
 pimpandhost.com###ad2
 exchangerates.org.uk###ad3
 adnetworkdirectory.com###adA
@@ -53376,7 +53379,6 @@ moviemaker.com##.g-4.g
 businessofapps.com##.g-single
 yellowise.com##.g-widget-block
 titantv.com##.gAd
-gamasexual.com##.game-preview-wrapper
 monstertruckgames.org##.gamecatbox
 investing.com##.generalOverlay
 uefa.com##.geoTargetSponsor
