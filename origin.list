@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107170302
+! Version: 202107170322
 ! Title: EasyList
-! Last modified: 17 Jul 2021 03:02 UTC
+! Last modified: 17 Jul 2021 03:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18631,6 +18631,7 @@ _popunder+$popup
 ##.ad-block-header
 ##.ad-block-holder
 ##.ad-block-in-post
+##.ad-block-inside
 ##.ad-block-section
 ##.ad-block-square
 ##.ad-block-wide
@@ -22894,6 +22895,7 @@ _popunder+$popup
 ##.advertisementsOutterDiv
 ##.advertisements_contain
 ##.advertisementsubtitle
+##.advertisementwrap
 ##.advertiser
 ##.advertiser-disclosure-banner
 ##.advertiser-links
@@ -25877,6 +25879,7 @@ _popunder+$popup
 ##.header_adv_optional
 ##.header_advert
 ##.header_advertisement
+##.header_advertisement_clear
 ##.header_advertisement_text
 ##.header_advertisment
 ##.header_classified_ads
@@ -29360,6 +29363,7 @@ _popunder+$popup
 ##.stickyContainerMpu
 ##.stickyMultiAd-processed
 ##.stickyRailAd
+##.sticky_ad_sidebar
 ##.sticky_ad_wrapper
 ##.stickyad
 ##.stickyadv
@@ -30340,6 +30344,7 @@ _popunder+$popup
 ##.widget_island_ad
 ##.widget_jr_125ads
 ##.widget_jtsv_wp_widget_ads
+##.widget_long_ads_widget
 ##.widget_maxbannerads
 ##.widget_nb-ads
 ##.widget_new_sponsored_content
@@ -52006,6 +52011,7 @@ convertinmp4.com###b728l
 gayvegas.com###background
 wallpapersmania.com###backgroundPopup
 soccerbase.com###ball_splash_holder
+gamepressure.com###baner-outer
 allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,dosgamesarchive.com,farmtrader.co.nz,freealts.pw,greatbritishchefs.com,moviesfoundonline.com,openstreetmap.org###banner
 thecarconnection.com###banner-container
 ncaa.com###banner-purse
@@ -52556,6 +52562,7 @@ ssbcrack.com###text-51
 quickonlinetips.com###text-57
 2smsupernetwork.com,times.co.zm###text-6
 yugatech.com###text-69
+playco-opgame.com###text-8
 nanoreview.net###the-app > .mb
 placehold.it###tla
 mma-core.com###tlbrd
@@ -53259,6 +53266,7 @@ experts-exchange.com##.eeAD
 notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
 onmsft.com##.enhanced-text-widget
+kupondo.com##.entry-content > .row
 technipages.com##.entry-content > div
 mobafire.com##.exhibit-narrow
 mobafire.com##.exhibit-vertical
@@ -53554,7 +53562,7 @@ bestcovery.com##.leaderboard_block
 lookbook.nu##.leaderboard_container
 rottentomatoes.com##.leaderboard_wrapper
 vg247.com##.leaderboards
-theprospectordaily.com##.leaderboardwrap
+northernstar.info,theprospectordaily.com##.leaderboardwrap
 zdnet.com##.leadgen
 gamasexual.com##.left-column-inner
 republicbroadcasting.org##.left-sidebar-padder > #text-8
@@ -53822,6 +53830,7 @@ middleeasteye.net##.region-before-navigation
 futbol24.com##.rek
 4shared.com##.remove-rekl
 keengamer.com##.reserved-970
+guru99.com##.responsive-guru99-mobile-devices
 3g2upl4pq6kufc4m.onion,duckduckgo.com##.result--ad > .result__body
 qwant.com##.result--ext
 classifiedads.com##.resultmarg
@@ -53981,6 +53990,7 @@ searchenginejournal.com##.sss_slot
 bostonglobe.com##.stick_1200--tablet
 kathmandupost.com##.sticky--bottom
 gr8.cc##.sticky-banner
+note.nkmk.me##.sticky-block
 golfmagic.com##.sticky-container
 babylonbee.com##.sticky-footer-image
 sciencing.com##.sticky-leaderboard-container
