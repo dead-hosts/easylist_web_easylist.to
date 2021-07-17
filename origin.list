@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107170212
+! Version: 202107170241
 ! Title: EasyList
-! Last modified: 17 Jul 2021 02:12 UTC
+! Last modified: 17 Jul 2021 02:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19932,6 +19932,7 @@ _popunder+$popup
 ##.adMessage
 ##.adMgsBanner
 ##.adMiddle
+##.adMinHeight313
 ##.adMiniTower
 ##.adMinisLR
 ##.adMkt2Colw
@@ -29377,6 +29378,7 @@ _popunder+$popup
 ##.story-page-embedded-ad
 ##.story-page-embedded-ad-center
 ##.story-top-ad-fix
+##.storyAd
 ##.storyAdvert
 ##.storyInlineAdBlock
 ##.story_AD
@@ -30588,6 +30590,7 @@ _popunder+$popup
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://raboninco.com/"]
 ##[href^="http://stvkr.com/"]
+##[href^="http://www.star-clicks.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://detachedbates.com/"]
 ##[href^="https://dooloust.net/"]
@@ -31640,6 +31643,7 @@ _popunder+$popup
 ###outbrain_vertical
 ##.Cheat__outbrain
 ##.fake-container-for-outbrain-sticky
+##.ht_outbrain
 ##.js-outbrain-container
 ##.ob-ad-carousel-layout
 ##.ob-hover
@@ -52157,6 +52161,7 @@ vh1.com###gft-network:last-child
 dealsofde.com###gg_box_1
 dealsofde.com###gg_box_2
 phillytrib.com###gkBannerTop
+freegames.org###gla
 wordcounter.net###glya
 pcgamingwiki.com###gog_summer_sale_2021
 gearlive.com,mediamass.net,noscript.net###google
