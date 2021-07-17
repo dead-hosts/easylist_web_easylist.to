@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107162337
+! Version: 202107170137
 ! Title: EasyList
-! Last modified: 16 Jul 2021 23:37 UTC
+! Last modified: 17 Jul 2021 01:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1002,7 +1002,7 @@
 /ad-indicator-
 /ad-inject/*
 /ad-injection/*
-/ad-inserter-
+/ad-inserter-pro/*
 /ad-inserter/*
 /ad-int-
 /ad-invalid-
@@ -2418,7 +2418,6 @@
 /ads.load.
 /ads.pbs
 /ads.pl?
-/ads.png
 /ads.release.
 /ads.release/*
 /ads.swf
@@ -3976,7 +3975,6 @@
 /banner_id/*
 /banner_iframe_
 /banner_image.php?
-/banner_js.*?
 /banner_OAS.js
 /banner_skyscraper.
 /banner_view.
@@ -6705,7 +6703,6 @@
 /sponsoringbanner/*
 /sponsorpaynetwork.
 /sponsors-ads/*
-/sponsors.js?
 /sponsors/ads/*
 /sponsors/amg.php?
 /sponsors/sponsors.
@@ -8493,7 +8490,7 @@ _atblockdetector/
 /300_250_
 /300x150_
 /300x250-
-/300x250.
+/300x250.$image
 /300x250/*$~media
 /300x250_
 /300x250b.
@@ -23654,6 +23651,7 @@ _popunder+$popup
 ##.bigboxad
 ##.bigsponsor
 ##.billboard-ad
+##.billboard-ad-one
 ##.billboard-ads
 ##.billboard.ad
 ##.billboard300x250
@@ -51160,6 +51158,7 @@ menstennisforums.com#@#.top_ads
 ||smn-news.com/images/banners/
 ||socket.streamable.com^
 ||softcab.com/google.php?
+||sonichits.com/tf.php
 ||sorcerers.net/images/aff/
 ||southafricab2b.co.za/banners/
 ||southfloridagaynews.com/images/banners/
@@ -54586,10 +54585,13 @@ gelbooru.com##a[target="_blank"] > img
 ! Site Specific filters (used with $generichide)
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap > .cu-container > div > div[data-pla="1"]
+sonichits.com###bottom_ad
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
+sonichits.com###right-ad
 arstechnica.com###sponsored-recommendations
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tads[aria-label]
 google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tadsb[aria-label]
+sonichits.com###top-ad-outer
 dailymail.co.uk##.ad-wrapper
 dailymail.co.uk##.adHolder
 comicbook.com##.ad_blk
@@ -55599,6 +55601,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||sciencechannel.com^$generichide
 @@||slack.com^$generichide
 @@||smallseotools.com^$generichide
+@@||sonichits.com^$generichide
 @@||thefreedictionary.com^$generichide
 @@||tlc.com^$generichide
 @@||web.archive.org^$generichide
