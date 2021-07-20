@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107201127
+! Version: 202107201157
 ! Title: EasyList
-! Last modified: 20 Jul 2021 11:27 UTC
+! Last modified: 20 Jul 2021 11:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33511,6 +33511,7 @@ menstennisforums.com#@#.top_ads
 ||alternativeprofitablegate.com^
 ||althoutafrick.info^
 ||altowriestwispy.com^
+||altronopubacc.com^
 ||alwayspainfully.com^
 ||alwqfajh.com^
 ||alwsbnvialll.com^
@@ -55797,6 +55798,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
 @@||jmedj.co.jp/files/$image,~third-party
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
+@@||kmsv.jp/images/ad/$image,~third-party
 @@||koshien-live.net/99/adtag.xml$domain=sportsbull.jp
 @@||krotoszyn.pl/uploads/pub/ads_files/$image,~third-party
 @@||labymod.net/affiliate/$~third-party
