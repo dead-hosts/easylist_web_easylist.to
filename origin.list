@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107211154
+! Version: 202107211229
 ! Title: EasyList
-! Last modified: 21 Jul 2021 11:54 UTC
+! Last modified: 21 Jul 2021 12:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32739,6 +32739,7 @@ menstennisforums.com#@#.top_ads
 ||2444efc8cd8e.com^
 ||247realmedia.com^
 ||24ad89fc2690ed9369.com^
+||24affiliates.com^
 ||24vunvrv.com^
 ||24x7adservice.com^
 ||254a.com^
@@ -37011,6 +37012,7 @@ menstennisforums.com#@#.top_ads
 ||googleapi.club^
 ||googlesierai.xyz^
 ||gopejk.com^
+||gophykopta.com^
 ||goredi.com^
 ||gorettent.xyz^
 ||gorgeouspresentation.com^
@@ -37487,6 +37489,7 @@ menstennisforums.com#@#.top_ads
 ||htmonster.com^
 ||htmuhftnu.com^
 ||htuczktvwtsf.com^
+||hublosk.com^
 ||hubmaydaybrow.com^
 ||hubturn.info^
 ||hubvotrpjios.com^
@@ -37928,6 +37931,7 @@ menstennisforums.com#@#.top_ads
 ||juggrounds.com^
 ||juicycash.net^
 ||jukyshyze.com^
+||jullyambery.net^
 ||julrdr.com^
 ||jumbitr.com^
 ||jumbln.com^
@@ -37997,6 +38001,7 @@ menstennisforums.com#@#.top_ads
 ||keeptaza.com^
 ||keezoupe.net^
 ||kegsandremembrance.com^
+||kellyfight.com^
 ||kelt-195b.com^
 ||kemperare.club^
 ||kennetting.club^
@@ -46790,6 +46795,7 @@ menstennisforums.com#@#.top_ads
 ||1re.re^$popup
 ||21find.com^$popup
 ||24-sportnews.com^$popup
+||24affiliates.com^$popup
 ||292news.biz^$popup
 ||2hanwriten.com^$popup
 ||2mdn.info^$popup
@@ -47272,6 +47278,7 @@ menstennisforums.com#@#.top_ads
 ||gomo.cc^$popup
 ||gonextpage.ru^$popup
 ||goodbookbook.com^$popup
+||gophykopta.com^$popup
 ||gotjobbs.com^$popup
 ||gotohouse1.club^$popup
 ||gotoplaymillion.com^$popup
@@ -47771,6 +47778,7 @@ menstennisforums.com#@#.top_ads
 ||smrtgs.com^$popup
 ||snammar-jumntal.com^$popup
 ||sniffingmeanwhilecar.com^$popup
+||snowdayonline.xyz^$popup
 ||sonagerthrou.com^$popup
 ||spareddepressing.com^$popup
 ||sparkstudios.com^$popup
@@ -50599,6 +50607,7 @@ menstennisforums.com#@#.top_ads
 ||adskipnow.com/?v=$popup,third-party
 ||allnewmembers.com^$popup
 ||amazing-dating.com^$popup,third-party
+||avatrade.io/ads/$popup,third-party
 ||bet365.com^*affiliate=$popup
 ||brazzers.com/click/$popup
 ||canyoublockit.com^$popup,third-party
@@ -50609,6 +50618,7 @@ menstennisforums.com#@#.top_ads
 ||coolguruji.com/l.php?$popup
 ||ctcautobody.com^$popup,third-party
 ||cyberprivacy.pro^*?aff_$popup,third-party
+||eatcells.com/landing/$popup
 ||evanetwork.com^$popup
 ||fastclick.net^$popup
 ||firstload.com^$popup
@@ -52184,6 +52194,7 @@ energyforecastonline.co.za###endorsers
 geekwire.com###engineering-centers-sidebar
 fxsforexsrbijaforum.com###fa_ticker_container
 thedrinknation.com###fcBanner
+investing.com###findABroker
 thisismoney.co.uk###fiveDealsWidget
 pastebin.com###fixBanner
 kissanime9.net###floatcenter
@@ -52640,6 +52651,7 @@ meteovista.co.uk###top10
 gamingzion.com###top10c
 investmentnews.com###topAdBlock
 danpatrick.com###topBannerContainer
+investing.com###topBroker
 digitalartsonline.co.uk###topLeaderContainer
 forum.wordreference.com###topSupp
 computing.net,sportsclimax.com###top_banner
