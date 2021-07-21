@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107211229
+! Version: 202107211329
 ! Title: EasyList
-! Last modified: 21 Jul 2021 12:29 UTC
+! Last modified: 21 Jul 2021 13:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12024,6 +12024,7 @@ _popunder+$popup
 ###ads_mads_r2
 ###ads_medrect
 ###ads_notice
+###ads_overlay
 ###ads_page_top
 ###ads_pave
 ###ads_place
@@ -14034,6 +14035,7 @@ _popunder+$popup
 ###desktop-aside-ad-container
 ###desktop-atf_sidebar_sticky
 ###desktop-unrec-ad
+###desktop_ads_block
 ###detail_page_vid_topads
 ###devil-ad
 ###dfp-ad-1
@@ -15694,6 +15696,7 @@ _popunder+$popup
 ###mobileAdContainer
 ###mobileAd_holder
 ###mobile_ad_spot_header
+###mobile_ads_block
 ###mochila-column-right-ad-300x250
 ###mod-ad-gemini-rm-1
 ###mod-ad-msu-1
@@ -22637,6 +22640,8 @@ _popunder+$popup
 ##.advert-wrapper
 ##.advert-wrapper_rectangle_aside
 ##.advert.box
+##.advert.desktop
+##.advert.mobile
 ##.advert.mpu
 ##.advert.skyscraper
 ##.advert1
@@ -27487,6 +27492,7 @@ _popunder+$popup
 ##.not-an-ad-header
 ##.note-advertisement
 ##.noticeAd_pc_wrap
+##.np-adv-container
 ##.np-advert_apu
 ##.np-advert_apu-double
 ##.np-advert_info
@@ -53196,6 +53202,7 @@ androidsage.com##.code-block-5
 geekspin.co,thedriven.io##.code-block-7
 getdroidtips.com##.code-block-8
 androidsage.com##.code-block-9
+estnn.com##.code-block-label
 link-base.org##.col-lg-12
 roseindia.net##.col-md-4
 tineye.com##.col-md-4.sidebar
@@ -53329,6 +53336,7 @@ newagebd.net##.editorialMid
 experts-exchange.com##.eeAD
 notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
+estnn.com##.elementor-widget-wp-widget-ai_widget
 onmsft.com##.enhanced-text-widget
 kupondo.com##.entry-content > .row
 technipages.com##.entry-content > div
