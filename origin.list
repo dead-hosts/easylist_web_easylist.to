@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107251320
+! Version: 202107251352
 ! Title: EasyList
-! Last modified: 25 Jul 2021 13:20 UTC
+! Last modified: 25 Jul 2021 13:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53743,6 +53743,7 @@ hentai2w.com##.js-rotating
 stackoverflow.com##.js-sidebar-zone
 theguardian.com##.js-top-banner
 calorieking.com##.jss2
+essentiallysports.com##.jsx-4249843366
 thefastmode.com##.k2_channel_banner_long
 imgism.com##.kevin-lb
 trustedreviews.com##.keystone-single-widget
@@ -54680,7 +54681,7 @@ whdh.com##div[style="width:970px;height:250px;"]
 whatmobile.com.pk##div[style^="background-color:#EBEBEB;"]
 add0n.com##div[style^="height: 90px;"]
 whatmobile.com.pk##div[style^="height:610px"]
-google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^=jsx-]
+google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk,news18.com##div[style^="margin-bottom:15px"][class^="jsx-"]
 add0n.com,news18.com##div[style^="min-height:90px"]
 lovehug.net##div[style^="position: fixed; display: flow-root; z-index:"]
 integral-calculator.com,passiveaggressivenotes.com,twcenter.net##div[style^="width: 728px;"]
