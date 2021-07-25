@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107242348
+! Version: 202107250143
 ! Title: EasyList
-! Last modified: 24 Jul 2021 23:48 UTC
+! Last modified: 25 Jul 2021 01:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13549,6 +13549,7 @@ _popunder+$popup
 ###branding_ad_header
 ###branding_click
 ###breadcrumb_ad
+###breakbarad
 ###browse-ad-container
 ###browse_ads_ego_container
 ###browsead
@@ -15844,6 +15845,7 @@ _popunder+$popup
 ###navbar_ads
 ###navi_banner_ad_780
 ###navigation-ad
+###navlinkad
 ###nba160PromoAd
 ###nba300Ad
 ###nbaGI300ad
@@ -17365,6 +17367,7 @@ _popunder+$popup
 ###topbar-ad
 ###topbarAd
 ###topbar_Adc1_AdContainer
+###topbarad
 ###topbarads
 ###topcustomad
 ###topheader_ads
@@ -52287,6 +52290,7 @@ newser.com###divRightRail > div:first-child
 abbotsfordgasprices.com,albertagasprices.com,barriegasprices.com,bcgasprices.com,calgarygasprices.com,edmontongasprices.com,gasbuddy.com,halifaxgasprices.com,hamiltongasprices.com,kwgasprices.com,londongasprices.com,manitobagasprices.com,montrealgasprices.com,newbrunswickgasprices.com,newfoundlandgasprices.com,novascotiagasprices.com,nwtgasprices.com,ontariogasprices.com,ottawagasprices.com,peigasprices.com,quebeccitygasprices.com,quebecgasprices.com,reginagasprices.com,saskatoongasprices.com,saskgasprices.com,torontogasprices.com,vancouvergasprices.com,victoriagasprices.com,winnipeggasprices.com###divSky
 rednationonline.ca###dnn_BannerPane
 apkwhale.com###download > div
+transfermarkt.com###drQtceq
 designtaxi.com###dt-small-sub-2
 designtaxi.com###dt-small-sub-3
 energyforecastonline.co.za###endorsers
@@ -53091,6 +53095,7 @@ freecode.com##.banner-sky
 neogamr.net##.banner-square
 intomobile.com##.banner-tbd
 carpartswholesale.com,enca.com,pwinsider.com,rapdose.com,usahealthcareguide.com##.banner-top
+licenseglobal.com##.banner-top-wrapper
 yabeat.com##.banner-visible
 wpneon.com##.banner-week
 desinode.com,songspk.mobi##.banner-wrapper
@@ -53260,7 +53265,7 @@ euronews.com##.c-card-sponsor
 globalnews.ca##.c-flyers
 globalnews.ca##.c-stickyRail
 mangarockteam.com##.c-top-second-sidebar
-freecomiconline.me,manytoon.com,readfreecomics.com##.c-top-sidebar
+freecomiconline.me,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 mangareader.net##.c10
 theeastafrican.co.ke##.c15r
 maniacdev.com##.c4
@@ -53481,6 +53486,7 @@ htmldog.com##.flower
 amctheatres.com##.flt-ad-strut
 adcrun.ch,bc.vc##.fly_frame
 futurenet.club##.fn-banner
+transfermarkt.com##.fniNGHn
 liquipedia.net##.fo-nttax-infobox-adbox
 newsobserver.com##.focus_box
 gamespot.com##.followBuy__body
@@ -53693,6 +53699,7 @@ wantedinafrica.com##.kn-widget-banner
 the-star.co.ke##.l-banner
 wwe.com##.l-hybrid-col-frame_rail-wrap
 the-star.co.ke##.l-wrapper--banner-00
+transfermarkt.com##.lMpYEdSHQC
 atptour.com##.large-dropin
 soccernews.com##.large-promo
 democraticunderground.com##.largeleaderboard-container
@@ -53765,6 +53772,7 @@ tech.hindustantimes.com##.m-to-add
 net-load.com##.m7s-81.m7s
 wccftech.com##.main-background-wrap
 nagpurtoday.in##.main-logo + div[style="float:right;"]
+color-hex.com##.margin10
 pushsquare.com,songlyrics.com##.masthead
 lifesitenews.com##.matched-content-wrapper
 gamedev.net##.mb-3.align-items-center.justify-content-start
@@ -53829,11 +53837,13 @@ tumblr.com##.nKBUH > ._2vuYz
 nascar.com##.nascar-ad-container
 seura.fi##.nativead:not(.list)
 thetechpoint.org##.navigation-banner
+majorgeeks.com##.navigation-light
 vocm.com##.nccBigBox
 danpatrick.com##.needsclick
 depositfiles.com,dfiles.eu##.network_downloader
 play.typeracer.com##.newNorthWidget
 designtaxi.com##.news-covers > .masonry-brick.nt
+transfermarkt.com##.newsansicht-topspielerprofil
 moddb.com##.nextmediaboxtop
 democraticunderground.com##.nhome-mediumrectangle-container
 hulkshare.com##.nhsBotBan
@@ -54292,7 +54302,7 @@ rxlist.com##.webmdrx_coup
 probuilds.net##.welcome-bnr
 mobygames.com,taskcoach.org##.well
 gearlive.com##.wellvert
-transfermarkt.co.uk##.werbung
+transfermarkt.co.uk,transfermarkt.com##.werbung
 transfermarkt.co.uk##.werbung-skyscraper
 transfermarkt.co.uk,transfermarkt.com##.werbung-skyscraper-container
 gadgethacks.com,reality.news,wonderhowto.com##.whtaph
@@ -54578,6 +54588,7 @@ mangatigre.com##div[id^="i-d-cr-page"]
 medicalnewstoday.com##div[id^="inline3"]
 dexerto.com##div[id^="jwplayer_"]
 kavogaming.com##div[id^="kavog-"]
+mediabiasfactcheck.com##div[id^="media-"]
 yopmail.com,yopmail.fr,yopmail.net##div[id^="pub"]
 howtogeek.com##div[id^="purch_"]
 riverbender.com##div[id^="ros-"]
@@ -54876,6 +54887,8 @@ pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pintere
 pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#?#div[data-test-id="pin"]:-abp-has(div[title="Sponsorizzato da"])
 pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#?#div[data-test-id="pin"]:-abp-has(div[title="Рекламодатель:"])
 radioreference.com#?#.box.gradient:-abp-has(a[href*="&Click="])
+mtgarena.pro#?##root > div > div:-abp-has( > .vm-placement)
+mtgarena.pro#?##root > div:-abp-has(a[href*=casino])
 time.com#?#.article-small-sidebar > .sticky-container:-abp-has(div[id^="ad-"])
 twitter.com#?#div[data-testid="UserCell"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
 twitter.com#?#div[data-testid="eventHero"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
@@ -55878,6 +55891,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 ! Don't install Gladly extension if you don't like ads.
 @@||tab.gladly.io/newtab/|$document,subdocument
 ! Non-English
+@@/banner/ad/*$image,domain=achaloto.com
 @@||90-60-90.in.ua/images/moda/advt/$image,~third-party
 @@||abril.com.br^$generichide
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
@@ -55966,6 +55980,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||netmile.co.jp/ad/images/$image
 @@||news24.jp/ad-navi/$domain=search.news24.jp
 @@||nintendo.co.jp/ring/*/adv$~third-party
+@@||nizista.com/api/v1/adbanner$~third-party
 @@||nnmclub.to/forum/misc/html/advert.html$~third-party
 @@||ntv.co.jp/ad-navi/$domain=search.news24.jp
 @@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
