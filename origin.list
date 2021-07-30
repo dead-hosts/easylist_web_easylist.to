@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107301210
+! Version: 202107301236
 ! Title: EasyList
-! Last modified: 30 Jul 2021 12:10 UTC
+! Last modified: 30 Jul 2021 12:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28690,6 +28690,7 @@ _popunder+$popup
 ##.sh-section-ad
 ##.shadvertisment
 ##.shareToolsItemAd
+##.sheknows-infuse-ad
 ##.shift-ad
 ##.shoppingGoogleAdSense
 ##.short-sidebar-ad-bottom
@@ -34184,6 +34185,7 @@ menstennisforums.com#@#.top_ads
 ||biddyfungussaps.com^
 ||bidiology.com^
 ||bidverdrd.com^
+||bigappboi.com^
 ||bigbolz.com^
 ||bigbootymania.com^
 ||bigprizesonline.com^
@@ -43141,6 +43143,7 @@ menstennisforums.com#@#.top_ads
 ||vstaner.com^
 ||vsteepo.com^
 ||vstet.com^
+||vstzen.com^
 ||vsu2jbpvgx3m.com^
 ||vsvihsib.com^
 ||vsyaiejmfooba.com^
@@ -47588,6 +47591,7 @@ menstennisforums.com#@#.top_ads
 ||glegatemi.pro^$popup
 ||glitteringexcavator.com^$popup
 ||glookroz.net^$popup
+||go2cloud.org^$popup
 ||go2linkfast.com^$popup
 ||gomo.cc^$popup
 ||gonextpage.ru^$popup
@@ -53313,6 +53317,7 @@ wireshark.org##.banner-img-downloads
 freecode.com##.banner-imu
 adbilty.me##.banner-inner
 timesofisrael.com##.banner-placeholder
+tweakreviews.com##.banner-placement__article
 cnslocallife.com##.banner-poster
 freecode.com##.banner-sky
 neogamr.net##.banner-square
