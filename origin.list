@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107312343
+! Version: 202108010015
 ! Title: EasyList
-! Last modified: 31 Jul 2021 23:43 UTC
+! Last modified: 01 Aug 2021 00:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16,7 +16,6 @@
 ! *** easylist:easylist/easylist_general_block.txt ***
 &ad.vid=$~xmlhttprequest
 &ad_block=
-&ad_box_
 &ad_classid=
 &ad_code=
 &ad_height=
@@ -50627,6 +50626,7 @@ menstennisforums.com#@#.top_ads
 ||vdownloader.com/pages/$subdocument,third-party
 ||viagogo.co.uk/feeds/widget.ashx?
 ||vice-publishers-cdn.vice.com^
+||video-ads.a2z.com^
 ||vidible.tv/placement/vast/
 ||vidible.tv/prod/tags/
 ||vidyoda.com/fambaa/chnls/ADSgmts.ashx?
