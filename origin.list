@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108020901
+! Version: 202108020952
 ! Title: EasyList
-! Last modified: 02 Aug 2021 09:01 UTC
+! Last modified: 02 Aug 2021 09:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -45273,8 +45273,7 @@ menstennisforums.com#@#.top_ads
 ||gooblesdd.com^$third-party
 ||goodadvert.ru^$third-party
 ||goodtag.it^$third-party
-||googletagservices.com/tag/js/gpt_$third-party
-||googletagservices.com/tag/static/$third-party
+||googletagservices.com^$third-party
 ||googletrackmanager.com^$third-party
 ||goraps.com^$third-party
 ||goreleetren.com^$third-party
@@ -49813,28 +49812,15 @@ menstennisforums.com#@#.top_ads
 ||gogousenet.com^*/promo2.cgi
 ||gold4rs.com/images/$third-party
 ||goldmoney.com/~/media/Images/Banners/$third-party
-||goo.gl^$image,domain=cracksfiles.com|indishare.org
-||goo.gl^$script,domain=transphoto.ru
-||goo.gl^$subdocument,domain=backin.net
 ||google.com/adsense/ad
 ||google.com/adsense/domains
 ||google.com/adsense/search/
 ||google.com/dp/ads
 ||google.com/pagead/
-||google.com/uds/afs?*adsense$subdocument
 ||googleadapis.l.google.com^$third-party
-||googleapis.com/xxx-mightyparty.appspot.com/$third-party,domain=~cuntwars.com|~nutaku.com|~nutaku.net
 ||googlesyndication.com/ddm/
-||googlesyndication.com/ima3vpaid?
 ||googlesyndication.com/pagead/
-||googlesyndication.com/sadbundle/
 ||googlesyndication.com/safeframe/
-||googlesyndication.com/simgad/
-||googlesyndication.com/sodar/
-||googlesyndication.com^*/click_to_buy/$object,third-party
-||googlesyndication.com^*/domainpark.cgi?
-||googlesyndication.com^*/simgad/
-||googletagservices.com/dcm/dcmads.js
 ||gopjn.com/b/$third-party
 ||gopjn.com/i/$third-party
 ||gotraffic.net^*/sponsors/
@@ -56151,14 +56137,14 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||fwmrm.net/ad/g/$script,domain=viafree.se
 @@||fwmrm.net^*/LinkTag2.js$domain=viafree.se
-@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|video.tv-tokyo.co.jp|vogue.de|voici.fr
-@@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp|gentside.com|pccomponentes.com|vogue.de|voici.fr
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|gamestar.de|pccomponentes.com|video.tv-tokyo.co.jp|vogue.de|voici.fr
+@@||g.doubleclick.net/gpt/pubads_impl_$domain=edy.rakuten.co.jp|gamestar.de|gentside.com|pccomponentes.com|vogue.de|voici.fr
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||gamestar.de/gs_cb/assets/core/js/libs/dfp/prebid.$script,domain=gamestar.de
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gamestar.de|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
 @@||gunosy.co.jp/img/ad/$image,~third-party
 @@||hatenacorp.jp/_next/static/chunks/pages/ads-$script,~third-party
 @@||iejima.org/ad-banner/$image,~third-party
