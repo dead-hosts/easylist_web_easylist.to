@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108030339
+! Version: 202108030410
 ! Title: EasyList
-! Last modified: 03 Aug 2021 03:39 UTC
+! Last modified: 03 Aug 2021 04:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53,7 +53,6 @@
 &adstrade=
 &adstype=
 &AdType=
-&adunit=
 &adunits=$xmlhttprequest
 &adurl=
 &adv_keywords=
@@ -877,6 +876,7 @@
 /?addyn|*
 /?adv_partner
 /?advideo/*
+/?affiliateId=*&realDomain=
 /?view=ad
 /_/ads/*
 /_30/ads/*
@@ -8797,6 +8797,7 @@ _980x100.
 .engine?PlacementId=$popup
 .net/adx.php?$popup
 /?a_aid=*&$popup
+/?affiliateId=*&realDomain=$popup
 /?cver=0&refer$popup
 /?cver=1&refer$popup
 /?ip=*&zoneid=$popup
@@ -51569,8 +51570,6 @@ menstennisforums.com#@#.top_ads
 /^https?:\/\/.*techpowerup\.com\/[a-z0-9\d\D].{1,3}\/.{3,7}/$image,domain=techpowerup.com
 /^https?:\/\/.*tpucdn\.com\/[a-z0-9\d\D]{1,2}\/[a-z0-9\d\D]{2,9}\./$image,domain=techpowerup.com
 /^https?:\/\/.*tpucdn\.com\/[a-z0-9\d\D]{4,}\/[a-z0-9\d\D]{4,9}\./$image,domain=techpowerup.com
-! coincodex.com
-|https://$script,subdocument,third-party,domain=coincodex.com
 ! prebid specific
 ||bustle.com^*/prebid-
 ||dw.com/js/advertisement/
@@ -51624,26 +51623,6 @@ $image,script,subdocument,third-party,xmlhttprequest,domain=heapfiles.com|vidoza
 ! govid.co
 $script,third-party,xmlhttprequest,domain=govid.co
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
-! Imagetwist/Imagenpic/Imageshimage
-@@||imagenpic.com/jquery-*.js
-@@||imagenpic.com/jquery.*.js
-@@||imagenpic.com/xupload.js
-@@||imageshimage.com/jquery-*.js
-@@||imageshimage.com/jquery.*.js
-@@||imageshimage.com/xupload.js
-@@||imagetwist.com/bootstrap.min.js
-@@||imagetwist.com/clipboard.min.js
-@@||imagetwist.com/jquery-*.js
-@@||imagetwist.com/jquery.*.js
-@@||imagetwist.com/swfobject.js
-@@||imagetwist.com/xupload.js
-@@||imagetwist.com/ZeroClipboard.js
-||imagenpic.com^$script,~third-party
-||imagenpic.com^$~third-party,xmlhttprequest
-||imageshimage.com^$script,~third-party
-||imageshimage.com^$~third-party,xmlhttprequest
-||imagetwist.com^$script,~third-party
-||imagetwist.com^$~third-party,xmlhttprequest
 ! canyoublockit.com
 @@||akamaiedge.net^$domain=canyoublockit.com
 @@||cloudflare.com^$script,stylesheet,domain=canyoublockit.com
@@ -51685,13 +51664,6 @@ $script,stylesheet,third-party,xmlhttprequest,domain=vshare.eu
 ! urlcash.net
 |http://$script,xmlhttprequest,domain=urlcash.net
 |https://$script,xmlhttprequest,domain=urlcash.net
-! animepahe.com
-$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=animepahe.com
-@@||cloudflare.com^$script,third-party,domain=animepahe.com
-@@||fonts.googleapis.com^$stylesheet,domain=animepahe.com
-@@||jsdelivr.net^$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=animepahe.com|kwik.cx
-@@||kwik.cx^$script,stylesheet,subdocument,xmlhttprequest,domain=animepahe.com|kwik.cx
-@@||nextstream.org^$xmlhttprequest,domain=animepahe.com|kwik.cx
 ! multiup.org
 @@||cdn.multiup.org/assets/js.js$script,domain=multiup.eu
 |http://$script,third-party,xmlhttprequest,domain=multiup.eu|multiup.org
