@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108031108
+! Version: 202108031129
 ! Title: EasyList
-! Last modified: 03 Aug 2021 11:08 UTC
+! Last modified: 03 Aug 2021 11:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8289,7 +8289,6 @@ _prebid_
 /adblock.gif?
 /adblock_detect.
 /adblock_detector.
-/adblock_detector2.
 /adblock_logger.
 /adblockdetect.
 /adblockdetect/*
@@ -37618,6 +37617,7 @@ menstennisforums.com#@#.top_ads
 ||host-host-ads.com^
 ||hostave.net^
 ||hostave4.net^
+||hostingcloud.racing^
 ||hosupshunk.com^
 ||hot-3d-girls.com^
 ||hot4k.org^
@@ -41765,6 +41765,7 @@ menstennisforums.com#@#.top_ads
 ||sketchinferiorunits.com^
 ||skillpropulsion.com^
 ||skilyake.net^
+||skimegcolder.com^
 ||skinnyfinnishhi.com^
 ||sknkwpvrkz.com^
 ||skreighphotic.cam^
@@ -51360,8 +51361,16 @@ menstennisforums.com#@#.top_ads
 ||idlebrain.com^*/square-
 ||ignimgs.com/ign/pogoadk.js$script,domain=ign.com
 ||iheart.com^*/getLiveRadioAdConfig
+||imgadult.com/ea2/
+||imgadult.com/tb02673583fb.js
 ||imgcarry.com/includes/js/layer.js
+||imgdrive.net/anex/
 ||imgshots.com/includes/js/layer.js
+||imgtaxi.com/ea/
+||imgtaxi.com/tb02673583fb.js
+||imgwallet.com/anex/
+||imgwallet.com/frame.php
+||imgwallet.com/tb02673583fb.js
 ||imp.accesstra.de^
 ||indiadesire.com/bbd/
 ||indiansinkuwait.com/Campaign/
