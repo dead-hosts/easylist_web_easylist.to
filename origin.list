@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108041229
+! Version: 202108041259
 ! Title: EasyList
-! Last modified: 04 Aug 2021 12:29 UTC
+! Last modified: 04 Aug 2021 12:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29730,6 +29730,7 @@ _popunder+$popup
 ##.tj_ad_box_top
 ##.tjads
 ##.tk-ad-top
+##.tk-ad-top-placeholder
 ##.tl-ad
 ##.tl-ad-dfp
 ##.tl-ad-display-3
@@ -32810,6 +32811,7 @@ menstennisforums.com#@#.top_ads
 ||2b43cb6a34a.com^
 ||2b815136jjjv.com^
 ||2bbb379103988619ef.com^
+||2bc2456a2b.com^
 ||2bdde500c34.com^
 ||2c0dad36bdb9eb859f0.com^
 ||2c3a97984f45.com^
@@ -35372,6 +35374,7 @@ menstennisforums.com#@#.top_ads
 ||daero.pw^
 ||daethana.pw^
 ||daffaite.com^
+||dafoljqjmlopaf.com^
 ||dafthulksyams.com^
 ||daibusee.com^
 ||daichoho.com^
@@ -36145,6 +36148,7 @@ menstennisforums.com#@#.top_ads
 ||elfcoexistbird.com^
 ||elfirkelk.com^
 ||elkbahtax.com^
+||ellenince.biz^
 ||elliotfoodauditioning.com^
 ||elliotnotions.com^
 ||elongatedinscription.com^
@@ -38872,6 +38876,7 @@ menstennisforums.com#@#.top_ads
 ||mblgcaczvm.com^
 ||mblink.in^
 ||mblkunfd.com^
+||mcdncoiw.com^
 ||mcdnmv.com^
 ||mcmhatmt.com^
 ||mczahprdql.com^
@@ -39253,6 +39258,7 @@ menstennisforums.com#@#.top_ads
 ||movie-pass.live^
 ||moviefatbeatfarm.live^
 ||moviemediahub.com^
+||moviemutilate.com^
 ||moviesflix4k.info^
 ||moviesprofit.com^
 ||moviesteward.com^
@@ -39978,6 +39984,7 @@ menstennisforums.com#@#.top_ads
 ||othernfrence.club^
 ||othesarialiber.club^
 ||othyightmare.club^
+||otisephie.com^
 ||otlffresod.com^
 ||otnolabttmup.com^
 ||otnolatrnup.com^
@@ -40063,6 +40070,7 @@ menstennisforums.com#@#.top_ads
 ||oyywtwcx.com^
 ||ozmifi.info^
 ||ozongees.com^
+||oztdgacxmf.com^
 ||oztpeloyj.com^
 ||ozwjhdler.com^
 ||ozyawn.com^
@@ -42737,6 +42745,7 @@ menstennisforums.com#@#.top_ads
 ||twfilnym.com^
 ||twinadsrv.com^
 ||twindiversity.com^
+||twinrdsrv.com^
 ||twinwalnutthy.com^
 ||twirlunsight.cam^
 ||twittad.com^
@@ -42939,6 +42948,7 @@ menstennisforums.com#@#.top_ads
 ||usounoul.com^
 ||ustbitsoct.top^
 ||ustedpicklyba.space^
+||ustingpres.fun^
 ||ustxsntseyhwsx.com^
 ||usuallycrummy.com^
 ||uszaodwya.com^
@@ -43205,6 +43215,7 @@ menstennisforums.com#@#.top_ads
 ||vstaner.com^
 ||vsteepo.com^
 ||vstet.com^
+||vstop3.com^
 ||vstzen.com^
 ||vsu2jbpvgx3m.com^
 ||vsvihsib.com^
@@ -43542,6 +43553,7 @@ menstennisforums.com#@#.top_ads
 ||writtenorbithalfbaked.com^
 ||wrkl.xyz^
 ||wroteadministercurve.com^
+||wrqmkayidop.com^
 ||wsjlbbqemr23.com^
 ||wskiglimpso.info^
 ||wsknjebphx.com^
@@ -47949,6 +47961,7 @@ menstennisforums.com#@#.top_ads
 ||oranegfodnd.com^$popup
 ||oratosaeron.com^$popup
 ||origer.info^$popup
+||otisephie.com^$popup
 ||otnolabttmup.com^$popup
 ||outhulem.net^$popup
 ||outrushfetor.cam^$popup
@@ -48287,6 +48300,7 @@ menstennisforums.com#@#.top_ads
 ||tutotrack.com^$popup
 ||tutvp.com^$popup
 ||tvas-b.pw^$popup
+||twinrdsrv.com^$popup
 ||twqiqiang.com^$popup
 ||ucheephu.com^$popup
 ||udncoeln.com^$popup
@@ -49111,6 +49125,7 @@ menstennisforums.com#@#.top_ads
 ||whalepp.com^
 ||xoredi.com^
 ||xxssyndic.com^
+||xxxjmp.com^
 ||xzlnews.info^
 ||yebadu.com^
 ||yoredi.com^
@@ -49241,6 +49256,7 @@ menstennisforums.com#@#.top_ads
 ||xpeeps.com^$popup,third-party
 ||xvika.com^$popup
 ||xxlargepop.com^$popup
+||xxxjmp.com^$popup
 ||xxxmatch.com^$popup
 ||xxxrevpushclcdu.com^$popup
 ||zononi.com^$popup,third-party
@@ -51307,7 +51323,8 @@ menstennisforums.com#@#.top_ads
 ||tethered-realms.valorbuff.com^
 ! 
 /^https?:\/\/.*techpowerup\.com\/[a-z0-9\d\D].{1,3}\/.{3,7}/$image,domain=techpowerup.com
-/^https?:\/\/.*tpucdn\.com\/[a-z0-9\d\D]{1,2}\/[a-z0-9\d\D]{1,}.\/[a-z0-9\d\D]{5,}/$image,domain=techpowerup.com
+/^https?:\/\/.*techpowerup\.com\/[a-z0-9\d\D]{1,2}\/[a-z0-9\d\D]{4,}\./$image,domain=techpowerup.com
+/^https?:\/\/.*tpucdn\.com\/[a-z0-9\d\D]{1,2}\/[a-z0-9\d\D]{5,}/$image,domain=techpowerup.com
 /^https?:\/\/.*tpucdn\.com\/[a-z0-9\d\D]{4,}\/[a-z0-9\d\D]{4,}\./$image,domain=techpowerup.com
 ! prebid specific
 ||bustle.com^*/prebid-
