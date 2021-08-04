@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108040455
+! Version: 202108040541
 ! Title: EasyList
-! Last modified: 04 Aug 2021 04:55 UTC
+! Last modified: 04 Aug 2021 05:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12537,6 +12537,7 @@ _popunder+$popup
 ###advert-2
 ###advert-ahead
 ###advert-banner
+###advert-banner-container
 ###advert-banner-wrap
 ###advert-block
 ###advert-boomer
@@ -49283,7 +49284,6 @@ menstennisforums.com#@#.top_ads
 ||amazonaws.com/mailcache.appinthestore.com/
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=downloadpirate.com|vshare.eu|yify-movies.net
 ||an.yandex.ru^$domain=~e.mail.ru
-||analytics.disneyinternational.com^
 ||any.gs/visitScript/$third-party
 ||ao-freegeoip.herokuapp.com^
 ||api.140proof.com^$third-party
@@ -51015,10 +51015,9 @@ menstennisforums.com#@#.top_ads
 ||artdaily.cc/banners/
 ||as.inbox.com^
 ||ascii-art-generator.org/cnc/$xmlhttprequest
-||atptour.com^*/rolex/
+||atptour.com/assets/atpwt/third-party/
 ||atptour.com^*/sponsors/
 ||audiobookbay.nl/images/d-t.gif
-||audiobookbay.nl/images/direct.gif
 ||audiotag.info/images/banner_
 ||aurn.com/wp-content/banners/
 ||aveherald.com/images/banners/
@@ -51424,6 +51423,7 @@ menstennisforums.com#@#.top_ads
 ||wsj.net/pb/pb.js
 ! In-page video advertising.
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
+||channelexco.com/player/$third-party
 ||connatix.com/connatix.player.js$script,third-party
 ||connatix.com/connatix.playspace.js$script,third-party
 ||connatix.com^*/connatix.player.js$script,third-party
@@ -52028,6 +52028,7 @@ pcworld.com###articleLeaderboardWrapper
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
 findmysoft.com###as_336
 flyordie.com###asf
+news.grabien.com###atv-gpt1
 scalemates.com###avph
 teamfortress.tv###aw
 convertinmp4.com###b300ib
@@ -52239,6 +52240,7 @@ semiconductor-today.com###homeright
 nutritioninsight.com###horizontalblk
 cd1025.com###hp-leader
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
+nzbindex.com###i > .inner
 hltv.org###i3_middle
 weloma.net###id-custom_banner
 unitconversion.org###ileft
@@ -54134,6 +54136,7 @@ debka.com##.top-full-width-sidebar
 1071thepeak.com,gpfans.com##.top-leaderboard
 speedtest.net##.top-placeholder
 donedeal.ie##.top-placement-container
+playbuzz.com##.top-stickyplayer-container
 globes.co.il,techcentral.ie,texteditor.co,versus.com##.topBanner
 tutorviacomputer.com##.topMargin15
 click2houston.com,clickondetroit.com,clickorlando.com##.topWrapper
@@ -54273,8 +54276,7 @@ jagoroniya.com##[href="https://www.virtuanic.com/"]
 bittools.net##[href^="//www.bittools.net/binance"]
 shroomery.org##[href^="//www.shroomery.org/ads/"]
 yoursports.stream##[href^="/bet"]
-audiobookbay.nl##[href^="/dl-now"]
-nzbindex.com##[href^="/i/c/"]
+audiobookbay.nl##[href^="/down-"]
 steroid.com##[href^="/out.php"]
 myabandonware.com##[href^="/visual/r-2/"]
 orschlurch.net,tetris.com##[href^="https://amzn.to/"]
