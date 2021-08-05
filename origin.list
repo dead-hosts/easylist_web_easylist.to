@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108051829
+! Version: 202108051859
 ! Title: EasyList
-! Last modified: 05 Aug 2021 18:29 UTC
+! Last modified: 05 Aug 2021 18:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23959,6 +23959,7 @@ _popunder+$popup
 ##.bottom-ads728
 ##.bottom-adv
 ##.bottom-adv-container
+##.bottom-adv1
 ##.bottom-banner-ad
 ##.bottom-center-adverts
 ##.bottom-game-ad
@@ -51342,8 +51343,8 @@ menstennisforums.com#@#.top_ads
 ||speedrun.com/a.js
 ||tethered-realms.valorbuff.com^
 ! 
-/^https?:\/\/.*techpowerup\.com\/(?!.*images|img|gallery|review|forums).*/$image,domain=techpowerup.com
-/^https?:\/\/.*tpucdn\.com\/(?!.*images|img|gallery|review|forums).*/$image,domain=techpowerup.com
+/^https?:\/\/.*techpowerup\.com\/(?!.*images|img|gallery|review|forums)\/.*/$image,domain=techpowerup.com
+/^https?:\/\/.*tpucdn\.com\/(?!.*images|img|gallery|review|forums)\/.*/$image,domain=techpowerup.com
 ! prebid specific
 ||bustle.com^*/prebid-
 ||dw.com/js/advertisement/
