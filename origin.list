@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108050906
+! Version: 202108050939
 ! Title: EasyList
-! Last modified: 05 Aug 2021 09:06 UTC
+! Last modified: 05 Aug 2021 09:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30693,6 +30693,7 @@ _popunder+$popup
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://go.astutelinks.com/"]
+##[href^="https://join.playboyplus.com/track/"]
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://mylead.global/stl/"] > img
 ##[href^="https://mysbitl.com"]
@@ -51039,7 +51040,7 @@ menstennisforums.com#@#.top_ads
 ||facebook.com^*/instream/vast.xml?
 ||failgags.com/yxsfidlqemb.php
 ||familylawweek.co.uk/bin_1/
-||fastpic.ru/g/
+||fastpic.org/g/f.js
 ||finchannel.com/images/banners/
 ||findit.com.mt/viewer/
 ||fishki.net/code?
@@ -51232,6 +51233,7 @@ menstennisforums.com#@#.top_ads
 ||sportpesanews.com/images/promo/
 ||sportzonline.to/n5m2qksvpd.js
 ||stagevu.com/AR2F6eftuQmA.js
+||static.fastpic.org^$subdocument
 ||static.tellerium.com^$subdocument
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||stats.print.work^
