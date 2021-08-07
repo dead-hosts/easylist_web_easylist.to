@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108070734
+! Version: 202108070803
 ! Title: EasyList
-! Last modified: 07 Aug 2021 07:34 UTC
+! Last modified: 07 Aug 2021 08:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49677,6 +49677,7 @@ menstennisforums.com#@#.top_ads
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmx.districtm.io^$third-party
 ||dn3nmb5yt1ysw.cloudfront.net^
+||dnved6ocs3pa4.cloudfront.net^
 ||do69ll745l27z.cloudfront.net^
 ||dojx47ab4dyxi.cloudfront.net^
 ||domain.com.au/widget/$subdocument,third-party
@@ -51455,11 +51456,6 @@ $image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=vidtodo.c
 ! bc.vc
 |http://$script,third-party,xmlhttprequest,domain=bc.vc
 |https://$script,third-party,xmlhttprequest,domain=bc.vc
-! adf.ly
-@@||adf.ly/static/image/$image,~third-party
-@@||s1-adfly.com/show.php?$subdocument,third-party,domain=adf.ly
-|http://$third-party,domain=adf.ly|s1-adfly.com
-|https://$third-party,domain=adf.ly|s1-adfly.com
 ! damimage.com, imagedecode.com, imageteam.org
 $media,domain=damimage.com|imagedecode.com|imageteam.org
 |http://$image,script,third-party,xmlhttprequest,domain=damimage.com|imagedecode.com|imageteam.org
@@ -52313,6 +52309,7 @@ techraptor.net###nn_lb4
 forums.somethingawful.com###notregistered
 onlinemschool.com###oms_left
 powvideo.net,streamplay.to###overlay
+rapid-cloud.ru,streamrapid.ru###overlay-container
 seeklogo.com###panelAdShutterStockPromo
 hwbot.org###partner-tiles
 hbr.org###partnerCenter
