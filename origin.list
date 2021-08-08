@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108080347
+! Version: 202108080356
 ! Title: EasyList
-! Last modified: 08 Aug 2021 03:47 UTC
+! Last modified: 08 Aug 2021 03:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18055,6 +18055,7 @@ _popunder+$popup
 ##.IM_ad_unit
 ##.InArticleAd
 ##.IndexRightAd
+##.InsertedAd
 ##.InternalAdPanel1
 ##.JobListMidAd
 ##.LL_Widget_Advertorial
@@ -29428,6 +29429,7 @@ _popunder+$popup
 ##.stand-alone-adzone
 ##.standalone-ad-container
 ##.standalone_txt_ad
+##.standalonead
 ##.standard-ad
 ##.star-ad
 ##.start__advertising_container
@@ -50042,6 +50044,7 @@ menstennisforums.com#@#.top_ads
 ||p.jwpcdn.com/player/plugins/vast/
 ||p.pw/banners/$third-party
 ||p.smartertravel.com^$third-party
+||pacontainer.s3.amazonaws.com^
 ||padsdel.com^$third-party
 ||pagead2.googlesyndication.com^
 ||pagerage.com^$subdocument,third-party
@@ -51285,7 +51288,7 @@ menstennisforums.com#@#.top_ads
 ||tethered-realms.valorbuff.com^
 ! Techpowerup
 /^https?:\/\/.*techpowerup\.com\/(?!.*img\/|review\/|forums\/).*/$image,domain=techpowerup.com
-/^https?:\/\/.*tpucdn\.com\/(?!.*img\/|review\/|forums\/).*/$image,domain=techpowerup.com
+/^https?:\/\/.*tpucdn\.com\/(?!.*images\/|img\/|review\/|forums\/).*/$image,domain=techpowerup.com
 ! Techpowerup2
 ||tpucdn.com/images/75willrunoutofdirssoon$image,domain=techpowerup.com
 ! prebid specific
@@ -52593,6 +52596,7 @@ dailytech.com##.BottomMarquee
 tutiempo.net##.ContBannerTop
 diet.com##.Fine
 charismanews.com##.FpFeaturedBoxWrap
+nationalgeographic.com##.FrameBackgroundFull--grey
 askapache.com##.GAD
 google.co.uk##.GBTLFYRDM0
 google.com##.GC3LC41DERB + div[style="position: relative; height: 170px;"]
