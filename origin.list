@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108100516
+! Version: 202108100549
 ! Title: EasyList
-! Last modified: 10 Aug 2021 05:16 UTC
+! Last modified: 10 Aug 2021 05:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32155,6 +32155,7 @@ gamingcools.com#@#.Adsense
 home-search.org.uk#@#.AdvertContainer
 homeads.co.nz#@#.HomeAds
 travelzoo.com#@#.IM_ad_unit
+m.motonet.fi#@#.ProductAd
 ehow.com#@#.RelatedAds
 everydayhealth.com#@#.SponsoredContent
 francofilo.com#@#.aalb-pa-ad-unit
@@ -50268,6 +50269,7 @@ menstennisforums.com#@#.top_ads
 ||vdownloader.com/pages/$subdocument,third-party
 ||viagogo.co.uk/feeds/widget.ashx?
 ||vice-publishers-cdn.vice.com^
+||vid.connatix.com^*/720_h264.mp4$media
 ||video-ads.a2z.com^
 ||vidible.tv/placement/vast/
 ||vidible.tv/prod/tags/
@@ -50851,6 +50853,7 @@ menstennisforums.com#@#.top_ads
 ||beap.gemini.yahoo.com^
 ||bernama.com/storage/banner/
 ||bestblackhatforum.com/images/my_compas/
+||betaseries.com/images/partner/
 ||binlist.net/clearhaus-top-banner.png
 ||bioinformatics.org/images/ack_banners/
 ||bit.com.au/scripts/js_$script
@@ -55423,7 +55426,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|cbc.ca|embed.comicbook.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||img-cdn.mediaplex.com^$image,domain=betfair.com
