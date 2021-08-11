@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108110753
+! Version: 202108110813
 ! Title: EasyList
-! Last modified: 11 Aug 2021 07:53 UTC
+! Last modified: 11 Aug 2021 08:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28846,6 +28846,7 @@ _popunder+$popup
 ##.sidebar-adv-container
 ##.sidebar-advert
 ##.sidebar-advertisement
+##.sidebar-advertisment
 ##.sidebar-adverts
 ##.sidebar-adverts-header
 ##.sidebar-atf-ad-wrapper
@@ -50770,7 +50771,6 @@ menstennisforums.com#@#.top_ads
 ||adaderana.lk/banners/
 ||adblock-tester.com/banners/
 ||ads.leovegas.com^
-||adswikia.com^*banner
 ||adultswim.com/ad/
 ||advfn.com/common/commercial/
 ||afloat.ie/images/banners/
@@ -50938,7 +50938,6 @@ menstennisforums.com#@#.top_ads
 ||infobetting.com/bookmaker/
 ||insideyork.co.uk/assets/images/sponsors/
 ||investing.com/jp.php
-||invezz.com^*-leaderboard-
 ||irishdev.com/files/banners/
 ||italiangenealogy.com/images/banners/
 ||itweb.co.za/sponsored_
@@ -53242,7 +53241,7 @@ plos.org##.head-top
 tmrzoo.com##.headbanner
 kolompc.com##.header-area
 worldpress.org##.header-b
-americanfreepress.net,cookinglight.com,freemalaysiatoday.com,gameplayinside.com,kodicommunity.com,landandfarm.com,pointblanknews.com,runt-of-the-web.com##.header-banner
+adswikia.com,americanfreepress.net,cookinglight.com,freemalaysiatoday.com,gameplayinside.com,kodicommunity.com,landandfarm.com,pointblanknews.com,runt-of-the-web.com##.header-banner
 fansided.com,winteriscoming.net##.header-billboard
 vapingunderground.com##.header-block
 worldpress.org##.header-bnr
@@ -53481,6 +53480,7 @@ motorsport.com##.ms-apb-dmpu
 autosport.com##.ms-side-items--with-banner
 marinetraffic.com##.mt-desktop-mode
 zerolives.com##.munder-fn5udnsn
+invezz.com##.mx-auto
 standardmedia.co.ke##.my-2
 news18.com##.n18thder
 transfermarkt.com##.nENxsZD
