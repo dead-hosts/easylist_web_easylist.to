@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108161936
+! Version: 202108161958
 ! Title: EasyList
-! Last modified: 16 Aug 2021 19:36 UTC
+! Last modified: 16 Aug 2021 19:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11321,6 +11321,7 @@ _800x80_
 ###adsensequadr
 ###adsenseskyscraper
 ###adsensetext
+###adsensetop
 ###adsensetopmobile
 ###adsensetopplay
 ###adsensewide
@@ -18191,6 +18192,7 @@ _800x80_
 ##.ad-main
 ##.ad-manager-ad
 ##.ad-manager-placeholder
+##.ad-manager-wrapper
 ##.ad-margin
 ##.ad-marker
 ##.ad-marketplace
@@ -23385,6 +23387,12 @@ _800x80_
 ##.bxad
 ##.bz-ad
 ##.bzads-ic-ad-300-250-600
+##.c-Ad
+##.c-Ad--ezoic
+##.c-Ad--inArticle
+##.c-Ad--rectangle
+##.c-Ad__label
+##.c-Adhesion
 ##.c-ad
 ##.c-ad--mobile-bigbanner
 ##.c-ad--rectangle
@@ -51619,8 +51627,10 @@ ecoustics.com###zox-lead-bot
 talkingpointsmemo.com##.--span\:12.AdSlot
 voiceofsandiego.org##.-sponsored
 yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se##.ABP
-bendsource.com,federalnewsnetwork.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tucsonweekly.com##.Ad
+bendsource.com,federalnewsnetwork.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tucsonweekly.com,win.gg##.Ad
 footballitaliano.co.uk##.Ad1
+win.gg##.AdLabel
+win.gg##.AdToggle
 stadiumastro.com##.Ads
 tvnz.co.nz##.Advert
 terradaily.com##.BDTX
@@ -52048,6 +52058,7 @@ guanabee.com##.buzzfeedSubColPod
 stlmag.com##.buzzworthy
 buzzillions.com##.bz-model-lrec
 insurancejournal.com##.bzn
+win.gg##.c-ArticlePageWrapper_banner
 afl.com.au##.c-accordion__item-officialpartners
 newstalkzb.co.nz##.c-background
 truck1.eu##.c-banners
