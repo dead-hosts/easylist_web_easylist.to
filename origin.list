@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108160957
+! Version: 202108161016
 ! Title: EasyList
-! Last modified: 16 Aug 2021 09:57 UTC
+! Last modified: 16 Aug 2021 10:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -35718,6 +35718,7 @@ menstennisforums.com#@#.top_ads
 ||expocrack.com^
 ||exponderle.pro^
 ||exporder-patuility.com^
+||exposuremixed.com^
 ||expresentc.top^
 ||expresswebtraffic.com^
 ||exrtbsrv.com^
@@ -37032,6 +37033,7 @@ menstennisforums.com#@#.top_ads
 ||hzkachqd.com^
 ||hznvtg.com^
 ||hzzevwlmjji.com^
+||i-afk.com^
 ||i0s26ol9.com^
 ||i4rsrcj6.top^
 ||i4tvy8vk9f74.com^
@@ -38443,7 +38445,6 @@ menstennisforums.com#@#.top_ads
 ||mk1lyl406xmp.com^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
-||mkklcdnv6temp.com^
 ||mkomrzsizvjdg.com^
 ||ml0z14azlflr.com^
 ||ml314.com^
@@ -41522,6 +41523,7 @@ menstennisforums.com#@#.top_ads
 ||strokenail.com^
 ||strongexplain.com^
 ||strongholdtommycouncilman.com^
+||stronglygathering.com^
 ||stroublederaa.club^
 ||stroublederel.club^
 ||stsunfulnoth.top^
@@ -50346,7 +50348,7 @@ menstennisforums.com#@#.top_ads
 ! bit.ly
 /^https?:\/\/.*bit(ly)?\.(com|ly)\//$domain=1337x.to|eztv.io|eztv.tf|eztv.yt|fmovies.taxi|fmovies.world|limetorrents.info|megaup.net|mrunlock.kim|newser.com|sendit.cloud|torlock.com|uiz.io|userscloud.com|vev.red|vidbull.tv|vidop.icu|vidup.io|yourbittorrent2.com
 ! Torrent/Pirate sites /sw.js
-/^https?:\/\/.*\/.*(sw[0-9a-z._-]{1,6}|\.notify\.).*/$script,domain=123films.cc|1337x.to|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clk.ink|cloudvideo.tv|cocomanhua.com|downloadpirate.com|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|getlink.pro|igg-games.com|indishare.org|linksly.co|megaup.net|mixdrop.co|mp3-convert.org|newser.com|nutritioninsight.com|ouo.press|powvideo.net|powvldeo.cc|primewire.sc|sendit.cloud|sendspace.com|shrinke.me|shrinkhere.xyz|solarmovie.to|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|userscloud.com|v96-surf.com|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidup.io|vumoo.life|watchtvseries.video|xtgem.com|xtits.com|yourbittorrent2.com|zippyshare.com
+/^https?:\/\/.*\/.*(sw[0-9a-z._-]{1,6}|\.notify\.).*/$script,domain=123films.cc|123proxy.biz|1337x.to|animekisa.tv|anonfiles.com|aparat.cam|bdupload.asia|bitfly.io|cashurl.in|clk.ink|cloudvideo.tv|cocomanhua.com|downloadpirate.com|filmix.co|filmlinks4u.is|flashx.pw|fmovies.taxi|fmovies.world|getlink.pro|igg-games.com|indishare.org|linksly.co|megaup.net|mixdrop.co|mp3-convert.org|newser.com|nutritioninsight.com|ouo.press|powvideo.net|powvldeo.cc|primewire.sc|sendit.cloud|sendspace.com|shrinke.me|shrinkhere.xyz|solarmovie.to|uiz.io|up-load.io|upload.ac|uploadever.com|uploadproper.net|uploadrive.com|uplovd.com|upstream.to|userscloud.com|v96-surf.com|vev.red|vidbull.tv|videobin.co|vidlox.me|vidop.icu|vidoza.co|vidoza.net|vidtomp3.com|vidup.io|vumoo.life|watchtvseries.video|xtgem.com|xtits.com|yourbittorrent2.com|zippyshare.com
 /^https?:\/\/.*\/sw.js?.[a-zA-Z0-9%]{50,}/$script,~third-party
 ! vidoza.net
 $image,script,subdocument,third-party,xmlhttprequest,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -50997,6 +50999,7 @@ cpuid.com###console_log
 scanboat.com###content > .margin-tb-25
 blastingnews.com###content-banner-dx1-p1
 amatuks.co.za###content-sponsors
+123proxy.biz###cookieConsentUR99472
 wsj.com###coupon-links
 titantv.com###ctl00_Main_TVL_ctl00_sb
 leader.co.za###ctl00_cphBody_pnUsefulLinks
