@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108172222
+! Version: 202108172303
 ! Title: EasyList
-! Last modified: 17 Aug 2021 22:22 UTC
+! Last modified: 17 Aug 2021 23:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4439,7 +4439,7 @@
 /Google-Ads-
 /google-ads.
 /google-ads/*
-/google-adsense-
+/google-adsense-$domain=~webst8.com
 /google-adsense.
 /google-adverts-
 /google-afc-
@@ -25624,6 +25624,7 @@ _800x80_
 ##.ipsAdvertisement
 ##.iqadlinebottom
 ##.iqadmarker
+##.is-below-header-ad
 ##.is-mpu
 ##.is-sponsored
 ##.is-sticky-ad
@@ -27195,6 +27196,8 @@ _800x80_
 ##.pq-ad
 ##.pr-ad-tower
 ##.pr-widget
+##.pr_adslot_0
+##.pr_adslot_1
 ##.pre-article-ad
 ##.pre-roll-ad
 ##.pre-title-ad
@@ -50862,6 +50865,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||stream-69.com/code/script/
 ||sunporno.com/bl.php
 ||sxyprn.net/b/
+||t.winpbnp.com^
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
 ||tbib.org/gaming/
 ||tbib.org/tbib.
