@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108170614
+! Version: 202108170737
 ! Title: EasyList
-! Last modified: 17 Aug 2021 06:14 UTC
+! Last modified: 17 Aug 2021 07:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1891,7 +1891,7 @@
 /adnetwork468.
 /adnetwork_
 /adnew2.
-/adnews.$domain=~adnews.com.br|~adnews.pl
+/adnews.$domain=~adnews.com.br|~adnews.galitt.com|~adnews.pl
 /adnex.
 /adnext.$domain=~adnext.pl
 /adnexus-
@@ -37323,6 +37323,7 @@ menstennisforums.com#@#.top_ads
 ||intendspatteremerald.com^
 ||intentanalysis.com^
 ||intentlyrecreate.com^
+||intentsuntune.casa^
 ||inter1ads.com^
 ||interceptstephen.com^
 ||interclics.com^
@@ -37895,6 +37896,7 @@ menstennisforums.com#@#.top_ads
 ||ledhatbet.com^
 ||ledmophemp.com^
 ||ledraumt.com^
+||ledslevier.com^
 ||leeryabdomencares.com^
 ||leerymeasurejam.com^
 ||leetmedia.com^
@@ -41609,6 +41611,7 @@ menstennisforums.com#@#.top_ads
 ||squeezedobscene.com^
 ||squeezedthoughtfully.com^
 ||squeezemicrowave.com^
+||squineeyuck.com^
 ||squirrelhissedintake.com^
 ||sresumablye.club^
 ||srigbxxv.com^
@@ -54515,6 +54518,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||facebook.com/ajax/settings/account/advertising_email.php$~third-party,xmlhttprequest
 @@||fbcdn.net/rsrc.php/*.css$stylesheet,~third-party
 @@||fdyn.pubwise.io^$script,domain=urbanglasgow.co.uk
+@@||files.slack.com/files-tmb/$image,domain=app.slack.com
 @@||flying-lines.com/banners/$image,~third-party
 @@||forum.miuiturkiye.net/konu/reklam.$~third-party,xmlhttprequest
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
