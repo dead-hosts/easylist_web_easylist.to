@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108181151
+! Version: 202108181235
 ! Title: EasyList
-! Last modified: 18 Aug 2021 11:51 UTC
+! Last modified: 18 Aug 2021 12:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30747,6 +30747,7 @@ _800x80_
 ##a[href^="http://https://www.get-express-vpn.com/offer/"]
 ##a[href^="https://affiliate.rusvpn.com/click.php?"]
 ##a[href^="https://billing.purevpn.com/aff.php"] > img
+##a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="]
 ##a[href^="https://go.nordvpn.net/aff"] > img
 ##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://track.ultravpn.com/"]
@@ -48425,6 +48426,7 @@ menstennisforums.com#@#.top_ads
 ||cebadu.com^
 ||clickbigo.com^
 ||clmcom.com^
+||cpng.be^
 ||cpng.click^
 ||cpng.lol^
 ||crentexgate.com^
@@ -48525,6 +48527,7 @@ menstennisforums.com#@#.top_ads
 ||ckrf1.com^$popup
 ||connexionsafe.com^$popup
 ||cooch.tv^$popup,third-party
+||cpng.be^$popup
 ||cpng.click^$popup
 ||cpng.lol.^$popup
 ||cpng.lol^$popup
@@ -51094,6 +51097,7 @@ mydorpie.com###imgbcont
 luxweb.lu###imu
 designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
+wsj.com###in_ad_col_b
 thefastmode.com###inarticlemodule
 riverbender.com###injected-300x250
 krnb.com###inner-footer
@@ -51697,7 +51701,7 @@ iamwire.com##.adr
 roblox.com,spotify.com##.ads-container
 giveawayoftheday.com##.ads_wrap
 informer.com##.adsbygoogle
-looktothestars.org,nintandbox.net,plurk.com,tolonews.com##.adsense
+looktothestars.org,nintandbox.net,plurk.com,thebarentsobserver.com,tolonews.com##.adsense
 search.b1.org##.adslabel
 miamitodaynews.com##.adtext
 wordreference.com##.adtitle
@@ -52962,11 +52966,13 @@ ycuniverse.com##.subheader_container
 monocle.com##.super-leaderboard
 1movies.best##.superButton
 msn.com##.superbanner
+thepostmillennial.com##.support
 cdromance.com##.support-us
 radiotoday.co.uk##.supportHideBack
 fstoppers.com##.supportImg
 indiedb.com,moddb.com##.supporter
 thespinoff.co.nz##.supporters-block
+thepostmillennial.com##.surfsharkcontent
 timesofmalta.com##.sw-Top
 saltwire.com##.sw-banner
 emoneyspace.com##.t_a_c
@@ -53107,6 +53113,7 @@ talkers.com##.wpss_slideshow
 theregister.com##.wptl
 memeburn.com,ventureburn.com##.wrapper--grey
 paultan.org##.wrapper-footer
+wsj.com##.wsj-ad-label
 webtoolhub.com##.wth_zad_text
 myabandonware.com##.x725
 mcpmag.com##.xContent
