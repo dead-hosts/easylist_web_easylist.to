@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108180259
+! Version: 202108180314
 ! Title: EasyList
-! Last modified: 18 Aug 2021 02:59 UTC
+! Last modified: 18 Aug 2021 03:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1465,7 +1465,6 @@
 /adbanner_
 /adbanners/*
 /adbar.$domain=~adbar.fi|~adbar.io|~adbar.jp
-/adbar/*
 /adbar2_
 /adbar_
 /adbars.
@@ -53912,6 +53911,8 @@ hotmovs.com##.fel-fbs
 sss.xxx##.fel-item
 tuberel.com##.fel-list
 javfor.tv##.fel-playclose
+javfor.tv##.my-2.container
+javfor.tv###smac12403o0
 hotmovs.com,thegay.com##.fiioed
 ah-me.com##.flirt-block
 ahentai.top##.float-banner-footer
@@ -54612,6 +54613,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||cwtv.com^$generichide
 @@||dailymail.co.uk^$generichide
 @@||destinationamerica.com^$generichide
+@@||discord.com^$generichide
 @@||fastmail.com^$generichide
 @@||history.com^$generichide
 @@||mail.protonmail.com^$generichide
