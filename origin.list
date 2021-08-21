@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108202358
+! Version: 202108210018
 ! Title: EasyList
-! Last modified: 20 Aug 2021 23:58 UTC
+! Last modified: 21 Aug 2021 00:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28798,6 +28798,7 @@ _800x80_
 ##.tadsanzeige
 ##.tadsbanner
 ##.tadselement
+##.tagged-pw-leaderboard_atf
 ##.takeOverAdLink
 ##.tallAdvert
 ##.tallad
@@ -31026,6 +31027,7 @@ _800x80_
 ###block-boxes-taboola
 ###component-taboola-below-article-feed
 ###component-taboola-below-article-feed-2
+###component-taboola-below-homepage-feed
 ###ra-taboola-bottom
 ###taboola-above-article-thumbnails-title
 ###taboola-ad
