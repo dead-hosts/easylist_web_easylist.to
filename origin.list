@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108220744
+! Version: 202108220946
 ! Title: EasyList
-! Last modified: 22 Aug 2021 07:44 UTC
+! Last modified: 22 Aug 2021 09:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32845,6 +32845,7 @@ menstennisforums.com#@#.top_ads
 ||ajjhtetv87.com^
 ||ajkelra.com^
 ||ajkzd9h.com^
+||akeasignifica.biz^
 ||akingsslativ.club^
 ||aklglpwljiv.com^
 ||alaccinalcom.top^
@@ -50220,7 +50221,7 @@ menstennisforums.com#@#.top_ads
 ||ports.co.za/banners/
 ||positivehealth.com/img/original/BannerAvatar/
 ||positivehealth.com/img/original/TopicbannerAvatar/
-||prewarcar.com/pics/fb-
+||prewarcar.com/*-banners/
 ||propertyfinderph.com/uploads/banner/
 ||publicdomaintorrents.info/grabs/hdsale.png
 ||publicdomaintorrents.info/rentme.gif
@@ -53061,6 +53062,7 @@ yoursports.stream##[href^="/bet"]
 audiobookbay.nl##[href^="/down-"]
 steroid.com##[href^="/out.php"]
 myabandonware.com##[href^="/visual/r-2/"]
+radiotoday.co.uk##[href^="http://go.radiotoday.co.uk/"]
 orschlurch.net,tetris.com##[href^="https://amzn.to/"]
 coingolive.com##[href^="https://bitpreco.com/"]
 analyticsindiamag.com##[href^="https://business.louisville.edu/"]
