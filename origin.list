@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108222008
+! Version: 202108222030
 ! Title: EasyList
-! Last modified: 22 Aug 2021 20:08 UTC
+! Last modified: 22 Aug 2021 20:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17308,6 +17308,7 @@ _800x80_
 ##.OuterAdvertisingContainer
 ##.PERFORMANCE_AD_COMPLETE
 ##.PERFORMANCE_AD_RELATED
+##.PPD_ADS_JS
 ##.PU_DoubleClickAdsContent
 ##.Page-ad
 ##.PageTopAd
@@ -17915,6 +17916,7 @@ _800x80_
 ##.ad-circ
 ##.ad-click
 ##.ad-close-button
+##.ad-cls
 ##.ad-cluster
 ##.ad-cluster-container
 ##.ad-cnt
@@ -50313,6 +50315,7 @@ menstennisforums.com#@#.top_ads
 ||tubeoffline.com/images/nerd.png
 ||tubeoffline.com/itbimg/
 ||tubeoffline.com/js/hot.min.js
+||tubeoffline.com/vpn.php
 ||turbobit.net/fd1/js/brinpopup.js
 ||turbobit.net/pus/
 ||ubuntugeek.com/images/ubuntu1.png
