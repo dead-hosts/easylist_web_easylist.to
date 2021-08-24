@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108240227
+! Version: 202108240305
 ! Title: EasyList
-! Last modified: 24 Aug 2021 02:27 UTC
+! Last modified: 24 Aug 2021 03:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19348,6 +19348,7 @@ _800x80_
 ##.adWrap
 ##.adWrapLg
 ##.adWrapper
+##.adWrapper1
 ##.adZone
 ##.adZoneRight
 ##.ad_0
@@ -33122,6 +33123,7 @@ menstennisforums.com#@#.top_ads
 ||asgclickpp.com^
 ||ashcdn.com^
 ||ashhgo.com^
+||ashoupsu.com^
 ||ashtraysophomore.com^
 ||asiangfsex.com^
 ||asjdhajsdnweqwasdascxzccsdcsdcsdfewfwefqweqweqw.network^
@@ -33691,6 +33693,7 @@ menstennisforums.com#@#.top_ads
 ||bonusmaniac.com^
 ||boodlewrite.com^
 ||bookingfreeze.com^
+||booklstfree.com^
 ||bookmtpo.com^
 ||boom-boom-vroom.com^
 ||boosirad.net^
@@ -36121,6 +36124,7 @@ menstennisforums.com#@#.top_ads
 ||fistcartyped.casa^
 ||fistofzeus.com^
 ||fitbxtqgneq.com^
+||fitenanews.com^
 ||fitfulrigorous.com^
 ||fiwhibse.com^
 ||fixchidie.com^
@@ -38361,6 +38365,7 @@ menstennisforums.com#@#.top_ads
 ||mattempts.info^
 ||maturescream.com^
 ||matzosetagood.com^
+||mauchopt.net^
 ||maudau.com^
 ||maudawhy.com^
 ||mauringer.club^
@@ -41979,6 +41984,7 @@ menstennisforums.com#@#.top_ads
 ||tecuil.com^
 ||tedathedo.club^
 ||teddeparati.top^
+||tedinexplori.biz^
 ||tedruptcyfal.info^
 ||tedsistant.top^
 ||tedstocktails.club^
@@ -42062,9 +42068,11 @@ menstennisforums.com#@#.top_ads
 ||theapple.site^
 ||theationopo.club^
 ||theatrialmero.club^
+||thebestfortech.com^
 ||thebestgame2020.com^
 ||thederati.com^
 ||thefastpush.com^
+||thefootpetso.com^
 ||thefuncoolstuff.com^
 ||theirsvendor.com^
 ||thejobandl.biz^
@@ -43309,6 +43317,7 @@ menstennisforums.com#@#.top_ads
 ||xadsmart.com^
 ||xamaptapsu.com^
 ||xameleonads.com^
+||xaokiotravel.com^
 ||xapa.xyz^
 ||xauthorous.club^
 ||xaxo.xyz^
@@ -43532,6 +43541,7 @@ menstennisforums.com#@#.top_ads
 ||yourbestheal.com^
 ||yourcommonfeed.com^
 ||yourfreshposts.com^
+||yourhealmyheal.com^
 ||yourlegacy.club^
 ||yourquickads.com^
 ||yourwebbars.com^
@@ -50940,7 +50950,6 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 ! ------------------------Specific element hiding rules------------------------!
 ! *** easylist:easylist/easylist_specific_hide.txt ***
 magnet.so###AD
-carsdir.com###AddCarBanner
 webcarstory.com###Ads
 search.snapdo.com###AfloatingD
 weegy.com###BannerDiv
@@ -51366,7 +51375,6 @@ hardware.info###right_top
 urlcash.net###rightbox
 forums.tomshardware.com###rightcol_bottom
 forums.anandtech.com,forums.tomsguide.com,forums.tomshardware.com###rightcol_top
-mysuncoast.com###rightcolumnpromo
 tubeconverter.net###ringtone-button
 youtump3.com###ringtoner
 megarapid.net###rmiad
@@ -51716,7 +51724,7 @@ looktothestars.org,nintandbox.net,plurk.com,thebarentsobserver.com,tolonews.com#
 search.b1.org##.adslabel
 miamitodaynews.com##.adtext
 wordreference.com##.adtitle
-ansamed.info,baltic-course.com,carsdirect.com,cctv.com,facebook.com,facebookcorewwwi.onion,futbol24.com,getwapi.com,isearch.omiga-plus.com,jetphotos.com,karger.com,maritimejobs.com,massappeal.com,mysuncoast.com,newagebd.net,ok.co.uk,ponged.com,prohaircut.com,qone8.com,runamux.net,search.v9.com,webssearches.com,zbani.com##.adv
+ansamed.info,baltic-course.com,futbol24.com,jetphotos.com,karger.com,maritimejobs.com,newagebd.net,prohaircut.com,zbani.com##.adv
 blastingnews.com##.adv-box-content
 healthleadersmedia.com##.adv-con
 pgatour.com##.adv-dummy
