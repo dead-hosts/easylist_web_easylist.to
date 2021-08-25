@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108250053
+! Version: 202108250138
 ! Title: EasyList
-! Last modified: 25 Aug 2021 00:53 UTC
+! Last modified: 25 Aug 2021 01:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26502,6 +26502,7 @@ _800x80_
 ##.mpsponsor
 ##.mpu-ad
 ##.mpu-ad-con
+##.mpu-ad-river
 ##.mpu-ad-top
 ##.mpu-advert
 ##.mpu-c
@@ -27695,6 +27696,7 @@ _800x80_
 ##.risingstar-ad
 ##.risingstar-ad-inner
 ##.river-item-sponsored
+##.river-standard-ad-container
 ##.riverAdLoaded
 ##.riverAdsLoaded
 ##.riverSponsor
@@ -33406,6 +33408,7 @@ menstennisforums.com#@#.top_ads
 ||baufaich.com^
 ||bauthair.net^
 ||bavftcgoapga.com^
+||baxisafy.com^
 ||bayfluke.com^
 ||bayonetbikes.com^
 ||baysexthy.com^
@@ -35512,6 +35515,7 @@ menstennisforums.com#@#.top_ads
 ||eegnacou.com^
 ||eekdwmda.com^
 ||eekrooha.com^
+||eeksidro.com^
 ||eelfadechi.com^
 ||eeltaung.com^
 ||eenfertyred.top^
@@ -36610,6 +36614,7 @@ menstennisforums.com#@#.top_ads
 ||gnatgrocery.com^
 ||gnatneatlyembodiment.com^
 ||gnatpointed.com^
+||gnawinstruct.com^
 ||gneyjsdv.com^
 ||go-rillatrack.com^
 ||go2.global^
@@ -39712,6 +39717,7 @@ menstennisforums.com#@#.top_ads
 ||parwrite.com^
 ||pasaigul.com^
 ||paservices.tech^
+||passeseura.com^
 ||passeseuro.com^
 ||passeura.com^
 ||passioncrunchfingernail.com^
@@ -46943,6 +46949,7 @@ menstennisforums.com#@#.top_ads
 ||belwrite.com^$popup
 ||bemobtrcks.com^$popup
 ||bemobtrk.com^$popup
+||benoopto.com^$popup
 ||beonixom.com^$popup
 ||best-vpn.click^$popup
 ||best-zb.com^$popup
@@ -50539,8 +50546,6 @@ $media,domain=damimage.com|imagedecode.com|imageteam.org
 $script,third-party,xmlhttprequest,domain=abcvideo.cc
 @@||assets.hcaptcha.com/captcha/$script,subdocument,domain=abcvideo.cc
 @@||hcaptcha.com^*/api.js$script,domain=abcvideo.cc
-! Fembed
-||fembed.com/revenue
 ! flashx
 $image,script,subdocument,third-party,xmlhttprequest,domain=flashx.to|flashx.tv
 $websocket,domain=flashx.to|flashx.tv
@@ -50556,9 +50561,6 @@ $websocket,domain=flashx.to|flashx.tv
 ! Washington Times
 @@||twt-assets.washtimes.com/v4/js/twig.js
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
-! Game Empire Enterprises
-@@||onrpg.com/boards/activityrss.php?$xmlhttprequest
-|http:$xmlhttprequest,domain=mmohuts.com|onrpg.com
 ! ouo
 $script,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 ||ouo.io/js/*.js?
@@ -50975,22 +50977,31 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 magnet.so###AD
 webcarstory.com###Ads
 search.snapdo.com###AfloatingD
+onrpg.com###AnchoredKnowledgeableCaiman
 weegy.com###BannerDiv
+mmohuts.com###ComfortableFixedPhoebe
 gayemagazine.com###Containera2sdv > div > div > div[id^="comp-"]
 webmd.com###ContentPane40
 new-kissanime.me###CvBNILUxis
 healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
+mmohuts.com###ExtrasmallSomberGermanshorthairedpointer
+onrpg.com###GrizzledDiligentIndianpangolin
+mmohuts.com,onrpg.com###ImprobableGoodnaturedSunfish
+mmohuts.com###LastPapayawhipMeadowlark
 linkfang.org###LinkFang_Horizontal
 audioz.download###PromoHead
 fortune.com###RightRailFlex_Articles0
 daringfireball.net###SidebarMartini
 imcdb.org###SiteLifeSupport
+mmohuts.com###SkinnyDualMonoclonius
 thecourier.com###TCFO_Middle2_300x250
 thecourier.com###TCFO_Middle_300x250
 road.cc###Top-Billboard
+onrpg.com###ValidStarryBasilisk
 eetimes.com###WelcomeAdContainer
 eetimes.com###WelcomeAdContainer + #overlay
+onrpg.com###WillingVirtualTapeworm
 egotastic.com###a46c6331
 egotasticsports.com###a83042c4
 krunker.io###aHolder
@@ -53578,8 +53589,7 @@ redtube.com###popsByTrafficJunky
 thejavmost.com###poster
 imagepost.com###potd
 fapxl.com,javtitan.com,thejavmost.com###preroll
-javdoe.fun,javseen.tv###previewBox
-javseen.tv,javtape.site###previewBox
+javdoe.fun,javseen.tv,javtape.site###previewBox
 youporngay.com###producer
 foxtube.com###pub-container
 celebjihad.com###pud
@@ -53905,8 +53915,7 @@ jav.work##.releated_video[style^="overflow: hidden;"]
 cam4.com##.removeAds
 tubaholic.com##.result_under_video
 cumlouder.com,pornburst.xxx##.resumecard__banner
-hotmovs.com,javdoe.fun##.right
-hotmovs.com,javtape.site##.right
+hotmovs.com,javdoe.fun,javtape.site##.right
 empflix.com##.rightBarBannersx
 tube8.com,tube8.es,tube8.fr##.rightColBanner
 gottanut.com##.rightContent-videoPage
