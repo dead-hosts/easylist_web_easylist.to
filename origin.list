@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108280354
+! Version: 202108280427
 ! Title: EasyList
-! Last modified: 28 Aug 2021 03:54 UTC
+! Last modified: 28 Aug 2021 04:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21466,6 +21466,7 @@ _800x80_
 ##.adtile
 ##.adtips
 ##.adtips1
+##.adtitle
 ##.adtoggle
 ##.adtop
 ##.adtop-border
@@ -35317,6 +35318,7 @@ menstennisforums.com#@#.top_ads
 ||dropzenad.com^
 ||drowadri.racing^
 ||drowle.com^
+||drtuproft.com^
 ||drudgerynickname.com^
 ||drunkenknowing.com^
 ||drwkzkncihwygw.com^
@@ -47210,6 +47212,7 @@ menstennisforums.com#@#.top_ads
 ||downloadboutique.com^$popup
 ||downloadthesefile.com^$popup
 ||dradvice.in^$popup
+||drtuproft.com^$popup
 ||dsp.wtf^$popup
 ||dspultra.com^$popup
 ||dsstrk.com^$popup
@@ -47703,6 +47706,7 @@ menstennisforums.com#@#.top_ads
 ||privacy4browsers.com^$popup
 ||prjcq.com^$popup
 ||prmtracking.com^$popup
+||probns.com^$popup
 ||profi-para.com^$popup
 ||promo-bc.com^$popup
 ||promo-market.net^$popup
@@ -50887,6 +50891,8 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||fappenist.com/fojytyzzkm.php
 ||fapxl.com/view/spot/
 ||free-porn-teen.com/blocked/
+||freeporn8.com/ai2/
+||freeporn8.com/nb/
 ||frprn.com/even/ok.js
 ||ftopx.com/b.domnlk.com/
 ||ftopx.com/tf558550ef6e.js
@@ -51035,7 +51041,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,xmlhttprequest,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornchimp.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
 ! 
-/^https?:\/\/.*\/[a-z0-9A-Z]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=4tube.com|alotporn.com|alrincon.com|anysex.com|bdsmstreak.com|bravotube.net|cockmeter.com|daftporn.com|erome.com|fantasti.cc|fapality.com|gfsvideos.com|hellporno.com|iceporn.com|katestube.com|openloadporn.co|orsm.net|pervclips.com|porn-plus.com|pornicom.com|pornrabbit.com|pornwatchers.com|pornwhite.com|pussy.org|sexytorrents.info|shameless.com|smutty.com|stileproject.com|str8ongay.com|tnaflix.com|vikiporn.com|wankoz.com|xcafe.com|xxxdessert.com|xxxonxxx.com|yourlust.com|youx.xxx|zbporn.tv
+/^https?:\/\/.*\/[a-z0-9A-Z]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=4tube.com|alotporn.com|alrincon.com|anysex.com|bdsmstreak.com|bravotube.net|cockmeter.com|daftporn.com|erome.com|fantasti.cc|fapality.com|freeporn8.com|gfsvideos.com|hellporno.com|iceporn.com|katestube.com|openloadporn.co|orsm.net|pervclips.com|porn-plus.com|porndr.com|pornicom.com|pornrabbit.com|pornwatchers.com|pornwhite.com|pussy.org|sexytorrents.info|shameless.com|smutty.com|stileproject.com|str8ongay.com|tnaflix.com|vikiporn.com|wankoz.com|xcafe.com|xxxdessert.com|xxxonxxx.com|yourlust.com|youx.xxx|zbporn.tv
 ! eporner
 /^https?:\/\/.*\.eporner\.com\/[0-9a-f]{10,}\/$/$script,domain=eporner.com
 ! websocket ads
@@ -53525,6 +53531,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[h$=",Ads"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist_adult/adult_specific_hide.txt ***
+porndr.com###PD-Under-player
 swfchan.com###aaaa
 flyingjizz.com###adv_inplayer
 milffox.com###advertising
@@ -53719,6 +53726,7 @@ ahentai.top##.float-banner-footer
 stileproject.com##.fluid_nonLinear_bottom
 porn.com##.foot-zn
 hotmovs.com,thegay.com,tubepornclassic.com##.footer-banners
+xcafe.com##.footer-block
 youporn.com,youporngay.com##.footer-element-container
 4kporn.xxx,fpo.xxx##.footer-margin
 pornhd.com##.footer-zone
@@ -53754,6 +53762,7 @@ vivud.com##.inplayer_banners
 anyporn.com,bravoteens.com##.inplb
 playvids.com,pornflip.com##.invideoBlock
 e-hentai.org##.itd[colspan="4"]
+drtuber.com##.item_spots
 escortdirectory.com##.ixs-govazd-item
 babesandstars.com,pornhubpremium.com##.join
 japan-whores.com##.js-advConsole
@@ -53839,7 +53848,7 @@ simply-hentai.com##.skyscraper
 cumlouder.com##.sml-bottom
 pornhub.com,pornhubthbh7ap3u.onion##.sniperModeEngaged
 gotporn.com##.spnsrd
-anyporn.com,fpo.xxx,pervertslut.com,sexpornimages.com,xbabe.com##.sponsor
+anyporn.com,fpo.xxx,freeporn8.com,pervertslut.com,sexpornimages.com,xbabe.com##.sponsor
 fux.com,pornerbros.com,porntube.com##.sponsored
 3movs.xxx,bravotube.net,camvideos.tv,dixyporn.com,hello.porn,hotmovs.com,katestube.com,vjav.com##.spot
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
@@ -53853,7 +53862,7 @@ pornstarchive.com##.squarebanner
 lewdninja.com##.stargate
 sexyandshocking.com##.sub-holder
 simply-hentai.com##.superbanner
-18porn.sex,4kporn.xxx,fpo.xxx,gayck.com,intporn.com,mrdeepfakes.com,pornchimp.com,rare-videos.net,xxxshake.com##.table
+18porn.sex,4kporn.xxx,fpo.xxx,freeporn8.com,gayck.com,intporn.com,mrdeepfakes.com,pornchimp.com,porndr.com,rare-videos.net,xxxshake.com##.table
 sxyprn.com##.tbd
 amateurvoyeurforum.com##.tborder[width="99%"][cellpadding="6"]
 pronpic.org##.teaser
