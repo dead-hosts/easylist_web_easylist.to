@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108281602
+! Version: 202108281624
 ! Title: EasyList
-! Last modified: 28 Aug 2021 16:02 UTC
+! Last modified: 28 Aug 2021 16:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17750,6 +17750,8 @@ _800x80_
 ##.ad-90x600
 ##.ad-970
 ##.ad-970-90
+##.ad-970x250-container
+##.ad-970x250-home
 ##.ad-970x50
 ##.ad-970x90
 ##.ad-980-1
@@ -17805,9 +17807,12 @@ _800x80_
 ##.ad-background-container
 ##.ad-background-intra-body
 ##.ad-banner
+##.ad-banner-2
 ##.ad-banner-250x600
 ##.ad-banner-300
 ##.ad-banner-300x250
+##.ad-banner-5
+##.ad-banner-6
 ##.ad-banner-728x90
 ##.ad-banner-bkgd
 ##.ad-banner-bottom-container
@@ -52301,7 +52306,7 @@ tmrzoo.com##.headbanner
 kolompc.com##.header-area
 worldpress.org##.header-b
 adswikia.com,americanfreepress.net,cookinglight.com,freemalaysiatoday.com,gameplayinside.com,kodicommunity.com,landandfarm.com,pointblanknews.com,runt-of-the-web.com##.header-banner
-apptrigger.com,fansided.com,winteriscoming.net##.header-billboard
+apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.header-billboard
 vapingunderground.com##.header-block
 worldpress.org##.header-bnr
 css-tricks.com##.header-gradient-sponsor
@@ -52480,7 +52485,7 @@ webmd.com##.module-f-hs
 pcworld.idg.com.au##.module-rhs-brandpost
 thisismoney.co.uk##.mol-fe-vouchercodes-puff
 monsoonjournal.com##.mom-e3lanat-wrap
-apptrigger.com,winteriscoming.net##.mosaic-banner
+apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.mosaic-banner
 thepostmillennial.com##.mot-label
 anonymouse.org##.mouselayer
 syfy.com##.mps-container
@@ -52519,6 +52524,7 @@ fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
 ferrarichat.com##.node_sponsor
 chipchick.com##.noskim.ntv-moap
 cookingforengineers.com##.nothing
+moodiedavittreport.com##.notice
 computing.co.uk##.notice-slot-full-below-header
 designtaxi.com##.nt-text
 nplusonemag.com##.nurble
