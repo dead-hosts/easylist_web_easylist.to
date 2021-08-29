@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108290956
+! Version: 202108291002
 ! Title: EasyList
-! Last modified: 29 Aug 2021 09:56 UTC
+! Last modified: 29 Aug 2021 10:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15278,6 +15278,7 @@ _800x80_
 ###postpageaddiv
 ###pp-ad-slot
 ###ppcAdverts
+###ppvideoadvertisement
 ###pr_ad
 ###pr_advertising
 ###pre-adv
@@ -16666,6 +16667,7 @@ _800x80_
 ###video-in-player-ad
 ###video-in-player-ad-container
 ###video-side-adv
+###video-sponsor-links
 ###video-under-player-ad
 ###videoAd
 ###videoAdContainer
@@ -25654,6 +25656,7 @@ _800x80_
 ##.insticator-ads
 ##.instoryAdBlock
 ##.instoryAdNoBlock
+##.instream_ad
 ##.instructionAdvHeadline
 ##.insurance-ad
 ##.intad
@@ -51669,6 +51672,7 @@ tribunnews.com###wideskyscraper
 wallpapersmania.com###wm_cpa
 rediff.com###world_right1
 rediff.com###world_top
+worldrecipes.eu###worldrecipeseu_970x90_desktop_sticky_no_closeplaceholder
 eteknix.com###wrapper > header
 cranestodaymagazine.com,hoistmagazine.com,ttjonline.com,tunnelsonline.info###wrapper_banners
 blasternation.com###xobda
