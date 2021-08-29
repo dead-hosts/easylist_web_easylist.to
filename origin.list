@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108291240
+! Version: 202108291255
 ! Title: EasyList
-! Last modified: 29 Aug 2021 12:40 UTC
+! Last modified: 29 Aug 2021 12:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39102,6 +39102,7 @@ menstennisforums.com#@#.top_ads
 ||neevateb.com^
 ||neewoapi.com^
 ||neezausu.net^
+||nefijapu.com^
 ||negativescarcelyrooms.com^
 ||negolist.com^
 ||negyuk.com^
@@ -53279,6 +53280,7 @@ yopmail.com,yopmail.fr,yopmail.net##div[id^="pub"]
 howtogeek.com##div[id^="purch_"]
 sltrib.com##div[id^="sltrib-promo-"]
 nytimes.com##div[id^="story-ad-"]
+filehorse.com##div[id^="td-"]
 opensubtitles.org##div[itemscope=""][itemtype="http://schema.org/Movie"] > fieldset
 audiofanzine.com##div[style*="height: 90px;"]
 avherald.com##div[style*="height:250px"]
@@ -53756,6 +53758,7 @@ sxyprn.com##.cbd
 hotmovs.com##.channel-link
 thefappeningblog.com##.cl-exl
 bigtitsgallery.net##.classifiedAd
+fyptt.to##.code-block
 tube8.com,tube8.es,tube8.fr##.col-3-lg.col-4-md.col-4
 playvids.com##.col-lg-6.col-xl-4
 totsantcugat.info##.col-sm-6 > [href="http://totsantcugat.info/wp-content/video.php"]
