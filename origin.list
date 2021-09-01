@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109011004
+! Version: 202109011025
 ! Title: EasyList
-! Last modified: 01 Sep 2021 10:04 UTC
+! Last modified: 01 Sep 2021 10:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6716,7 +6716,7 @@
 ?adpage=
 ?adPageCd=
 ?adpartner=
-?ads_params=$domain=~dailymotion.com
+?ads_params=
 ?adsdata=
 ?adsite=
 ?adsize=
@@ -12374,6 +12374,7 @@ _800x80_
 ###below-listings-ad
 ###below-menu-ad-header
 ###below-post-ad
+###below-title-ad
 ###belowAd
 ###belowContactBoxAd
 ###belowNodeAds
@@ -33649,8 +33650,8 @@ tf2r.com#@#.adverts
 ||chasteminihaunting.com^
 ||chatintegrationastonishing.com^
 ||chatmilkprude.casa^
-||chaussew.net^
 ||chauksoa.net^
+||chaussew.net^
 ||cheapencosmetics.com^
 ||cheatingagricultural.com^
 ||check-now.online^
@@ -53154,7 +53155,6 @@ youjizz.com###footer
 nangaspace.com###header
 aan.xxx###header-banner
 youtubelike.com###header-top
-pornhub.com###headerUpgradePremiumBtn
 guyswithiphones.com###imglist > .noshadow
 hotmovs.com###in_v
 freebunker.com,imagesnake.com,imgcarry.com,pornbus.org###introOverlayBg
@@ -53715,6 +53715,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||connatix.com^*/connatix.player.js$script,domain=ebaumsworld.com|funker530.com|washingtonexaminer.com
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||cvs.com/webcontent/images/weeklyad/adcontent/$~third-party
+@@||dailymotion.com/embed/video/*?ads_params=$subdocument
 @@||dashboard.adskeeper.co.uk^$domain=dashboard.adskeeper.co.uk
 @@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
 @@||digiads.com.au/images/shared/misc/ad-disclaimer.gif
