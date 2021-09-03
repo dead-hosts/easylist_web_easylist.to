@@ -32908,7 +32908,6 @@ tf2r.com#@#.adverts
 ||beonixom.com^
 ||bepiletussar.casa^
 ||berningbegi.club^
-||bepiletussar.casa^
 ||berryborrowing.com^
 ||bertekoa.net^
 ||berthgenerousheap.com^
@@ -50596,8 +50595,6 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 /about:blank.*/$popup,domain=bitporno.com|iceporn.com|katestube.com|videowood.tv
 ! ------------------------Specific element hiding rules------------------------!
 ! *** easylist:easylist/easylist_specific_hide.txt ***
-animehub.ac##.sb-subs
-animehub.ac###main-content > center
 magnet.so###AD
 webcarstory.com###Ads
 search.snapdo.com###AfloatingD
