@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109030209
+! Version: 202109030231
 ! Title: EasyList
-! Last modified: 03 Sep 2021 02:09 UTC
+! Last modified: 03 Sep 2021 02:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27257,6 +27257,7 @@ _800x80_
 ##.profile_ad_top
 ##.proftopad
 ##.programmatic-ad
+##.programtic-ads
 ##.promo-ad
 ##.promo-box--ad
 ##.promo-box--leaderboard-ad
@@ -31306,7 +31307,7 @@ songlyrics.com#@#.footer-ad
 freenet.de#@#.frn_contAdHead
 guloggratis.dk#@#.gallery-ad
 davidsilverspares.co.uk#@#.greyAd
-marketwatch.com#@#.has-ad
+forums.digitalspy.com,marketwatch.com#@#.has-ad
 mobiili.fi#@#.header_ad
 iedrc.org#@#.home-ad
 economist.com,flightcentre.co.uk,payback.pl,ripley.cl,ripley.com.pe,wsj.com#@#.img_ad
@@ -32906,6 +32907,7 @@ tf2r.com#@#.adverts
 ||benoopto.com^
 ||beonixom.com^
 ||berningbegi.club^
+||bepiletussar.casa^
 ||berryborrowing.com^
 ||bertekoa.net^
 ||berthgenerousheap.com^
@@ -33017,6 +33019,7 @@ tf2r.com#@#.adverts
 ||bkjjepbwwgef.com^
 ||bl0uxepb4o.com^
 ||bl1mp.com^
+||blabhorol.com^
 ||blackforce.club^
 ||blackname.biz^
 ||blacknessversiondan.com^
@@ -36988,6 +36991,7 @@ tf2r.com#@#.adverts
 ||iphumiki.com^
 ||ipiech.com^
 ||ipmbnqqaon.com^
+||ipp1s.xyz^
 ||iprom.net^
 ||ipromcloud.com^
 ||ipsoorel.com^
@@ -40265,6 +40269,7 @@ tf2r.com#@#.adverts
 ||ramatering.club^
 ||ramponneraient.xyz^
 ||ramptariff.com^
+||ramsonhunk.com^
 ||ranacrelegalize.com^
 ||rancidloss.com^
 ||randalieren6.live^
@@ -50590,6 +50595,8 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 /about:blank.*/$popup,domain=bitporno.com|iceporn.com|katestube.com|videowood.tv
 ! ------------------------Specific element hiding rules------------------------!
 ! *** easylist:easylist/easylist_specific_hide.txt ***
+animehub.ac##.sb-subs
+animehub.ac###main-content > center
 magnet.so###AD
 webcarstory.com###Ads
 search.snapdo.com###AfloatingD
