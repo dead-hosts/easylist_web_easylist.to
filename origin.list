@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109030308
+! Version: 202109030322
 ! Title: EasyList
-! Last modified: 03 Sep 2021 03:08 UTC
+! Last modified: 03 Sep 2021 03:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32906,6 +32906,7 @@ tf2r.com#@#.adverts
 ||benonblkd.xyz^
 ||benoopto.com^
 ||beonixom.com^
+||bepiletussar.casa^
 ||berningbegi.club^
 ||bepiletussar.casa^
 ||berryborrowing.com^
@@ -50917,6 +50918,7 @@ hackerbot.net###madiv
 hackerbot.net###madiv2
 hackerbot.net###madiv3
 wowhead.com###main > .blocks
+animehub.ac###main-content > center
 w3schools.com###mainLeaderboard
 dispatchtribunal.com,thelincolnianonline.com###mb-bar
 active.com###med_rec_bottom
@@ -52271,6 +52273,7 @@ beermoneyforum.com,geekdoing.com,studentdoctor.net##.samBannerUnit
 resetera.com##.samCodeUnit
 beermoneyforum.com##.samTextUnit
 teamfortress.tv##.sau
+animehub.ac##.sb-subs
 distractify.com##.sc-jcwofb
 independent.co.uk##.sc-pscky.kBPJSk.sc-qQYBZ
 independent.co.uk##.sc-qZtCU.wIkUb.sc-qQYBZ
@@ -53692,7 +53695,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||connatix.com^*/connatix.player.js$script,domain=ebaumsworld.com|funker530.com|washingtonexaminer.com
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||cvs.com/webcontent/images/weeklyad/adcontent/$~third-party
-@@||dailymotion.com/embed/video/*?ads_params=$subdocument
+@@||dailymotion.com/embed/*?ads_params=$subdocument
 @@||dashboard.adskeeper.co.uk^$domain=dashboard.adskeeper.co.uk
 @@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
 @@||digiads.com.au/images/shared/misc/ad-disclaimer.gif
