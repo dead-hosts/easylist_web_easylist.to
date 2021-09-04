@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109041245
+! Version: 202109041341
 ! Title: EasyList
-! Last modified: 04 Sep 2021 12:45 UTC
+! Last modified: 04 Sep 2021 13:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32964,6 +32964,7 @@ tf2r.com#@#.adverts
 ||bfc70a51929fff2d7fe.com^
 ||bfe4e6d364be199.com^
 ||bftrlhesrlfjp.com^
+||bfts.xyz^
 ||bg6s0.com^
 ||bgmtracker.com^
 ||bgrndi.com^
@@ -38807,6 +38808,7 @@ tf2r.com#@#.adverts
 ||notorietyharvest.com^
 ||noughttrustthreshold.com^
 ||nounstrenuous.com^
+||novadune.com^
 ||novembershopsconvene.com^
 ||noviceavengeclemency.com^
 ||noviceexplanationteapot.com^
@@ -48903,20 +48905,13 @@ tf2r.com#@#.adverts
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
 ||namecheap.com/graphics/linkus/
 ||nativly.com/tds/widget?
-||news.fark.com^$third-party
 ||news.smi2.ru^$third-party
 ||newsiqra.com^$subdocument,third-party
 ||nextpathnet.com/pub.js
 ||nimblecommerce.com/widget.action?
 ||nitroflare.com/img/banners/
-||nitropdf.com/graphics/promo/$third-party
-||nlsl.about.com/img?$third-party
 ||nmh.my.na/main/products/$third-party
-||novadune.com^$third-party
-||nster.com/tpl/this/js/popnster.js
 ||ntvcld-a.akamaihd.net^
-||numb.hotshare.biz^$third-party
-||nwadealpiggy.com/widgets/
 ||obox-design.com/affiliate-banners/
 ||oilofasia.com/images/banners/
 ||orangebuddies.nl/image/banners/
@@ -48934,7 +48929,6 @@ tf2r.com#@#.adverts
 ||partners.wrike.com^
 ||payza.com/images/banners/
 ||pb.s3wfg.com^
-||pcmall.co.za/affiliates/
 ||perfectmoney.com/img/banners/
 ||phonephotographytricks.com/images/banners/
 ||phonograph2.voxmedia.com^
@@ -48957,7 +48951,6 @@ tf2r.com#@#.adverts
 ||popmog.com^
 ||post.rmbn.ru^$third-party
 ||press-start.com/affgames/
-||print2webcorp.com/widgetcontent/
 ||privateinternetaccess.com^$script,third-party,xmlhttprequest
 ||promos.fling.com^
 ||promote.pair.com^
@@ -49001,22 +48994,18 @@ tf2r.com#@#.adverts
 ||siteground.com/img/affiliate/$third-party
 ||siteground.com/img/banners/$third-party
 ||slysoft.com/img/banner/$third-party
-||smart.styria-digital.com^
 ||smartdestinations.com/ai/$third-party
 ||smbulk.com/assets/images/banner-
 ||smilepk.com/bnrsbtns/
 ||snacktools.net/bannersnack/$domain=~bannersnack.dev
 ||socialmonkee.com/images/$third-party
 ||splashpagemaker.com/images/$third-party
-||sportsbetaffiliates.com.au^$third-party
 ||spot.im/yad/
-||squarespace.evyy.net^
 ||squirrels.getsquirrel.co^$third-party
 ||srv.dynamicyield.com^$third-party
 ||srx.com.sg/srx/media/$third-party
 ||ssl-images-amazon.com/images/*/DAsf-
 ||ssl-images-amazon.com/images/*/MAsf-
-||stargames.com/bridge.asp?$third-party
 ||static.tradetracker.net^$third-party
 ||supply.upjers.com^
 ||survey.g.doubleclick.net^
