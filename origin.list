@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109041910
+! Version: 202109041954
 ! Title: EasyList
-! Last modified: 04 Sep 2021 19:10 UTC
+! Last modified: 04 Sep 2021 19:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21037,6 +21037,8 @@ _800x80_
 ##.adsanity-single
 ##.adsarea
 ##.adsartical
+##.adsbanner1
+##.adsbanner2
 ##.adsbantop
 ##.adsbar
 ##.adsbg300
@@ -23737,6 +23739,7 @@ _800x80_
 ##.container--bannerAd
 ##.container--header-ads
 ##.container-ad-600
+##.container-ad-left
 ##.container-adbanner-global
 ##.container-adbanner-list
 ##.container-adbanner-mobile
@@ -33754,6 +33757,7 @@ tf2r.com#@#.adverts
 ||clicknano.com^
 ||clicknerd.com^
 ||clickopop1000.com^
+||clickorder.today^
 ||clickosmedia.com^
 ||clickpapa.com^
 ||clickperks.info^
@@ -52874,7 +52878,7 @@ abpclub.co.uk##img[width="118"]
 howtogermany.com##img[width="120"]
 elitepvpers.com,lyngsat-logo.com,lyngsat-maps.com,lyngsat-stream.com,lyngsat.com,newswireni.com,webhostingtalk.com##img[width="160"]
 fashionpulis.com##img[width="250"]
-afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,forexmt4indicators.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
+afrivibes.net,airplaydirect.com,bigeye.ug,breakingbelizenews.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,forexmt4indicators.com,freedomhacker.net,gameplayinside.com,goodcarbadcar.net,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,onislandtimes.com,portugaldailyview.com,punchng.com,radiobiz.co.za,reviewparking.com,robhasawebsite.com,sacobserver.com,seguintoday.com,themediaonline.co.za,thenationonlineng.net,theolivepress.es,therep.co.za,thewillnigeria.com,wantedinafrica.com,wantedinrome.com##img[width="300"]
 boxthislap.org##img[width="300px"]
 independent.co.ug##img[width="320"]
 chat-avenue.com,flashx.cc,flashx.co,flashx.pw,forum.gsmhosting.com,themediaonline.co.za,topprepperwebsites.com##img[width="468"]
