@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109040116
+! Version: 202109040147
 ! Title: EasyList
-! Last modified: 04 Sep 2021 01:16 UTC
+! Last modified: 04 Sep 2021 01:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29114,6 +29114,7 @@ _800x80_
 ##.topAd728x90
 ##.topAdBanner
 ##.topAdBar
+##.topAdBlock
 ##.topAdCenter
 ##.topAdContainer
 ##.topAdIn
@@ -36472,6 +36473,7 @@ tf2r.com#@#.adverts
 ||heardsadly.com^
 ||hearewe.com^
 ||hearfromyou.biz^
+||hearsedbedolt.casa^
 ||heartbrokendilapidation.com^
 ||heartbrokenscallion.com^
 ||hearthcoronation.com^
@@ -36776,6 +36778,7 @@ tf2r.com#@#.adverts
 ||icon2count.com^
 ||iconcnd.net^
 ||iconstadper.com^
+||icotrack.net^
 ||idch9s8d.com^
 ||iddjpop.com^
 ||ideahealkeeper.com^
@@ -39030,6 +39033,7 @@ tf2r.com#@#.adverts
 ||omshedinjaor.com^
 ||omyourfir.club^
 ||onarydarlie.fun^
+||oncerensky.cam^
 ||oncfnary.com^
 ||onclickalgo.com^
 ||onclickgenius.com^
@@ -41508,6 +41512,7 @@ tf2r.com#@#.adverts
 ||styleduring.com^
 ||subconsciousill.com^
 ||subconsciouslady.com^
+||subdatescene.cam^
 ||submarinebarbecueemigrant.com^
 ||submarineundergonedebark.com^
 ||subscriberpursuehum.com^
@@ -42307,6 +42312,7 @@ tf2r.com#@#.adverts
 ||uopmcdnpad.com^
 ||upgulpinon.com^
 ||uponelectabuzzor.club^
+||uporods.com^
 ||upsettingcrescentwig.com^
 ||upsettommyvomit.com^
 ||upsghpnqjoo.com^
@@ -50866,6 +50872,7 @@ newshub.co.nz###island-unit-2
 fakeupdate.net###itemz
 googleping.com###itro_opaco
 googleping.com###itro_popup
+goldprice.org,silverprice.org###jmbTopRight
 ceoexpress.com###kalamazooDiv
 thesilphroad.com###keepinTheLightsOn
 kvraudio.com###kvr300600
@@ -50981,6 +50988,7 @@ openspeedtest.com###right-column
 comicbookrealm.com###right-rail > .module
 gogetaroomie.com###right-space
 narutofan.com###right-spon
+goldprice.org###right-top-wrapper
 linuxforums.org,quackit.com###rightColumn
 thelakewoodscoop.com###rightFloat
 glosbe.com###rightSidebarFirstBanner
@@ -51583,6 +51591,7 @@ spoonyexperiment.com##.cont_adv
 redditsave.com##.container > center
 marketwatch.com##.container--sponsored
 miniclip.com##.container-300x250
+font-generator.com##.container-home-int > .text-center
 ina.fr##.container-pubcarre
 thejournal-news.net##.container.lightblue
 jokersupdates.com##.container_contentrightspan
@@ -51897,6 +51906,7 @@ itweb.co.za##.itw-content-zone
 ownedcore.com##.iv-note
 psypost.org##.jeg_midbar
 goldprice.org,silverprice.org##.jmb-ads
+goldprice.org,silverprice.org##.jmb-zone
 romania-insider.com##.job-item
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
 demonslayermanga.com,readjujutsukaisen.com##.js-a-container
