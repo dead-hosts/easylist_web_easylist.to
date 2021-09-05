@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109050445
+! Version: 202109050535
 ! Title: EasyList
-! Last modified: 05 Sep 2021 04:45 UTC
+! Last modified: 05 Sep 2021 05:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18080,6 +18080,7 @@ _800x80_
 ##.ad-img
 ##.ad-img300X250
 ##.ad-in-300x250
+##.ad-in-content
 ##.ad-in-content-300
 ##.ad-in-post
 ##.ad-in-read
@@ -32572,6 +32573,7 @@ tf2r.com#@#.adverts
 ||astra9dlya10.com^
 ||asuppsttp.com^
 ||asuydisi.com^
+||aswfs.xyz^
 ||asxemfnwbrmpdp.com^
 ||ataijeeg.net^
 ||ateddiscr.top^
@@ -34510,6 +34512,7 @@ tf2r.com#@#.adverts
 ||df931f2841ac729.com^
 ||dfb79196408612f1.com^
 ||dfdjilnzqgtow.com^
+||dfdybylchujl.com^
 ||dfgbalon.com^
 ||dfgchcnqsa.com^
 ||dgafgadsgkjg.top^
@@ -39045,6 +39048,7 @@ tf2r.com#@#.adverts
 ||nymotuda.com^
 ||nyphtrue.com^
 ||nyphuboshu.com^
+||nyptistaha.com^
 ||nyrithenrebarro.info^
 ||nyutkikha.info^
 ||nyztgyuuts.com^
@@ -40080,6 +40084,7 @@ tf2r.com#@#.adverts
 ||psitchie.com^
 ||psiwaphado.pro^
 ||psixoglika.pro^
+||psizivura.com^
 ||pskidsqhsbfi.com^
 ||pslnk.link^
 ||psoageeb.com^
@@ -52479,6 +52484,7 @@ artistdirect.com##.top-add
 automotive-fleet.com,businessfleet.com,cfl.ca,fleetfinancials.com,government-fleet.com,howsecureismypassword.net,ncaa.com,schoolbusfleet.com##.top-banner
 foodrenegade.com##.top-cta
 debka.com##.top-full-width-sidebar
+spectrum.ieee.org##.top-leader-container
 1071thepeak.com,gpfans.com##.top-leaderboard
 speedtest.net##.top-placeholder
 playbuzz.com##.top-stickyplayer-container
