@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109050152
+! Version: 202109050227
 ! Title: EasyList
-! Last modified: 05 Sep 2021 01:52 UTC
+! Last modified: 05 Sep 2021 02:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -43662,12 +43662,7 @@ tf2r.com#@#.adverts
 ||ad-vice.biz^$third-party
 ||ad-vortex.com^$third-party
 ||ad-wheel.com^$third-party
-||ad.admitad.com/banner/$third-party
-||ad.admitad.com/f/$third-party
-||ad.admitad.com/fbanner/$third-party
-||ad.admitad.com/j/$third-party
-||ad.atdmt.com/i/a.html$third-party
-||ad.atdmt.com/i/a.js$third-party
+||ad.admitad.com^
 ||ad.gt^$third-party
 ||ad.linksynergy.com^
 ||ad.mox.tv^$third-party
@@ -44360,6 +44355,7 @@ tf2r.com#@#.adverts
 ||astoapsu.com^$third-party
 ||atadserver.com^$third-party
 ||atas.io^$third-party
+||atdmt.com^third-party
 ||atemda.com^$third-party
 ||ationmultinal.info^$third-party
 ||atmalinks.com^$third-party
@@ -44579,7 +44575,7 @@ tf2r.com#@#.adverts
 ||buycheaphost.net^$third-party
 ||buyflood.com^$third-party
 ||buyorselltnhomes.com^$third-party
-||buysellads.com^$third-party,domain=~bsa-whitelabel.com
+||buysellads.com^$third-party
 ||buysellads.net^$third-party
 ||buyt.in^$third-party
 ||buywing.com^$third-party
@@ -44688,8 +44684,8 @@ tf2r.com#@#.adverts
 ||dpbolvw.net/placeholder-$third-party
 ||dreamaquarium.com^$third-party
 ||dstillery.com^$third-party
-||dt00.net^$third-party,domain=~marketgid.com|~marketgid.ru|~marketgid.ua|~mgid.com
-||dt07.net^$third-party,domain=~marketgid.com|~marketgid.ru|~marketgid.ua|~mgid.com
+||dt00.net^$third-party
+||dt07.net^$third-party
 ||dualeotruyen.net^$third-party
 ||dumedia.ru^$third-party
 ||dynad.net^$third-party
@@ -46321,9 +46317,6 @@ tf2r.com#@#.adverts
 ||videoplaza.tv/proxy/distributor^$object,third-party
 ||videoplaza.tv^$~object,third-party
 ||videoroll.net^$third-party
-||view.atdmt.com/partner/$third-party
-||view.atdmt.com^*/iview/$third-party
-||view.atdmt.com^*/view/$third-party
 ||vitalads.net^$third-party
 ||voodoo.com^$third-party
 ||vungle.com^$third-party
@@ -51567,6 +51560,7 @@ whatleaks.com##.clr > .banner2
 computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
 coinmarketcap.com##.cmc-native-ad-row
 drivespark.com##.cmscontent-left-article
+cnn.com##.cn--expandable.cn--idx-2.cn-list-xs
 thisismoney.co.uk##.cnr5
 iotwreport.com##.code-block
 cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,whats-on-netflix.com##.code-block-1
