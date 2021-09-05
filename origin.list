@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109050420
+! Version: 202109050445
 ! Title: EasyList
-! Last modified: 05 Sep 2021 04:20 UTC
+! Last modified: 05 Sep 2021 04:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16339,6 +16339,7 @@ _800x80_
 ###top-middle-add
 ###top-not-ads
 ###top-right-ad
+###top-right-ad-slot
 ###top-search-ad-wrapper
 ###top-sidebar-ad-300x250
 ###top-sponsor-ad
@@ -32865,6 +32866,7 @@ tf2r.com#@#.adverts
 ||beakedpissod.com^
 ||beastlyaccomplished.com^
 ||beatconfessteddy.com^
+||beaterspatrick.com^
 ||beatpreservelost.com^
 ||beaubitternessapplication.com^
 ||beavertron.com^
@@ -36000,6 +36002,7 @@ tf2r.com#@#.adverts
 ||gb0rd.com^
 ||gbfeexoyo.com^
 ||gbfgvzfcjfs.com^
+||gbgabq.com^
 ||gblcdn.com^
 ||gbrrrxbodqdlq.com^
 ||gbwess.com^
@@ -39093,6 +39096,7 @@ tf2r.com#@#.adverts
 ||occupangno.club^
 ||occupantrookpurely.com^
 ||occursexpertloving.com^
+||ocdnmq.com^
 ||ochaugly.net^
 ||oclgbmykr.com^
 ||ocmhood.com^
@@ -42413,6 +42417,7 @@ tf2r.com#@#.adverts
 ||ularlyinteres.biz^
 ||ulcerselfservice.com^
 ||ulngtppm.com^
+||ulourgaz.net^
 ||ulppreciat.club^
 ||uluswozzel.info^
 ||umannwig.com^
@@ -43600,6 +43605,7 @@ tf2r.com#@#.adverts
 ||zjwwbznpcqhk.com^
 ||zkbkcdhieqcoev.com^
 ||zkqlyhwfn.com^
+||zkqqsjdgscrwm.com^
 ||zlacraft.com^
 ||zlfgedpuxrbpgm.com^
 ||zlink2.com^
@@ -51663,6 +51669,7 @@ foobar2000.org##.db_link
 startups.co.uk##.dc-leaderboard
 dailycaller.com##.dc-sticky
 ohiostatebuckeyes.com##.dcad
+theguardian.com##.dcr-1aq0rzi
 slashdot.org##.deals-wrapper
 kusports.com##.deals_widget
 mangarockteam.com##.demand-supply
