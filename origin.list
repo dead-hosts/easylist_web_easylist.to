@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109060018
+! Version: 202109060057
 ! Title: EasyList
-! Last modified: 06 Sep 2021 00:18 UTC
+! Last modified: 06 Sep 2021 00:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1912,10 +1912,10 @@
 /adpic.
 /adpic/*
 /adpicture.
-/adpictures/*$~image
+/adpictures/*
 /adping.
 /adpix/*
-/adplace/*$~image
+/adplace/*
 /adplace5_
 /adPlaceholder.
 /adplacement.
@@ -1923,7 +1923,7 @@
 /adplay.
 /adplayer-
 /adplayer.$domain=~adplayer.media|~adplayer.pro
-/adplayer/*
+/adplayer/*$~image
 /adplugin.
 /adplugin/*
 /adplugin_
@@ -32632,6 +32632,7 @@ tf2r.com#@#.adverts
 ||awhootoa.net^
 ||awhoufob.com^
 ||awkmzvii39ei4.xyz^
+||awltovhc.com^
 ||awmserve.com^
 ||awokedoubtless.com^
 ||awptjmp.com^
@@ -44476,7 +44477,6 @@ tf2r.com#@#.adverts
 ||awempire.com^$third-party
 ||aweproto.com^$third-party
 ||awestatic.com^$third-party
-||awltovhc.com^$third-party
 ||aws-ajax.com^$third-party
 ||awsmer.com^$third-party
 ||awstaticdn.net^$third-party
