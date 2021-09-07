@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109071426
+! Version: 202109071527
 ! Title: EasyList
-! Last modified: 07 Sep 2021 14:26 UTC
+! Last modified: 07 Sep 2021 15:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23402,6 +23402,7 @@ _800x80_
 ##.c-fragment--container--ad
 ##.c-gallery-vertical__advert
 ##.c-googleadslot
+##.c-header__advert-container
 ##.c-main-header__ad
 ##.c-news-feed-ads
 ##.c-res-ad
@@ -28131,6 +28132,7 @@ _800x80_
 ##.single-ads
 ##.single-ads-section
 ##.single-article-ad
+##.single-component__ad
 ##.single-google-ad
 ##.single-item-page-ads
 ##.single-mpu
@@ -32778,6 +32780,7 @@ tf2r.com#@#.adverts
 ||baptismmattressstoppage.com^
 ||baptismwitnesseddisobedience.com^
 ||baqcpdctexlwgp.com^
+||barbedpotions.com^
 ||bardatm.ru^
 ||barefootedenvy.com^
 ||barefoottearworthy.com^
@@ -41082,6 +41085,7 @@ tf2r.com#@#.adverts
 ||secureeavesdroppingdisguised.com^
 ||securegate.xyz^
 ||securegate9.com^
+||securely-send.com^
 ||securemoney.ru^
 ||securesmrt-dt.com^
 ||securesurf.biz^
@@ -46858,6 +46862,7 @@ tf2r.com#@#.adverts
 ||downloadboutique.com^$popup
 ||downloadthesefile.com^$popup
 ||dradvice.in^$popup
+||dropssurgery.com^$popup
 ||drtuproft.com^$popup
 ||dsp.wtf^$popup
 ||dspultra.com^$popup
