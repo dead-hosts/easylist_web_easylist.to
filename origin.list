@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109080021
+! Version: 202109080105
 ! Title: EasyList
-! Last modified: 08 Sep 2021 00:21 UTC
+! Last modified: 08 Sep 2021 01:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24668,6 +24668,7 @@ _800x80_
 ##.gallery_ad_wrapper
 ##.gallery_ads_box
 ##.gallery_post--interstitial_ad
+##.galleryad
 ##.galleryads
 ##.gam-300x250-default-ad-container
 ##.gam-ad
@@ -50896,6 +50897,7 @@ codinghorror.com,stackoverflow.com###hireme
 weedhire.com###hireology
 navysports.com,texassports.com###holder-skyscraper
 goairforcefalcons.com,gopack.com,goterriers.com,texassports.com,umassathletics.com###holder-story
+carmag.co.za###home-leaderboard
 transfermarkt.com###home-rectangle-spotlight
 downloadsafer.com###homebannerbottom
 semiconductor-today.com###homeright
@@ -51179,7 +51181,7 @@ capetownmagazine.com###top-leader-wrapper
 thegazette.com###top-leaderboard
 gogetaroomie.com###top-space
 imassera.com###top-sponsor
-gamepur.com###top-sticky-sidebar-wrapper
+dotesports.com,gamepur.com###top-sticky-sidebar-wrapper
 nytimes.com,nytimes3xbfgragh.onion###top-wrapper
 danpatrick.com###topBannerContainer
 investing.com###topBroker
@@ -51921,6 +51923,7 @@ bizarrepedia.com##.holder
 newagebd.net##.homeSlideRightSecTwo
 pbs.org##.home__logo-pond
 geekwire.com##.home_listing
+carmag.co.za##.homepage-300x250-banner
 smallbusiness.co.uk##.homepage-banner-container
 designspiration.com##.homepageBanner
 lushstories.com##.horizhide
@@ -51975,6 +51978,7 @@ formula1.com##.js-promo-item
 stackoverflow.com##.js-sidebar-zone
 theguardian.com##.js-top-banner
 calorieking.com##.jss2
+offerup.com##.jss301
 calorieking.com##.jss356
 essentiallysports.com##.jsx-4249843366
 filecrypt.co##.kda25h1gd_ip
@@ -52857,6 +52861,7 @@ howtogeek.com##div[id^="purch_"]
 sltrib.com##div[id^="sltrib-promo-"]
 nytimes.com##div[id^="story-ad-"]
 filehorse.com##div[id^="td-"]
+weraveyou.com##div[id^="werav-"]
 opensubtitles.org##div[itemscope=""][itemtype="http://schema.org/Movie"] > fieldset
 audiofanzine.com##div[style*="height: 90px;"]
 avherald.com##div[style*="height:250px"]
