@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109091245
+! Version: 202109091349
 ! Title: EasyList
-! Last modified: 09 Sep 2021 12:45 UTC
+! Last modified: 09 Sep 2021 13:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17701,6 +17701,7 @@ _800x80_
 ##.ad-adlink-side
 ##.ad-adsense-block-250
 ##.ad-advertisement-horizontal
+##.ad-affiliate
 ##.ad-after-content
 ##.ad-align-none
 ##.ad-alsorectangle
@@ -52844,6 +52845,7 @@ issuu.com##div[class*="adSkyscraper"]
 keengamer.com##div[class*="gameon-above-"]
 topgear.com##div[class^="AdContainer-"]
 usnews.com##div[class^="Ad__Container-"]
+poki.com##div[class^="Advertisement_"]
 barrons.com##div[class^="BarronsTheme--adWrapper"]
 someecards.com##div[class^="BaseAdSlot_adContainer_"]
 apnews.com##div[class^="Component-adTitle-"]
