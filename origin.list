@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109091216
+! Version: 202109091235
 ! Title: EasyList
-! Last modified: 09 Sep 2021 12:16 UTC
+! Last modified: 09 Sep 2021 12:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53014,6 +53014,7 @@ eurometeo.com##td[width="738"]
 planetinsane.com,radiosurvivor.com##text-18
 trademe.co.nz##tm-display-ad
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##tr > td + td[style*="height:"]
+poki.com##div[class^="Advertisement_"]
 ! Amazon
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.nl,amazon.sg###nav-swmslot
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.nl,amazon.sg###sponsoredProducts2_feature_div
@@ -53367,7 +53368,7 @@ blogvporn.com##.blue-btns
 xtube.com##.bm6LRcdKEZAE
 ok.porn,pornhat.com##.bn
 alphaporno.com,hellporno.com,tubewolf.com,xcum.com##.bnnrs-player
-xcafe.com##.bnr
+pornogratisdiario.com,xcafe.com##.bnr
 ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
 xnxxvideoporn.com##.bot_bns
 xbabe.com##.bottom-banner
@@ -53778,6 +53779,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
 @@||apmebf.com/ad/$domain=betfair.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
+@@||assets.strossle.com^*/strossle-widget-sdk.js$script,domain=kaaoszine.fi
 @@||at.adtech.redventures.io/lib/dist/$script,domain=gamespot.com|metacritic.com
 @@||auctionzip.com/cgi-bin/showimage.cgi?
 @@||autotrader.co.uk^*/advert$~third-party
