@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109110335
+! Version: 202109110407
 ! Title: EasyList
-! Last modified: 11 Sep 2021 03:35 UTC
+! Last modified: 11 Sep 2021 04:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23971,6 +23971,7 @@ _800x80_
 ##.desktop-aside-ad
 ##.desktop-aside-ad-hide
 ##.desktop-in-content-native-ad
+##.desktop-lazy-ads
 ##.desktop-postcontentad-wrapper
 ##.desktop-top-ad-wrapper
 ##.desktop.ad
@@ -33764,6 +33765,7 @@ tf2r.com#@#.adverts
 ||clickgate08.biz^
 ||clickintext.com^
 ||clickkingdom.net^
+||clickmatters.biz^
 ||clickmngr.com^
 ||clicknano.com^
 ||clicknerd.com^
@@ -41890,6 +41892,7 @@ tf2r.com#@#.adverts
 ||taijiwhi.com^
 ||taisowhu.com^
 ||takeslobsgel.com^
+||takiparkrb.site^
 ||talentropes.com^
 ||talhundrewr.club^
 ||talk4anyone.com^
@@ -51889,6 +51892,7 @@ permies.com##.forum-top-banner
 newsroom.co.nz##.foundingpartners
 theiphoneappreview.com##.frame
 moviemistakes.com##.freestarad
+alphr.com##.fs-pushdown-sticky
 ghacks.net##.ftd-item.home-posts
 ptinews.com##.fullstorydivright
 ferrarichat.com##.funzone
@@ -52126,6 +52130,7 @@ allnurses.com##.medrec
 techrepublic.com##.medusa_right-rail
 eawaz.com##.metaslider
 moneycontrol.com##.mf_radarad
+wethegeek.com##.mfp-content
 cryptoreporter.info,palestinechronicle.com##.mh-header-widget-2
 investing.com##.midHeader
 newsday.com##.midPg
@@ -52255,6 +52260,7 @@ diglloyd.com,windinmyface.com##.placementTR
 advfn.com##.plus500
 freewebarcade.com##.pnum
 pedestrian.tv##.popular-jobs-widget
+wethegeek.com##.popup-dialog
 wtop.com##.post--sponsored
 hackread.com##.post-review-li
 mediakix.com##.post-widget__banner
@@ -52677,6 +52683,7 @@ screenbinge.com##.widget_sp_image-image-link
 lostintechnology.com##.widget_text
 nypost.com##.widget_text.no-mobile.box
 helpnetsecurity.com##.widgetized_wrapper
+wethegeek.com##.win
 windowsloop.com##.wl-prakatana
 warontherocks.com##.wotr_top_lbjspot
 hack-sat.com##.wp-image-31131
