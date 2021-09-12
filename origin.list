@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109122144
+! Version: 202109122157
 ! Title: EasyList
-! Last modified: 12 Sep 2021 21:44 UTC
+! Last modified: 12 Sep 2021 21:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17838,6 +17838,7 @@ _800x80_
 ##.ad-btn
 ##.ad-btn-heading
 ##.ad-bug-300w
+##.ad-burnside
 ##.ad-button
 ##.ad-buttons
 ##.ad-c-label
@@ -27696,6 +27697,7 @@ _800x80_
 ##.rockmelt-ad
 ##.rockmeltAdWrapper
 ##.rolloverad
+##.roof-ad
 ##.rot_ads
 ##.rotating-ad
 ##.rotating-ads
