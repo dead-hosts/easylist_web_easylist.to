@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109120337
+! Version: 202109120344
 ! Title: EasyList
-! Last modified: 12 Sep 2021 03:37 UTC
+! Last modified: 12 Sep 2021 03:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50128,6 +50128,7 @@ tf2r.com#@#.adverts
 ||softcab.com/google.php?
 ||sonichits.com/tf.php
 ||sorcerers.net/images/aff/
+||sorcerers.net/includes/butler/$domain=co8.org
 ||southfloridagaynews.com/images/banners/
 ||sportpesanews.com/images/promo/
 ||starget.mathworks.com^
@@ -52452,6 +52453,7 @@ skins.be##.shortBioShadowB
 siliconrepublic.com##.show-for-medium-up
 pixabay.com##.show-getty-item
 etherscan.io##.showcase-banner-spacing
+winx-club-hentai.com##.shr34
 mbauniverse.com##.shriresume-logo
 scriptinghelpers.org##.shvertise-skyscraper
 gaming.uefa.com##.si-ucl--head-bandSprLogo
