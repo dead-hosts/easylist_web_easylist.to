@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109120310
+! Version: 202109120337
 ! Title: EasyList
-! Last modified: 12 Sep 2021 03:10 UTC
+! Last modified: 12 Sep 2021 03:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2550,6 +2550,7 @@
 /adscontent.
 /adscontent2.
 /adscontrol.
+/adscontroller.
 /adscot/*
 /adscpv/*
 /adscript1.
@@ -43434,6 +43435,7 @@ tf2r.com#@#.adverts
 ||wvekalpmn.com^
 ||wvpkoyjoq.com^
 ||wvs3bmct6mkz.com^
+||wwpon365.ru^
 ||wwrpfevyca.com^
 ||wwry.xyz^
 ||wwsercher.biz^
@@ -45313,6 +45315,7 @@ tf2r.com#@#.adverts
 ||intellitxt.com^$third-party
 ||intenthq.com^$third-party
 ||intentmedia.net^$third-party
+||interactiveads.ai^$third-party
 ||interadv.net^$third-party
 ||interclick.com^$third-party
 ||interesting.cc^$third-party
@@ -46494,6 +46497,7 @@ tf2r.com#@#.adverts
 ||webgains.com^$third-party
 ||weborama.fr^$third-party
 ||weborama.io^$third-party
+||webwap.org^$third-party
 ||whizzco.com^$third-party
 ||widgetly.com^$third-party
 ||winadx.com^$third-party
@@ -47952,6 +47956,7 @@ tf2r.com#@#.adverts
 ||dtiserv2.com^$third-party
 ||dtprofit.com^$third-party
 ||duroternout.info^$third-party
+||dwetwdstom1020.com^$third-party
 ||dzhjmp.com^$third-party
 ||easy-dating.org^$third-party
 ||easyaccess.mobi^$third-party
@@ -50669,6 +50674,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||sonorousporn.com/nb/
 ||sortporn.com/ai2/
 ||sortporn.com/nb/
+||spankbang.com/api/livecam
 ||stream-69.com/code/script/
 ||sunporno.com/bl.php
 ||sxyprn.net/b/
@@ -52980,6 +52986,7 @@ rlslog.net##div[style="padding-left:40px;"]
 funvid.hu##div[style="padding: 3px 0px 0px 26px; height: 90px; clear: both;"]
 shaaditimes.com##div[style="padding: 5 0 0 0px; height: 138px; text-align:center; width:780px; background: url('/imgs/top-ad-bg.gif') repeat-x left bottom; background-color:#FFF9D0;"]
 indusladies.com##div[style="padding:5%;margin-left:30%;"]
+vymaps.com##div[style="text-align: center; height: 260px;"]
 readmanganato.com##div[style="text-align: center; max-width: 620px; max-height: 270px; margin: 10px auto; overflow: hidden; display: block;"]
 readmanganato.com##div[style="width: 100%;overflow: hidden;text-align: center;"]
 croatia.org##div[style="width: 120px; text-align:center"]
@@ -53913,6 +53920,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itv.com/itv/tserver/$~third-party
+@@||jmap.io/*/libs/Overture.js$~third-party
 @@||jokerly.com/Okidak/adSelectorDirect.htm?id=$document,subdocument
 @@||jokerly.com/Okidak/vastChecker.htm$document,subdocument
 @@||jwpcdn.com/player/plugins/googima/$script,domain=iheart.com|video.vice.com
