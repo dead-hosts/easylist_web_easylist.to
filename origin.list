@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109140157
+! Version: 202109140232
 ! Title: EasyList
-! Last modified: 14 Sep 2021 01:57 UTC
+! Last modified: 14 Sep 2021 02:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29950,6 +29950,14 @@ _800x80_
 ##[href*="prayuserparka.com/"]
 ##[href*="wap4dollar.com/"]
 ##[href^="http://advertisesimple.info/"]
+##[href^="http://homemoviestube.com/"]
+##[href^="http://join.hardcoreshemalevideo.com/"]
+##[href^="http://join.michelle-austin.com/"]
+##[href^="http://join.shemale.xxx/"]
+##[href^="http://join.shemalepornstar.com/"]
+##[href^="http://join.shemalesfromhell.com/"]
+##[href^="http://join.trannies-fuck.com/"]
+##[href^="http://join.ts-dominopresley.com/"]
 ##[href^="http://raboninco.com/"]
 ##[href^="http://stvkr.com/"]
 ##[href^="http://www.star-clicks.com/"]
@@ -40228,6 +40236,7 @@ tf2r.com#@#.adverts
 ||ptipsixo.com^
 ||ptipsout.net^
 ||ptirgaux.com^
+||ptlwm.com^
 ||ptoafauz.net^
 ||ptoahaistais.com^
 ||ptoangir.com^
@@ -53276,6 +53285,7 @@ ksl.com#?#.queue:-abp-has(.sponsored)
 linkedin.com#?#.feed-shared-update-v2:-abp-has(.feed-shared-actor__sub-description:-abp-contains(/Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|الترويج/))
 mirrored.to#?#tr:-abp-has([alt="UseNet"])
 mobile.twitter.com#?#.tweet:-abp-has(.promo)
+moonastro.com#?#div[style^="background-color:"]:-abp-contains(Advertisement)
 multiup.eu,multiup.org#?#.alert:-abp-contains(VPN)
 multiup.eu,multiup.org#?#.col-md-4:-abp-contains(Usenet.nl)
 multiup.eu,multiup.org#?#.trtbl:-abp-has(.warnIp)
@@ -53445,7 +53455,7 @@ onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
 japan-whores.com##.b-sidebar
 pornburst.xxx##.b4nners
-3movs.xxx,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvids.com,porngames.com,private.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,yourdailygirls.com,youx.xxx##.banner
+3movs.xxx,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,freepornpicss.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvids.com,porngames.com,private.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,yourdailygirls.com,youx.xxx##.banner
 javfor.tv##.banner-c
 grannymommy.com##.banner-on-player
 babesandstars.com##.banner-right
@@ -53467,6 +53477,7 @@ ok.porn,pornhat.com##.bn
 alphaporno.com,hellporno.com,tubewolf.com,xcum.com##.bnnrs-player
 pornogratisdiario.com,xcafe.com##.bnr
 ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
+sexsbarrel.com,zingyporntube.com##.bns-place-ob
 xnxxvideoporn.com##.bot_bns
 xbabe.com##.bottom-banner
 teenpornvideo.xxx##.bottom-spots
