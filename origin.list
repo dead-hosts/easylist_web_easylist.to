@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109171112
+! Version: 202109171133
 ! Title: EasyList
-! Last modified: 17 Sep 2021 11:12 UTC
+! Last modified: 17 Sep 2021 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22469,8 +22469,10 @@ _800x80_
 ##.article-ad-bottom
 ##.article-ad-box
 ##.article-ad-cont
+##.article-ad-holder
 ##.article-ad-horizontal
 ##.article-ad-left
+##.article-ad-legend
 ##.article-ad-main
 ##.article-ad-placeholder
 ##.article-ad-primary
@@ -52148,6 +52150,8 @@ crash.net##.inarticle-wrapper
 mail.com##.indeed
 brudirect.com##.index-banner
 theinertia.com##.inertia-ad-300x250
+inews.co.uk##.inews__advert
+inews.co.uk##.inews__mpu
 bab.la##.info-panel
 bestlifeonline.com,eatthis.com##.inline
 pcgamesn.com,theloadout.com##.inlinerail
@@ -52242,6 +52246,7 @@ ggrecon.com##.mainVenatusBannerContainer
 color-hex.com##.margin10
 designtaxi.com##.masonry-brick.nt
 pushsquare.com,songlyrics.com##.masthead
+racgp.org.au##.mb-1.small
 gamedev.net##.mb-3.align-items-center.justify-content-start
 indiatimes.com##.mb-36 > .top-trending
 themoscowtimes.com##.mb-4.py-3
