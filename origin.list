@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109170232
+! Version: 202109170324
 ! Title: EasyList
-! Last modified: 17 Sep 2021 02:32 UTC
+! Last modified: 17 Sep 2021 03:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24203,6 +24203,7 @@ _800x80_
 ##.dw-sticky-ad-inner
 ##.dw-sticky-ad-left
 ##.dwn_link_adv
+##.dyn-sidebar-ad
 ##.dynamic-ad-wrap-b
 ##.dynamic-ads
 ##.dynamicAdvertContainer
@@ -52107,6 +52108,7 @@ tmrzoo.com##.headbanner
 kolompc.com##.header-area
 worldpress.org##.header-b
 adswikia.com,americanfreepress.net,cookinglight.com,freemalaysiatoday.com,gameplayinside.com,kodicommunity.com,landandfarm.com,pointblanknews.com,runt-of-the-web.com##.header-banner
+thinksimplenow.com##.header-banner-container
 apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.header-billboard
 vapingunderground.com##.header-block
 worldpress.org##.header-bnr
@@ -53106,6 +53108,7 @@ filesharingtalk.com##div[style="background-color: white; border-width: 2px; bord
 fansshare.com##div[style="background-image:url(http://img23.fansshare.com/media/img/advertisement.png);width:335px;height:282px;"]
 hints.macworld.com##div[style="border-bottom: 2px solid #7B7B7B; padding-bottom:8px; margin-bottom:5px;"]
 askdifference.com##div[style="color: #aaa"]
+english-hindi.net##div[style="height:250px !important; background:#ccc;"]
 sentinelnews.com,theandersonnews.com##div[style="height:620px;width:279px;margin:auto;margin-top:5px;background-color:#eaeaea;"]
 gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 askdifference.com##div[style="min-height:280px;"]
@@ -53136,6 +53139,7 @@ adblock-tester.com##embed[width="240"]
 imgburn.com##font[face="Arial"][size="1"]
 realitytvworld.com##font[size="1"][color="gray"]
 law.com,topcultured.com##h3
+avanigo.com##iframe.lazyloaded
 micky.com.au##iframe[height="90"]
 coincodex.com,yourbittorrent.com##iframe[src]
 fansshare.com##iframe[width="300"]
