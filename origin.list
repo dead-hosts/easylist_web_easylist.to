@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109181321
+! Version: 202109181956
 ! Title: EasyList
-! Last modified: 18 Sep 2021 13:21 UTC
+! Last modified: 18 Sep 2021 19:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29128,6 +29128,7 @@ _800x80_
 ##.top-treehouse-ad
 ##.top-wide-ad-container
 ##.top-wrapper-sponsored-fb
+##.top.ad
 ##.top300ad
 ##.topAD
 ##.topAd
@@ -32078,6 +32079,7 @@ tf2r.com#@#.adverts
 ||adjectivates.xyz^
 ||adjoiningfollowingaddiction.com^
 ||adkaora.space^
+||adl-hunter.com^
 ||adlane.info^
 ||adlook.net^
 ||admenhost.com^
@@ -45072,6 +45074,7 @@ tf2r.com#@#.adverts
 ||deepintent.com^$third-party
 ||deplayer.net^$third-party
 ||desipearl.com^$third-party
+||dev2pub.com^$third-party
 ||developermedia.com^$third-party
 ||dgmaxinteractive.com^$third-party
 ||dianomi.com^$third-party
@@ -48618,6 +48621,7 @@ tf2r.com#@#.adverts
 ||ertya.com^$popup
 ||fderty.com^$popup
 ||flagads.net^$popup
+||flndmyiove.net^$popup
 ||fpctraffic2.com^$popup,third-party
 ||freecamsexposed.com^$popup
 ||freewebcams.com^$popup,third-party
@@ -50626,6 +50630,8 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||hqpornstream.com/pub/
 ||hypnohub.net/assets/hub.js
 ||idealnudes.com/tf40bbdd1767.js
+||ihpc.info/header/
+||ihpc.info/meendo/
 ||imagepost.com/stuff/
 ||imagesnake.com/includes/js/js.js
 ||imagesnake.com/includes/js/layer.js
