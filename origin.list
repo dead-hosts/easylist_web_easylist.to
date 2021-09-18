@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182253
+! Version: 202109182302
 ! Title: EasyList
-! Last modified: 18 Sep 2021 22:53 UTC
+! Last modified: 18 Sep 2021 23:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48668,6 +48668,7 @@ tf2r.com#@#.adverts
 ||freewebcams.com^$popup,third-party
 ||frtyi.com^$popup,third-party
 ||gettraff.com^$popup
+||girls.xyz^$popup
 ||girlsoncam.info^$popup
 ||go-route.com^$popup
 ||grtyv.com^$popup
@@ -50680,6 +50681,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||hornygamer.com/includes/gamefile/sw3d_hornygamer.gif
 ||hornygamer.com/play_horny_games/
 ||hotgirlsdream.com/tf40bbdd1767.js
+||hothag.com/img/banners/
 ||hottystop.com/t33638ba5008.js
 ||hqpornstream.com/pub/
 ||hypnohub.net/assets/hub.js
@@ -50748,6 +50750,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||redtube.fm/advertisment.htm
 ||rencontre31.fr/wp-content/themes/rencontre31/images/popupPerso/
 ||rexporn.com/js/rp.js
+||rexxx.com/banner?
 ||rexxx.org/banner
 ||ruedux.com/code/script/
 ||rule34hentai.net^$subdocument,~third-party
@@ -53579,6 +53582,7 @@ xbabe.com##.bottom-banner
 teenpornvideo.xxx##.bottom-spots
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
+rexxx.com##.bottom_banners
 dixyporn.com##.bottom_spot
 javlibrary.com##.bottombanner2
 bravotube.net##.box-left
@@ -53829,6 +53833,7 @@ yourlust.com##.visit_cs
 eporner.com##.vjs-inplayer-container
 hd-easyporn.com##.vjs-overlay
 japan-whores.com##.vp-info
+hothag.com##.wdiget-below-image
 porntube.com##.webcam-shelve
 imagearn.com##.wide_banner
 gifsauce.com##.widget_live
@@ -53915,6 +53920,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporngay.com##div[onclick*="bp1.com"]
 hypnohub.net##div[style$="height:255px;"]
 pornhub.com,pornhubthbh7ap3u.onion##div[style*="width: 315px; height: 300px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
+hothag.com##div[style^="style="width:600px;height:120px;"]
+hothag.com##div[style^="width:300px;height:250px;"]
 ahentai.top##div[style^="width:728px;height:90px"]
 pornhub.com,pornhubthbh7ap3u.onion##figure > [id][style="display: block;"]
 rateherpussy.com##font[size="1"][face="Verdana"]
