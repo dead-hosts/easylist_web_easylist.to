@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182231
+! Version: 202109182253
 ! Title: EasyList
-! Last modified: 18 Sep 2021 22:31 UTC
+! Last modified: 18 Sep 2021 22:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30639,6 +30639,7 @@ _800x80_
 ##a[href^="https://understandsolar.com/signup/?lead_source="][href*="&tracking_code="]
 ##a[href^="https://unreshiramor.com/"]
 ##a[href^="https://usenetxs.website/"]
+##a[href^="https://vo2.qrlsx.com/"]
 ##a[href^="https://vod09197d7.club/"]
 ##a[href^="https://wantopticalfreelance.com/"]
 ##a[href^="https://watchmygirlfriend.tv/"]
@@ -50221,6 +50222,8 @@ tf2r.com#@#.adverts
 ||taadd.com/files/js/site_skin.js
 ||talbol.net/acb/
 ||talbol.net/ads/
+||tametimes.co.za^*-advert-
+||tametimes.co.za^*/Glendower.gif
 ||tb.turbocap.net/a637rw3.js
 ||techhive.com/ads/
 ||technewsworld.com/images/sda/
@@ -51621,6 +51624,7 @@ geekflare.com##.b-sticky-sidebar-wrapper-simple
 bizcommunity.com##.b-topbanner
 scorespro.com##.b160_600
 myabandonware.com##.ba
+namepros.com##.backer
 mcvuk.com,technologyx.com,thessdreview.com##.background-cover
 gayexpress.co.nz##.backstretch
 izismile.com##.ban_top
@@ -52857,6 +52861,7 @@ medicalnewstoday.com##[data-ad]
 jobstreet.com.sg##[data-automation="homepage-banner-ads"]
 jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
 medicalnewstoday.com##[data-empty="true"]
+namepros.com##[data-np-ga-event="ad"]
 washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-sc-c="adslot"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
@@ -53885,6 +53890,7 @@ hentairules.net##a[href^="http://www.gallery-dump.com"]
 pornhub.com,pornhubpremium.com,redtube.com##a[href^="https://ads.trafficjunky.net/"]
 redgifs.com##a[href^="https://camsfinders.com/"]
 hog.tv##a[href^="https://clickaine.com"]
+instantfap.com##a[href^="https://go.redgifcams.com/"]
 smutr.com##a[href^="https://smutr.com/?action=trace"]
 gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
