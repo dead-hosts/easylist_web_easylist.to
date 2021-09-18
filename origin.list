@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182207
+! Version: 202109182231
 ! Title: EasyList
-! Last modified: 18 Sep 2021 22:07 UTC
+! Last modified: 18 Sep 2021 22:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3117,6 +3117,7 @@
 /advertising-$image,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.boardgamegeek.com|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
 /advertising/banner_
+/advertising/banners/*
 /advertising/traffic-
 /advertising2.
 /advertising?
@@ -20541,6 +20542,7 @@ _800x80_
 ##.ads-middle-top
 ##.ads-minheight
 ##.ads-mini
+##.ads-mobile
 ##.ads-module
 ##.ads-movie
 ##.ads-mpu
@@ -30213,6 +30215,7 @@ _800x80_
 ##a[href^="http://eclkmpsa.com/"]
 ##a[href^="http://elitefuckbook.com/"]
 ##a[href^="http://engine.newsmaxfeednetwork.com/"]
+##a[href^="http://enter.anabolic.com/track/"]
 ##a[href^="http://espn.zlbu.net/"]
 ##a[href^="http://ethfw0370q.com/"]
 ##a[href^="http://extra.bet365.com/"][href*="?affiliate="]
@@ -30424,6 +30427,7 @@ _800x80_
 ##a[href^="https://10dfkuvbdkfv.club/"]
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://a.bestcontentfood.top/"]
+##a[href^="https://a.bestcontentoperation.top/"]
 ##a[href^="https://aaucwbe.com/"]
 ##a[href^="https://ad.atdmt.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
@@ -30516,6 +30520,7 @@ _800x80_
 ##a[href^="https://go.trackitalltheway.com/"]
 ##a[href^="https://go.trkclick2.com/"]
 ##a[href^="https://go.xtbaffiliates.com/"]
+##a[href^="https://go.xxxjmp.com/"]
 ##a[href^="https://gogoman.me/"]
 ##a[href^="https://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="https://goraps.com/"]
@@ -30618,6 +30623,7 @@ _800x80_
 ##a[href^="https://tracking.avapartner.com/"]
 ##a[href^="https://tracking.comfortclick.eu/"]
 ##a[href^="https://tracking.gitads.io/"]
+##a[href^="https://tracking.trackcasino.co/"]
 ##a[href^="https://tracking.truthfinder.com/?a="]
 ##a[href^="https://trackjs.com/?utm_source"]
 ##a[href^="https://traffic.bannerator.com/"]
@@ -48098,6 +48104,7 @@ tf2r.com#@#.adverts
 ||iheartbucks.com^$third-party
 ||ijrah.top^$third-party
 ||ilovecheating.com^$third-party
+||imediacrew.club^$third-party
 ||imglnka.com^$third-party
 ||imglnkb.com^$third-party
 ||imglnkc.com^$third-party
@@ -48513,6 +48520,7 @@ tf2r.com#@#.adverts
 ||bebadu.com^
 ||bonertraffic14.info^
 ||briggbrought.pro^
+||camschat.net^
 ||cebadu.com^
 ||clickbigo.com^
 ||clmcom.com^
@@ -48529,6 +48537,7 @@ tf2r.com#@#.adverts
 ||febadu.com^
 ||foxypp.com^
 ||furmnas.com^
+||gammae.com^
 ||he7ll.com^
 ||healmsuoguurd.eu^
 ||hebadu.com^
@@ -48549,6 +48558,7 @@ tf2r.com#@#.adverts
 ||koradu.com^
 ||libedgolart.com^
 ||maldini.xyz^
+||medfoodspace.com^
 ||melvillet.pro^
 ||nebadu.com^
 ||nkmsite.com^
@@ -50630,6 +50640,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||drtuber.com/footer_
 ||dyn.empflix.com^
 ||dyn.tnaflix.com^
+||ea-tube.com/i2/
 ||easypic.com/js/easypicads.js
 ||empflix.com/mew.php
 ||entensity.net/crap/
@@ -50655,6 +50666,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||gloryholegirlz.com/images/banners/
 ||go.pornav.net^
 ||go.strpjmp.com^
+||goodsexporn.org/banners/
 ||h2porn.com/aa474eaa.js
 ||hdpornfree.xxx/xxx/
 ||hellporno.com/_a_xb/
@@ -53531,11 +53543,13 @@ onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
 japan-whores.com##.b-sidebar
 pornburst.xxx##.b4nners
+dofap.com##.b_videobot
 3movs.xxx,analpornpix.com,chaturbate.com,dansmovies.com,fboomporn.com,fecaltube.com,freepornpicss.com,hotmovs.com,imagezog.com,momthumb.com,oldies.name,paradisehill.cc,pervertedmilfs.com,playvids.com,porngames.com,private.com,vidxnet.com,vjav.com,wanknews.com,wankoz.com,watchhentaivideo.com,waybig.com,xbabe.com,xcum.com,yourdailygirls.com,youx.xxx##.banner
 javfor.tv##.banner-c
 grannymommy.com##.banner-on-player
 babesandstars.com##.banner-right
 javfor.tv##.banner-top-b
+dofap.com##.banner300x250
 watchhentaivideo.com##.bannerBottom
 empflix.com##.bannerContainer
 sexu.com##.banners
@@ -53750,7 +53764,7 @@ faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 qcock.com##.spot-thumbs
 homo.xxx##.spot.column
 drtuber.com##.spot_button_m
-drtuber.com,vivatube.com##.spots
+drtuber.com,thisvid.com,vivatube.com##.spots
 analsexstars.com##.sppc
 teenasspussy.com##.sqs
 pornstarchive.com##.squarebanner
@@ -53766,6 +53780,7 @@ javfor.tv##.text-md-center
 wichspornos.com##.tf-sp
 pornpictureshq.com##.thumb__iframe
 pornicom.com##.thumb_spots
+toppixxx.com##.thumbad
 tallermaintenancar.com##.thumbs
 smutty.com##.tig_following_tags2
 drtuber.com##.title-sponsored
