@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182034
+! Version: 202109182049
 ! Title: EasyList
-! Last modified: 18 Sep 2021 20:34 UTC
+! Last modified: 18 Sep 2021 20:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17698,6 +17698,7 @@ _800x80_
 ##.ad-ab
 ##.ad-abc
 ##.ad-above-header
+##.ad-above-mod-dl-btn
 ##.ad-accordion
 ##.ad-adSense
 ##.ad-adcode
@@ -18039,6 +18040,7 @@ _800x80_
 ##.ad-hold
 ##.ad-holder
 ##.ad-home-bottom
+##.ad-home-featured-files
 ##.ad-home-right
 ##.ad-homeleaderboard
 ##.ad-homepage
@@ -18080,6 +18082,7 @@ _800x80_
 ##.ad-inline
 ##.ad-inline-article
 ##.ad-inline-block
+##.ad-inline-mod
 ##.ad-inner
 ##.ad-inner-container
 ##.ad-innr
@@ -21052,6 +21055,7 @@ _800x80_
 ##.adsbttmpg
 ##.adsbyadop
 ##.adsbycircumventioncentral
+##.adsbyexoclick
 ##.adsbyexoclick-wrapper
 ##.adsbygoogle
 ##.adsbygoogle-box
@@ -29434,6 +29438,7 @@ _800x80_
 ##.video-archive-ad
 ##.video-boxad
 ##.video-innerAd-320x250
+##.video-page__adv
 ##.video-player-ad-center
 ##.video-right-ad
 ##.video-right-ads
@@ -39146,6 +39151,7 @@ tf2r.com#@#.adverts
 ||nyphuboshu.com^
 ||nyptistaha.com^
 ||nyrithenrebarro.info^
+||nytrng.com^
 ||nyutkikha.info^
 ||nyztgyuuts.com^
 ||nzbnjdukgaco.com^
@@ -45328,6 +45334,7 @@ tf2r.com#@#.adverts
 ||indianlinkexchange.com^$third-party
 ||indieclick.com^$third-party
 ||indofad.com^$third-party
+||indoleads.com^$third-party
 ||industrybrains.com^$third-party
 ||inetinteractive.com^$third-party
 ||inewcontentdelivery.info^$third-party
@@ -48565,6 +48572,7 @@ tf2r.com#@#.adverts
 ||vidcdn.info^
 ||voradu.com^
 ||voredi.com^
+||vst1mid.com^
 ||whalepp.com^
 ||xoredi.com^
 ||xxssyndic.com^
@@ -49794,6 +49802,7 @@ tf2r.com#@#.adverts
 ||static.twincdn.com/special/license.packed
 ||static.twincdn.com/special/script.packed
 ||streamen.com/exports/$third-party
+||stripchat.com/api/external/
 ||stripchat.com^*/widget/$third-party
 ||swurve.com/affiliates/
 ||target.vivid.com^$third-party
@@ -53490,11 +53499,12 @@ paradisehill.cc##.banners4
 ratemymelons.com##.bannus
 yourdarkdesires.com##.battery
 fap18.net,fuck55.net,tube.ac,tube.bz##.bb_desktop
-pornhat.com##.before-player
+ok.xxx,pornhat.com##.before-player
 alphaporno.com,tubewolf.com##.block-banner
 blogvporn.com##.blue-btns
 xtube.com##.bm6LRcdKEZAE
 ok.porn,pornhat.com##.bn
+ok.xxx##.bn-title
 alphaporno.com,hellporno.com,tubewolf.com,xcum.com##.bnnrs-player
 pornogratisdiario.com,xcafe.com##.bnr
 ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
@@ -53740,7 +53750,7 @@ watchmygf.tv##.video-aside-spot
 sexseeimage.com##.video-block-happy
 comicsxxxgratis.com##.video-container
 boyfriendtv.com##.video-extra-wrapper
-pornhat.com##.video-link
+ok.xxx,pornhat.com##.video-link
 thegay.com##.video-page__content > .right
 pornhd.com##.video-player-overlay
 pornhub.com,pornhubthbh7ap3u.onion##.video-wrapper > #player + [class]
