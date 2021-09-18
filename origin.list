@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182146
+! Version: 202109182207
 ! Title: EasyList
-! Last modified: 18 Sep 2021 21:46 UTC
+! Last modified: 18 Sep 2021 22:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4888,6 +4888,7 @@
 /lazy-ads@
 /lazyad-
 /lazyad.
+/lazyload.ads?
 /lbl_ad.
 /leadads/*
 /leader_ad.
@@ -48569,6 +48570,7 @@ tf2r.com#@#.adverts
 ||shareitpp.com^
 ||sitegoto.com^
 ||sitemnk.com^
+||siteoid.com^
 ||siterdm.com^
 ||softspace.mobi^
 ||soonbigo.com^
@@ -49712,6 +49714,7 @@ tf2r.com#@#.adverts
 ||livejasmin.com^$third-party,domain=~awempire.com
 ||livesexasian.com^$subdocument,third-party
 ||loveme.com^$third-party
+||lovense.com/UploadFiles/Temp/$third-party
 ||media.eurolive.com^$third-party
 ||media.mykodial.com^$third-party
 ||media.pussycash.com^$third-party
@@ -53405,6 +53408,7 @@ milffox.com###advertising
 instantfap.com###af
 pervclips.com###after-adv
 sexyandfunny.com###best-friends
+pussyspace.com###bhcr
 toppixxx.com###bottom
 xxxdan.com###bottom-line
 eporner.com###btasd
@@ -53425,6 +53429,14 @@ postyourpuss.com###leaderboard
 bootyoftheday.co###lj
 4tube.com###main-jessy-grid
 peekvids.com###mediaPlayerBanner
+pornvalleymedia.net###media_image-81
+pornvalleymedia.net###media_image-82
+pornvalleymedia.net###media_image-83
+pornvalleymedia.net###media_image-84
+pornvalleymedia.net###media_image-86
+pornvalleymedia.net###media_image-87
+pornvalleymedia.net###media_image-88
+pornvalleymedia.net###media_image-90
 gifsfor.com###mob_banner
 flashx.tv###nuevoa
 youjizz.com###onPausePrOverlay
@@ -53607,6 +53619,7 @@ xcafe.com##.footer-block
 youporn.com,youporngay.com##.footer-element-container
 4tube.com##.footer-la-jesi
 4kporn.xxx,fpo.xxx##.footer-margin
+cbhours.com##.footer-section
 pornhd.com##.footer-zone
 homo.xxx##.footer.spot
 badjojo.com##.footera
@@ -53836,6 +53849,7 @@ taxidrivermovie.com##a[href*="/category/"]
 nude.hu##a[href*="/click/"]
 hdzog.com,xcafe.com##a[href*="/cs/"]
 agedbeauty.net,data18.com,pornpics.com,vipergirls.to##a[href*="/go/"]
+pornlib.com##a[href*="/linkout/"]
 mansurfer.com##a[href*="/out/"]
 avgle.com##a[href*="/redirect"]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
