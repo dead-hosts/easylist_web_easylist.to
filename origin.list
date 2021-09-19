@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109182328
+! Version: 202109190006
 ! Title: EasyList
-! Last modified: 18 Sep 2021 23:28 UTC
+! Last modified: 19 Sep 2021 00:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49132,20 +49132,15 @@ tf2r.com#@#.adverts
 ||phonephotographytricks.com/images/banners/
 ||phonograph2.voxmedia.com^
 ||pics.firstload.de^
-||pjatr.com/b/
-||pjatr.com/i/
-||pjtra.com/b/
-||pjtra.com/i/
+||pjatr.com^$image,script
+||pjtra.com^$image,script
 ||play-asia.com^$image,subdocument,third-party
 ||plista.com/async_lib.js?
 ||plista.com/tiny/$third-party
 ||plus.net/images/referrals/
-||pntra.com/b/
-||pntra.com/i/
-||pntrac.com/b/
-||pntrac.com/i/
-||pntrs.com/b/
-||pntrs.com/i/
+||pntra.com^$image,script
+||pntrac.com^$image,script
+||pntrs.com^$image,script
 ||popin.cc/popin_discovery
 ||popmog.com^
 ||post.rmbn.ru^$third-party
@@ -49975,6 +49970,7 @@ tf2r.com#@#.adverts
 ||coincheck.com/images/affiliates/
 ||coincodex.com^$subdocument,~third-party
 ||coingolive.com/assets/img/partners/
+||colombiareports.com/wp-content/banners/
 ||coryarcangel.com/images/banners/
 ||cpahero.com/cpa-networks.gif
 ||crackdb.com/img/vpn.png
@@ -50209,7 +50205,7 @@ tf2r.com#@#.adverts
 ||softcab.com/google.php?
 ||sonichits.com/tf.php
 ||sorcerers.net/images/aff/
-||sorcerers.net/includes/butler/$domain=co8.org
+||sorcerers.net/includes/butler/
 ||southfloridagaynews.com/images/banners/
 ||sportpesanews.com/images/promo/
 ||starget.mathworks.com^
@@ -50996,13 +50992,13 @@ leader.co.za###ctl00_ctl00_cphBody_cphColumnBody_cphColumnMiddleParent_cphNaviga
 miloserdov.org,wpneon.com###custom_html-10
 isekaiscan.com,miloserdov.org###custom_html-11
 theregister.co.nz###custom_html-13
-miloserdov.org,mostlyblogging.com###custom_html-14
+colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
 mostlyblogging.com###custom_html-15
 miloserdov.org###custom_html-16
 ets2.lt,miloserdov.org###custom_html-2
 robloxhackscripts.com###custom_html-23
 mostlyblogging.com###custom_html-3
-filmschoolrejects.com,hongkongfp.com###custom_html-6
+colombiareports.com,filmschoolrejects.com,hongkongfp.com###custom_html-6
 kanonitv.net###custom_html-7
 filmschoolrejects.com,reneweconomy.com.au###custom_html-8
 dailycaller.com###dailycaller_top
