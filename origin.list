@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109200332
+! Version: 202109200355
 ! Title: EasyList
-! Last modified: 20 Sep 2021 03:32 UTC
+! Last modified: 20 Sep 2021 03:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31429,7 +31429,7 @@ browsershots.org#@#.advert_area
 tf2r.com#@#.adverts
 ! ---------------------------Third-party advertisers---------------------------!
 ! *** easylist:easylist/easylist_adservers.txt ***
-! Non-flagged (Revolving ad servers)
+! Non-flagged (Generic blocks)
 ||006a039c957c142bb.com^
 ||00aaa2d81c1d174.com^
 ||012469af389a1d1246d.com^
@@ -32162,6 +32162,8 @@ tf2r.com#@#.adverts
 ||adroitreclineinquisitive.com^
 ||adrokt.com^
 ||adrunnr.com^
+||ads-twitter.com^
+||adsafeprotected.com^
 ||adsbr.info^
 ||adsbtrk.com^
 ||adscarrot.com^
@@ -32431,6 +32433,7 @@ tf2r.com#@#.adverts
 ||amateurcouplewebcam.com^
 ||amaumomt.com^
 ||amavirgin.pro^
+||amazon-adsystem.com^
 ||ambientaboveboard.com^
 ||ambushdonut.com^
 ||amenddroopingpharmacy.com^
@@ -36044,6 +36047,7 @@ tf2r.com#@#.adverts
 ||fuxoasim.link^
 ||fvenxjtzuaxu.com^
 ||fwbntw.com^
+||fwmrm.net^
 ||fwnowvgk.com^
 ||fwrrcnkzn5ik.com^
 ||fxdepo.com^
@@ -44746,7 +44750,6 @@ tf2r.com#@#.adverts
 ||adrsp.net^$third-party
 ||ads-for-free.com^$third-party
 ||ads-pixiv.net^$third-party
-||ads-twitter.com^$third-party
 ||ads.cc^$third-party
 ||ads.rd.linksynergy.com^
 ||ads01.com^$third-party
@@ -44756,7 +44759,6 @@ tf2r.com#@#.adverts
 ||ads2srv.com^$third-party
 ||ads3-adnow.com^$third-party
 ||ads5-adnow.com^$third-party
-||adsafeprotected.com^$third-party
 ||adsafety.net^$third-party
 ||adsagony.com^$third-party
 ||adsalvo.com^$third-party
@@ -45064,7 +45066,6 @@ tf2r.com#@#.adverts
 ||am11.ru^$third-party
 ||am15.net^$third-party
 ||amarceusan.com^$third-party
-||amazon-adsystem.com^$third-party
 ||amazon-cornerstone.com^$third-party
 ||ambaab.com^$third-party
 ||ambientplatform.vn^$third-party
@@ -45513,7 +45514,6 @@ tf2r.com#@#.adverts
 ||freerotator.com^$third-party
 ||friendlyduck.com^$third-party
 ||fruitkings.com^$third-party
-||fwmrm.net^$third-party
 ||g-cash.biz^$third-party
 ||g17media.com^$third-party
 ||gainmoneyfast.com^$third-party
