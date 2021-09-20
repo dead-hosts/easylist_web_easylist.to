@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109201101
+! Version: 202109201124
 ! Title: EasyList
-! Last modified: 20 Sep 2021 11:01 UTC
+! Last modified: 20 Sep 2021 11:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3100,12 +3100,10 @@
 /advertisebanners/*
 /advertisehere.
 /advertisement-$~script,domain=~berlin-airport.de
-/advertisement/*
 /advertisement160.
 /advertisement?zoneid=
 /advertisement_$~script
 /advertisements-
-/advertisements.
 /advertisements/*$domain=~ellefanningfan.net
 /advertisements?
 /advertisements_
@@ -9212,6 +9210,7 @@ _800x80_
 ###ad-sla-sidebar300x250
 ###ad-slideshow
 ###ad-slideshow2
+###ad-slot
 ###ad-slot--header-banner
 ###ad-slot--leaderboard-bottom
 ###ad-slot--leaderboard-top
@@ -32448,6 +32447,7 @@ tf2r.com#@#.adverts
 ||amazon-adsystem.com^
 ||ambientaboveboard.com^
 ||ambushdonut.com^
+||ambushinjure.com^
 ||amenddroopingpharmacy.com^
 ||amerallyluke.club^
 ||amexcadrillon.com^
@@ -33008,6 +33008,7 @@ tf2r.com#@#.adverts
 ||begrudgecorrespondence.com^
 ||begunprescription.com^
 ||behalfplead.com^
+||behangneurin.casa^
 ||beharmalted.info^
 ||behavingsali.club^
 ||behybmunweid.com^
@@ -37422,6 +37423,7 @@ tf2r.com#@#.adverts
 ||jafosachi.pro^
 ||jaftouja.net^
 ||jaidennegros.pro^
+||jailershowmen.com^
 ||jamcdn.pro^
 ||jamdomn.pro^
 ||jamsoulsfriday.com^
@@ -41640,6 +41642,7 @@ tf2r.com#@#.adverts
 ||searsbushelbus.com^
 ||seativeflypa.top^
 ||seatsactadvantages.com^
+||seaweedludicrous.com^
 ||seayipsex.com^
 ||sebadu.com^
 ||sebpmnltgd.com^
