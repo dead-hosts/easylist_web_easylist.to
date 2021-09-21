@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109211752
+! Version: 202109211801
 ! Title: EasyList
-! Last modified: 21 Sep 2021 17:52 UTC
+! Last modified: 21 Sep 2021 18:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34528,6 +34528,7 @@ tf2r.com#@#.adverts
 ||counterry.club^
 ||countertrck.com^
 ||countilde.online^
+||coupleairplane.com^
 ||couponcashmerelining.com^
 ||couptoug.net^
 ||couragetea.com^
@@ -45208,7 +45209,7 @@ tf2r.com#@#.adverts
 ||adlpartner.com^$third-party
 ||adlux.com^$third-party
 ||adm-vids.info^$third-party
-||adm.shinobi.jp^^$third-party
+||adm.shinobi.jp^$third-party
 ||admagnet.net^$third-party
 ||admailtiser.com^$third-party
 ||admamba.com^$third-party
