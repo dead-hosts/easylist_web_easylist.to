@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109211305
+! Version: 202109211424
 ! Title: EasyList
-! Last modified: 21 Sep 2021 13:05 UTC
+! Last modified: 21 Sep 2021 14:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30503,6 +30503,7 @@ _800x80_
 ##a[href^="https://fakelay.com/"]
 ##a[href^="https://farm.plista.com/pets"]
 ##a[href^="https://fast-redirecting.com/"]
+##a[href^="https://fertilitycommand.com/"]
 ##a[href^="https://fileboom.me/pr/"]
 ##a[href^="https://financeads.net/tc.php?"]
 ##a[href^="https://fleshlight.sjv.io/"]
@@ -32922,6 +32923,7 @@ tf2r.com#@#.adverts
 ||asuydisi.com^
 ||aswfs.xyz^
 ||asxemfnwbrmpdp.com^
+||asxvawth.com^
 ||atadserver.com^
 ||ataijeeg.net^
 ||atas.io^
@@ -34344,6 +34346,7 @@ tf2r.com#@#.adverts
 ||collectorearnammonia.com^
 ||collectrom.com^
 ||collectrum.com^
+||colletsopelu.cam^
 ||colliersads.com^
 ||colonialismresolute.com^
 ||colonistnobilityheroic.com^
@@ -36081,6 +36084,7 @@ tf2r.com#@#.adverts
 ||fergetson.site^
 ||fermolo.info^
 ||fernthumbjoin.com^
+||fertilitycommand.com^
 ||fertilizeranaemiaupcoming.com^
 ||fertilizermessyshortcut.com^
 ||fessmegilscha.info^
@@ -37110,6 +37114,7 @@ tf2r.com#@#.adverts
 ||heyad.xyz^
 ||hf18yg8q.com^
 ||hfc195b.com^
+||hfmvtjpcd.com^
 ||hfqclrllll.com^
 ||hfwmgail.com^
 ||hg-bn.com^
@@ -38141,6 +38146,7 @@ tf2r.com#@#.adverts
 ||knubbyknit.com^
 ||knujamgz.com^
 ||knutenegros.pro^
+||knxntpsd.com^
 ||koacojus.net^
 ||koaptooh.net^
 ||koertf.com^
@@ -38976,6 +38982,7 @@ tf2r.com#@#.adverts
 ||midasatlas.com^
 ||midastouchrt.com^
 ||middleimpetuous.com^
+||midnightimpressionperception.com^
 ||midnightnosebleeddoorway.com^
 ||midootib.net^
 ||midpopedge.com^
@@ -46943,6 +46950,7 @@ tf2r.com#@#.adverts
 ||bedorm.com^$popup
 ||beklefkiom.com^$popup
 ||belwrite.com^$popup
+||bemachopor.com^$popup
 ||bemobtrcks.com^$popup
 ||bemobtrk.com^$popup
 ||benoopto.com^$popup
@@ -52081,6 +52089,7 @@ w3techs.com##.feat
 mumbrella.com.au##.featureBanner
 ar12gaming.com,geekwire.com##.featured-sponsor
 fandom.com##.featured-video__wrapper
+motor1.com##.featured__apb
 whitepages.ae##.featured_companies_bg_main
 nagpurtoday.in##.film-right-s
 proprofs.com##.firstadd
