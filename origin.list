@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109232316
+! Version: 202109232355
 ! Title: EasyList
-! Last modified: 23 Sep 2021 23:16 UTC
+! Last modified: 23 Sep 2021 23:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53290,6 +53290,8 @@ croatia.org##div[style="width: 120px; text-align:center"]
 reactiongifs.com##div[style="width:499px; background:#ffffff; margin:00px 0px 35px 180px; padding:20px 0px 20px 20px; "]
 whatmobile.com.pk##div[style^="background-color:#EBEBEB;"]
 add0n.com##div[style^="height: 90px;"]
+malaysiakini.com##div[style^="height:250px"]
+malaysiakini.com##div[style^="height:600px"]
 whatmobile.com.pk##div[style^="height:610px"]
 google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk##div[style^="margin-bottom:15px"][class^="jsx-"]
 add0n.com,wccftech.com##div[style^="min-height:90px"]
