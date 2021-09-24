@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109241646
+! Version: 202109242210
 ! Title: EasyList
-! Last modified: 24 Sep 2021 16:46 UTC
+! Last modified: 24 Sep 2021 22:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31308,6 +31308,7 @@ lifeinvader.com,spanishdict.com#@#.ad-wrapper
 leffatykki.com#@#.ad728x90
 thoughtcatalog.com#@#.adChoicesLogo
 namesecure.com#@#.adHolder
+hdfcbank.com#@#.adLink
 seznam.cz#@#.adMiddle
 aggeliestanea.gr,infotel.ca#@#.adResult
 sozai-good.com#@#.ad_block
@@ -49334,7 +49335,6 @@ tf2r.com#@#.adverts
 ||uploaded.net/img/public/$third-party
 ||utility.rogersmedia.com/wrapper.js
 ||vice-publishers-cdn.vice.com^
-||vid.connatix.com^*/720_h264.mp4
 ||video-ads.a2z.com^
 ||viralize.tv/t-bid-opportunity/
 ||virool.com/widgets/
