@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109241115
+! Version: 202109241143
 ! Title: EasyList
-! Last modified: 24 Sep 2021 11:15 UTC
+! Last modified: 24 Sep 2021 11:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -37702,6 +37702,7 @@ tf2r.com#@#.adverts
 ||itllnww6x277.com^
 ||itnuzleafan.com^
 ||itphanpytor.club^
+||itrustzone.site^
 ||ittorchicer.com^
 ||itweepinbelltor.com^
 ||iu16wmye.com^
@@ -43442,6 +43443,7 @@ tf2r.com#@#.adverts
 ||truesweb.com^
 ||trulytonic.com^
 ||trunkmafia.com^
+||trust.zone^
 ||trustaffs.com^
 ||trusted-click-host.com^
 ||trustyfine.com^
@@ -47371,6 +47373,7 @@ tf2r.com#@#.adverts
 ||itgiblean.com^$popup
 ||itnuzleafan.com^$popup
 ||itrght.com^$popup
+||itrustzone.site^$popup
 ||ittorchicer.com^$popup
 ||iwanttodeliver.com^$popup
 ||iyfnz.com^$popup
@@ -47925,6 +47928,7 @@ tf2r.com#@#.adverts
 ||triumphantplace.com^$popup
 ||trklnks.com^$popup
 ||trmobc.com^$popup
+||trust.zone^$popup
 ||trw12.com^$popup
 ||tsyndicate.com^$popup
 ||ttoc8ok.com^$popup
@@ -48910,32 +48914,22 @@ tf2r.com#@#.adverts
 ||affiliate.mediatemple.net^
 ||ah.pricegrabber.com^
 ||ak.imgaft.com^
-||algovid.com/player/get_player_vasts?
-||alicdn.com^$domain=prostylex.org
-||allposters.com^*/banners/
-||allsend.com/public/assets/images/
 ||alpsat.com/banner/
-||altushost.com/docs/$third-party
 ||amazonaws.com/mailcache.appinthestore.com/
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=downloadpirate.com|vshare.eu|yify-movies.net
 ||an.yandex.ru^$domain=~e.mail.ru
-||any.gs/visitScript/$third-party
-||ao-freegeoip.herokuapp.com^
-||api.140proof.com^$third-party
-||api.bitp.it^$third-party
+||any.gs/visitScript/
+||api.140proof.com^
+||api.bitp.it^
 ||apihotels.net/onestream/events/
 ||apkmaza.net/wp-content/uploads/$third-party
 ||appdevsecrets.com/images/nuts/
 ||appnext-a.akamaihd.net^
 ||appsgenius.com/images/$third-party
-||arcadetown.com/as/show.asp
 ||assets.sheetmusicplus.com^$third-party
-||associmg.com^*.gif?tag-
-||astrology.com/partnerpages/
-||augine.com/widget|$third-party
-||autodealer.co.za/inc/widget/$third-party
-||autotrader.ca/result/AutosAvailableListings.aspx?$third-party
-||autotrader.co.za/partners/$third-party
+||autodealer.co.za/inc/widget/
+||autotrader.ca/result/AutosAvailableListings.aspx?
+||autotrader.co.za/partners/
 ||award.sitekeuring.net^
 ||awin1.com/cawshow.php$third-party
 ||awin1.com/cshow.php$third-party
@@ -48944,8 +48938,7 @@ tf2r.com#@#.adverts
 ||b.marfeelcache.com/statics/marfeel/gardac-sync.js
 ||bankrate.com/jsfeeds/
 ||bc.coupons.com^
-||bc.vc/js/link-converter.js$third-party
-||beachcamera.com/assets/banners/
+||bc.vc/js/link-converter.js
 ||beauties-of-ukraine.com/export.js
 ||besthosting.ua/banner/
 ||bet365.com/favicon.ico$third-party
