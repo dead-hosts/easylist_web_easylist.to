@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109250517
+! Version: 202109252244
 ! Title: EasyList
-! Last modified: 25 Sep 2021 05:17 UTC
+! Last modified: 25 Sep 2021 22:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32413,10 +32413,7 @@ tf2r.com#@#.adverts
 ||advertom.com^
 ||advertpay.net^
 ||advertrtb.com^
-||advertstream.com^
 ||advfeeds.com^
-||advg.jp^
-||advinci.co^
 ||advinci.life^
 ||advinci.uno^
 ||adviralmedia.com^
@@ -32431,7 +32428,6 @@ tf2r.com#@#.adverts
 ||advredir.com^
 ||advsense.info^
 ||adwalte.info^
-||adx1.com^
 ||adxadserv.com^
 ||adxat.com^
 ||adxbid.info^
@@ -32454,7 +32450,6 @@ tf2r.com#@#.adverts
 ||adyoulike.com^
 ||adz.co.zw^
 ||adzchoice.com^
-||adzerk.net^
 ||adzfun.info^
 ||adzfun.me^
 ||adzhits.com^
@@ -45484,7 +45479,9 @@ tf2r.com#@#.adverts
 ||advertnative.com^$third-party
 ||advertone.ru^$third-party
 ||advertserve.com^$third-party
+||advertstream.com^$third-party
 ||advertur.ru^$third-party
+||advg.jp^$third-party
 ||advideum.com^$third-party
 ||advinci.club^$third-party
 ||advinci.net^$third-party
@@ -45502,12 +45499,14 @@ tf2r.com#@#.adverts
 ||adworkmedia.net^$third-party
 ||adworldmedia.com^$third-party
 ||adworldmedia.net^$third-party
+||adx1.com^$third-party
 ||adxoo.com^$third-party
 ||adxpose.com^$third-party
 ||adxpremium.com^$third-party
 ||adxpub.com^$third-party
 ||adysis.com^$third-party
 ||adzbazar.com^$third-party
+||adzerk.net^$third-party
 ||adzouk.com^$third-party
 ||adzs.nl^$third-party
 ||adzyou.com^$third-party
@@ -49321,6 +49320,7 @@ tf2r.com#@#.adverts
 ||thefreesite.com/nov99bannov.gif
 ||ti.tradetracker.net^
 ||tillertag-a.akamaihd.net^
+||torrindex.net/images/epv/
 ||torrindex.net/static/tinysort.min.js
 ||track.effiliation.com^
 ||travel.mediaalpha.com/js/serve.js
@@ -51211,7 +51211,7 @@ cd1025.com###hp-leader
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
 nzbindex.com###i > .inner
 hltv.org###i3_middle
-weloma.net###id-custom_banner
+klmanga.com,weloma.net###id-custom_banner
 unitconversion.org###ileft
 furbooru.org###imagespns
 mydorpie.com###imgbcont
@@ -51429,6 +51429,7 @@ downloads.codefi.re###spo
 downloads.codefi.re###spo2
 progressillinois.com###sponsor
 meteocentrale.ch###sponsor-info
+arstechnica.com###sponsored-recommendations
 fastseduction.com,geekwire.com,landreport.com,whenitdrops.com###sponsors
 sanjose.com###sponsors-module
 ourworldofenergy.com###sponsors_container
@@ -51701,6 +51702,7 @@ classicfm.com##.apple_music
 adn.com##.arcad-feature
 boston25news.com,wftv.com##.arcad_feature
 whatculture.com##.area-x__large
+arstechnica.com##.ars-component-buy-box
 ggrecon.com##.artSideBgBox
 ggrecon.com##.artSideBgBoxBig
 ggrecon.com##.artSideWrapBoxSticky
@@ -52115,7 +52117,7 @@ thestranger.com##.fish-butter
 politico.com##.fixed-top
 2conv.com##.fixed_banner
 ice.hockey##.flex_container_werbung
-shareae.com##.float-ck
+klmanga.com,shareae.com##.float-ck
 tradekey.com##.float_left
 notcot.com##.floatbox
 notcot.com,xuuby.com,zonytvcom.info##.floater
