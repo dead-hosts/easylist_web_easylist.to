@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109261706
+! Version: 202109262043
 ! Title: EasyList
-! Last modified: 26 Sep 2021 17:06 UTC
+! Last modified: 26 Sep 2021 20:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47115,7 +47115,6 @@ tf2r.com#@#.adverts
 ||casualdating-for-you.com^$popup
 ||catchtheclick.com^$popup
 ||cbdzone.online^$popup
-||cdn.ampproject.org^$popup
 ||cdn4ads.com^$popup
 ||ceduchasy.pro^$popup
 ||ceeglagu.net^$popup
@@ -50695,8 +50694,6 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||yieldlab.net^$domain=spiegel.de
 ! jetzt.de
 @@||jetzt.de^$generichide
-! Rewrite to internal resources rules for Adblock Plus
-||slacker.com^*/getspot/?spotid=$media,rewrite=abp-resource:blank-mp3,domain=slacker.com
 ! *** easylist:easylist/easylist_specific_block_popup.txt ***
 $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loader.to|myflixer.to|mystream.to|play.hydracdn.network|playtube.ws|streamtape.com|strtape.cloud|supervideo.tv|upstream.to|vidcloud9.com|vidlox.me|vivo.sx|voe.sx|vupload.com|wiztube.xyz
 :text^$popup,domain=zippyshare.com
@@ -54097,8 +54094,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporngay.com##div[onclick*="bp1.com"]
 hypnohub.net##div[style$="height:255px;"]
 pornhub.com,pornhubthbh7ap3u.onion##div[style*="width: 315px; height: 300px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
-hothag.com##div[style^="style="width:600px;height:120px;"]
 hothag.com##div[style^="width:300px;height:250px;"]
+hothag.com##div[style^="width:600px;height:120px;"]
 ahentai.top##div[style^="width:728px;height:90px"]
 pornhub.com,pornhubthbh7ap3u.onion##figure > [id][style="display: block;"]
 rateherpussy.com##font[size="1"][face="Verdana"]
