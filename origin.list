@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109262152
+! Version: 202109262218
 ! Title: EasyList
-! Last modified: 26 Sep 2021 21:52 UTC
+! Last modified: 26 Sep 2021 22:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30300,6 +30300,7 @@ _800x80_
 ##a[href^="http://pubads.g.doubleclick.net/"]
 ##a[href^="http://pwrads.net/"]
 ##a[href^="http://reallygoodlink.extremefreegames.com/"]
+##a[href^="http://reallygoodlink.freehookupaffair.com/"]
 ##a[href^="http://record.betsafe.com/"]
 ##a[href^="http://record.sportsbetaffiliates.com.au/"]
 ##a[href^="http://refer.webhostingbuzz.com/"]
@@ -30449,6 +30450,7 @@ _800x80_
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://a.bestcontentfood.top/"]
 ##a[href^="https://a.bestcontentoperation.top/"]
+##a[href^="https://a.bestcontentweb.top/"]
 ##a[href^="https://aaucwbe.com/"]
 ##a[href^="https://ad.atdmt.com/"]
 ##a[href^="https://ad.doubleclick.net/"]
@@ -48655,6 +48657,7 @@ tf2r.com#@#.adverts
 ||toget.ru^$third-party
 ||tonsterandhantan.info^$third-party
 ||topbucks.com^$third-party
+||topsexcams.club^$third-party
 ||tossoffads.com^$third-party
 ||tradineseveni.club^$third-party
 ||traffbiz.ru^$third-party
@@ -50835,6 +50838,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||imagesnake.com/includes/js/js.js
 ||imagesnake.com/includes/js/layer.js
 ||imagetwist.com/img/1001505_banner.png
+||imageweb.ws/whaledate.gif
 ||imageweb.ws^$domain=tongabonga.com
 ||imgbox.com/images/tpd.png
 ||imgtaxi.com/frame.php
@@ -50912,6 +50916,7 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||sortporn.com/ai2/
 ||sortporn.com/nb/
 ||spankbang.com/api/livecam
+||spankbang.com/api/sexcamv4/
 ||stream-69.com/code/script/
 ||sunporno.com/bl.php
 ||sunporno.com/bs.php
