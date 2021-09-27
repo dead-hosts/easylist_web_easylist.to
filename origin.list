@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109272148
+! Version: 202109272238
 ! Title: EasyList
-! Last modified: 27 Sep 2021 21:48 UTC
+! Last modified: 27 Sep 2021 22:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20640,10 +20640,12 @@ _800x80_
 ##.ads-x1
 ##.ads-x1-super
 ##.ads-zone
+##.ads.bottom
 ##.ads.grid-layout
 ##.ads.rectangle160
 ##.ads.rectangle300
 ##.ads.skyscraper160
+##.ads.top
 ##.ads.widget
 ##.ads01
 ##.ads02
@@ -50159,6 +50161,7 @@ tf2r.com#@#.adverts
 ||coincodex.com^$subdocument,~third-party
 ||coingolive.com/assets/img/partners/
 ||colombiareports.com/wp-content/banners/
+||compare.inspirock.com^
 ||coryarcangel.com/images/banners/
 ||cpahero.com/cpa-networks.gif
 ||crackdb.com/img/vpn.png
@@ -51644,6 +51647,7 @@ metservice.com##.Header
 sporcle.com##.IMGgi
 israelnationalnews.com##.InfoIn
 israelnationalnews.com##.InfoIn2
+www.tumblr.com##.JD7Cz
 kentonline.co.uk##.LeaderBack
 apnews.com##.Leaderboard
 israelnationalnews.com##.LeftInfo
@@ -51653,13 +51657,12 @@ lbcgroup.tv##.ScriptDiv
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 algoafm.co.za##.TopBanner
 cnbc.com##.TopBanner-container
+www.tumblr.com##.VdRef
+www.tumblr.com##.WFhoV
 this.org##.Wrap-leaderboard
 olympics.com##.\-partners
-tumblr.com##._1aQrn
 thequint.com##._1v3nU
 coderwall.com##._300x250
-tumblr.com##._3L_Fb
-tumblr.com##._3x1ep
 thequint.com##._4xQrn
 smallseotools.com##.____hmmmmmm
 gadgets.ndtv.com##._ad
@@ -51725,7 +51728,7 @@ goldderby.com##.adma
 chat-avenue.com##.adnoyer_log
 flightglobal.com,thriftyfun.com##.adp
 vice.com##.adph
-1sale.com,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstarblue.co.nz,chordfrenzy.com,climatechangenews.com,cryptonomist.ch,dallasobserver.com,energyforecastonline.co.za,eventcinemas.co.nz,flashx.tv,furaffinity.net,geo.tv,govtrack.us,gramfeed.com,houstonpress.com,idiva.com,indiatimes.com,knowyourmeme.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,mugshots.com,myfitnesspal.com,nativeplanet.com,nbc.na,news.nom.co,nsfwyoutube.com,roadaheadonline.co.za,russia-insider.com,russian-faith.com,savevideo.me,sddt.com,servicepublication.co.za,sgcarmart.com,shipyearonline.co.za,stars-portraits.com,straitstimes.com,strawpoll.me,tcm.com,tech2.com,tehrantimes.com,tellerreport.com,thecatholicuniverse.com,thejakartapost.com,thelakewoodscoop.com,themalaysianinsider.com,thenews.com.pk,theprojectmanager.co.za,thestar.com.my,viamichelin.com,viamichelin.ie,vidstreaming.io,wallpaper.com,y8.com,yummy.ph##.ads
+1sale.com,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstarblue.co.nz,chordfrenzy.com,climatechangenews.com,cryptonomist.ch,dallasobserver.com,energyforecastonline.co.za,eventcinemas.co.nz,flashx.tv,furaffinity.net,geo.tv,govtrack.us,gramfeed.com,houstonpress.com,idiva.com,indiatimes.com,inspirock.com,knowyourmeme.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,mugshots.com,myfitnesspal.com,nativeplanet.com,nbc.na,news.nom.co,nsfwyoutube.com,roadaheadonline.co.za,russia-insider.com,russian-faith.com,savevideo.me,sddt.com,servicepublication.co.za,sgcarmart.com,shipyearonline.co.za,stars-portraits.com,straitstimes.com,strawpoll.me,tcm.com,tech2.com,tehrantimes.com,tellerreport.com,thecatholicuniverse.com,thejakartapost.com,thelakewoodscoop.com,themalaysianinsider.com,thenews.com.pk,theprojectmanager.co.za,thestar.com.my,viamichelin.com,viamichelin.ie,vidstreaming.io,wallpaper.com,y8.com,yummy.ph##.ads
 roblox.com,spotify.com##.ads-container
 informer.com##.adsbygoogle
 looktothestars.org,nintandbox.net,plurk.com,thebarentsobserver.com,tolonews.com##.adsense
@@ -52375,6 +52378,7 @@ alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.ne
 kfm.co.za##.itunes-sml
 itweb.co.za##.itw-content-zone
 ownedcore.com##.iv-note
+www.tumblr.com##.j3_kY
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
@@ -52508,7 +52512,6 @@ news18.com##.n18thder
 transfermarkt.com##.nENxsZD
 google.com##.nH.MC
 mail.google.com##.nH.PS
-tumblr.com##.nKBUH > ._2vuYz
 nascar.com##.nascar-ad-container
 seura.fi##.nativead:not(.list)
 thetechpoint.org##.navigation-banner
@@ -52986,7 +52989,6 @@ wbur.org##.uw--rectangle
 wbur.org##.uw-label--bottom
 lasvegassun.com##.varWrapper
 ktm2day.com##.vc_wp_text
-tumblr.com##.vd2CF
 ggrecon.com##.venatus-block
 fox10phoenix.com##.vendor-unit
 tetris.com##.verticalAx
@@ -53949,6 +53951,7 @@ jav.work##.releated_video[style^="overflow: hidden;"]
 cam4.com##.removeAds
 cumlouder.com,pornburst.xxx##.resumecard__banner
 hotmovs.com,javdoe.fun,javtape.site##.right
+definebabe.com##.right-sidebar
 empflix.com##.rightBarBannersx
 gottanut.com##.rightContent-videoPage
 analsexstars.com,porn.com,pussy.org##.rmedia
@@ -53982,6 +53985,7 @@ teenasspussy.com##.sqs
 pornstarchive.com##.squarebanner
 lewdninja.com##.stargate
 sexyandshocking.com##.sub-holder
+definebabe.com##.subheader
 simply-hentai.com##.superbanner
 18porn.sex,4kporn.xxx,bigtitslust.com,fpo.xxx,freeporn8.com,gayck.com,intporn.com,mrdeepfakes.com,pornchimp.com,porndr.com,rare-videos.net,sortporn.com,xcavy.com,xxxshake.com##.table
 sxyprn.com##.tbd
