@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109271052
+! Version: 202109271622
 ! Title: EasyList
-! Last modified: 27 Sep 2021 10:52 UTC
+! Last modified: 27 Sep 2021 16:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24270,6 +24270,7 @@ _800x80_
 ##.element_contentad3
 ##.element_contentad4
 ##.element_contentad5
+##.elementor-widget-wp-widget-advads_ad_widget
 ##.em-ad
 ##.em-ads-widget
 ##.em-adv-container
@@ -36273,6 +36274,7 @@ tf2r.com#@#.adverts
 ||fistcartyped.casa^
 ||fistofzeus.com^
 ||fitbxtqgneq.com^
+||fitcenterz.com^
 ||fitenanews.com^
 ||fitfulrigorous.com^
 ||fiwhibse.com^
@@ -37583,6 +37585,7 @@ tf2r.com#@#.adverts
 ||imageadvantage.net^
 ||imasdk.googleapis.com^
 ||imbetan.info^
+||imcpqxmtlapagng.com^
 ||imediarevenue.com^
 ||imembe.com^
 ||imgfeedget.com^
@@ -45052,6 +45055,7 @@ tf2r.com#@#.adverts
 ||yxkobelxlljv.com^
 ||yy9s51b2u05z.com^
 ||yydtbpms8tf4.com^
+||yyibqpcg.com^
 ||yyjvimo.com^
 ||yyltlwtic.com^
 ||yzlwuuzzehjh.com^
@@ -45072,6 +45076,7 @@ tf2r.com#@#.adverts
 ||zayac2volk11.com^
 ||zazerygu.pro^
 ||zbdvvwpia.com^
+||zctibmvmbmev.com^
 ||zdajdudqfq.com^
 ||zdaptrksg.com^
 ||zdcuivnen.com^
@@ -47329,6 +47334,7 @@ tf2r.com#@#.adverts
 ||firescorrelationprodigy.com^$popup
 ||firsstudtog.cam^$popup
 ||firstclass-download.com^$popup
+||fitcenterz.com^$popup
 ||flewssyzygia.casa^$popup
 ||flixcontentshop.com^$popup
 ||flopinclose.com^$popup
@@ -47460,6 +47466,7 @@ tf2r.com#@#.adverts
 ||ifilez.org^$popup
 ||ijjiii.is^$popup
 ||imbetan.info^$popup
+||imcpqxmtlapagng.com^$popup
 ||impactserving.com^$popup
 ||imsnp.com^$popup
 ||inabsolor.com^$popup
