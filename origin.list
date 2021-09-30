@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202109301019
+! Version: 202109301027
 ! Title: EasyList
-! Last modified: 30 Sep 2021 10:19 UTC
+! Last modified: 30 Sep 2021 10:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49984,6 +49984,7 @@ tf2r.com#@#.adverts
 ||emovies.io/api/pop.php
 ||engagesrvr.filefactory.com^
 ||engine.laweekly.com^
+||entv.dz/wp-content/uploads/2020/05/mob.jpg
 ||eteknix.com/wp-content/uploads/*skin
 ||eurochannel.com/images/banners/
 ||eurovision.tv/dist/assets/images/esc_partner_
@@ -52785,7 +52786,7 @@ fijisun.com.fj##.widget-1
 fijisun.com.fj##.widget-3
 miniclip.com##.widget-mpu
 wplift.com##.widget_bsa
-cnx-software.com,techdows.com##.widget_custom_html
+cnx-software.com,robloxhackscripts.com,techdows.com##.widget_custom_html
 eos.org##.widget_eosadvertisement
 bestlifeonline.com##.widget_gm_karmaadunit_widget
 extremetech.com##.widget_gptwidget
