@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110040009
+! Version: 202110040112
 ! Title: EasyList
-! Last modified: 04 Oct 2021 00:09 UTC
+! Last modified: 04 Oct 2021 01:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49799,6 +49799,7 @@ tf2r.com#@#.adverts
 ||feeds.videosz.com^
 ||fleshlight.com/images/banners/
 ||fpcplugs.com/do.cgi?widget=
+||free.srcdn.xyz^
 ||fuegodevida.com^$third-party
 ||gateway-banner.eravage.com^
 ||geo.frtya.com^
@@ -50657,8 +50658,6 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||18porn.sex/ptr18.js
 ||3movs.com/sd3/
 ||3naked.com/nb/
-||4kporn.xxx/gYXx2Q9.js
-||4kporn.xxx/ZmtVYw1.js
 ||4tube.com/assets/abpe-
 ||4tube.com/assets/adf-
 ||4tube.com/assets/adn-
@@ -50674,14 +50673,13 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||adultasianporn.com/puty3s/
 ||adultdeepfakes.com/banners?
 ||adultfilmdatabase.com/graphics/porndude.png
-||adultwork.com/ci/MB/directchat_banner.gif
+||adultwork.com/ci/MB/vouchers_banner.gif
 ||affiliates.goodvibes.com^
 ||alrincon.com/nbk/
 ||analsexstars.com^$subdocument
 ||anybunny.tv/js/main.ex.js
 ||anyporn.com/aa/
 ||anysex.com/*/serv
-||anysex.com/2-2-temparoryp/
 ||assfuck.xxx/uploads/banners/
 ||assfuck.xxx/uploads/provider-banners/
 ||atescorts.com/img-banners/
@@ -50705,8 +50703,6 @@ $popup,third-party,domain=cloudvideo.tv|geoip.redirect-ads.com|highstream.tv|loa
 ||bravoteens.com/ta/
 ||bravotube.net/cc/
 ||bravotube.net/js/clickback.js
-||bravotube.net^*/abbs.
-||broncs.net/pub/pop_min.js
 ||bunnylust.com/sponsors/
 ||buonaporno.com/extras/
 ||cambro.tv/popin-min.js
@@ -53727,7 +53723,7 @@ gotporn.com##.image-group-vertical
 vivud.com##.in_stream_banner
 cocoimage.com##.inner_right
 vivud.com##.inplayer_banners
-anyporn.com,bravoteens.com##.inplb
+anyporn.com,bravoteens.com,bravotube.net##.inplb
 bravotube.net##.inplb3x2
 playvids.com,pornflip.com##.invideoBlock
 e-hentai.org##.itd[colspan="4"]
