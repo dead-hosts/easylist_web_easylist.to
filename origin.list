@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110041132
+! Version: 202110041609
 ! Title: EasyList
-! Last modified: 04 Oct 2021 11:32 UTC
+! Last modified: 04 Oct 2021 16:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20457,6 +20457,7 @@ _800x80_
 ##.ads-header-right
 ##.ads-here
 ##.ads-holder
+##.ads-home
 ##.ads-home-top-buttons-wrap
 ##.ads-homepage-leaderboard-btf
 ##.ads-horizontal
@@ -28164,7 +28165,9 @@ _800x80_
 ##.single-item-page-ads
 ##.single-mpu
 ##.single-post-ad
+##.single-post-ads
 ##.single-post-ads-750x90
+##.single-post-bottom-ads
 ##.single-top-ad
 ##.singleAd
 ##.singleAdBox
@@ -51134,6 +51137,8 @@ downloadsafer.com###homebannerbottom
 semiconductor-today.com###homeright
 nutritioninsight.com###horizontalblk
 cd1025.com###hp-leader
+trakt.tv###hu-ck-s-t-er-de-sk-top-sidenav
+trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
 nzbindex.com###i > .inner
 hltv.org###i3_middle
@@ -52999,6 +53004,7 @@ facebook.com##a[aria-label="Advertiser"]
 alibaba.com##a[campaignid][target="_blank"]
 bernama.com##a[class^="banner_photo_"]
 probuilds.net##a[class^="dl-blitz-"]
+trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 3dnatives.com##a[data-bid][target="_blank"]
 msn.com##a[href*=".booking.com/"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
