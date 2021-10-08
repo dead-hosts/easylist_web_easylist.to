@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110080310
+! Version: 202110080326
 ! Title: EasyList
-! Last modified: 08 Oct 2021 03:10 UTC
+! Last modified: 08 Oct 2021 03:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20090,6 +20090,7 @@ _800x80_
 ##.add300top
 ##.add300x250
 ##.add768
+##.addHead
 ##.addResources
 ##.add_300_250
 ##.add_300x250
@@ -34868,6 +34869,7 @@ tf2r.com#@#.adverts
 ||d2ship.com^
 ||d3b75cfc88a9.com^
 ||d3e44a82c2df88.com^
+||d4624d2bc2.com^
 ||d4a77d8bc81ae17.com^
 ||d4d48974197052ea.com^
 ||d58bf31082fa97.com^
@@ -35308,6 +35310,7 @@ tf2r.com#@#.adverts
 ||dlyzcopkko.com^
 ||dlzm790g.com^
 ||dmhpgshchfoawtn.com^
+||dmnprx.com^
 ||dmsqzqvuapb.com^
 ||dmvbdfblevxvx.com^
 ||dmvbonnha.com^
@@ -42741,6 +42744,7 @@ tf2r.com#@#.adverts
 ||slychicks.com^
 ||slymagical.com^
 ||smaato.net^
+||smac-ad.com^
 ||smallentpation.pro^
 ||smalltiberbridge.com^
 ||smart2cnjuh34jb.com^
@@ -50701,7 +50705,7 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|co
 ! IP address
 ! CSP filters
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
-$csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|cmovies.ac|coinfaucet.eu|crictime.com|crictime.is|deltabit.co|doodcdn.com|estream.to|extreme-down.tv|flashx.co|flashx.to|flashx.tv|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|kinox.to|lewd.ninja|assia1.tv|assia2.tv|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.watch|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|vidtodo.pro|vipbox.lc|vumoo.to|wallpoper.com|wearesaudis.net|yazilir.com
+$csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|cmovies.ac|coinfaucet.eu|crictime.com|crictime.is|deltabit.co|doodcdn.com|estream.to|extreme-down.tv|flashx.co|flashx.to|flashx.tv|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|kinox.to|lewd.ninja|assia1.tv|assia2.tv|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.watch|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|vidtodo.pro|wallpoper.com|wearesaudis.net|yazilir.com
 ||convertcase.net^$csp=script-src 'self' '*' blob: data:
 ||convertfiles.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
