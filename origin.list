@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110090210
+! Version: 202110090313
 ! Title: EasyList
-! Last modified: 09 Oct 2021 02:10 UTC
+! Last modified: 09 Oct 2021 03:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15202,7 +15202,6 @@ _800x80_
 ###publicidad-video
 ###publicidad_120
 ###publicidadeLREC
-###pulse360_1
 ###pushAd
 ###pushDownAd
 ###pushdown-ad
@@ -27325,7 +27324,6 @@ _800x80_
 ##.pull-ad
 ##.pull_top_ad
 ##.pullad
-##.pulse360ad
 ##.pulsir-ad
 ##.puppyAd
 ##.purchad
@@ -38171,6 +38169,7 @@ tf2r.com#@#.adverts
 ||jstatic.org^
 ||jswxwofumjg.com^
 ||jtbdzlpuojqln.com^
+||jtigctkh.com^
 ||jtinssutynyf.com^
 ||jtjsevmr.com^
 ||jua05myfbe.com^
@@ -41418,7 +41417,6 @@ tf2r.com#@#.adverts
 ||pulpix.com^
 ||pulpsbarndomed.com^
 ||pulpyads.com^
-||pulse360.com^
 ||pulsemgr.com^
 ||pulseonclick.com^
 ||pumdfferpkin5hs454r43eeds.com^
@@ -41697,6 +41695,7 @@ tf2r.com#@#.adverts
 ||radiusmarketing.com^
 ||radiusproceedings.com^
 ||raenfh9tkuka.com^
+||raftcomposuremeals.com^
 ||ragapa.com^
 ||ragenessed.top^
 ||ragsaved.com^
@@ -48078,7 +48077,6 @@ tf2r.com#@#.adverts
 ||pubdirecte.com^$popup
 ||publited.com^$popup
 ||pubted.com^$popup
-||pulse360.com^$popup
 ||pulseonclick.com^$popup
 ||punsong.com^$popup
 ||pureadexchange.com^$popup
@@ -48373,6 +48371,7 @@ tf2r.com#@#.adverts
 ||v3rjvtt.com^$popup
 ||vanenow.com^$popup
 ||vasstycom.com^$popup
+||vax-now.com^$popup
 ||vcdc.com^$popup
 ||vcommission.com^$popup
 ||venturead.com^$popup
