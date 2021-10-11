@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110110107
+! Version: 202110110121
 ! Title: EasyList
-! Last modified: 11 Oct 2021 01:07 UTC
+! Last modified: 11 Oct 2021 01:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20458,6 +20458,7 @@ _800x80_
 ##.ads-sponsors-125-right
 ##.ads-square
 ##.ads-squares
+##.ads-star
 ##.ads-static-video-overlay
 ##.ads-sticky-300-600
 ##.ads-story
@@ -30352,6 +30353,7 @@ _800x80_
 ##a[href^="https://ads-for-free.com/click.php?"]
 ##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.betfair.com/redirect.aspx?"]
+##a[href^="https://ads.cdn.live/"]
 ##a[href^="https://ads.leovegas.com/redirect.aspx?"]
 ##a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"]
 ##a[href^="https://ads.trafficpoizon.com/"]
@@ -52799,7 +52801,7 @@ protocol.com##.tag-sponsored
 recombu.com##.takeover-right
 shacknews.com##.takeover-skin
 igg-games.com##.taxonomy-description
-constructionreviewonline.com,cyberparse.co.uk,gameplayinside.com,gamezone.com,gizmochina.com,greekreporter.com,musictech.net,newsnext.live,nme.com,radioink.com,theindependent.co.zw##.td-a-rec
+constructionreviewonline.com,cyberparse.co.uk,gameplayinside.com,gamezone.com,gizmochina.com,greekreporter.com,industryhit.com,musictech.net,newsnext.live,nme.com,radioink.com,theindependent.co.zw##.td-a-rec
 telugubullet.com##.td-a-rec-id-custom-spot
 sonorannews.com##.td-a-rec-id-sidebar
 brila.net,cgmagonline.com,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
@@ -54006,7 +54008,7 @@ motherless.com##iframe[style]
 pornhub.com,pornhubthbh7ap3u.onion##iframe[width][height*="px"]
 avgle.com##img[src*=".php"]
 4tube.com##img[src][style][width]
-redtube.com,youporn.com##img[src^="bLob:" i]
+redtube.com,youporn.com,youporngay.com##img[src^="bLob:" i]
 pornhub.com,pornhubthbh7ap3u.onion##img[width="300"]
 adultwork.com,babepicture.co.uk,sexmummy.com,tvgirlsgallery.co.uk##img[width="468"]
 babeshows.co.uk,jessie-rogers.com##img[width="728"]
@@ -54020,7 +54022,7 @@ mysexgames.com##table[height="630"]
 mysexgames.com##table[height="640"]
 motherless.com##table[style*="max-width:"]
 foxhq.com##video
-redtube.com,youporn.com##video[loop][src^="bLob:" i]
+redtube.com,youporn.com,youporngay.com##video[loop][src^="bLob:" i]
 ! CSS property filters
 pornhub.com,pornhubthbh7ap3u.onion#?#:-abp-properties(height: 300px; width: 315px;)
 pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)
