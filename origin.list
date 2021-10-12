@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202110121003
+! Version: 202110121031
 ! Title: EasyList
-! Last modified: 12 Oct 2021 10:03 UTC
+! Last modified: 12 Oct 2021 10:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24899,6 +24899,7 @@ _800x80_
 ##.halfpage_ad_container
 ##.happy-inline-ad
 ##.has-ad
+##.has-fixed-bottom-ad
 ##.hasAD
 ##.hasads
 ##.hbPostAd
@@ -26473,6 +26474,7 @@ _800x80_
 ##.my_ad
 ##.myadmid
 ##.myimg-advert
+##.myinarticlead
 ##.mypicadsarea
 ##.myplate_ad
 ##.nSponsoredLcContent
@@ -29853,7 +29855,6 @@ _800x80_
 ##[href^="http://raboninco.com/"]
 ##[href^="http://stvkr.com/"]
 ##[href^="http://www.star-clicks.com/"]
-##[href^="https://1.envato.market/"]
 ##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://awbbjmp.com/"]
 ##[href^="https://detachedbates.com/"]
@@ -51227,7 +51228,7 @@ iphonic.tv,kontraband.com,motherproof.com,nutritioncuisine.com,sansabanews.com,t
 thepostmillennial.com###leader-mot
 agriland.ie,ballitonews.co.za,blackburnnews.com,football-talk.co.uk,irishpost.co.uk,mobiletoday.co.uk,morningledger.com,pcgamerhub.com,soccersouls.com,thenextmiami.com,todaysgeneralcounsel.com,urbanmecca.net,youngzimbabwe.com###leader-wrapper
 corrosionpedia.com,firstnationsvoice.com,pistonheads.com###leaderBoard
-bloomberg.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,publishersweekly.com,skysports.com,theserverside.com,whitepages.ae###leaderboard
+bloomberg.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,publishersweekly.com,skysports.com,stuff.tv,theserverside.com,whitepages.ae###leaderboard
 vocm.com###leaderboard-area
 variety.com###leaderboard-no-padding
 alternet.org###leaderboard-placeholder
@@ -51807,6 +51808,7 @@ autocar.co.uk##.block-autocar-ads-lazyloaded-mpu2
 autocar.co.uk##.block-autocar-ads-mpu-flexible1
 autocar.co.uk##.block-autocar-ads-mpu-flexible2
 autocar.co.uk##.block-autocar-ads-mpu1
+stuff.tv##.block-hcm-external-blocks
 newsweek.com##.block-ibtmedia-dfp
 pocket-lint.com##.block-inline
 pocket-lint.com##.block-mpu
@@ -52214,6 +52216,7 @@ provideocoalition.com##.hero-promotions
 freeads.co.uk##.hero_banner1
 daijiworld.com##.hidden-xs > [href]
 moneycontrol.com##.hide-mobile
+johncodeos.com##.hide-on-mobile
 designtaxi.com##.highlight-news-notice
 majorgeeks.com##.highlight.content > center > font
 duckduckgo.com##.highlight_sponsored
@@ -52270,6 +52273,7 @@ tumblr.com##.j3_kY
 distractify.com##.jRAIxB.sc-1o6mqs2-0
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
+johncodeos.com##.johnc-widget
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
 demonslayermanga.com,readjujutsukaisen.com##.js-a-container
 ultimate-guitar.com##.js-ab-regular
@@ -52993,6 +52997,7 @@ steroid.com##[href*="https://www.anabolics.com"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
+dafontfree.io##[href="https://1.envato.market/c/"]
 seganerds.com##[href="https://casino.betway.com/"]
 isekaiscan.com##[href="https://comichub.net/"]
 sqlfiddle.com##[href="https://entityframework-extensions.net/"]
