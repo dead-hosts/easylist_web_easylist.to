@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202203071933
+! Version: 202203072025
 ! Title: EasyList
-! Last modified: 07 Mar 2022 19:33 UTC
+! Last modified: 07 Mar 2022 20:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12922,6 +12922,8 @@ _800x80_
 ###desktop-sidebar-ad
 ###desktop-unrec-ad
 ###desktop_ads_block
+###desktop_middle_ad_fixed
+###desktop_top_ad_fixed
 ###detail_page_vid_topads
 ###devil-ad
 ###dfp-ad-1
@@ -14618,6 +14620,7 @@ _800x80_
 ###mobile-sticky-ad-area
 ###mobileAdContainer
 ###mobileAd_holder
+###mobile_ad_main
 ###mobile_ad_spot_header
 ###mobile_ads_block
 ###mochila-column-right-ad-300x250
@@ -30754,6 +30757,7 @@ _800x80_
 ##a[href^="https://delivery.porn.com/"]
 ##a[href^="https://dianches-inchor.com/"]
 ##a[href^="https://dltags.com/"]
+##a[href^="https://dooloust.net/"]
 ##a[href^="https://dynamicadx.com/"]
 ##a[href^="https://earandmarketing.com/"]
 ##a[href^="https://easygamepromo.com/ef/custom_affiliate/"]
@@ -40647,6 +40651,7 @@ tf2r.com#@#.adverts
 ||movfull.com^
 ||movie-pass.club^
 ||movie-pass.live^
+||moviead55.ru^
 ||moviefatbeatfarm.live^
 ||moviemediahub.com^
 ||moviemutilate.com^
@@ -41678,6 +41683,7 @@ tf2r.com#@#.adverts
 ||othyightmare.club^
 ||otisephie.com^
 ||otlffresod.com^
+||otm-r.com^
 ||otnolabttmup.com^
 ||otnolatrnup.com^
 ||otqjtkbkftehq.com^
@@ -46150,6 +46156,7 @@ tf2r.com#@#.adverts
 ||vassst14.com^
 ||vassterboost.com^
 ||vasstycom.com^
+||vastroll.ru^
 ||vastserved.com^
 ||vastshmast.com^
 ||vatedquali.com^
@@ -54353,6 +54360,7 @@ quickmeme.com###post[style="display: block;min-height: 290px; padding:0px;"]
 sentinelnews.com,theandersonnews.com###pre-header
 the-scientist.com###preHeader
 playok.com###pread
+listenonrepeat.com###primis-holder
 thestreamable.com###promo-signup-bottom-sheet
 dailymail.co.uk###promo-unit
 bnnbloomberg.ca###promotions
