@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XCZwBHzrlqjrnqbaIfsCvw
-! Version: 202211262251
+! Checksum: LgHNhrPxwgRrK8aCIFKKAw
+! Version: 202211262311
 ! Title: EasyList
-! Last modified: 26 Nov 2022 22:51 UTC
+! Last modified: 26 Nov 2022 23:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53061,6 +53061,7 @@ eonline.com##.article-detail__segment-ad
 christianpost.com##.article-divider
 scoop.co.nz##.article-left-box
 nintendolife.com,purexbox.com##.article-recommendations
+phillyvoice.com##.article-sponsor-sticky
 people.com##.articleContainer__rail
 theblockcrypto.com##.articleIAB
 audizine.com##.articleIMG
@@ -54219,6 +54220,7 @@ cryptobriefing.com##.na-item.item
 nascar.com##.nascar-ad-container
 allthatsinteresting.com##.native-box
 blockchair.com##.native-sentence
+phillyvoice.com##.native-sponsor
 tekno.kompas.com##.native-wrap
 seura.fi##.nativead:not(.list)
 thetechpoint.org##.navigation-banner
