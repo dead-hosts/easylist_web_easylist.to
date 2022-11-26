@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hc/3rXwZ4TkDUg2ZWADStw
-! Version: 202211262231
+! Checksum: XCZwBHzrlqjrnqbaIfsCvw
+! Version: 202211262251
 ! Title: EasyList
-! Last modified: 26 Nov 2022 22:31 UTC
+! Last modified: 26 Nov 2022 22:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53856,6 +53856,7 @@ lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 autental.com##.header-grid-items
 allmovie.com,realestate.com.au##.header-leaderboard
+realestate.com.au##.header-leaderboard-portal
 nationalheraldindia.com##.header-m__ad-top__36Hpg
 thenewspaper.gr##.header-promo
 times.co.zm##.header-pub
