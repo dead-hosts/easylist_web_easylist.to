@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b2DLrb1kiMR+NPF4jjfO2g
-! Version: 202211270111
+! Checksum: PxlH1noXTEfm1dEaxMOm3g
+! Version: 202211270141
 ! Title: EasyList
-! Last modified: 27 Nov 2022 01:11 UTC
+! Last modified: 27 Nov 2022 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -45990,6 +45990,7 @@ tf2r.com#@#.adverts
 ||webtrafic.ru^$third-party
 ||webwap.org^$third-party
 ||whatfinger.com^$third-party
+||whatstheword.co^$third-party
 ||whizzco.com^$third-party
 ||widgetly.com^$third-party
 ||winadx.com^$third-party
@@ -55166,6 +55167,7 @@ jobstreet.com.sg##[data-automation="homepage-banner-ads"]
 jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
 theblaze.com##[data-category="SPONSORED"]
 gab.com##[data-comment="gab-ad-comment"]
+theverge.com##[data-concert="leaderboard_top_tablet_desktop"]
 curbed.com##[data-concert="prelude"]
 medicalnewstoday.com##[data-empty="true"]
 greatist.com,psychcentral.com##[data-empty]
@@ -55712,6 +55714,7 @@ malaysiakini.com##div[style^="height:600px"]
 whatmobile.com.pk##div[style^="height:610px"]
 point2homes.com,propertyshark.com##div[style^="margin-bottom: 10px;"]
 google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk##div[style^="margin-bottom:15px"][class^="jsx-"]
+unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 thetealmango.com##div[style^="margin: 8px auto; text-align:"]
 lasentinel.net##div[style^="min-height: 250px; width: 300px;"]
 point2homes.com,propertyshark.com##div[style^="min-height: 360px;"]
