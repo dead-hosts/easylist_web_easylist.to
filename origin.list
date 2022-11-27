@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LLOR8olpV+bCY3Pdz3o6wA
-! Version: 202211271651
+! Checksum: OFNddj+ihnwyqheDNLnhkw
+! Version: 202211271703
 ! Title: EasyList
-! Last modified: 27 Nov 2022 16:51 UTC
+! Last modified: 27 Nov 2022 17:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48898,6 +48898,7 @@ tf2r.com#@#.adverts
 ||unaspajas.com^$third-party
 ||uuidksinc.net^$third-party
 ||uxernab.com^$third-party
+||valuepornmedia.com^$third-party
 ||ver-pelis.net^$third-party
 ||verticalaffiliation.com^$third-party
 ||vfgta.com^$third-party
@@ -53915,7 +53916,7 @@ nationalreview.com##.header-billboard-wrap
 lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 autental.com##.header-grid-items
-allmovie.com,realestate.com.au##.header-leaderboard
+allmovie.com,realestate.com.au,theoldie.co.uk##.header-leaderboard
 realestate.com.au##.header-leaderboard-portal
 nationalheraldindia.com##.header-m__ad-top__36Hpg
 thenewspaper.gr##.header-promo
@@ -54426,6 +54427,7 @@ yopmail.com,yopmail.fr,yopmail.net##.pindexhautctn
 redgifs.com##.placard-wrapper
 gismeteo.com##.placeholder
 bucksco.today##.placeholder-block
+theoldie.co.uk##.placeholder-wrapper
 pcgamebenchmark.com,streetcheck.co.uk##.placement
 diglloyd.com,windinmyface.com##.placementInline
 diglloyd.com,windinmyface.com##.placementTL
@@ -56511,6 +56513,7 @@ hqporner.com##.black_friday
 babestare.com##.block
 alphaporno.com,tubewolf.com##.block-banner
 urgayporn.com##.block-banvert
+xxbrits.com##.block-offer
 3prn.com##.block-video-aside
 blogvporn.com##.blue-btns
 xtube.com##.bm6LRcdKEZAE
@@ -56838,7 +56841,7 @@ faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 fuqer.com##.spot-thumbs > .right
 homo.xxx##.spot.column
 drtuber.com##.spot_button_m
-drtuber.com,thisvid.com,vivatube.com##.spots
+drtuber.com,thisvid.com,vivatube.com,xxbrits.com##.spots
 elephanttube.world##.spots-bottom
 rat.xxx##.spots-title
 sexvid.xxx##.spots_field
@@ -57044,6 +57047,7 @@ bdsmx.tube##article > section
 girlonthenet.com##aside[data-adrotic]
 xpassd.co##aside[id^="tn_ads_widget-"]
 mysexgames.com##body > div[style*="z-index:"]
+xxbrits.com##button[class^="click-fun"]
 boobieblog.com,imgadult.com,lolhentai.net,picdollar.com,porngames.com,thenipslip.com,wetpussygames.com##canvas
 redtube.com##div > iframe
 motherless.com##div > table[style][border]
