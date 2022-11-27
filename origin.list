@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zMT2VPEQ0gIr7he8rM3uww
-! Version: 202211270804
+! Checksum: yHyx9wc3M6aLqFK4Xc/aEQ
+! Version: 202211270811
 ! Title: EasyList
-! Last modified: 27 Nov 2022 08:04 UTC
+! Last modified: 27 Nov 2022 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -44628,6 +44628,7 @@ tf2r.com#@#.adverts
 ||adorika.com^$third-party
 ||adorion.net^$third-party
 ||adosia.com^$third-party
+||adotone.com^$third-party
 ||adparlor.com^$third-party
 ||adpay.com^$third-party
 ||adpays.net^$third-party
