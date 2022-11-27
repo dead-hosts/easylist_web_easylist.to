@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: icmSCPchmHvhicF4w6Ccsg
-! Version: 202211271251
+! Checksum: u7NBCnPiEptCX9bg8ifl9g
+! Version: 202211271303
 ! Title: EasyList
-! Last modified: 27 Nov 2022 12:51 UTC
+! Last modified: 27 Nov 2022 13:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11907,7 +11907,6 @@ _800x80_
 ##.ad336x250
 ##.ad336x280
 ##.ad336x362
-##.ad336х280_desk
 ##.ad343x290
 ##.ad350
 ##.ad350r
@@ -50144,7 +50143,7 @@ tf2r.com#@#.adverts
 ||profitsurvey365.live^$popup
 ||promo.20bet.partners^$popup
 ||quantumadblocker.com^$popup
-||rdr.wargaming.net^popup,third-party
+||rdr.wargaming.net^$popup,third-party
 ||record.affiliatelounge.com^$popup
 ||redir.tradedoubler.com/projectr/$popup
 ||serve.prestigecasino.com^$popup
@@ -50161,7 +50160,7 @@ tf2r.com#@#.adverts
 ||theonlineuserprotector.com/download-guard/$popup,third-party
 ||torrent-protection.com^$popup
 ||track.kinetiksoft.com^$popup,third-party
-||trck.wargaming.net^popup,third-party
+||trck.wargaming.net^$popup,third-party
 ||ublockpop.com/rect.php?$popup
 ||ultimate-ad-eraser.com^$popup
 ||unibet.co.uk/*affiliate$popup
@@ -57593,6 +57592,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||aff.bstatic.com/static/affiliate_base/js/booking_sp_widget.js$domain=arukikata.co.jp
 @@||afreecatv.com/js/plugin/ad/preroll.js$script,domain=afreecatv.com
 @@||aiasahi.jp/ads/$image,domain=japan.techrepublic.com|japan.zdnet.com
+@@||amazon-adsystem.com/e/cm?$subdocument,domain=atcoder.jp
 @@||amazon-adsystem.com/e/ir?$image,domain=kasi-time.com
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp
 @@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
@@ -57603,6 +57603,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
 @@||ascii.jp/img/ad/$image,~third-party
+@@||assoc-amazon.com/widgets/cm?$subdocument,domain=atcoder.jp
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
 @@||banc.jp/images/ad/$image,~third-party
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
