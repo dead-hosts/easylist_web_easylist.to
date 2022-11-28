@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xhGgS4X2Pct7dHnEiZPyMA
-! Version: 202211281331
+! Checksum: 2Sun/fOmBOK51MPNUmj0CQ
+! Version: 202211281341
 ! Title: EasyList
-! Last modified: 28 Nov 2022 13:31 UTC
+! Last modified: 28 Nov 2022 13:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56160,6 +56160,7 @@ bing.com##.adsMvC
 bing.com##.b_ad
 bing.com##.b_adBottom
 bing.com##.b_adLastChild
+bing.com##.b_spa_adblock
 bing.com##.mapsTextAds
 bing.com##.pa_carousel_mlo
 bing.com##.pa_sb
