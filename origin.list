@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: w2S2KEl549VPeI+7g3GH2g
-! Version: 202211291605
+! Checksum: 8sNsId4fNuCsFohc+ETfgg
+! Version: 202211291621
 ! Title: EasyList
-! Last modified: 29 Nov 2022 16:05 UTC
+! Last modified: 29 Nov 2022 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -45462,6 +45462,7 @@ tf2r.com#@#.adverts
 ||lockerdome.com^$third-party
 ||logo-net.co.uk^$third-party
 ||looksmart.com^$third-party
+||loopaautomate.com^$third-party
 ||love-banner.com^$third-party
 ||lustre.ai^$script,third-party
 ||lyricsmint.red^$third-party
