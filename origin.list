@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rIc5d4btfLuZsg4RwiiqDA
-! Version: 202211292251
+! Checksum: 6UYqvwTc6bSwHmU8WFCGGQ
+! Version: 202211292311
 ! Title: EasyList
-! Last modified: 29 Nov 2022 22:51 UTC
+! Last modified: 29 Nov 2022 23:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15944,8 +15944,8 @@ _800x80_
 ##.catalog-listing-ad-item
 ##.catalog_ads
 ##.cate_right_ad
-##.category-ad:not(html):not(body)
-##.category-ads:not(html):not(body)
+##.category-ad:not(html):not(body):not(.post)
+##.category-ads:not(html):not(body):not(.post)
 ##.category-advertorial
 ##.category-top-ads
 ##.categoryMosaic-advertising
@@ -26681,6 +26681,7 @@ tf2r.com#@#.adverts
 ||brfddmrfb.com^
 ||brftedjb.com^
 ||brgvlyaccixnbnu.xyz^
+||briareddollier.com^
 ||bridalspottagy.com^
 ||bridesmaidcleft.com^
 ||bridgerbristle.com^
@@ -27075,6 +27076,7 @@ tf2r.com#@#.adverts
 ||cardiwersg.com^
 ||carememachera.com^
 ||careuropecreatures.com^
+||carfulsranquel.com^
 ||cargonurture.com^
 ||carguedquannet.com^
 ||caridashrover.com^
@@ -30950,6 +30952,7 @@ tf2r.com#@#.adverts
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
+||fungalsbooger.com^
 ||fungus.online^
 ||funkerpep.com^
 ||funklicks.com^
@@ -31055,6 +31058,7 @@ tf2r.com#@#.adverts
 ||galoshanseis.com^
 ||galyra.com^
 ||gamblingliquidate.com^
+||gambolspumicer.com^
 ||gameads.com^
 ||gameads.io^
 ||gamersad.com^
@@ -33842,6 +33846,7 @@ tf2r.com#@#.adverts
 ||krnhplalugndkkf.com^
 ||kronervisile.com^
 ||kronosspell.com^
+||krubisstratic.com^
 ||ksdlzcmvmj.com^
 ||ksdqhiaythajdv.com^
 ||ksehinkitw.hair^
@@ -35679,6 +35684,7 @@ tf2r.com#@#.adverts
 ||ncugaxoxh.com^
 ||ncuwtufam.com^
 ||ncyveuecqsan.com^
+||ndandinter.hair^
 ||ndbegantoti.xyz^
 ||ndbriolenproc.buzz^
 ||ndbspfpgynbt.com^
@@ -38896,6 +38902,7 @@ tf2r.com#@#.adverts
 ||resawsmas.com^
 ||rescuephrase.com^
 ||researchers.pw^
+||reseelysin.com^
 ||resemblanceilluminatedcigarettes.com^
 ||reservehearingmissing.com^
 ||resetmascara.com^
@@ -42006,6 +42013,7 @@ tf2r.com#@#.adverts
 ||tuvene.com^
 ||tuwhuthoru.com^
 ||tuxbpnne.com^
+||tuxedochard.com^
 ||tuyves.com^
 ||tuzaanotto.com^
 ||tv1s4d6klh4n.com^
@@ -50718,6 +50726,7 @@ tf2r.com#@#.adverts
 ||eurochannel.com/images/banners/
 ||eurovision.tv/dist/assets/images/esc_partner_
 ||exchangerates.org.uk/images/200x200_
+||excnn.com/templates/anime/sexybookmark/js/popup.js
 ||expatexchange.com/banner/
 ||expats.cz/images/amedia/
 ||extramovies.tel/wp-content/uploads/2021/02/thshah.jpg
