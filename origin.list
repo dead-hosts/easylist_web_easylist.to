@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fIyVdFFwipIm7EKfBjHifw
-! Version: 202211302121
+! Checksum: WdazZRyl6+trUKqIAszRGg
+! Version: 202211302151
 ! Title: EasyList
-! Last modified: 30 Nov 2022 21:21 UTC
+! Last modified: 30 Nov 2022 21:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52724,6 +52724,7 @@ whatshappening.com.ph###sliderCarousel
 accuradio.com###slot2Wrapper
 washingtonpost.com###slug_leaderboard
 orteil.dashnet.org###smallSupport
+cryptonewsz.com###smart-ad
 point2homes.com###smartAsset
 footballtransfertavern.com,gpfans.com###snack_ldb
 ghacks.net###snhb-snhb_ghacks_bottom-0
@@ -53555,7 +53556,7 @@ kaotic.com##.chaturbate
 sevenforums.com##.chill
 stackoverflow.com##.clc-cp-lb
 news24online.com##.clearfix.db_shw_mb_blk
-bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com##.clickout-banner-native_table_box-bottom
+bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,cryptonewsz.com##.clickout-banner-native_table_box-bottom
 businessinsider.in##.clmb_eoa
 kissanime.com.ru##.close_ad_button
 brmangas.com##.closebf
@@ -55066,6 +55067,8 @@ bookriot.com##.tbr-promo
 pixwox.com##.tce-box-i-w
 pixwox.com##.tce-box-n-w
 aptoslife.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,sonorannews.com,telugubullet.com,theindependent.co.zw,wrestling-online.com##.td-a-rec
+zycrypto.com##.td-a-rec-id-content_bottom
+zycrypto.com##.td-a-rec-id-custom_ad_2
 bizasialive.com##.td-all-devices
 americanindependent.com##.td-banner-bg
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
@@ -55811,6 +55814,7 @@ apkonline.net,onworks.net##div[id^="adxx"]
 apkonline.net,onworks.net##div[id^="adzz"]
 amgreatness.com##div[id^="ag-front-"]
 digg.com##div[id^="bsa-zone_"]
+business2community.com##div[id^="busin-"]
 competenetwork.com##div[id^="compe-"]
 constructionreviewonline.com##div[id^="const-"]
 titantv.com##div[id^="ctl00_TTLB"]
