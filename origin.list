@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vFVLlzj+sEvXG+vOfw6kEA
-! Version: 202212010611
+! Checksum: gVmDa8HzLKXgGnSq9B0iEg
+! Version: 202212010631
 ! Title: EasyList
-! Last modified: 01 Dec 2022 06:11 UTC
+! Last modified: 01 Dec 2022 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52164,6 +52164,7 @@ bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com,duquoin.com,rand
 versus.com###bill_bottom
 cricketnetwork.co.uk,f1network.net,howtogermany.com,rugbynetwork.net,thefootballnetwork.net,timesandstar.co.uk###billboard
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
+thegazette.com###billboard-wrap
 inquirer.net###billboard_article
 searchenginereports.net###bio_ep
 searchenginereports.net###bio_ep_bg
