@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WblEgyp+xSytuIXHO7cwKA
-! Version: 202212011151
+! Checksum: 6/qeQVMEMi8YXxFAO/PH9Q
+! Version: 202212011241
 ! Title: EasyList
-! Last modified: 01 Dec 2022 11:51 UTC
+! Last modified: 01 Dec 2022 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -41600,6 +41600,7 @@ tf2r.com#@#.adverts
 ||tmmkhspf.xyz^
 ||tmmkjvphbawgul.com^
 ||tmrjmp.com^
+||tmyzer.com^
 ||tncomg.com^
 ||tncred.com^
 ||tneca.com^
@@ -52942,6 +52943,7 @@ suffolknews.co.uk##.Advertisement
 zerohedge.com##.AdvertisingSlot_placement__b8TLC
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.AirBillboardInlineContent
 dallasobserver.com##.AirBillboardInlineContentresponsive
+interestingengineering.com##.Anyclip_conBody__jtq8a
 technicalarp.com##.Arpian-ads
 rankedboost.com##.Article-A-Align
 cruisecritic.com,cruisecritic.com.au##.ArticleItem_scrollTextContainer__GrBC_
@@ -52952,6 +52954,7 @@ freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
 freebitz.xyz##.BannerMain
 interestingengineering.com##.BigAdBorder_isPremium__RXPuj
+interestingengineering.com##.BigAd_ad__m0kt9
 cnbc.com##.BoxRail-styles-makeit-ad--lyuQB
 thedailybeast.com##.CheatSheetList__placeholder
 thedailybeast.com##.Cheat__top-ad
@@ -53088,7 +53091,6 @@ sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
 ndtv.com##.adBg
 afar.com,m.economictimes.com,trailspace.com##.adContainer
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
-interestingengineering.com##.adW
 auto-data.net##.ad_incar
 kitco.com##.ad_space_730
 tellymix.co.uk##.adb_top
