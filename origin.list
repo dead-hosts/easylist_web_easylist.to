@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TuLj1va539IYYAf+fY3b2A
-! Version: 202212011641
+! Checksum: JRGxbqsj8zybWrmOihvrtw
+! Version: 202212011704
 ! Title: EasyList
-! Last modified: 01 Dec 2022 16:41 UTC
+! Last modified: 01 Dec 2022 17:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55716,6 +55716,8 @@ ladbible.com,unilad.co.uk##div[class*="margin-Advert"]
 apkcombo.com##div[class*="revamp-ads"]
 cryptoslate.com,publish0x.com##div[class*="sticky-header"]
 politico.com##div[class*="styles_supercube_"]
+outlook.live.com##div[class="CCkr1 cJ3F3"]
+outlook.live.com##div[class="CCkr1 jYY8g"]
 informer.com##div[class="a2"]
 walmart.com##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
 arkadium.com##div[class^="Ad-adContainer"]
