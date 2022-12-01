@@ -9,16 +9,18 @@
     "finish_timestamp": 0.0,
     "last_download_datetime": "2020-12-28T23:14:05.084284",
     "last_download_timestamp": 1609197245.084284,
-    "latest_part_finish_datetime": "2022-12-01T18:09:02.279127",
-    "latest_part_finish_timestamp": 1669918142.279127,
+    "latest_part_finish_datetime": "2022-12-01T18:29:53.463602",
+    "latest_part_finish_timestamp": 1669919393.463602,
     "latest_part_start_datetime": "2020-12-28T23:14:05.104399",
     "latest_part_start_timestamp": 1609197245.104399,
     "live_update": true,
-    "name": "easylist_web_easylist.to",
+    "name": "",
     "own_management": false,
     "ping": [],
     "raw_link": "https://easylist-downloads.adblockplus.org/easylist.txt",
-    "repo": "easylist_web_easylist.to/easylist_web_easylist.to",
+    "repo": [
+        "/efd4245aee66b1ca23bd0a59c357891d88e31330@github.com/dead-hosts/easylist_web_easylist.to/"
+    ],
     "start_datetime": "2020-12-27T22:56:03.598638",
     "start_timestamp": 1609109763.598638
 }
