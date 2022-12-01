@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5q4hEn0qDpdL7dlwR3WaVQ
-! Version: 202212010121
+! Checksum: tvPAULexdAvuBseCYHsKaQ
+! Version: 202212010141
 ! Title: EasyList
-! Last modified: 01 Dec 2022 01:21 UTC
+! Last modified: 01 Dec 2022 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52020,8 +52020,6 @@ healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
 road.cc###Footer-Billboard
 geeksforgeeks.org###GFG_AD_Desktop_BTF_Postcontent_728x280
-geeksforgeeks.org###GFG_AD_Desktop_MTF_Postcontent_728x90
-geeksforgeeks.org###GFG_AD_Desktop_PostContent_300x250
 titantv.com###GridPlayer
 fanlesstech.com###HTML2 > .widget-content
 fanlesstech.com###HTML3
@@ -52797,7 +52795,7 @@ ericpetersautos.com###text-133
 planetinsane.com###text-14
 geeksforgeeks.org###text-15
 electronicshub.org,geeksforgeeks.org,thesurvivalistblog.net###text-16
-geeksforgeeks.org,weekender.com.sg###text-17
+weekender.com.sg###text-17
 ganzworld.com###text-18
 ganzworld.com###text-19
 populist.press###text-2
@@ -53763,6 +53761,7 @@ cardealermagazine.co.uk##.desktop
 nextcity.org##.desktop-display
 rok.guide##.desktop-promo-banner
 tiermaker.com##.desktop-sticky
+buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
 hanime.tv##.desktop.htvad
 randomarchive.com##.desktop[style="text-align:center"]
 flashscore.co.za##.detailLeaderboard
@@ -54547,7 +54546,6 @@ proxfree.com##.pfad4
 proxfree.com##.pftopad
 post-gazette.com##.pgevoke-flexbanner-innerwrapper
 post-gazette.com##.pgevoke-superpromo-innerwrapper
-buzzfeednews.com##.pgs-dpg-flex
 washingtontimes.com##.piano-in-article-reco
 washingtontimes.com##.piano-right-rail-reco
 locklab.com##.picwrap
@@ -55508,7 +55506,6 @@ wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
 uncanceled.news##[href^="https://zstacklife.com/"]
 gelbooru.com##[href^='https://realbooru.com/']
 beforeitsnews.com##[id^="banners_"]
-geeksforgeeks.org##[id^="bsa-zone"]
 scmp.com##[id^="div-ad-"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
 comicbook.com,popculture.com##[id^="native-plus-"]
@@ -55811,7 +55808,6 @@ qwant.com##div[data-testid="productAdsMicrosoft.container"]
 qwant.com##div[data-testid^="snippet"]
 thenewspaper.gr##div[id*="thene-"]
 diskingdom.com##div[id="diski-"]
-buzzfeednews.com##div[id^="BF_ADX_"]
 weather.com##div[id^="Taboola-main-"]
 kisshentai.net##div[id^="ad"]
 timeout.com##div[id^="ad-promo-"]
