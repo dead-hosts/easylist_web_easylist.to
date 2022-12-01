@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gVmDa8HzLKXgGnSq9B0iEg
-! Version: 202212010631
+! Checksum: IatYgkbIh01QNGXoh+Gpgg
+! Version: 202212010651
 ! Title: EasyList
-! Last modified: 01 Dec 2022 06:31 UTC
+! Last modified: 01 Dec 2022 06:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22139,6 +22139,7 @@ tomwans.com#@#.adright
 in.fo#@#.ads-banner
 bdsmlr.com#@#.ads-container
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
+heatware.com#@#.ads-image
 t3.com#@#.ads-inline
 hatenacorp.jp,milf300.com#@#.ads-link
 circus-dev.com#@#.ads-list
@@ -54095,7 +54096,7 @@ flv2mp3.by##.horizontal-area
 getmyuni.com##.horizontalRectangle
 aarp.org##.hot-deals
 dailyrecord.co.uk##.hotjobs
-distractify.com,radaronline.com##.hrnSiz
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hrnSiz
 cryptorank.io##.hspOLW
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
@@ -54155,7 +54156,7 @@ kfm.co.za##.itunes-sml
 itweb.co.za##.itw-content-zone
 ownedcore.com##.iv-note
 india.com##.iwplhdbanner-wrap
-distractify.com,radaronline.com##.jAeACy
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.jAeACy
 ticketmaster.com##.jTNWic
 notateslaapp.com##.jeffdlwlxpqi
 psypost.org##.jeg_midbar
@@ -54805,9 +54806,8 @@ pcgamesn.com##.saw-wrap
 animehub.ac##.sb-subs
 kotaku.com##.sc-6zn1bq-0
 fortune.com##.sc-efBctP
-radaronline.com##.sc-gXZlrW
 scotsman.com##.sc-igwadP
-okmagazine.com##.sc-jffIyK
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.sc-oefIU
 sankakucomplex.com##.scad
 bangordailynews.com##.scaip
 newindianexpress.com##.scc
