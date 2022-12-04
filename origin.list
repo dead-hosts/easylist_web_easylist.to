@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bP+CaSpJWYUpkGs/JDDDjg
-! Version: 202212042041
+! Checksum: VBTkMO4vfQssL1ufsLi9/Q
+! Version: 202212042103
 ! Title: EasyList
-! Last modified: 04 Dec 2022 20:41 UTC
+! Last modified: 04 Dec 2022 21:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3023,6 +3023,7 @@
 /mobileads.
 /mobileads/*
 /mod_ad/*
+/mod_ijoomla_adagency_zone/*
 /mod_pagepeel_banner/*
 /module-ads-html-$script
 /module-ads/*
@@ -23869,6 +23870,7 @@ tf2r.com#@#.adverts
 ||aerugosspritz.com^
 ||aespdbgnn.com^
 ||aetvdnnme.com^
+||aewtgnldapf.com^
 ||aeyaiwkkjinyf.com^
 ||aezhvlybcijv.com^
 ||afa9bdfa63bf7.com^
@@ -29688,6 +29690,7 @@ tf2r.com#@#.adverts
 ||editchee.com^
 ||edition25.com^
 ||editionlingerexpanded.com^
+||edjadcscca.com^
 ||edlilu.com^
 ||edlqhrbgs.com^
 ||ednewsbd.com^
@@ -31883,6 +31886,7 @@ tf2r.com#@#.adverts
 ||gwrstksnxo.xyz^
 ||gwrtheyrn-rot.com^
 ||gwwhheahisrtld.com^
+||gwwxqqhoyjgtaw.xyz^
 ||gx101.com^
 ||gxdthwdtcfo.xyz^
 ||gxhxmy88.com^
@@ -31932,6 +31936,7 @@ tf2r.com#@#.adverts
 ||hadskiz.com^
 ||hadsokz.com^
 ||haffic.com^
+||hafnes.com^
 ||haftersfrutify.com^
 ||hagcmdhrfmwo.com^
 ||hagdonsplacque.com^
@@ -32039,6 +32044,7 @@ tf2r.com#@#.adverts
 ||hazardousschooloutcry.com^
 ||hazelnutshighs.com^
 ||hb-247.com^
+||hbaqniyswxvtd.com^
 ||hbepoqct.xyz^
 ||hbfqcy.com^
 ||hbgwiakics.xyz^
@@ -32649,6 +32655,7 @@ tf2r.com#@#.adverts
 ||idiotproprietary.com^
 ||idiotyet.com^
 ||idlinz.com^
+||idlsbbceqsrjlx.com^
 ||idntsoohucg.com^
 ||idorld.com^
 ||idownloadgalore.com^
@@ -34129,6 +34136,7 @@ tf2r.com#@#.adverts
 ||lashingabnaki.com^
 ||lashsketch.com^
 ||lassampy.com^
+||lassistslegisten.com^
 ||lassue.com^
 ||lasticalsdeb.xyz^
 ||lataurir.com^
@@ -39603,6 +39611,7 @@ tf2r.com#@#.adverts
 ||rvttrack.com^
 ||rvwtpwmtnfj.com^
 ||rwlfznyvivh.com^
+||rwmaamtua.com^
 ||rwrunurmhly.com^
 ||rxehwaddupxlmlx.com^
 ||rxjfsewuypfcco.com^
@@ -39917,6 +39926,7 @@ tf2r.com#@#.adverts
 ||seeptauw.net^
 ||seeptoag.net^
 ||sefsdvc.com^
+||sefuge.com^
 ||sehiwprkyxoos.com^
 ||seinpounday.com^
 ||seisinhinger.com^
@@ -42854,6 +42864,7 @@ tf2r.com#@#.adverts
 ||vcdnc.com^
 ||vcmedia.com^
 ||vcommission.com^
+||vcuasvopknu.com^
 ||vczkzswrjais.com^
 ||vddf0.club^
 ||vddoxukqwh.xyz^
@@ -44022,6 +44033,7 @@ tf2r.com#@#.adverts
 ||xmas-xmas-wow.com^
 ||xmaswrite.com^
 ||xmdborrjxmmt.com^
+||xmgspaty.com^
 ||xmilqyyg.com^
 ||xml-api.online^
 ||xmlads.bid^
@@ -53533,7 +53545,7 @@ mamul.am##.bannerb
 gamertweak.com##.bannerdiv
 flatpanelshd.com##.bannerdiv_twopage
 arcadebomb.com##.bannerext
-2merkato.com,2mfm.org,aps.dz,armyrecognition.com,beginlinux.com,botswanaguardian.co.bw,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,southfloridagaynews.com,thepatriot.co.bw##.bannergroup
+2merkato.com,2mfm.org,aps.dz,armyrecognition.com,beginlinux.com,botswanaguardian.co.bw,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
 saigoneer.com##.bannergroup-main
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
 domainnamewire.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
@@ -53856,6 +53868,7 @@ crmbuyer.com,ectnews.com,macnewsworld.com,technewsworld.com##.content-tab-slinks
 discord.me##.content-unit
 modrinth.com##.content-wrapper
 ancient-origins.net##.content_add_block
+usedcarnews.com##.continut
 live-tennis.eu##.copyright
 imdb.com##.cornerstone_slot
 physicsworld.com##.corporate-partners
