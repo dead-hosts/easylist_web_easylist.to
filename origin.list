@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qVG9PbQO0IRlKl+XDdTw+Q
-! Version: 202212090321
+! Checksum: uUr2VEQtile2ila7s1v3BA
+! Version: 202212090351
 ! Title: EasyList
-! Last modified: 09 Dec 2022 03:21 UTC
+! Last modified: 09 Dec 2022 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39190,6 +39190,7 @@ tf2r.com#@#.adverts
 ||rechaptalisent.xyz^
 ||recheatputs.com^
 ||reciar.com^
+||recids.com^
 ||recipesunny.com^
 ||reciprocaldandy.com^
 ||reckinbuttiten.pro^
@@ -54728,6 +54729,7 @@ coinmarketcap.com##.goXFFk
 golf.com##.golf-ad
 africanadvice.com,pspad.com,sudantribune.com,thehackernews.com##.google
 apkmirror.com##.google-ad-leaderboard
+secretchicago.com##.google-ad-manager-ads-header
 okbaza.net##.google3
 smsfi.com##.google_ad_home_page_100percent
 topservers.com##.google_slot
@@ -55707,6 +55709,7 @@ tbs.com##.smallBanners
 startup.ch##.smallbanner
 food.com##.smart-aside-inner
 food.com##.smart-rail-inner
+secretchicago.com##.smn-new-gpt-ad
 dailyevergreen.com##.sno-hac-desktop-1
 u.today##.something
 songfacts.com##.songfacts-song-inline-ads
