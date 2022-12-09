@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HfhoQZ0H0/ksLPGzPQcE2w
-! Version: 202212090312
+! Checksum: qVG9PbQO0IRlKl+XDdTw+Q
+! Version: 202212090321
 ! Title: EasyList
-! Last modified: 09 Dec 2022 03:12 UTC
+! Last modified: 09 Dec 2022 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23465,6 +23465,7 @@ tf2r.com#@#.adverts
 ||adbxixxrqyrh.com^
 ||adcade.com^
 ||adcannyxml.com^
+||adcash.com^
 ||adcastplus.net^
 ||adcde.com^
 ||adcdnx.com^
@@ -45303,7 +45304,6 @@ tf2r.com#@#.adverts
 ||adbetnet.com^$third-party
 ||adbit.biz^$third-party
 ||adcalm.com^$third-party
-||adcash.com^$third-party
 ||adcell.com^$third-party
 ||adclickafrica.com^$third-party
 ||adcolony.com^$third-party
@@ -56781,7 +56781,7 @@ tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripa
 ndtv.com,ndtv.in##[class^="firework"]
 ndtv.com,ndtv.in##[id^="firework"]
 ! Adcompanies
-adspyglass.com##HTML
+adcash.com,adspyglass.com##HTML
 ! Amazon
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###nav-swmslot
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###sponsoredProducts2_feature_div
