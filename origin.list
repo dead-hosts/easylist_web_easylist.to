@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hF3YbPcX6nJiLOFbSNQIWg
-! Version: 202212100151
+! Checksum: 5JSCyF16xehd3t0K2iIF1A
+! Version: 202212100211
 ! Title: EasyList
-! Last modified: 10 Dec 2022 01:51 UTC
+! Last modified: 10 Dec 2022 02:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23209,6 +23209,7 @@ tf2r.com#@#.adverts
 ||abgdqfuujl.xyz^
 ||abgeobalancer.com^
 ||abgligarchan.com^
+||abh.jp^
 ||abhorboring.com^
 ||abhorcarious.com^
 ||abilityviews.com^
@@ -28636,6 +28637,7 @@ tf2r.com#@#.adverts
 ||d2jgp81mjwggyr.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
+||d362plazjjo29c.cloudfront.net^
 ||d3frqqoat98cng.cloudfront.net^
 ||d4624d2bc2.com^
 ||d4d48974197052ea.com^
@@ -32428,6 +32430,7 @@ tf2r.com#@#.adverts
 ||hidelen.com^
 ||hidner.com^
 ||hieramuriel.com^
+||hiemalsalpids.com^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
 ||higherdebateplume.com^
@@ -33074,6 +33077,7 @@ tf2r.com#@#.adverts
 ||indirectlatitudewomb.com^
 ||indirecttagordered.com^
 ||indisancal.com^
+||indiumgoutier.com^
 ||indold.com^
 ||indooritalian.com^
 ||indoorsbeliefgrew.com^
@@ -35217,6 +35221,7 @@ tf2r.com#@#.adverts
 ||maudamee.net^
 ||maudau.com^
 ||maulupoa.com^
+||maumetsvowers.com^
 ||mauptaub.com^
 ||maustiwy.net^
 ||mavenlohi.com^
@@ -38704,6 +38709,7 @@ tf2r.com#@#.adverts
 ||punyvamos.com^
 ||pupidaetoluyls.com^
 ||pupiec.com^
+||puppeddemigod.com^
 ||puppetgrow.com^
 ||pupsotdub.com^
 ||puptyvocho.com^
@@ -39542,6 +39548,7 @@ tf2r.com#@#.adverts
 ||revenuestripe.com^
 ||revenuevids.com^
 ||revereshaggeis.com^
+||reversehunchet.com^
 ||revertsgulps.com^
 ||reverysteno.com^
 ||revfusion.net^
@@ -42416,6 +42423,7 @@ tf2r.com#@#.adverts
 ||tracespore.com^
 ||track-victoriadates.com^
 ||track4ref.com^
+||trackad.cz^
 ||trackad2.com^
 ||trackapi.net^
 ||trackcapitalvane.com^
@@ -43791,6 +43799,7 @@ tf2r.com#@#.adverts
 ||w3exit.com^
 ||w4.com^
 ||w99megeneral.com^
+||wabenaneper.com^
 ||wackeerd.com^
 ||wackotracko.com^
 ||wadauthy.net^
@@ -44037,6 +44046,7 @@ tf2r.com#@#.adverts
 ||whackaggressive.com^
 ||whagrolt.com^
 ||whaidree.com^
+||whairted.xyz^
 ||whairtoa.com^
 ||whaiweel.com^
 ||whaleads.com^
@@ -45254,6 +45264,7 @@ tf2r.com#@#.adverts
 ||zsxqjjobfb.com^
 ||ztech.gq^
 ||zubivu.com^
+||zucks.net^
 ||zudaichy.com^
 ||zughoocm.com^
 ||zugnogne.com^
@@ -54311,6 +54322,7 @@ businessplus.ie##.bp_billboard_single
 brainyquote.com##.bq_ad_320x250_multi
 bing.com##.br-productCarousel
 hardware.info##.br_top_container
+kisscartoon.city##.brand_resp
 primedia.co.za##.branding-sponsor
 eightieskids.com##.break
 vaughn.live##.browsePageAbvs300x600
@@ -54756,6 +54768,7 @@ pbs.org##.footer__sub
 satbeams.com##.footer_banner
 realmadrid.com##.footer_rm_sponsors_container
 tiresandparts.net##.footer_top_banner
+filma24.ch##.footer-reklama
 eurocupbasketball.com,euroleague.net##.footersponsors-container
 nintendolife.com,purexbox.com,pushsquare.com##.for-desktop
 purexbox.com,pushsquare.com##.for-mobile.below-article
@@ -55951,7 +55964,7 @@ businessonhome.com##.text-info
 geeksforgeeks.org##.textBasedMannualAds_2
 putlockers.do##.textb
 sciencedaily.com##.textrule
-evilbeetgossip.com,katt.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
+evilbeetgossip.com,filma24.chkatt.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
 tftcentral.co.uk##.tftce-adlabel
 vaughn.live##.theMvnAbvsLowerThird
 thedailyusnews.com##.theda-id-1
@@ -56531,7 +56544,7 @@ tetris.com##a[onclick*="open"]
 himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontimes.com##a[onclick]
 onetransistor.eu##a[onclick][target="_blank"]
 earlygame.com,i711.com##a[rel*="sponsored"]
-mcrypto.club,themoviesflix.io##a[rel="noopener"]
+filma24.ch,mcrypto.club,themoviesflix.io##a[rel="noopener"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 searchenginereports.net##a[title="Ad"]
