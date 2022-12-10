@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X2hOzei7sEKHeZ2RdmfDeg
-! Version: 202212100005
+! Checksum: 0LkaUHao+g3ZCdnG3pTZxQ
+! Version: 202212100031
 ! Title: EasyList
-! Last modified: 10 Dec 2022 00:05 UTC
+! Last modified: 10 Dec 2022 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51528,6 +51528,7 @@ tf2r.com#@#.adverts
 ||freeworldgroup.com/banner
 ||funnyjunk.com/site/js/extra/pre
 ||futbollatam.com/ads.js
+||fwcdn3.com^$domain=eonline.com
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||g2a.com/assets/g2a.affiliate.
 ||g2a.com/js/affiliate.
