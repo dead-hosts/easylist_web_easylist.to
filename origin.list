@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5D8br4wXyAwMhOYJmP/5Tg
-! Version: 202212110911
+! Checksum: AsiDA1M4z+UiPryL2vkOug
+! Version: 202212110932
 ! Title: EasyList
-! Last modified: 11 Dec 2022 09:11 UTC
+! Last modified: 11 Dec 2022 09:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51282,6 +51282,7 @@ imagebam.com###aad-header-1
 imagebam.com###aad-header-2
 imagebam.com###aad-header-3
 travelpulse.com###ab_container
+4chan.org###abc-cnt
 uinterview.com###above-content
 peacemakeronline.com###above_top_banner
 go-convert.com###ad
@@ -52349,6 +52350,7 @@ news18.com##.add_section
 ndtv.com##.add_top-wrp-fl
 timesofindia.indiatimes.com##.addblock
 auto-data.net##.adin
+boards.4channel.org##.adl
 animalfactguide.com,portlandmonthlymag.com,sportsmediawatch.com##.adlabel
 corona.help##.adlg
 prokerala.com##.adm-unit
