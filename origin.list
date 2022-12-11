@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wGBpM7eGYVJnCteiOU7WAw
-! Version: 202212110851
+! Checksum: 5D8br4wXyAwMhOYJmP/5Tg
+! Version: 202212110911
 ! Title: EasyList
-! Last modified: 11 Dec 2022 08:51 UTC
+! Last modified: 11 Dec 2022 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4581,7 +4581,6 @@ _prebid_
 /adblockdetect/*$~image
 /adblockdetection.
 /adBlockDetector/*
-/adblockdetectorwithga.
 /adblocker-leader.
 /adBlockerTrack_
 /adblockkiller.
@@ -54463,6 +54462,7 @@ wbur.org##.uw-label--bottom
 vervetimes.com##.uyj-before-header
 yesflicks.com##.v-detail-xps
 militarywatchmagazine.com##.v-size--x-small.theme--light
+zillow.com##.vPTHT
 lasvegassun.com##.varWrapper
 businessday.ng##.vc_custom_1627979893469
 progamerage.com##.vc_separator
@@ -56657,7 +56657,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|physicianspractice.com|standard.co.uk|theta.tv|webmd.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|physicianspractice.com|standard.co.uk|theta.tv|weather.com|webmd.com
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||gbf.wiki/images/$image,~third-party
 @@||gelbooru.com//images/ad/$image,~third-party
