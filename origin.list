@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wy21js6QmSzS/4GBD7+vYg
-! Version: 202212140441
+! Checksum: OYSf4r77IytG/tQC2FdqAw
+! Version: 202212140511
 ! Title: EasyList
-! Last modified: 14 Dec 2022 04:41 UTC
+! Last modified: 14 Dec 2022 05:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50826,6 +50826,7 @@ sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
 ndtv.com##.adBg
 afar.com,m.economictimes.com,trailspace.com##.adContainer
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
+food.com##.ad__ad
 auto-data.net##.ad_incar
 kitco.com##.ad_space_730
 tellymix.co.uk##.adb_top
