@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8p6NA/PWEfmD/zi032YK3A
-! Version: 202212140251
+! Checksum: TS7Grix9KMAPwXgf128xqQ
+! Version: 202212140321
 ! Title: EasyList
-! Last modified: 14 Dec 2022 02:51 UTC
+! Last modified: 14 Dec 2022 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18424,6 +18424,7 @@ _800x80_
 ##.mobile-ad
 ##.mobile-ad-container
 ##.mobile-ad-nav
+##.mobile-ad-placeholder
 ##.mobile-ads
 ##.mobile-fixed-ad
 ##.mobile-footer__ad
@@ -52229,6 +52230,7 @@ oneindia.com##.oi-spons-ad
 hamodia.com##.oiomainlisting
 forums.somethingawful.com##.oma_pal
 techspot.com##.oneText
+lowtoxlife.com##.openpay-footer
 thedigitalfix.com##.ot-widget-banner
 otakuusamagazine.com##.otaku_big_ad
 advocate.com,out.com##.ourSponsors
