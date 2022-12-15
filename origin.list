@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k8ccC+YEKGVaTdkAajgcKw
-! Version: 202212150041
+! Checksum: E7VPE86YFFEcCtlw6vCFtQ
+! Version: 202212150104
 ! Title: EasyList
-! Last modified: 15 Dec 2022 00:41 UTC
+! Last modified: 15 Dec 2022 01:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51620,6 +51620,8 @@ shtfplan.com,yournews.com##.et_pb_code_inner
 mobafire.com##.exhibit-narrow
 mobafire.com##.exhibit-vertical
 streamingmedia.com##.expand
+appuals.com##.expu-protipeop
+appuals.com##.expu-protipmiddle_2
 thepostemail.com##.external
 pixabay.com##.external-media
 yourbittorrent.com##.extneed
@@ -53104,7 +53106,7 @@ onepagerules.com##.wp-container-6.wp-block-columns
 strangesounds.org##.wp-image-281312
 hack-sat.com##.wp-image-31131
 rvguide.com##.wp-image-3611
-appuals.com##.wp-timed-p
+appuals.com##.wp-timed-p-content
 bevmalta.org,chromoscience.com,hawaiireporter.com##.wpa
 techyv.com##.wpb_raw_code
 premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
