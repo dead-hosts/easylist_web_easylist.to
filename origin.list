@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pk4Zz6Q1QN3qSJG8+xF/fg
-! Version: 202212151651
+! Checksum: Pe1SfEXeKqqC1Y2GLBfKtQ
+! Version: 202212151711
 ! Title: EasyList
-! Last modified: 15 Dec 2022 16:51 UTC
+! Last modified: 15 Dec 2022 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21666,6 +21666,7 @@ _800x80_
 ##a[href^="https://www.iyalc.com/"]
 ##a[href^="https://www.jackery.com?aff="] > img
 ##a[href^="https://www.kingsoffetish.com/tour?partner_id="]
+##a[href^="https://www.liquidfire.mobi/"]
 ##a[href^="https://www.mrskin.com/account/"]
 ##a[href^="https://www.mrskin.com/tour"]
 ##a[href^="https://www.mypornstarcams.com/landing/click/"]
@@ -27536,6 +27537,7 @@ tf2r.com#@#.adverts
 ||dashgreen.online^
 ||dasperdolus.com^
 ||daspiratioty.co^
+||dasuhvykb.top^
 ||data-data-vac.com^
 ||data-px.services^
 ||databasestelevision.com^
@@ -28856,6 +28858,7 @@ tf2r.com#@#.adverts
 ||existsvolatile.com^
 ||exitsthapsia.com^
 ||exlusepolly.com^
+||exmnpqsx.com^
 ||exobafrgdf.com^
 ||exoclick.com^$domain=~admin.exoclick.com|~api.exoclick.com
 ||exoclsodaqs.com^
@@ -30579,6 +30582,7 @@ tf2r.com#@#.adverts
 ||hinlargecons.xyz^
 ||hinoglauk.com^
 ||hinoidczarist.com^
+||hioff1.info^
 ||hionedaugsbu.info^
 ||hip-97166b.com^
 ||hipals.com^
@@ -30694,6 +30698,7 @@ tf2r.com#@#.adverts
 ||houldthinkhi.buzz^
 ||houndcost.com^
 ||hourvanishedunit.com^
+||householdsinnersyringe.com^
 ||housejomadkc.com^
 ||housekeeperemptiness.com^
 ||housemaiddevolution.com^
@@ -31810,6 +31815,7 @@ tf2r.com#@#.adverts
 ||kirgeemo.com^
 ||kirnscraps.com^
 ||kistutch.net^
+||kitchencafeso.com^
 ||kitnmedia.com^
 ||kitrigthy.com^
 ||kittga.com^
@@ -31877,6 +31883,7 @@ tf2r.com#@#.adverts
 ||kolanx.com^
 ||kolkwi4tzicraamabilis.com^
 ||koltypoolty.com^
+||kolved.com^
 ||komarchlupoid.com^
 ||komloromnikopicko.com^
 ||komuxoe.ru^
@@ -34234,6 +34241,7 @@ tf2r.com#@#.adverts
 ||opchikoritaan.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
+||opdtfupa.com^
 ||opekoobs.net^
 ||openexaminationgist.com^
 ||openingpairpaternal.com^
@@ -35001,6 +35009,7 @@ tf2r.com#@#.adverts
 ||platitudefivesnack.com^
 ||platitudewildest.com^
 ||platitudezeal.com^
+||plauna.com^
 ||playerseo.club^
 ||playertraffic.com^
 ||playgroundloom.com^
@@ -35010,6 +35019,7 @@ tf2r.com#@#.adverts
 ||playwrightglancing.com^
 ||pleagaietyparalysis.com^
 ||pleasedpicklewinning.com^
+||pleastevallege.xyz^
 ||plehimselves.info^
 ||pleionlungees.com^
 ||plenomedia.com^
@@ -35340,6 +35350,7 @@ tf2r.com#@#.adverts
 ||probitystuck.com^
 ||problemsendeavourbending.com^
 ||probtn.com^
+||processaryen.xyz^
 ||proclaimincurable.com^
 ||procuredawestruckpoint.com^
 ||prod.untd.com^
@@ -38393,6 +38404,7 @@ tf2r.com#@#.adverts
 ||sunsetencyclopaedia.com^
 ||sunsetjuxtapositioninvoke.com^
 ||sunsetpersuadeaffectionately.com^
+||sunstrokeload.com^
 ||suntiz.com^
 ||sunwardamoraic.com^
 ||sunyftlaoiiy.com^
@@ -39098,6 +39110,7 @@ tf2r.com#@#.adverts
 ||tjhpsylyxdfov.xyz^
 ||tjhtclwubg.xyz^
 ||tjisenap.com^
+||tjorvvlskvhkdu.com^
 ||tkbo.com^
 ||tkgcldjmegxn.com^
 ||tkgiqyqyyxku.com^
@@ -39420,6 +39433,7 @@ tf2r.com#@#.adverts
 ||tripolihash.com^
 ||trippealbirthda.info^
 ||tripsthorpelemonade.com^
+||tritat3.info^
 ||triumphantplace.com^
 ||trk-aspernatur.com^
 ||trk-consulatu.com^
@@ -41707,6 +41721,7 @@ tf2r.com#@#.adverts
 ||ybnrltcea.com^
 ||yboourdyi.com^
 ||ybqpbcwwnqw.xyz^
+||ybuhglnjtuba.com^
 ||ycadenevery.xyz^
 ||ycbetnqpnjwptu.com^
 ||yceml.net^
@@ -44042,6 +44057,7 @@ tf2r.com#@#.adverts
 ||adfclick1.com^$popup,third-party
 ||adforyounews.com^$popup
 ||adfpoint.com^$popup
+||adfreewatch.info^$popup
 ||adglare.net^$popup
 ||adhealers.com^$popup
 ||adherencestated.com^$popup
@@ -44362,6 +44378,7 @@ tf2r.com#@#.adverts
 ||chrantary-vocking.com^$popup
 ||chultoux.com^$popup
 ||chykohija.pro^$popup
+||cipledecline.buzz^$popup
 ||circumstancesrectangle.com^$popup
 ||cirochimi.com^$popup
 ||civadsoo.net^$popup
@@ -44890,6 +44907,7 @@ tf2r.com#@#.adverts
 ||hornsgrid.com^$popup
 ||hotchatdate.com^$popup
 ||hotchatdirect.com^$popup
+||householdsinnersyringe.com^$popup
 ||howtolosebellyfat.shop^$popup
 ||hpyjmp.com^$popup
 ||hqtrk.com^$popup
@@ -45015,6 +45033,7 @@ tf2r.com#@#.adverts
 ||kesmatic.com^$popup
 ||kettakihome.com^$popup
 ||keygwenquetecentbef.tk^$popup
+||kidhumiliateessay.com^$popup
 ||kindleloving.com^$popup
 ||kindredplc.com^$popup
 ||kitcousins.com^$popup
@@ -45072,6 +45091,7 @@ tf2r.com#@#.adverts
 ||linknotification.com^$popup
 ||linkonclick.com^$popup
 ||linkredirect.biz^$popup
+||liquidfire.mobi^$popup
 ||lite-1x742136.top^$popup
 ||littercipher.com^$popup
 ||liveadexchanger.com^$popup
@@ -45852,6 +45872,7 @@ tf2r.com#@#.adverts
 ||stirprovidence.com^$popup
 ||stoagergu.com^$popup
 ||stoolrum.com^$popup
+||stop-adblocker.info^$popup
 ||stoshoos.com^$popup
 ||strainemergency.com^$popup
 ||strawberryinhabitcell.com^$popup
@@ -46138,6 +46159,7 @@ tf2r.com#@#.adverts
 ||watch-now.club^$popup
 ||watchadsfree.com^$popup
 ||watchadzfree.com^$popup
+||watchfreeofads.com^$popup
 ||watchlivesports4k.club^$popup
 ||watchtaro.com^$popup
 ||wboux.com^$popup
@@ -47875,6 +47897,7 @@ tf2r.com#@#.adverts
 ||d7gse3go4026a.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d91i6bsb0ef59.cloudfront.net^
+||d9b5gfwt6p05u.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dal9hkyfi0m0n.cloudfront.net^
@@ -53583,8 +53606,6 @@ ladbible.com,unilad.co.uk##div[class*="margin-Advert"]
 apkcombo.com##div[class*="revamp-ads"]
 cryptoslate.com,publish0x.com##div[class*="sticky-header"]
 politico.com##div[class*="styles_supercube_"]
-outlook.live.com##div[class="CCkr1 cJ3F3"]
-outlook.live.com##div[class="CCkr1 jYY8g"]
 informer.com##div[class="a2"]
 walmart.com##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
 arkadium.com##div[class^="Ad-adContainer"]
@@ -54170,6 +54191,7 @@ digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 inverse.com#?#div > p + div:-abp-has(amp-ad)
 bleepingcomputer.com#?#.post_wrap:-abp-contains(AdBot)
 cointalk.com##li.message:-abp-contains(hide this ad)
+outlook.live.com#?#div.customScrollBar > div > div > div > div > div > div:-abp-has(div[class] > div[class] > div[class] > div[class] > i[data-icon-name="Delete"] + div[class])
 instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(span:-abp-contains(Paid partnership with ))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership))
 alternativeto.net#?#div[class^="AppList"]:-abp-has([class^="AppListItem_sponsored"])
