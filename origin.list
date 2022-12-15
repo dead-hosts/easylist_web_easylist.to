@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XQa87ia7utFLS5EvAhuKbw
-! Version: 202212150921
+! Checksum: hcDKSua209wZUuEtT5zzkw
+! Version: 202212150954
 ! Title: EasyList
-! Last modified: 15 Dec 2022 09:21 UTC
+! Last modified: 15 Dec 2022 09:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49733,6 +49733,8 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||xteen.name/ok/
 ||xvideos.com/zoneload/
 ||xvideos.es/zoneload/
+||xvideos.name/*.php
+||xvideos.name/7b3bf680a29d.js
 ||xxerotica.com/xxerotica.js
 ||xxx-videosex.porn/go/
 ||xxxdessert.com/34l329_fe.js
@@ -55050,7 +55052,7 @@ girlonthenet.com##aside[data-adrotic]
 xpassd.co##aside[id^="tn_ads_widget-"]
 mysexgames.com##body > div[style*="z-index:"]
 xxbrits.com##button[class^="click-fun"]
-boobieblog.com,imgadult.com,lolhentai.net,picdollar.com,porngames.com,thenipslip.com,wetpussygames.com##canvas
+boobieblog.com,imgadult.com,lolhentai.net,picdollar.com,porngames.com,thenipslip.com,wetpussygames.com,xvideos.name##canvas
 redtube.com##div > iframe
 motherless.com##div > table[style][border]
 publicflashing.me##div.hentry
