@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f1iu+TafbZA63RjDr5SBdg
-! Version: 202212162331
+! Checksum: mLYjPih5HT0mFZ6q7clauQ
+! Version: 202212162351
 ! Title: EasyList
-! Last modified: 16 Dec 2022 23:31 UTC
+! Last modified: 16 Dec 2022 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -39957,7 +39957,6 @@ tf2r.com#@#.adverts
 ||weaveradrenaline.com^
 ||web-guardian.xyz^
 ||web-security.cloud^
-||web3ads.net^
 ||webads.media^
 ||webatam.com^
 ||webcampromo.com^
@@ -42890,6 +42889,7 @@ tf2r.com#@#.adverts
 ||vupulse.com^$third-party
 ||w00tmedia.net^$third-party
 ||waytogrow.eu^$third-party
+||web3ads.net^$third-party
 ||webads.co.nz^$third-party
 ||webads.nl^$third-party
 ||webgains.com^$third-party
