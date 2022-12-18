@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +7vdIHd5Ld/cAQP8jlfDrQ
-! Version: 202212180221
+! Checksum: phbMy0lF4rJUW7/75TVsoQ
+! Version: 202212180241
 ! Title: EasyList
-! Last modified: 18 Dec 2022 02:21 UTC
+! Last modified: 18 Dec 2022 02:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52403,6 +52403,7 @@ twitter.com#?#div[data-testid="eventHero"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+tympanus.net#?#article:-abp-has(header:-abp-has(.ct-sponsored))
 unsplash.com#?#.MbNnd:-abp-has(a:-abp-contains(Sponsored))
 wikiprocedure.com#?##mw-content-text > div:-abp-contains(/^Advertisement$/)
 winaero.com#?#p:-abp-contains(Advertisement)
