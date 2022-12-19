@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lDqibz7p3Byq1Z4xtLIKDQ
-! Version: 202212190921
+! Checksum: 5lbxTstzkB8MCFLIdWwE+g
+! Version: 202212190951
 ! Title: EasyList
-! Last modified: 19 Dec 2022 09:21 UTC
+! Last modified: 19 Dec 2022 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10978,6 +10978,7 @@ _800x80_
 ##.ad-context
 ##.ad-cover
 ##.ad-ctn
+##.ad-current
 ##.ad-curtain
 ##.ad-custom-size
 ##.ad-d
@@ -41450,6 +41451,7 @@ tf2r.com#@#.adverts
 ||cuelinks.com^$third-party
 ||currentlyobsessed.me^$third-party
 ||cybmas.com^$third-party
+||czilladx.com^$third-party
 ||dable.io^$third-party
 ||dailystuffall.com^$third-party
 ||datawrkz.com^$third-party
@@ -48477,6 +48479,7 @@ dailycaller.com###dailycaller_top
 urbandictionary.com###dark_top
 laineygossip.com###date-banner
 helpwithwindows.com###desc
+fastfoodnutrition.org###desk_leader_ad
 republicworld.com###desktop-livetv-728-90
 pikalytics.com###dex-list-0
 definition-of.com###dfp
@@ -49224,10 +49227,12 @@ swarajyamag.com##._1eNH8
 thequint.com##._1v3nU
 tvzoneuk.com##._2JOHk
 rightmove.co.uk##._2X2laxgNfgPGfZQTFoPUsd
+deviantart.com##._2dNBo
 jeffdornik.com##._2kEVY
 coderwall.com##._300x250
 rightmove.co.uk##._3G_zutXOLAwgpG1cvkF6ii
 timesofindia.indiatimes.com##._3JJMX
+deviantart.com##._3bkGl
 timesofindia.indiatimes.com##._3xsKP
 soundguys.com##._7b
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
@@ -50031,6 +50036,7 @@ arabtimesonline.com,independent.co.ug,nigerianobservernews.com##.e3lan
 presskitaquat.com##.e3lan-top
 tiresandparts.net##.e3lanat-layout-rotator
 fxempire.com##.eLQRRm
+deviantart.com##.eOqaT
 euractiv.com##.ea-gat-slot-wrapper
 expats.cz##.eas
 itwire.com##.eb-init
@@ -51223,6 +51229,7 @@ cultofmac.com##.sponsored_paragraph
 armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,hotrodhotline.com,jaguarforums.com,pypi.org,thebugle.co.za,waamradio.com,wbal.com,webtorrent.io##.sponsors
 salixos.org##.sponsors-container
 libhunt.com##.sponsors-list-content
+petri.com##.sponsorsInline
 hacksplaining.com##.sponsorship-message
 newswiretoday.com,przoom.com##.sponsortd
 timesofindia.indiatimes.com##.sports_ad_wrapper
@@ -51264,6 +51271,7 @@ litecoin-faucet.com##.sticky-top1
 theblock.co,thekitchn.com##.stickyFooter
 cnet.com##.stickySkyboxSpacing
 sfgate.com##.stickyWrapper
+fastfoodnutrition.org##.sticky_footer
 pcgamesn.com,theloadout.com##.sticky_rail600
 minecraftlist.org##.stickywrapper
 romsie.com##.stksht
@@ -51578,6 +51586,7 @@ yardbarker.com##.yb-card-ad
 yardbarker.com##.yb-card-out
 shockwave.com##.ympb_target_banner
 yellowpages.co.za##.yp-object-ad-modal
+deviantart.com##.ytXUX
 buzzly.art##.z-10.w-max
 howstuffworks.com##.z-999
 tekdeeps.com##.zAzfDBzdxq3
