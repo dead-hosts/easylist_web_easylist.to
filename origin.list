@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qeF7A9QOm6OrkjnrVFrMTg
-! Version: 202212192031
+! Checksum: Atuj14RYvixR/GNyFRiFaA
+! Version: 202212192051
 ! Title: EasyList
-! Last modified: 19 Dec 2022 20:31 UTC
+! Last modified: 19 Dec 2022 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5793,6 +5793,7 @@ _800x80_
 ###adHolder5
 ###adHolder6
 ###adHome
+###adHomeTop
 ###adIframe
 ###adInhouse
 ###adIsland
@@ -11986,6 +11987,7 @@ _800x80_
 ##.adAreaTopTitle
 ##.adArticleBanner
 ##.adArticleBody
+##.adArticleSideTop300x250
 ##.adBan
 ##.adBanner300x250
 ##.adBanner728x90
@@ -12091,6 +12093,7 @@ _800x80_
 ##.adHolderStory
 ##.adHoldert
 ##.adHome300x250
+##.adHomeSideTop300x250
 ##.adHorisontal
 ##.adHorisontalNoBorder
 ##.adHorizontalTextAlt
@@ -27277,6 +27280,7 @@ tf2r.com#@#.adverts
 ||cristianonaldo.com^
 ||critariatele.pro^
 ||criticismheadphoneprinting.com^
+||critmistbow.com^
 ||crjpingate.com^
 ||crm4d.com^
 ||crocopop.com^
@@ -31859,6 +31863,7 @@ tf2r.com#@#.adverts
 ||krmal.com^
 ||kronervisile.com^
 ||kronosspell.com^
+||krubisstratic.com^
 ||ksehinkitw.hair^
 ||kt5850pjz0.com^
 ||ktautdkiixlunl.com^
@@ -33660,6 +33665,7 @@ tf2r.com#@#.adverts
 ||nockerlpittite.website^
 ||noclef.com^
 ||noddingdilutionradish.com^
+||nodouslover.com^
 ||nodrmcxjevtuc.xyz^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
@@ -35801,6 +35807,7 @@ tf2r.com#@#.adverts
 ||quilescornual.uno^
 ||quillyatik.digital^
 ||quiltobserve.com^
+||quinizechoel.com^
 ||quiremuken.xyz^
 ||quite-bag-seed-catch.xyz^
 ||quitelyhabitat.com^
@@ -36810,6 +36817,7 @@ tf2r.com#@#.adverts
 ||scalpaccomplishedliving.com^
 ||scamblefeedman.com^
 ||scammereating.com^
+||scapemambu.com^
 ||scarcecomplicate.com^
 ||scarl.shop^
 ||scarletcashwi5.com^
@@ -39184,6 +39192,7 @@ tf2r.com#@#.adverts
 ||unusualbrainlessshotgun.com^
 ||unusuallygravely.com^
 ||unvanilluxer.com^
+||unvenomangst.com^
 ||unvexedmehari.com^
 ||unwartortlean.com^
 ||unwarydebite.com^
