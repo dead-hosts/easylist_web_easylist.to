@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5lbxTstzkB8MCFLIdWwE+g
-! Version: 202212190951
+! Checksum: IgcvY0Zrt6g3+DQAksi+HA
+! Version: 202212191011
 ! Title: EasyList
-! Last modified: 19 Dec 2022 09:51 UTC
+! Last modified: 19 Dec 2022 10:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6120,6 +6120,8 @@ _800x80_
 ###ad_play_300
 ###ad_player
 ###ad_plugs
+###ad_popup_background
+###ad_popup_wrapper
 ###ad_post
 ###ad_post_300
 ###ad_poster
@@ -49858,6 +49860,7 @@ font-generator.com##.container-home-int > .text-center
 ina.fr##.container-pubcarre
 thejournal-news.net##.container.lightblue
 jokersupdates.com##.container_contentrightspan
+worldscreen.com##.contains-sticky-video
 bbh.cc##.content + .sidebar
 pastebin.com##.content > [style^="padding-bottom:"]
 adfoc.us##.content > iframe
@@ -50055,6 +50058,7 @@ dailyfetched.com##.elementor-element-4e695da
 thecountersignal.com##.elementor-element-8d2cc6c
 canyoublockit.com##.elementor-widget-container > center > p
 estnn.com##.elementor-widget-wp-widget-ai_widget
+worldscreen.com##.embdad
 lego.com##.emotion-cache-1tunmxn
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
@@ -52134,6 +52138,7 @@ metabattle.com##div[style="display: flex; justify-content: center; align-items: 
 aceshowbiz.com##div[style="display:inline-block;min-height:300px"]
 vice.com##div[style="height: 250px;"]
 sentinelnews.com,theandersonnews.com##div[style="height:620px;width:279px;margin:auto;margin-top:5px;background-color:#eaeaea;"]
+comics.org##div[style="height:90px"]
 gsmarena.com##div[style="margin-left: -10px; margin-top: 30px; height: 145px;"]
 gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 nohat.cc##div[style="min-height:250px"]
