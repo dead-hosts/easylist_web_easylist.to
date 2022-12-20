@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oG2nPDj1H0WGmdW+2PpaTA
-! Version: 202212201532
+! Checksum: 5THLKMcWysMzYAT1KKn77w
+! Version: 202212201551
 ! Title: EasyList
-! Last modified: 20 Dec 2022 15:32 UTC
+! Last modified: 20 Dec 2022 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8208,6 +8208,7 @@ _800x80_
 ###hAdv
 ###half-page-ad
 ###halfPageAd
+###half_page_ad_300x600
 ###halfpagead
 ###hawkMagWidget
 ###hd-ads
@@ -9038,6 +9039,7 @@ _800x80_
 ###reklama_left_up
 ###reklama_right_up
 ###related-ads
+###related-news-1-bottom-ad
 ###related-news-1-top-ad
 ###related_ad
 ###related_ads
@@ -11371,6 +11373,8 @@ _800x80_
 ##.ad-pos-4
 ##.ad-pos-5
 ##.ad-pos-6
+##.ad-pos-7
+##.ad-pos-8
 ##.ad-pos-middle
 ##.ad-pos-top
 ##.ad-position
@@ -13381,6 +13385,7 @@ _800x80_
 ##.ads-footer
 ##.ads-fr
 ##.ads-global-header
+##.ads-global-top
 ##.ads-google
 ##.ads-google-bottom
 ##.ads-google-top
@@ -47654,6 +47659,7 @@ tf2r.com#@#.adverts
 ||xinhuanet.com/s?
 ||xtb.com^$third-party,domain=cool-etv.net
 ||yahoo.com/m/gemini_api/
+||yahoo.com/pdarla/
 ||yahoo.com/sdarla/
 ||yellowpages.com.lb/uploaded/banners/
 ||yimg.com/rq/darla/$domain=yahoo.com
