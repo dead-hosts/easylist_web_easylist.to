@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0FZ/ISe2ME6Xs32AKalSWw
-! Version: 202212211303
+! Checksum: EhIursQT2TGpHJYtsxpcVQ
+! Version: 202212211321
 ! Title: EasyList
-! Last modified: 21 Dec 2022 13:03 UTC
+! Last modified: 21 Dec 2022 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1700,8 +1700,8 @@
 /adtaily_
 /adtaobao.
 /adTargeting.$domain=~adtargeting.com
-/adtech.$~script,domain=~adtech.co.uk|~adtech.io|~adtech.md
-/adtech/*
+/adtech.$~script,domain=~adtech.co.uk|~adtech.io|~adtech.md|~adtech.org
+/adtech/*$domain=~adtech.org
 /adtech;
 /adtech_$domain=~adtech.co.uk
 /adTemplates/*
