@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uLRMVUCWFagcKL0U3PLxmw
-! Version: 202212211641
+! Checksum: V/0Fb6WB7X6Y3Rf8EPSNZg
+! Version: 202212211731
 ! Title: EasyList
-! Last modified: 21 Dec 2022 16:41 UTC
+! Last modified: 21 Dec 2022 17:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13691,6 +13691,7 @@ _800x80_
 ##.ads_728x90
 ##.ads_Header
 ##.ads__article__header
+##.ads__aside
 ##.ads__claim-item
 ##.ads__container
 ##.ads__header
@@ -13700,6 +13701,8 @@ _800x80_
 ##.ads__interstitial
 ##.ads__link
 ##.ads__listing
+##.ads__mid
+##.ads__middle
 ##.ads__midpage-fullwidth
 ##.ads__native
 ##.ads__right-rail-ad
