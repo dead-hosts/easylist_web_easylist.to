@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yEe2ZbPZaXdFZxesyvGZGQ
-! Version: 202212211151
+! Checksum: kAdiRgWOhYgtRLk7/SyqAg
+! Version: 202212211241
 ! Title: EasyList
-! Last modified: 21 Dec 2022 11:51 UTC
+! Last modified: 21 Dec 2022 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5034,7 +5034,6 @@ _800x80_
 ###AdMiddle
 ###AdPanel
 ###AdPopUp
-###AdRectangle
 ###AdRectangleBanner
 ###AdSense1
 ###AdSense2
@@ -5357,7 +5356,6 @@ _800x80_
 ###ad-affiliate
 ###ad-after
 ###ad-anchor
-###ad-area
 ###ad-around-the-web
 ###ad-article
 ###ad-article-in
@@ -5858,7 +5856,6 @@ _800x80_
 ###adRight5
 ###adScraper
 ###adSection
-###adSense
 ###adSenseBox
 ###adSenseModule
 ###adSenseWrapper
@@ -6105,6 +6102,8 @@ _800x80_
 ###ad_mrec
 ###ad_mrec1
 ###ad_mrec2
+###ad_mrec_intext
+###ad_mrec_intext2
 ###ad_new
 ###ad_news_article
 ###ad_newsletter
@@ -6385,7 +6384,6 @@ _800x80_
 ###adpostloader
 ###adpromo
 ###adrect
-###adrectangle
 ###adrhs
 ###adrig
 ###adright
@@ -8950,6 +8948,8 @@ _800x80_
 ###pre-adv
 ###pre-footer-ad
 ###pre-main-banner-ad
+###preAds_ad_mrec_intext
+###preAds_ad_mrec_intext2
 ###pre_advertising_wrapper
 ###pregame_header_ad
 ###preloaded-ad-frame
@@ -10178,6 +10178,7 @@ _800x80_
 ##.Ad_container
 ##.Adgrid_footboard
 ##.Adgrid_right_rail
+##.Ads--center
 ##.Ads-768x90
 ##.Ads-leaderboard
 ##.Ads-slot
@@ -10722,7 +10723,6 @@ _800x80_
 ##.ad-970x90
 ##.ad-980-1
 ##.ad-Advert_Placeholder
-##.ad-BANNER
 ##.ad-CUSTOM
 ##.ad-E
 ##.ad-LREC
@@ -13401,7 +13401,6 @@ _800x80_
 ##.ads-homepage-2
 ##.ads-horizontal
 ##.ads-horizontal-banner
-##.ads-iframe
 ##.ads-image
 ##.ads-in-content
 ##.ads-in-previews
@@ -13620,7 +13619,6 @@ _800x80_
 ##.adsBlockContainerHorizontal
 ##.adsBot
 ##.adsBottom
-##.adsBox
 ##.adsBoxTop
 ##.adsCap
 ##.adsCell
@@ -19730,6 +19728,7 @@ _800x80_
 ##.sector-widget__tiny-ad
 ##.selfServeAds
 ##.sense-adhesion
+##.seoAdWrapper
 ##.seoTopAds
 ##.sepContentAd
 ##.series-ad
@@ -21749,6 +21748,7 @@ _800x80_
 ##div[id^="ad-server-"]
 ##div[id^="ad_bnr_"]
 ##div[id^="ad_position_"]
+##div[id^="ad_rect_"]
 ##div[id^="ad_script_"]
 ##div[id^="adfox_"]
 ##div[id^="adngin-"]
