@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lDczbY5wnKuJfU3t6L2vqw
-! Version: 202212232304
+! Checksum: cZ6F9xCmguzup1mx6qjFKA
+! Version: 202212232321
 ! Title: EasyList
-! Last modified: 23 Dec 2022 23:04 UTC
+! Last modified: 23 Dec 2022 23:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51663,6 +51663,7 @@ ggrecon.com##.venatus-block
 fox10phoenix.com,fox26houston.com,fox4news.com,fox7austin.com,foxbusiness.com,foxla.com,foxnews.com##.vendor-unit
 tetris.com##.verticalAx
 packaginginsights.com##.verticlblk
+thenewdaily.com.au##.vf-promo
 videogameschronicle.com##.vgc-productsblock
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
