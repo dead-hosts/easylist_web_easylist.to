@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cZ6F9xCmguzup1mx6qjFKA
-! Version: 202212232321
+! Checksum: R+vnKo7CdjNMPC3tmwvLYw
+! Version: 202212232351
 ! Title: EasyList
-! Last modified: 23 Dec 2022 23:21 UTC
+! Last modified: 23 Dec 2022 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51014,6 +51014,7 @@ wionews.com##.posrelativebox
 wtop.com##.post--sponsored
 hackread.com##.post-review-li
 mediakix.com##.post-widget__banner
+hellocare.com.au##.post-wrapper__portrait-ads
 newagebd.net##.postPageRightInTop
 newagebd.net##.postPageRightInTopIn
 fastcompany.com##.post__promotion
