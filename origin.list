@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c6LmSyM1UQk6U1O+B3l7WA
-! Version: 202212250811
+! Checksum: PrblN6OzKtHM77/9GCOzgA
+! Version: 202212250831
 ! Title: EasyList
-! Last modified: 25 Dec 2022 08:11 UTC
+! Last modified: 25 Dec 2022 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21823,6 +21823,7 @@ _800x80_
 ##.gnt_tbr.gnt_tb
 ##.gnt_x
 ! (invideo advertising)
+###cmg-video-player-placeholder
 ###jwplayer-container-div
 ###jwplayer_contextual_player_div
 ###mplayer-embed
@@ -49228,6 +49229,7 @@ datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sti
 fool.com###sticky-wrapper
 independent.co.uk,standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
+daily-choices.com###sticky_82613959
 bostonglobe.com###sticky_container.width_full
 eurogamer.net,rockpapershotgun.com###sticky_leaderboard
 medicinehatnews.com###stickyleaderboard
