@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QKcC8NUXHFGtVuUzAM5H3A
-! Version: 202212250311
+! Checksum: 0iwlfd/m31F4v/lnfq3cIA
+! Version: 202212250341
 ! Title: EasyList
-! Last modified: 25 Dec 2022 03:11 UTC
+! Last modified: 25 Dec 2022 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50795,6 +50795,7 @@ color-hex.com##.margin10
 fandom.com##.marketplace
 designtaxi.com##.masonry-brick.nt
 imgur.com,pushsquare.com,songlyrics.com##.masthead
+timeextension.com##.masthead > .insert
 eetimes.eu,powerelectronicsnews.com##.masthead-banner
 racgp.org.au##.mb-1.small
 amgreatness.com##.mb-10.mx-auto
@@ -51243,6 +51244,7 @@ middleeasteye.net##.region-before-navigation
 justthenews.com##.region-pre-content
 futbol24.com##.rek
 wcostream.com##.reklam_pve
+timeextension.com##.related-group > .insert
 idropnews.com##.related-posts
 timesofindia.indiatimes.com##.relatedVideoWrapper
 4shared.com##.remove-rekl
