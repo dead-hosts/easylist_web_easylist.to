@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WFftARvXRJpHuI1fx8byCg
-! Version: 202212260921
+! Checksum: Z4YcygiAAFHWRXKtB4ybmw
+! Version: 202212260941
 ! Title: EasyList
-! Last modified: 26 Dec 2022 09:21 UTC
+! Last modified: 26 Dec 2022 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51614,6 +51614,7 @@ who.is##.teaser-bar
 sporcle.com##.temp-unit
 macrumors.com##.tertiary
 ericpetersautos.com##.text-109
+royalroad.com##.text-center.light
 dexerto.com##.text-center.min-h-\[20rem\]
 upi.com##.text-center.mt-5
 businessonhome.com##.text-info
@@ -51951,6 +51952,7 @@ cq-esports.com##[href][target*="blank"]
 bittools.net##[href^="//www.bittools.net/binance"]
 shroomery.org##[href^="//www.shroomery.org/ads/"]
 unogs.com##[href^="/ad/"]
+royalroad.com##[href^="/advertising/redirect"]
 discord.me##[href^="/cr/"]
 audiobookbay.nl##[href^="/down-"]
 steroid.com##[href^="/out.php"]
