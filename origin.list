@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WlyLNK9md5iDRjbFiyJ4xA
-! Version: 202212262103
+! Checksum: bB7sWrHFzZNOLgD3HMXlow
+! Version: 202212262121
 ! Title: EasyList
-! Last modified: 26 Dec 2022 21:03 UTC
+! Last modified: 26 Dec 2022 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1055,7 +1055,6 @@
 /ads-250.
 /ads-300.
 /ads-admin.
-/ads-api.
 /ads-arc.
 /ads-async.
 /ads-beacon.
@@ -47023,6 +47022,7 @@ tf2r.com#@#.adverts
 ||adblock-tester.com/banners/
 ||adblockstrtape.link/adult2009.js
 ||adrama.to/bbb.php
+||ads-api.twitter.com^
 ||ads.leovegas.com^
 ||adultswim.com/ad/
 ||advfn.com/common/commercial/
