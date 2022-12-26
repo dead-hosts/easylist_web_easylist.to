@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y9WHv33ahz4oN7BfSUwy1Q
-! Version: 202212260011
+! Checksum: jCstmyPZOHdSbd+VxY7Alg
+! Version: 202212260031
 ! Title: EasyList
-! Last modified: 26 Dec 2022 00:11 UTC
+! Last modified: 26 Dec 2022 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50449,6 +50449,7 @@ geoguessr.com##.game-layout__in-game-ad
 amoyshare.com##.game-poster
 pokernews.com##.gameCards
 monstertruckgames.org##.gamecatbox
+graviti.com##.gas-cookie-bar
 home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
