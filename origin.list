@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wax8w5IVgiC26pi1Ba/5tQ
-! Version: 202212270221
+! Checksum: U6gdJ2fFQbfQmntbcbRC6Q
+! Version: 202212270241
 ! Title: EasyList
-! Last modified: 27 Dec 2022 02:21 UTC
+! Last modified: 27 Dec 2022 02:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50277,6 +50277,8 @@ mazterize.com##.dl-g
 dallasnews.com##.dmnc_features-ads-config-presets-module__1xTTS
 crash.net##.dmpu-container
 scotsman.com##.dmpu-item
+quora.com##.dom_annotate_ad_image_ad
+quora.com##.dom_annotate_ad_text_ad
 thenationonlineng.net##.dorvekp-post-bottom
 gearlive.com##.double
 techspot.com##.downText
@@ -51152,7 +51154,6 @@ twitter.com##.promoted-trend
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
 twitter.com##.promoted-tweet[data-disclosure-type="political"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
-quora.com##.promoted_answer_wrapper
 search.genieo.com##.promoted_right
 reddit.com##.promotedlink
 racingtv.com,twitter.com,wral.com##.promotion
