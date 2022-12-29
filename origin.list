@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: beWDnnur0USiQj6GPgfOTQ
-! Version: 202212290751
+! Checksum: vuu9w+ZH15klst+DkJYd3w
+! Version: 202212290811
 ! Title: EasyList
-! Last modified: 29 Dec 2022 07:51 UTC
+! Last modified: 29 Dec 2022 08:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48643,7 +48643,7 @@ travelpulse.com###ab_container
 4chan.org###abc-cnt
 uinterview.com###above-content
 peacemakeronline.com###above_top_banner
-go-convert.com###ad
+go-convert.com,sptfy.be###ad
 livescore.com###ad-holder-gad-news-article-item
 dappradar.com###ad-nft-top
 informer.com###ad0
