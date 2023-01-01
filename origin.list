@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WyEf9ZKkhXII1bnWukFpvg
-! Version: 202301010811
+! Checksum: vYLtYaEKdW/Moi7uY5n5sQ
+! Version: 202301010831
 ! Title: EasyList
-! Last modified: 01 Jan 2023 08:11 UTC
+! Last modified: 01 Jan 2023 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31828,6 +31828,7 @@ tf2r.com#@#.adverts
 ||jogglyisohel.com^
 ||johays.co^
 ||joicky.com^
+||join-admaven.com^
 ||jojome.xyz^
 ||jokrauda.com^
 ||jolecyclist.com^
@@ -32865,6 +32866,7 @@ tf2r.com#@#.adverts
 ||lucidlydiscretion.com^
 ||lucidmedia.com^
 ||lucklayed.info^
+||luckyads.pro^
 ||luckypushh.com^
 ||lucretius-ada.com^
 ||ludesthat.club^
@@ -44241,6 +44243,7 @@ tf2r.com#@#.adverts
 ||jerboasjourney.com^$popup
 ||jewelbeeperinflection.com^$popup
 ||jillbuildertuck.com^$popup
+||join-admaven.com^$popup
 ||jomtingi.net^$popup
 ||jrpkizae.com^$popup
 ||jsmentry.com^$popup
@@ -44355,6 +44358,7 @@ tf2r.com#@#.adverts
 ||lowtyruntor.com^$popup
 ||lp247p.com^$popup
 ||lplimjxiyx.com^$popup
+||luckyads.pro^$popup
 ||luckyforbet.com^$popup
 ||lucretius-ada.com^$popup
 ||lurgaimt.net^$popup
@@ -52648,7 +52652,7 @@ tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripa
 ndtv.com,ndtv.in##[class^="firework"]
 ndtv.com,ndtv.in##[id^="firework"]
 ! Abusive Adcompanies
-ad-maven.com,adcash.com,adskeeper.co.uk,adskeeper.com,adspyglass.com,adsupply.com,adsupplyads.com,adsupplyads.net,exoclick.com,hilltopads.com,popads.net,propellerads.com##HTML
+ad-maven.com,adcash.com,adskeeper.co.uk,adskeeper.com,adspyglass.com,adsupply.com,adsupplyads.com,adsupplyads.net,exoclick.com,hilltopads.com,join-admaven.com,luckyads.pro,popads.net,propellerads.com##HTML
 ! Amazon
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.be,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###nav-swmslot
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.be,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###sc-rec-bottom
