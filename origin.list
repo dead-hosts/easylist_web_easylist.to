@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZDO38lMbOXN0tqwxgBkw6g
-! Version: 202301010541
+! Checksum: 9et0zGLxN+C/+vJVlLgomw
+! Version: 202301010603
 ! Title: EasyList
-! Last modified: 01 Jan 2023 05:41 UTC
+! Last modified: 01 Jan 2023 06:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50290,7 +50290,7 @@ arcadebomb.com##.colunit1
 bollywoodlife.com##.combinedslots
 knowyourmeme.com##.combo-wrapper
 googlesightseeing.com##.comm-square
-insider.com##.commerce-coupons-module
+businessinsider.com,insider.com##.commerce-coupons-module
 thisislondon.co.uk##.commercial
 telegraph.co.uk##.commercial-unit
 goal.com##.component-ad
