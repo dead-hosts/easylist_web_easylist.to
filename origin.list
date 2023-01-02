@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9Wkbi2rfEOVxh6nanajyPw
-! Version: 202301020931
+! Checksum: 6Jxpyap/vntL0igTEOi2oA
+! Version: 202301020951
 ! Title: EasyList
-! Last modified: 02 Jan 2023 09:31 UTC
+! Last modified: 02 Jan 2023 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53493,6 +53493,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||volterra.us^*/advertise_policy$~third-party
 @@||warpwire.com/AD/
 @@||warpwire.net/AD/
+@@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.net
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
 @@||webmd.com/dtmcms/live/webmd/*/video-ad.js$script,~third-party
 @@||wikia.nocookie.net^$stylesheet
