@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jr64v7p5o9R9VfC4EQiQUg
-! Version: 202301020441
+! Checksum: nAJn4sFhjglnRuA4UAC1oA
+! Version: 202301020504
 ! Title: EasyList
-! Last modified: 02 Jan 2023 04:41 UTC
+! Last modified: 02 Jan 2023 05:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -41912,6 +41912,7 @@ tf2r.com#@#.adverts
 ||magnetisemedia.com^$third-party
 ||mahimeta.com^$third-party
 ||mangoads.net^$third-party
+||mantisadnetwork.com^$third-party
 ||marfeel.com^$third-party
 ||marketfly.net^$third-party
 ||markethealth.com^$third-party
@@ -45578,7 +45579,6 @@ tf2r.com#@#.adverts
 ||api.bitp.it^
 ||apihotels.net/onestream/events/
 ||apkmaza.net/wp-content/uploads/$third-party
-||appnext-a.akamaihd.net^
 ||apps.media-lab.ai^
 ||aspencore.com/syndication/v3/partnered-content/
 ||assets.sheetmusicplus.com^$third-party
@@ -45612,13 +45612,10 @@ tf2r.com#@#.adverts
 ||bluehost.com/track/
 ||bluehost.com/web-hosting/domaincheckapi/?affiliate=
 ||bluepromocode.com/images/widgets/
-||bluesattv.net/bluesattvnet.gif
-||bluesattv.net/gif.gif
 ||bookingdragon.com^$subdocument,third-party
 ||btcnews.one/adsbanner_
 ||btguard.com/images/
 ||btr.domywife.com^
-||bza.co^$subdocument,third-party
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
@@ -45654,7 +45651,6 @@ tf2r.com#@#.adverts
 ||crunchyroll.com/awidget/
 ||cts.tradepub.com^
 ||customer.heartinternet.co.uk^$third-party
-||cut-win.com/img/banners/
 ||cuteonly.com/banners.php
 ||d3mmnnn9s2dcmq.cloudfront.net/shim/embed.js
 ||datafeedfile.com/widget/readywidget/
@@ -45664,7 +45660,6 @@ tf2r.com#@#.adverts
 ||dealspure.com^$third-party
 ||decals.rcgroups.com^$third-party
 ||decals.rcgroups.net^$third-party
-||delivery.thebloggernetwork.com^
 ||desperateseller.co.uk/affiliates/
 ||digitaloceanspaces.com/WWW/$domain=7-zip.org
 ||disqus.com/listPromoted?
@@ -45710,7 +45705,6 @@ tf2r.com#@#.adverts
 ||get.rubyroyal.com^
 ||get.slotocash.com^
 ||get.thisisvegas.com^
-||getsurl.com/images/banners/
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
 ||giphy.com/embed/$domain=srilankamirror.com
@@ -45728,7 +45722,6 @@ tf2r.com#@#.adverts
 ||googleadapis.l.google.com^$third-party
 ||googleads.github.io^$third-party
 ||googleapis.com/sfpride/sponsors/$domain=sfpride.org
-||googlesyndication.com/ddm/
 ||googlesyndication.com/pagead/
 ||googlesyndication.com/safeframe/
 ||gopjn.com/b/
@@ -45748,7 +45741,6 @@ tf2r.com#@#.adverts
 ||iad-*.blaze.com^
 ||ibvpn.com/img/banners/
 ||ifoneunlock.com/*_banner_
-||ifriends.net/Refer.dll?
 ||img.mybet.com^$third-party
 ||in.com/common/script_catch.js
 ||indeed.fr/ads/
@@ -45769,7 +45761,6 @@ tf2r.com#@#.adverts
 ||kontera.com/javascript/lib/KonaLibInline.js
 ||lawdepot.com/affiliate/$third-party
 ||leadfamly.com/campaign/sdk/popup.min.js
-||leanpub.com^*/embed$subdocument,third-party
 ||legitonlinejobs.com/images/$third-party
 ||lesmeilleurs-jeux.net/images/ban/
 ||lessemf.com/images/banner-
@@ -45782,9 +45773,6 @@ tf2r.com#@#.adverts
 ||lottoelite.com/banners/
 ||lp.ncdownloader.com^
 ||ltkcdn.net/ltkrev.js
-||mambaonline.com/clinic_button.
-||mantisadnetwork.com/mantodea.min.js
-||mantisadnetwork.com/recommend.min.js
 ||marketing.888.com^
 ||marketools.plus500.com/feeds/
 ||marketools.plus500.com/Widgets/
@@ -45808,7 +45796,6 @@ tf2r.com#@#.adverts
 ||nitroflare.com/img/banners/
 ||nmh.my.na/main/products/$third-party
 ||noagentfees.com^$subdocument,domain=independent.com.mt
-||ntvcld-a.akamaihd.net^
 ||oilofasia.com/images/banners/
 ||onetag-sys.com/prebid-request
 ||ooproxy.azurewebsites.net^$xmlhttprequest,domain=imasdk.googleapis.com
@@ -45925,9 +45912,7 @@ tf2r.com#@#.adverts
 ||targeting.vdo.ai^
 ||tcadserver.rain-digital.ca^
 ||tech426.com/pub/
-||techkeels.com/creatives/
 ||textlinks.com/images/banners/
-||thebloggernetwork.com/demandfusion.js
 ||thefreesite.com/nov99bannov.gif
 ||ti.tradetracker.net^
 ||tillertag-a.akamaihd.net^
@@ -46501,8 +46486,6 @@ tf2r.com#@#.adverts
 ||trust.zone^$third-party
 ! Anti-Adblock
 ||anti-adblock.herokuapp.com^
-||onfocus.io^$third-party
-||secretmedia.com^$third-party
 ! *** easylist:easylist/easylist_thirdparty_popup.txt ***
 ||6angebot.ch^$popup,third-party
 ||ad.22betpartners.com^$popup
