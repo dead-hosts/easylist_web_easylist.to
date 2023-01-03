@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7EminEwk4ZWh8MncSoqnJA
-! Version: 202301031141
+! Checksum: EZbnE9taL+xi6VEmPGgn0w
+! Version: 202301031204
 ! Title: EasyList
-! Last modified: 03 Jan 2023 11:41 UTC
+! Last modified: 03 Jan 2023 12:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48916,7 +48916,6 @@ newcartestdrive.com###static-asset-placeholder-3
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sticky-bottom
 independent.co.uk,standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
-daily-choices.com###sticky_82613959
 bostonglobe.com###sticky_container.width_full
 eurogamer.net,rockpapershotgun.com###sticky_leaderboard
 medicinehatnews.com###stickyleaderboard
@@ -51570,6 +51569,7 @@ eatthis.com##[id^="gm_karmaadunit_widget"]
 designtaxi.com##[id^="in-news-link-"]
 comicbook.com,popculture.com##[id^="native-plus-"]
 noqreport.com##[id^="oqre-"]
+daily-choices.com##[id^="sticky_"]
 wuxiaworld.site##[id^="wuxia-"]
 apkcombo.com##[onclick*="_blank"]
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
