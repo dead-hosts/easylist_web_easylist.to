@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tykZ5TdnwSRrw3RYT0xjsQ
-! Version: 202301032051
+! Checksum: zl7Njmp65xXlYXiPwe/moQ
+! Version: 202301032131
 ! Title: EasyList
-! Last modified: 03 Jan 2023 20:51 UTC
+! Last modified: 03 Jan 2023 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50729,6 +50729,7 @@ thetowner.com##.powered
 thecoinrise.com##.pp_ad_block
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
+greyhound-data.com##.ppts
 foxbusiness.com##.pre-content
 sassymamahk.com##.pre_header_widget
 vivo.sx##.preload
