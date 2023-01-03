@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IMbYm5LO5XGlG7DbTMz3Fw
-! Version: 202301030111
+! Checksum: 9XPKKrW8RczWOA2i/mjgow
+! Version: 202301030131
 ! Title: EasyList
-! Last modified: 03 Jan 2023 01:11 UTC
+! Last modified: 03 Jan 2023 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52496,6 +52496,7 @@ dpfantasy.org,hotcelebshome.com###custom_html-4
 eporner.com###deskadmiddle
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
 thehun.net###dyk_right
+youjizz.com###englishPr
 porntrex.com###exclusive-link
 namethatporn.com###fab_blacko
 dailyporn.club###fixedban
@@ -52544,7 +52545,6 @@ hentaimama.io###overlay
 22pixx.xyz,imagevenue.com###overlayBg
 hentaiff.com###overplay
 video.laxd.com###owDmcIsUc
-youjizz.com###partnerPr
 nudevista.at,nudevista.com###paysite
 redtube.com,redtube.com.br,redtube.net,youporngay.com###pb_block
 pornhub-com.appspot.com,pornhub.com,pornhub.net,youporn.com###pb_template
@@ -53294,7 +53294,7 @@ mysexgames.com##table[height="640"]
 motherless.com##table[style*="max-width:"]
 exoav.com##td > a[href]
 xxxcomics.org##video
-porndoe.com,tube8.es,tube8.fr,youjizz.com,youporngay.com##video[autoplay]
+porndoe.com,tube8.es,tube8.fr,youporngay.com##video[autoplay]
 porndoe.com,redtube.com##video[autoplay][src*="blob:" i]
 porndoe.com,redtube.com##video[autoplay][src*="data:" i]
 ! Advanced element hiding rules for Adblock Plus
