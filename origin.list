@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K/8kKUDkg7iNBIZraviYYw
-! Version: 202301041031
+! Checksum: qqd3n3zoTBQjbGbv28iaxw
+! Version: 202301041051
 ! Title: EasyList
-! Last modified: 04 Jan 2023 10:31 UTC
+! Last modified: 04 Jan 2023 10:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8420,6 +8420,8 @@ _800x80_
 ###in-content-ad
 ###inarticlead
 ###inc-ads-bigbox
+###incontent-ad-2
+###incontent-ad-3
 ###incontentAd1
 ###incontentAd2
 ###incontentAd3
@@ -31956,6 +31958,7 @@ tf2r.com#@#.adverts
 ||kneeansweras.com^
 ||kneltmayhem.com^
 ||knewan.com^
+||kneylhewould.xyz^
 ||knifecontributionproposition.com^
 ||knightsstatuesteering.com^
 ||knightsyllabusimprobable.com^
@@ -34218,6 +34221,7 @@ tf2r.com#@#.adverts
 ||ofqvwaosjq.com^
 ||ofregahen.com^
 ||ofregahen.xyz^
+||ofrumhiswhelectua.info^
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||ofthecathedral.xyz^
