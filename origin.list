@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mQBHFnbWzWN7z2Mj5eQXNA
-! Version: 202301041011
+! Checksum: K/8kKUDkg7iNBIZraviYYw
+! Version: 202301041031
 ! Title: EasyList
-! Last modified: 04 Jan 2023 10:11 UTC
+! Last modified: 04 Jan 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4464,6 +4464,7 @@ _widget_ad.
 /detroitchicago/raleigh.js
 /detroitchicago/rochester.js
 /detroitchicago/tampa.js
+/detroitchicago/vpp.gif?
 /edmonton.webp$script
 /ez_aba_load/*
 /ezcl.webp?
@@ -49981,6 +49982,7 @@ thepiratebay3.to##.download_buutoon
 thesun.co.uk##.dpa-slot
 cryptonews.com##.dslot
 kickasstorrents.to##.dssdffds
+digitaltrends.com##.dtads-location
 digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 yts.mx##.durs-bordered
