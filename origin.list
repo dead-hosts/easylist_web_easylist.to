@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ma3VsDJYuEq6TcgjukF7dA
-! Version: 202301041351
+! Checksum: gw5tuwqzUJdPqFqMOeoQ2w
+! Version: 202301041413
 ! Title: EasyList
-! Last modified: 04 Jan 2023 13:51 UTC
+! Last modified: 04 Jan 2023 14:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3910,6 +3910,7 @@
 /wp-content/plugins/fasterim-optin/*
 /wp-content/plugins/m-wp-popup/*$~stylesheet
 /wp-content/plugins/platinumpopup/*
+/wp-content/plugins/the-moneytizer/*
 /wp-content/plugins/useful-banner-manager/*
 /wp-content/plugins/wp-ad-guru/*
 /wp-content/plugins/wp-super-popup-pro/*
@@ -14330,6 +14331,7 @@ _800x80_
 ##.adv-search-ad
 ##.adv-sidebar
 ##.adv-sidelabel
+##.adv-skin-spacer
 ##.adv-slot-container
 ##.adv-text
 ##.adv-top
@@ -21159,6 +21161,7 @@ _800x80_
 ##.widget_joblo_complex_ad
 ##.widget_long_ads_widget
 ##.widget_newspack-ads-widget
+##.widget_openxwpwidget
 ##.widget_plugrush_widget
 ##.widget_pmc-ads-widget
 ##.widget_po_ads_widget
