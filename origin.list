@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CSye6+Ns2abFuFGT8CTM4g
-! Version: 202301042321
+! Checksum: Z8puimGZqyipoAuSQBFS2Q
+! Version: 202301042351
 ! Title: EasyList
-! Last modified: 04 Jan 2023 23:21 UTC
+! Last modified: 04 Jan 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51361,6 +51361,7 @@ mdisk.me##.taka-gif-con
 ghanaweb.com##.takeover
 shacknews.com##.takeover-skin
 igg-games.com##.taxonomy-description
+zenger.news##.tb_e2rr695
 bookriot.com##.tbr-promo
 pixwox.com##.tce-box-i-w
 pixwox.com##.tce-box-n-w
@@ -51842,6 +51843,7 @@ vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bot
 forum.lowyat.net##[style^="height:100px;padding:5px"]
 ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
+zenger.news##[style^="text-align:center;min-height:"]
 reuters##[testid="ResponsiveAdSlot"]
 balls.ie##[type="doubleclick"]
 fansshare.com##[width="300"]
