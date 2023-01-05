@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mQ1SbjFqiyOgroBFEfKNJg
-! Version: 202301052221
+! Checksum: gEWCTl1zHDd/yyCZSmvLEQ
+! Version: 202301052241
 ! Title: EasyList
-! Last modified: 05 Jan 2023 22:21 UTC
+! Last modified: 05 Jan 2023 22:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49709,17 +49709,14 @@ azernews.az##.banner-block
 irishnews.com,nscreenmedia.com,whoscored.com##.banner-container
 soccerway.com##.banner-content
 insidebitcoins.com##.banner-cta-wrapper
+news12.com##.banner-homePageSidebar-area
 411mania.com##.banner-homebottom-all
 security.org##.banner-img-container
 wireshark.org##.banner-img-downloads
-news12.com##.banner-leaderboard-area
-news12.com##.banner-leaderboardArticle-area
-news12.com##.banner-midContent-area
 news12.com##.banner-middleboard-area
 web3wire.news##.banner-one
 timesofisrael.com##.banner-placeholder
 tweakreviews.com##.banner-placement__article
-news12.com##.banner-sidebar-area
 vedantu.com##.banner-text
 historydaily.org,israelnationalnews.com,news12.com,pwinsider.com,usahealthcareguide.com##.banner-top
 wpneon.com##.banner-week
