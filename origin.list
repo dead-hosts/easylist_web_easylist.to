@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qhWKdvHzG2Juwbk1qJe4ng
-! Version: 202301050051
+! Checksum: Hw9jO78BJQqNveLF1clrpQ
+! Version: 202301050111
 ! Title: EasyList
-! Last modified: 05 Jan 2023 00:51 UTC
+! Last modified: 05 Jan 2023 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48519,6 +48519,8 @@ today.az###TODAY_Slot_Vertical_01_240x400
 road.cc###Top-Billboard
 carsdirect.com###TopBanner
 scrabble-solver.com###Upper
+newstarget.com###Widget11
+newstarget.com###Widget14
 dexerto.com###\#primisplayer
 turbobit.net###__bgd_link
 ytmp3.cc###a-320-50
@@ -49384,6 +49386,7 @@ lbcgroup.tv##.ScriptDiv
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 thedailybeast.com##.Sizer
 coin360.com##.Skyscraper
+newstarget.com##.Sponsor
 geekflare.com##.Sponsors
 coin360.com##.StickyCorner__Container
 behance.net##.StockRail-rail-oox
@@ -51794,6 +51797,7 @@ cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
 mailshub.in##[href^="https://www.amazon.in/"]
 businessonhome.com##[href^="https://www.binance.com/en/register?ref="]
 bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
+health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
 thelibertydaily.com##[href^="https://www.dismecoins.com/"]
