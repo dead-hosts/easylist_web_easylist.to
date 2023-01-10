@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0FrSoU4nkO3XMXeMPK3V7Q
-! Version: 202301092351
+! Checksum: xuIwmjkdR7W29rGl+JNbxQ
+! Version: 202301100031
 ! Title: EasyList
-! Last modified: 09 Jan 2023 23:51 UTC
+! Last modified: 10 Jan 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7978,6 +7978,7 @@ _800x80_
 ###firstAdUnit
 ###first_ad
 ###firstad
+###fixed-ad
 ###fixedAd
 ###floatAd
 ###floatads
@@ -21837,6 +21838,10 @@ _800x80_
 ##.click-track.partner
 ! https://github.com/easylist/easylist/issues/9308
 ##[href^="https://freecourseweb.com/"] > .sitefriend
+! local12.com/bakersfieldnow.com/katv.com
+##.index-module_adBeforeContent__LLBk
+##.interstory_first_mobile
+##.interstory_second_mobile
 ! Gannett https://github.com/easylist/easylist/issues/13015
 ###gnt_atomsnc
 ##.gnt_flp
@@ -50664,7 +50669,6 @@ crash.net##.inarticle-wrapper
 motherjones.com##.incontent-promo
 brudirect.com##.index-banner
 katv.com##.index-module_adAfterContent__1cww
-bakersfieldnow.com,katv.com##.index-module_adBeforeContent__LLBk
 theinertia.com##.inertia-ad-300x250
 inews.co.uk##.inews__advert
 inews.co.uk##.inews__mpu
@@ -50685,8 +50689,6 @@ canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
 coincarp.com##.interact-mobileBox
 startpage.com##.internxt-promo
-bakersfieldnow.com##.interstory_first_mobile
-bakersfieldnow.com##.interstory_second_mobile
 allnurses.com##.ipsAreaBackground
 1tamilmv.click##.ipsCarousel
 uk420.com##.ipsLayout_container > div[align="center"]
