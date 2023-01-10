@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CQfzKwtIYP/W/UKJplY4og
-! Version: 202301102151
+! Checksum: n0qbj0v3avd06BbxZwZ3rQ
+! Version: 202301102211
 ! Title: EasyList
-! Last modified: 10 Jan 2023 21:51 UTC
+! Last modified: 10 Jan 2023 22:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3286,7 +3286,6 @@
 /popundr.
 /popundr/*
 /popundr_
-/popup-ad.
 /popup-builder-$~image,~stylesheet
 /popup-domination/*$~stylesheet
 /popup/log|$~third-party,xmlhttprequest
