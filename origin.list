@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bmD54QSuo/psUXDQbSL4wA
-! Version: 202301092304
+! Checksum: L6q77vR1MUTuS0TSU9lt7w
+! Version: 202301092321
 ! Title: EasyList
-! Last modified: 09 Jan 2023 23:04 UTC
+! Last modified: 09 Jan 2023 23:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5307,6 +5307,9 @@ _800x80_
 ###above_button_ad
 ###aboveplayerad
 ###abovepostads
+###acm-ad-tag-lawrence_dfp_mobile_arkadium
+###ad--article--home-mobile-paramount-wrapper
+###ad--article-bottom-wrapper
 ###ad--article-top
 ###ad--sidebar
 ###ad-0
@@ -18473,6 +18476,8 @@ _800x80_
 ##.mobile-ads
 ##.mobile-fixed-ad
 ##.mobile-footer__ad
+##.mobile-instream-ad-holder
+##.mobile-instream-ad-holder-single
 ##.mobile-leaderboard-fader
 ##.mobile-nav-ad-plus-banner
 ##.mobile-related-ad
