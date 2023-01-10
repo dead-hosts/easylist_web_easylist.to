@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ft1tNLqAoRr9SmRfeXDVDg
-! Version: 202301101151
+! Checksum: iUaWtB9ql0UboXRuZ2Z7fA
+! Version: 202301101221
 ! Title: EasyList
-! Last modified: 10 Jan 2023 11:51 UTC
+! Last modified: 10 Jan 2023 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -42496,6 +42496,7 @@ tf2r.com#@#.adverts
 ||meendocash.com^$third-party
 ||mellowads.com^$third-party
 ||meloads.com^$third-party
+||membrana.media^$third-party
 ||mentad.com^$third-party
 ||metaffiliation.com^$third-party,domain=~netaffiliation.com
 ||mezaa.com^$third-party
