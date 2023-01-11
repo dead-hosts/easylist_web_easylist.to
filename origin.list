@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: klA6628Ee/8ILc8ZpOedUA
-! Version: 202301102331
+! Checksum: 9L8CcevCsBkd089SJTtFIg
+! Version: 202301102351
 ! Title: EasyList
-! Last modified: 10 Jan 2023 23:31 UTC
+! Last modified: 10 Jan 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51332,6 +51332,7 @@ futbol24.com##.rek
 wcostream.com##.reklam_pve
 timeextension.com##.related-group > .insert
 idropnews.com##.related-posts
+ranker.com##.relatedInline_container__Ux4lS
 timesofindia.indiatimes.com##.relatedVideoWrapper
 4shared.com##.remove-rekl
 runningmagazine.ca##.repeater-bottom-leaderboard
