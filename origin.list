@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3xIaTVagQkQVCe1QsGaUIA
-! Version: 202301120652
+! Checksum: tuLprqdJ221PnqtYR5pR1Q
+! Version: 202301120721
 ! Title: EasyList
-! Last modified: 12 Jan 2023 06:52 UTC
+! Last modified: 12 Jan 2023 07:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -43153,6 +43153,7 @@ tf2r.com#@#.adverts
 ||wmmediacorp.com^$third-party
 ||wordego.com^$third-party
 ||worthathousandwords.com^$third-party
+||wwads.cn^$third-party
 ||x4300tiz.com^$third-party
 ||xandr.com^$third-party
 ||xgpub.com^$third-party
