@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BDS6mjRxEgAqmu9U7xa9DA
-! Version: 202301120041
+! Checksum: hBGqnSViwHfDMP5B6UX5Bw
+! Version: 202301120104
 ! Title: EasyList
-! Last modified: 12 Jan 2023 00:41 UTC
+! Last modified: 12 Jan 2023 01:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50649,6 +50649,7 @@ animedao.to,elevenforum.com,html-code-generator.com##.gads
 eonline.com##.gallery-rail-sticky-container
 cdromance.com##.game-container[style="grid-column: span 2;"]
 geoguessr.com##.game-layout__in-game-ad
+chess.com##.game-over-ad-component
 amoyshare.com##.game-poster
 pokernews.com##.gameCards
 monstertruckgames.org##.gamecatbox
