@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v+zFr1X10hiP3NSvoLlNTQ
-! Version: 202301170931
+! Checksum: N+2JMgpvD0sDCkEYzYghtw
+! Version: 202301170951
 ! Title: EasyList
-! Last modified: 17 Jan 2023 09:31 UTC
+! Last modified: 17 Jan 2023 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -263,6 +263,7 @@
 .eu/adv/
 .fi/ads/
 .fm/ads/
+.fuse-cloud.com/
 .ga/ads.
 .gg/ads/
 .gif?ad=
@@ -4942,6 +4943,7 @@ _800x80_
 &zoneid=*&direct=$popup
 .co/ads/$popup
 .com/ads?$popup
+.fuse-cloud.com/$popup
 .net/adx.php?$popup
 .prtrackings.com$popup
 /?placement=*&redirect$popup
@@ -41065,6 +41067,7 @@ tf2r.com#@#.adverts
 ||wheehiba.net^
 ||wheeksir.net^
 ||wheeptit.net^
+||wheers.com^
 ||wheeshoo.net^
 ||wheeshtdooring.com^
 ||whefungu.com^
@@ -41075,6 +41078,7 @@ tf2r.com#@#.adverts
 ||where.com^
 ||whereaboutsconclusive.com^
 ||wherevermere.com^
+||wheroi.com^
 ||whertinu.com^
 ||whethermondos.digital^
 ||whethy.com^
