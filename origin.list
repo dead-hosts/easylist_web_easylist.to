@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xmFPZhrtIXsw8eyrJMMHAg
-! Version: 202301180911
+! Checksum: 4IOeMFwIZU3sP99ogPGv6g
+! Version: 202301180931
 ! Title: EasyList
-! Last modified: 18 Jan 2023 09:11 UTC
+! Last modified: 18 Jan 2023 09:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19964,6 +19964,7 @@ _800x80_
 ##.sidebar__ad
 ##.sidebar__block--ad
 ##.sidebar__block-advertisement
+##.sidebar__item-spacer--advert-top
 ##.sidebar__module--ad
 ##.sidebar_ad
 ##.sidebar_ad_300
@@ -20462,6 +20463,7 @@ _800x80_
 ##.sticky-ads-container
 ##.sticky-ads-content
 ##.sticky-adsense
+##.sticky-advert-widget
 ##.sticky-bottom-ad
 ##.sticky-footer-ad
 ##.sticky-rail-ad-container
@@ -50898,6 +50900,7 @@ nativenewsonline.net##.eb-visible
 gfinityesports.com##.ecommerceUnit
 newagebd.net##.editorialMid
 sashares.co.za##.elementor-48612
+bikeradar.com##.elementor-element-3f6e8dd
 thecountersignal.com##.elementor-element-8d2cc6c
 canyoublockit.com##.elementor-widget-container > center > p
 worldscreen.com##.embdad
