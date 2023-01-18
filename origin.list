@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sVr52lvodX0lrPP1pgxRLQ
-! Version: 202301180851
+! Checksum: xmFPZhrtIXsw8eyrJMMHAg
+! Version: 202301180911
 ! Title: EasyList
-! Last modified: 18 Jan 2023 08:51 UTC
+! Last modified: 18 Jan 2023 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49599,7 +49599,6 @@ mediamass.net###google3
 topwar.ru###google_full_story_mobile
 windows2universe.org###google_mockup
 malaysiakini.com###gpt-layout-top-container
-smallseotools.com###grammar_banner
 proboards.com###gravity-stories-1
 spellcheck.net###grmrl_one
 girlswithmuscle.com###hb-banner-outer
@@ -51057,7 +51056,6 @@ mediamass.net##.googleresponsive
 css3generator.com##.gotta-pay-the-bills
 perfectdailygrind.com##.gpdgeng
 di.fm##.gpt-slot
-smallseotools.com##.grammarly_carousal
 balls.ie##.gray-ad-title
 slantmagazine.com##.gray_bg
 slantmagazine.com##.gray_bgBottom
@@ -52355,6 +52353,7 @@ everydaykoala.com,playjunkie.com##[class*="__adv-block"]
 bloomberg.com##[class*="ad-div"]
 barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
+smallseotools.com##[class*="gram"]
 thesouthafrican.com##[class^="Advertisement_"]
 games.washingtonpost.com##[class^="DisplayAd_"]
 thesouthafrican.com##[class^="SiteHeader__AdvertisementWrapper-"]
@@ -52512,6 +52511,7 @@ gametracker.com##[href^="https://www.vultr.com/"]
 wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
 uncanceled.news##[href^="https://zstacklife.com/"]
 gelbooru.com##[href^='https://realbooru.com/']
+smallseotools.com##[id*="gram"]
 beforeitsnews.com##[id^="banners_"]
 scmp.com##[id^="div-ad-"]
 designtaxi.com##[id^="dt-small-"]
