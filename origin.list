@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FEfY26aNvYmp6+YoPT6H3A
-! Version: 202301180221
+! Checksum: Hpigld6iORx5rHu/Dj/ydw
+! Version: 202301180241
 ! Title: EasyList
-! Last modified: 18 Jan 2023 02:21 UTC
+! Last modified: 18 Jan 2023 02:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50111,6 +50111,7 @@ photonics.com##.BOX_CarouselAd
 freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
 freebitz.xyz##.BannerMain
+coffeeordie.com##.BannerPromo-desktop
 interestingengineering.com##.BigAdBorder_isPremium__RXPuj
 interestingengineering.com##.BigAd_ad__m0kt9
 cnbc.com##.BoxRail-styles-makeit-ad--lyuQB
@@ -52699,6 +52700,7 @@ mangas-raw.com##center > div[style]
 greekreporter.com##center > p > [href]
 builtbybit.com##center[style="margin-top: 20px"]
 readonepiece.com##div > b
+coffeeordie.com##div.HtmlModule > [href]
 baking-forums.com,windows10forums.com##div.message--post.message
 inverse.com##div.zz
 liverpoolway.co.uk##div[align="center"] > a[href]
