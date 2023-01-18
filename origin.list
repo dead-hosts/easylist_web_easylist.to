@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pbhqSmzGQyt4CyAAAmqgUQ
-! Version: 202301180341
+! Checksum: E/qSDdpjJ2dCEufRopFSWg
+! Version: 202301180351
 ! Title: EasyList
-! Last modified: 18 Jan 2023 03:41 UTC
+! Last modified: 18 Jan 2023 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51417,6 +51417,7 @@ etxt.biz##.mod-cabinet__sidebar-info
 livelaw.in##.modal_wrapper_frame
 autoevolution.com##.modeladmid
 msn.com##.modernRightRail_stickyTopBannerAd-DS-EntryPoint1-1
+modrinth.com##.modrinth-content-wrapper
 finextra.com##.module--sponsor
 webmd.com##.module-f-hs
 pcworld.idg.com.au##.module-rhs-brandpost
