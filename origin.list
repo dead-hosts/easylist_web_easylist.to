@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DGGOkqd0K/1bjWlu/mmFsg
-! Version: 202301200310
+! Checksum: MnhwLu5H/sfCPbBZUz589w
+! Version: 202301200331
 ! Title: EasyList
-! Last modified: 20 Jan 2023 03:10 UTC
+! Last modified: 20 Jan 2023 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11328,6 +11328,7 @@ _800x80_
 ##.ad-msg
 ##.ad-msn
 ##.ad-native
+##.ad-native-top-sidebar
 ##.ad-nav-ad
 ##.ad-nav-ad-plus
 ##.ad-new
@@ -50615,6 +50616,7 @@ bundesliga.com,hotstar.com,sport360.fit,talksport.com##.billboard
 nypost.com,pagesix.com##.billboard-overlay
 electronicproducts.com##.billboard-wrap
 weatherpro.com##.billboard-wrapper
+thetruthaboutcars.com##.billboardSize
 techspot.com##.billboard_placeholder_home
 techspot.com##.billboard_placeholder_min
 netweather.tv##.billheight
