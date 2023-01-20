@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8wA3hys/e9caADXnbcY9mw
-! Version: 202301192351
+! Checksum: FRNGWZs48A4KONMnD2SksQ
+! Version: 202301200020
 ! Title: EasyList
-! Last modified: 19 Jan 2023 23:51 UTC
+! Last modified: 20 Jan 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18484,6 +18484,7 @@ _800x80_
 ##.moads-widget
 ##.mob-ad-break-text
 ##.mob-adspace
+##.mob-hero-banner-ad-wrap
 ##.mob_ads
 ##.mobads
 ##.mobile-ad
@@ -20662,6 +20663,7 @@ _800x80_
 ##.top-ad-above-header
 ##.top-ad-anchor
 ##.top-ad-area
+##.top-ad-banner-wrapper
 ##.top-ad-bloc
 ##.top-ad-block
 ##.top-ad-center
@@ -48349,6 +48351,7 @@ tf2r.com#@#.adverts
 ||musicatorrents.com^*/script.
 ||musicstreetjournal.com/banner/
 ||myabandonware.com/media/img/gog/
+||myanimelist.net/c/i/images/event/
 ||myunique.info/wp-includes/js/pop.js
 ||nameproscdn.com/images/backers/
 ||nativetimes.com/images/banners/
@@ -49288,6 +49291,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||urgayporn.com/bn/
 ||videosection.com/agent.php?
 ||vipergirls.to/clientscript/poptrigger_
+||vipergirls.to/files/k2s.gif
 ||voyeurhit.com/ffpqvfaczp/
 ||warashi-asian-pornstars.fr/wapdb-img/ep/
 ||watch-my-gf.com/list/
@@ -50943,7 +50947,7 @@ sgcarmart##.dealer_banner
 ign.com##.deals-block
 slashdot.org##.deals-wrapper
 defiantamerica.com##.defia-widget
-forex-gold.net,mangarockteam.com##.demand-supply
+exeo.app,forex-gold.net,mangarockteam.com##.demand-supply
 cardealermagazine.co.uk##.desktop
 rok.guide##.desktop-promo-banner
 tiermaker.com##.desktop-sticky
@@ -52699,7 +52703,6 @@ msn.com##a[href*=".booking.com/"]
 walmart.ca##a[href*=".criteo.com/"]
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
 chicagoprowrestling.com##a[href*="//www.aliciashouse.org/"] > img
-justinweather.com##a[href*="//www.windownation.com"]
 itweb.co.za##a[href*="/adclick.php?"]
 breakingbelizenews.com,cardealermagazine.co.uk,headfonics.com,igorslab.de,landline.media,mikesmoneytalks.ca,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
 movie-censorship.com##a[href*="/out.php?"]
