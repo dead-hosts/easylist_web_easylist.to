@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: u5IjgP4HxkPSTPTk1voxOg
-! Version: 202301221221
+! Checksum: 77wfHW6iuRZkvWkeXP8rIg
+! Version: 202301221241
 ! Title: EasyList
-! Last modified: 22 Jan 2023 12:21 UTC
+! Last modified: 22 Jan 2023 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31154,6 +31154,7 @@ tf2r.com#@#.adverts
 ||ihjtrncfoha.com^
 ||ihoabsop.xyz^
 ||ihsarnaut.store^
+||ihykshjtsxrk.com^
 ||ihzuephjxb.com^
 ||iicheewi.com^
 ||iicsxxkdcy.com^
@@ -40971,6 +40972,7 @@ tf2r.com#@#.adverts
 ||yinthesprin.xyz^
 ||yiopse.com^
 ||yirtaycyytr.xyz^
+||yizldrdnegazw.com^
 ||yjustinge.xyz^
 ||ykjwjvxofc.xyz^
 ||ylasthepoityelthens.com.ua^
@@ -47791,6 +47793,15 @@ $image,script,subdocument,third-party,xmlhttprequest,domain=heapfiles.com|vidoza
 @@||ajax.googleapis.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||cdn.vidoza.co/js/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=heapfiles.com|vidoza.co|vidoza.net
+! soap2day
+$stylesheet,subdocument,third-party,xmlhttprequest,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+.com.ua^$popup,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+.com.ua^$third-party,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+.xyz^$popup,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+.xyz^$third-party,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+@@||google.com/recaptcha/$subdocument,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+||amazonaws.com^$domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+||cloudfront.net^$domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 ! mixdrop.co
 $script,third-party,xmlhttprequest,domain=mixdrop.co
 @@||code.jquery.com^$domain=mixdrop.co
