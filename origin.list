@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TCcQneC02NTtQqaWaOaYnw
-! Version: 202301222120
+! Checksum: XiaKzb29/jB217oSCn2DWQ
+! Version: 202301222140
 ! Title: EasyList
-! Last modified: 22 Jan 2023 21:20 UTC
+! Last modified: 22 Jan 2023 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21724,6 +21724,7 @@ _800x80_
 ##a[href^="https://ttf.trmobc.com/"]
 ##a[href^="https://tupitea.co/"]
 ##a[href^="https://twinrdsyn.com/"]
+##a[href^="https://u.expresstech.io/"]
 ##a[href^="https://uncensored.game/"]
 ##a[href^="https://uncensored3d.com/"]
 ##a[href^="https://vlnk.me/"]
