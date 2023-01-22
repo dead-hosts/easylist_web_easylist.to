@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 11a7PP1IWhbf6qCbIeiVjw
-! Version: 202301212304
+! Checksum: tgXZAe9PYEUrygqrRh8YRg
+! Version: 202301212321
 ! Title: EasyList
-! Last modified: 21 Jan 2023 23:04 UTC
+! Last modified: 21 Jan 2023 23:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -247,7 +247,6 @@
 .com/adv?
 .com/adv_
 .com/advs-
-.com/adx/
 .com/adx_
 .com/adz/
 .com/bads/
@@ -23626,7 +23625,6 @@ tf2r.com#@#.adverts
 ||admob.com^
 ||admobe.com^
 ||adnesia.com^
-||adnetasia.com^
 ||adnetworkme.com^
 ||adnetworkperformance.com^
 ||adneutralads.com^
@@ -41430,6 +41428,7 @@ tf2r.com#@#.adverts
 ||adnet.de^$third-party
 ||adnet.lt^$third-party
 ||adnet.ru^$third-party
+||adnetasia.com^$~script
 ||adnico.jp^$third-party
 ||adnimation.com^$third-party
 ||adnium.com^$third-party
@@ -41672,7 +41671,7 @@ tf2r.com#@#.adverts
 ||bannersmania.com^$third-party
 ||bannersnack.com^$third-party,domain=~bannersnack.dev
 ||bannersnack.net^$third-party,domain=~bannersnack.dev
-||bannertrack.net^$third-party
+||bannertrack.net^$~script,third-party
 ||bannertracker-script.com^$third-party
 ||bannerweb.com^$third-party
 ||baronsoffers.com^$third-party
@@ -47224,7 +47223,6 @@ tf2r.com#@#.adverts
 ||apl95.me/js/pop.js
 ||armyrecognition.com/images/stories/customer/
 ||artdaily.cc/banners/
-||as.inbox.com^
 ||atptour.com^*/sponsors/
 ||audiotag.info/images/banner_
 ||aurn.com/wp-content/banners/
