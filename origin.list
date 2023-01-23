@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AUJLuEiDHuZHFw/R5iVXYQ
-! Version: 202301222321
+! Checksum: gBUb3My25ZlTSDmZjb/mPQ
+! Version: 202301222351
 ! Title: EasyList
-! Last modified: 22 Jan 2023 23:21 UTC
+! Last modified: 22 Jan 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23924,6 +23924,7 @@ tf2r.com#@#.adverts
 ||aeesy.com^
 ||aeffufgok.xyz^
 ||aekdxvtfq.xyz^
+||aemuinwlvssyg.com^
 ||aeolismtact.com^
 ||aephine.com^
 ||aerialmistaken.com^
@@ -25640,6 +25641,7 @@ tf2r.com#@#.adverts
 ||bengekoo.com^
 ||benidorinor.com^
 ||benignarrow.com^
+||bennelput.com^
 ||benonblkd.xyz^
 ||benoopto.com^
 ||bensokive.com^
@@ -26825,6 +26827,7 @@ tf2r.com#@#.adverts
 ||chouftak.net^
 ||choupaig.xyz^
 ||choupsee.com^
+||choybhlwd.com^
 ||chpok.pw^
 ||chrantary-vocking.com^
 ||chride.com^
@@ -27985,6 +27988,7 @@ tf2r.com#@#.adverts
 ||dienesasides.com^
 ||dieselhircine.com^
 ||dietalmatax.com^
+||dieved.com^
 ||dievel.com^
 ||differencedisinheritpass.com^
 ||differenchi.pro^
@@ -28537,6 +28541,8 @@ tf2r.com#@#.adverts
 ||easylist-to.xyz^
 ||eatcppcsmnkpdfk.xyz^
 ||eatinerhitles.xyz^
+||eationslieem.xyz^
+||eatlengthanid.xyz^
 ||eatmenttog.xyz^
 ||eatsidebicep.com^
 ||eatwinner.com^
@@ -35292,6 +35298,7 @@ tf2r.com#@#.adverts
 ||pityneedsdads.com^
 ||pitysuffix.com^
 ||pivotrunner.com^
+||piwixesu.pro^
 ||pixazza.com^
 ||pixfuture.net^
 ||pixiv.org^
@@ -39582,6 +39589,7 @@ tf2r.com#@#.adverts
 ||unpackgreaterbulk.com^
 ||unpacktexture.com^
 ||unpanchamon.com^
+||unpany.com^
 ||unphionetor.com^
 ||unplacebonism.life^
 ||unpleasantconcrete.com^
@@ -40011,6 +40019,7 @@ tf2r.com#@#.adverts
 ||visitstrack.com^
 ||visitsviolatedifficult.com^
 ||visitweb.com^
+||vissregion.com^
 ||vistashomonid.com^
 ||vistoolr.net^
 ||visualsteel.net^
@@ -44825,6 +44834,7 @@ tf2r.com#@#.adverts
 ||thechleads.pro^$popup
 ||thetaweblink.com^$popup
 ||thethesmah.xyz^$popup
+||theusualsuspects.biz^$popup
 ||thieverthinner.com^$popup
 ||thinkaction.com^$popup
 ||thinksabashmolly.com^$popup
@@ -46843,14 +46853,11 @@ tf2r.com#@#.adverts
 ||bettingpremier.com/direct/$popup
 ||brazzers.com/click/$popup
 ||canyoublockit.com^$popup,third-party
-||cctv.lol/show/$popup
 ||cdn.optmd.com^$popup
 ||chaturbate.com/affiliates/$popup
 ||cyberprivacy.pro^$popup
 ||dianomi.com^$popup
 ||downloadoperagx.com/ef/$popup
-||eatcells.com/land/$popup
-||eatcells.com/landing/$popup
 ||error-alerts.com^$popup
 ||evanetwork.com^$popup
 ||fast-vpn.me^$popup
@@ -46863,7 +46870,6 @@ tf2r.com#@#.adverts
 ||get-express-vpn.online^$popup
 ||get-express-vpns.com^$popup
 ||getflowads.net^$popup
-||go.isostech.com^$popup
 ||google.com/favicon.ico$popup
 ||greenadblocker.com^$popup
 ||insideoftech.com^$popup,third-party
@@ -46871,11 +46877,9 @@ tf2r.com#@#.adverts
 ||iqoption.com/land/$popup
 ||iyfsearch.com^$popup
 ||laborates.com^$popup
-||loadx.me/show/$popup
-||loveclubhere.life^$popup
+||loadx.me^$popup
 ||mackeeperaffiliates.com^$popup
-||nocensor.biz/go/$popup
-||ntrfr.leovegas.com^$popup,third-party
+||ntrfr.leovegas.com^$popup
 ||ourcoolstories.com^$popup
 ||paid.outbrain.com^$popup
 ||partners.livesportnet.com^$popup
@@ -46893,19 +46897,16 @@ tf2r.com#@#.adverts
 ||skipvideoads.com^$popup
 ||smartblocker.org^$popup
 ||streamblocked.com^$popup
-||superblackfriday.deals^$popup
 ||teenfinder.com/landing/$popup,third-party
-||theonlineuserprotection.com/download-guard/$popup,third-party
-||theonlineuserprotector.com/download-guard/$popup,third-party
-||track.kinetiksoft.com^$popup,third-party
+||theonlineuserprotection.com/download-guard/$popup
+||theonlineuserprotector.com/download-guard/$popup
+||track.kinetiksoft.com^$popup
 ||tracker.loropartners.com^$popup
-||ublockpop.com/rect.php?$popup
+||ublockpop.com^$popup
 ||ultimate-ad-eraser.com^$popup
 ||unibet.co.uk/*affiliate$popup
 ||vid-adblocker.com^$popup
-||vpnfortorrents.best^$popup
-||vpnfortorrents.org^$popup
-||whataboutnews.com^$popup,third-party
+||whataboutnews.com^$popup
 ||windadblocker.com^$popup
 ||xxxhd.cc/ads/$popup
 ||yield.app^*utm_source=$popup
