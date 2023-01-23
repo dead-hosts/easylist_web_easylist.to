@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qFMuCZiQ4gx7h0FOx5lqFQ
-! Version: 202301230650
+! Checksum: A3otYODlu8RI8zSsyDPRZA
+! Version: 202301230711
 ! Title: EasyList
-! Last modified: 23 Jan 2023 06:50 UTC
+! Last modified: 23 Jan 2023 07:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52092,6 +52092,7 @@ natureworldnews.com##label
 linkedin.com##li[data-is-sponsored="true"]
 aniwatcher.com##main > [href] > [src]
 hentai-foundry.com##main > p
+porsche.com##myservices-cookie-banner
 escorenews.com##noindex
 adblock-tester.com##object[width="240"]
 mrchecker.net##p > [href^="https://www.mrchecker.net/"]
