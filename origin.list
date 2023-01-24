@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NsGsoPz8vf1IHtEd62JR0w
-! Version: 202301242231
+! Checksum: RCGS5rFNOix/Uw6+u5ibzQ
+! Version: 202301242303
 ! Title: EasyList
-! Last modified: 24 Jan 2023 22:31 UTC
+! Last modified: 24 Jan 2023 23:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26736,7 +26736,6 @@ tf2r.com#@#.adverts
 ||changeablesizepractically.com^
 ||changedcombustible.com^
 ||changefranticallywhom.com^
-||chango.com^
 ||chapelcertain.com^
 ||chapsartore.com^
 ||chaptersus.com^
@@ -48733,7 +48732,6 @@ uinterview.com###below-content
 al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com###below-toprail
 animixplay.to###belowcomment
 post-gazette.com###benn-poll-iframe-container
-bing.com###bepfo.popup[style^="visibility: visible"]
 dcnewsnow.com###bestreviews-widget
 fightful.com###betway-sports
 usnews.com###bfad-slot
@@ -49730,7 +49728,6 @@ bizcommunity.com##.b-topbanner
 scorespro.com##.b160_600
 maritimeprofessional.com##.b300x250
 iol.co.za##.bDEZXQ
-bing.com##.b_adPATitleBlock
 vidcloud9.me##.backdrop
 namepros.com##.backer
 kitguru.net,mcvuk.com,technologyx.com,thessdreview.com##.background-cover
@@ -51702,7 +51699,6 @@ kbb.com##[data-lean-auto="flexible-native-2"]
 goal.com##[data-name="ad-leaderboard"]
 polygon.com##[data-native-ad-id^="container"]
 namepros.com##[data-np-ga-event="ad"]
-bing.com##[data-partnertag]
 jeffdornik.com##[data-pin-url]
 washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-qa="right-rail-ad"]
@@ -52542,13 +52538,16 @@ msn.com##div[class^="galleryPage_bannerAd"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 msn.com##div[data-section-id="stripe.bannernativead"]
 ! Bing
+bing.com###bepfo.popup[style^="visibility: visible"]
 bing.com##.ad_sc
 bing.com##.b_ad
 bing.com##.b_adBottom
 bing.com##.b_adLastChild
+bing.com##.b_adPATitleBlock
 bing.com##.mapsTextAds
 bing.com##.pa_sb
 bing.com##.productAd
+bing.com##[data-partnertag]
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
