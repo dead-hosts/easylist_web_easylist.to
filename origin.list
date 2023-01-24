@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BJ2uHNq3svei9gxIB46r4Q
-! Version: 202301240851
+! Checksum: z+gaEU8luXgTjpaUYw6Ozg
+! Version: 202301240921
 ! Title: EasyList
-! Last modified: 24 Jan 2023 08:51 UTC
+! Last modified: 24 Jan 2023 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -45097,6 +45097,7 @@ tf2r.com#@#.adverts
 ||ukoffzeh.com^$popup
 ||ultimate-captcha.com^$popup
 ||ultralove.net^$popup
+||ultravpnoffers.com^$popup
 ||ultrlove.com^$popup
 ||ulukdliketobeparto.xyz^$popup
 ||unairazoads.com^$popup
@@ -47436,6 +47437,7 @@ tf2r.com#@#.adverts
 ||dianomi.com/click.epl
 ||digitalmediaworld.tv/images/banners/
 ||diglloyd.com/js2/pub-wide2-ck.js
+||dirproxy.com/helper-js
 ||dj1symwmxvldi.cloudfront.net/r/$image,domain=coderwall.com
 ||dmxleo.dailymotion.com^
 ||domaintyper.com/Images/dotsitehead.png
@@ -49709,6 +49711,7 @@ britsabroad.com##.bannerBox
 securenetsystems.net##.bannerPrerollArea
 financemagnates.com##.banner__outer-wrapper
 tass.com##.banner__wrapper
+snopes.com##.banner_ad_between_sections
 news.am##.banner_click
 domainmasters.co.ke##.banner_google
 camfuze.com##.banner_inner
@@ -51175,6 +51178,7 @@ thebadandugly.com##.sidebar30
 pbs.org##.sidebar__logo-pond
 hepper.com##.sidebar__placement
 cointelegraph.com##.sidebar__promo-button
+snopes.com##.sidebar_ad
 pcgamesn.com##.sidebar_affiliate_disclaimer
 bxr.com##.sidebar_promo
 mediacomcable.com##.sidebar_sponsored
