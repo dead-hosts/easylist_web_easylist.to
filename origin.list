@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2OFjd4/E8lg9+L3k8Nn/4g
-! Version: 202301240611
+! Checksum: w8r72WO04pRG0rLnl9LJ8w
+! Version: 202301240631
 ! Title: EasyList
-! Last modified: 24 Jan 2023 06:11 UTC
+! Last modified: 24 Jan 2023 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49672,6 +49672,7 @@ bizcommunity.com##.b-topbanner
 scorespro.com##.b160_600
 maritimeprofessional.com##.b300x250
 iol.co.za##.bDEZXQ
+bing.com##.b_adPATitleBlock
 vidcloud9.me##.backdrop
 namepros.com##.backer
 kitguru.net,mcvuk.com,technologyx.com,thessdreview.com##.background-cover
@@ -51641,6 +51642,7 @@ kbb.com##[data-lean-auto="flexible-native-2"]
 goal.com##[data-name="ad-leaderboard"]
 polygon.com##[data-native-ad-id^="container"]
 namepros.com##[data-np-ga-event="ad"]
+bing.com##[data-partnertag]
 jeffdornik.com##[data-pin-url]
 washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-qa="right-rail-ad"]
