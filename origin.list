@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ngLRDjhcihP8c3RyH4xBhg
-! Version: 202301262003
+! Checksum: ifq3EYIO/NVNc/MZkC1R+g
+! Version: 202301262031
 ! Title: EasyList
-! Last modified: 26 Jan 2023 20:03 UTC
+! Last modified: 26 Jan 2023 20:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21414,6 +21414,7 @@ _800x80_
 ##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.betfair.com/redirect.aspx?"]
 ##a[href^="https://ads.leovegas.com/redirect.aspx?"]
+##a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"]
 ##a[href^="https://adserver.adreactor.com/"]
 ##a[href^="https://adsrv4k.com/"]
 ##a[href^="https://adswick.com/"]
@@ -21573,6 +21574,7 @@ _800x80_
 ##a[href^="https://www.bang.com/?aff="]
 ##a[href^="https://www.bet365.com/"][href*="affiliate="]
 ##a[href^="https://www.brazzersnetwork.com/landing/"]
+##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href^="https://www.highcpmrevenuenetwork.com/"]
 ##a[href^="https://www.highperformancecpmgate.com/"]
@@ -53298,6 +53300,7 @@ f95zone.to,pornhub.com,pornhubpremium.com,redtube.com##a[href^="https://ads.traf
 imx.to##a[href^="https://camonster.com/"]
 redgifs.com##a[href^="https://camsfinders.com/"]
 hog.tv##a[href^="https://clickaine.com"]
+spankbang.com##a[href^="https://deliver.ptgncdn.com/"]
 hitbdsm.com##a[href^="https://go.rabbitsreviews.com/"]
 instantfap.com##a[href^="https://go.redgifcams.com/"]
 sexhd.pics##a[href^="https://go.stripchat.com/"]
