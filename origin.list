@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: al3fAEZKPVnsS2BxQYTM1Q
-! Version: 202301260851
+! Checksum: wxaJH2jVwFEA90VyYeYJ8g
+! Version: 202301260920
 ! Title: EasyList
-! Last modified: 26 Jan 2023 08:51 UTC
+! Last modified: 26 Jan 2023 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50272,6 +50272,7 @@ aarp.org##.hot-deals
 dailyrecord.co.uk##.hotjobs
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hrnSiz
 cryptorank.io##.hspOLW
+barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 extremetech.com##.hybrid-bar + div
