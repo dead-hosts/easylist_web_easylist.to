@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fVwLIGZZvjgYd/o6A/o9vQ
-! Version: 202301261141
+! Checksum: U+AwnsU0qzFbSbDBXVjo8A
+! Version: 202301261204
 ! Title: EasyList
-! Last modified: 26 Jan 2023 11:41 UTC
+! Last modified: 26 Jan 2023 12:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4431,6 +4431,13 @@ _widget_ad.
 /in/track?data=
 /senddata?site=banner
 /senddata?site=inpage
+! Clickadu servers
+.com/src/ppu/
+/ceef/gdt3g0/tbt/*
+/fyckld0t/ckp/fd3w4/*
+/sc4fr/rwff/f9ef/*
+/t/9/heis/svewg/*
+/yzfdmoan.js
 ! ezoic
 /cmbdv2.js
 /greenoaks.gif?
@@ -22870,6 +22877,7 @@ tf2r.com#@#.adverts
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mmtv.top^
 ||7two0.rocks^
 ||80055404.vtt^
 ||800c7864eb.com^
