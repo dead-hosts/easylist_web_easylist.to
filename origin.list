@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lARPWa0YNy4AOcC+GurdnQ
-! Version: 202301280051
+! Checksum: x6vDDK5/ZcaRWxEV/AcefA
+! Version: 202301280121
 ! Title: EasyList
-! Last modified: 28 Jan 2023 00:51 UTC
+! Last modified: 28 Jan 2023 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30321,6 +30321,7 @@ tf2r.com#@#.adverts
 ||hasnoconve.one^
 ||haspswashrag.com^
 ||hasre45rernments.cfd^
+||hassarexurbs.com^
 ||hasslepasta.com^
 ||hasslesneatly.com^
 ||hastilyguide.com^
@@ -32036,6 +32037,7 @@ tf2r.com#@#.adverts
 ||lainaumi.com^
 ||lainmpatoio.xyz^
 ||lairdsnorthen.store^
+||laiwhost.net^
 ||lakequincy.com^
 ||lakvandula.com^
 ||lalaping.com^
@@ -34163,6 +34165,7 @@ tf2r.com#@#.adverts
 ||oldeststrickenambulance.com^
 ||oldgyhogola.com^
 ||oldmilram.com^
+||oleariaalgenib.com^
 ||olefinefraist.com^
 ||olep.xyz^
 ||olgknseruf.com^
@@ -41880,6 +41883,7 @@ tf2r.com#@#.adverts
 ||feature.fm^$third-party
 ||fireflyengagement.com^$third-party
 ||fireworkadservices.com^$third-party
+||fireworkadservices1.com^$third-party
 ||firstimpression.io^$third-party
 ||fisari.com^$third-party
 ||fixionmedia.com^$third-party
@@ -48312,6 +48316,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ||hotscopes.to/goways.php$popup
 ||icepbns.com^$popup,domain=iceporn.com
 ||livejasmin.com/pu/$popup
+||missav.com/pop?$popup
 ||videowood.tv/pop?$popup
 ||xtapes.to/out.php$popup
 ||xteen.name/xtn/$popup
