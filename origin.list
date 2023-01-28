@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c1p1knpE1t2Qy2ZI8fDaWA
-! Version: 202301272341
+! Checksum: tP/EKWMlgxExnvOjebbLkA
+! Version: 202301272350
 ! Title: EasyList
-! Last modified: 27 Jan 2023 23:41 UTC
+! Last modified: 27 Jan 2023 23:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50135,6 +50135,9 @@ teleboy.ch##.grid-col-content-leaderboard
 teamrock.com##.grid-container-300x250
 groovypost.com##.groov-adlabel
 saultonline.com##.gsmfab
+gulf-times.com##.gt-horizontal-ad
+gulf-times.com##.gt-square-desktop-ad
+gulf-times.com##.gt-vertical-ad
 cnx-software.com##.gthaina
 animenewsnetwork.com##.gutter
 thetimes.co.uk##.gyLkkj
