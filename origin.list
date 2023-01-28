@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vVch7nNLj20hbXbniG3Zng
-! Version: 202301282121
+! Checksum: AUPx7BNSD+JhvBWRrGeXCA
+! Version: 202301282140
 ! Title: EasyList
-! Last modified: 28 Jan 2023 21:21 UTC
+! Last modified: 28 Jan 2023 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47629,7 +47629,7 @@ tf2r.com#@#.adverts
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
-||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|spokesman-recorder.com|tomshardware.com|variety.com|whathifi.com
+||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|kiplinger.com|spokesman-recorder.com|tomshardware.com|variety.com|whathifi.com
 ||live.primis.tech^$third-party
 ||minute.ly^$third-party
 ||minutemedia-prebid.com^$third-party
@@ -47681,7 +47681,7 @@ $stylesheet,subdocument,third-party,xmlhttprequest,domain=s2dfree.cc|s2dfree.de|
 .com.ua^$popup,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 .com.ua^$third-party,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 .xyz^$popup,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.cc|soap2day.mx|soap2day.sh|soap2day.to
-.xyz^$third-party,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
+.xyz^$~media,third-party,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 @@||google.com/recaptcha/$subdocument,domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 ||amazonaws.com^$domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
 ||cloudfront.net^$domain=s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|soap2day.ac|soap2day.mx|soap2day.sh|soap2day.to
@@ -49955,6 +49955,7 @@ flashscore.co.za,soccer24.com##.detailLeaderboard
 pastemagazine.com,theonion.com##.dfp
 investing.com##.dfp-native
 dailyfx.com##.dfx-article__sidebar
+kiplinger.com##.dianomi_gallery_wrapper
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
 notes.io##.directMessageBanner
 premiumtimesng.com##.directcampaign
@@ -50745,6 +50746,7 @@ acestream.net##.popup2
 battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
 charlieintel.com##.position-sticky
 wtop.com##.post--sponsored
+kiplinger.com##.post-gallery-item-ad
 hackread.com##.post-review-li
 mediakix.com##.post-widget__banner
 hellocare.com.au##.post-wrapper__portrait-ads
