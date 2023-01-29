@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HiogCfFoMuB+BO1JlNHeaw
-! Version: 202301292203
+! Checksum: VtElw8Zuw1pPX1JJl3I6rg
+! Version: 202301292221
 ! Title: EasyList
-! Last modified: 29 Jan 2023 22:03 UTC
+! Last modified: 29 Jan 2023 22:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49301,6 +49301,7 @@ krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
 backthetruckup.com,trendstorys.com##.a-wrap
 breitbart.com##.a-wrapper
+getpocket.com##.a1cawpek
 supercheats.com##.a300
 wmtips.com##.a3f17
 digminecraft.com##.a47d50c4
@@ -50679,6 +50680,7 @@ beermoneyforum.com##.p-body-sidebar
 mc-market.org##.p-body-sidebar center [href]
 worldoftanks-wot.com##.p2small
 phonearena.com##.pa-sticky-container
+getpocket.com##.paarv6m
 islamicfinder.org##.pad-xs.box.columns.large-12
 republicworld.com##.pad3010.txtcenter
 republicworld.com##.padtop10.padright10.padleft10.minheight90
