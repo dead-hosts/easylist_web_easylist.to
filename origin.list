@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RX5i34oTbypmoYx8X/MfcQ
-! Version: 202301290231
+! Checksum: N5+UcILb8Rj6m2Q5zJSCLQ
+! Version: 202301290251
 ! Title: EasyList
-! Last modified: 29 Jan 2023 02:31 UTC
+! Last modified: 29 Jan 2023 02:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48449,6 +48449,7 @@ all-nettools.com,britsabroad.com,filesharingtalk.com,kiwibiker.co.nz,printroot.c
 coinarbitragebot.com###adathm
 4qrcode.com###addContainer
 lifenews.com###adds
+englishclub.com###adhed
 onworks.net###adonworksbot
 192-168-1-1-ip.co,receivesms.co###adresp
 3g2upl4pq6kufc4m.onion,audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,dekhobd.com,duckduckgo.com,g.doubleclick.net,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,photographyreview.com,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
@@ -51635,6 +51636,7 @@ searchcommander.com##[href^="https://www.searchcommander.com/rec/"]
 upload.ee##[href^="https://www.upload.ee/click.php"]
 gametracker.com##[href^="https://www.vultr.com/"]
 wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
+englishclub.com##[href^="https://www.wordupapp.co/"]
 gelbooru.com##[href^='https://realbooru.com/']
 smallseotools.com##[id*="gram"]
 beforeitsnews.com##[id^="banners_"]
