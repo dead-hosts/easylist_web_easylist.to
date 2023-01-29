@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dVMIGKe/SjHRWREe9davPg
-! Version: 202301291131
+! Checksum: uXmwGl2hq+uhKfepbNTPEw
+! Version: 202301291151
 ! Title: EasyList
-! Last modified: 29 Jan 2023 11:31 UTC
+! Last modified: 29 Jan 2023 11:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10425,6 +10425,8 @@ _800x80_
 ##._ciw-betterAds
 ##._fullsquaread
 ##._has-ads
+##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
 ##._table_ad_div_wide
 ##._top_ad_wrapper
 ##.a-ad
@@ -46121,7 +46123,6 @@ tf2r.com#@#.adverts
 ||pntra.com^$image,script
 ||pntrac.com^$image,script
 ||pntrs.com^$image,script
-||popin.cc/popin_discovery
 ||popmog.com^
 ||post.rmbn.ru^$third-party
 ||press-start.com/affgames/
@@ -48715,7 +48716,7 @@ vanguardngr.com###header-sidebar
 looperman.com###header-top
 nisnews.nl###header-wrap
 realestate.com.au###headerLeaderBoardSlot
-forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
+forums.anandtech.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
 digitalpoint.com###header_middle
 writerscafe.org###header_pay
 deckstats.net###header_right_big
@@ -48946,8 +48947,8 @@ ffiles.com###right_col
 medicaldialogues.in###right_level_8
 hardware.info###right_top
 yardbarker.com###right_top_sticky
-forums.tomshardware.com###rightcol_bottom
-forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com###rightcol_top
+forums.space.com,forums.tomshardware.com###rightcol_bottom
+forums.anandtech.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com###rightcol_top
 tubeconverter.net###ringtone-button
 youtump3.com###ringtoner
 brenz.net###rndBanner
@@ -53967,6 +53968,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
 @@||politiken.dk/static/$script
 @@||popin.cc/popin_discovery/recommend?$~third-party
+@@||pro-foto.jp/ads/img/$~third-party
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
