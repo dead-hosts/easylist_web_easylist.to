@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: be7c5AuA/Kt+H1eoH5thYA
-! Version: 202301300551
+! Checksum: G7MV20CxHTt4NhTME6CFzQ
+! Version: 202301300611
 ! Title: EasyList
-! Last modified: 30 Jan 2023 05:51 UTC
+! Last modified: 30 Jan 2023 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49503,6 +49503,9 @@ audizine.com##.articleIMG
 msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
 ubergizmo.com##.article_card_promoted
 news18.com##.article_mad
+arcadespot.com##.as-incontent
+arcadespot.com##.as-label
+arcadespot.com##.as-unit
 pickmypostcode.com##.aside-right.aside
 goal.com##.aside_ad-rail__cawG6
 releasestv.com##.ast-above-header-wrap
