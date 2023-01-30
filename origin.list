@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n7a9Myf0p+TblgpgaOaITQ
-! Version: 202301301141
+! Checksum: zkwsfeS19duzPrZ2KUCFBQ
+! Version: 202301301212
 ! Title: EasyList
-! Last modified: 30 Jan 2023 11:41 UTC
+! Last modified: 30 Jan 2023 12:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15972,6 +15972,7 @@ _800x80_
 ##.cdc-ad
 ##.center-ad
 ##.center-ad-banner
+##.center-ad-long
 ##.center-content-ad
 ##.center-content-ads
 ##.center-gray-ad-txt
@@ -49752,6 +49753,7 @@ scalemates.com##.bwx.hrspb
 radiotoday.co.uk##.byglhsmf
 insurancejournal.com##.bzn
 insidebitcoins.com##.c-FloatingPrompt
+globalnews.ca##.c-ad
 tuko.co.ke##.c-adv
 legit.ng##.c-adv--video-placeholder
 newstalkzb.co.nz##.c-background
@@ -50693,6 +50695,7 @@ republicworld.com##.padtop20.txtcenter.minheight90
 realtytoday.com##.page-bottom
 scmp.com##.page-container__left-native-ad-container
 bitdegree.org##.page-coupon-landing
+iheartradio.ca##.page-footer
 carsales.com.au,technobuffalo.com##.page-header
 realtytoday.com##.page-middle
 krcrtv.com,ktxs.com,wcti12.com,wcyb.com##.pageHeaderRow1
@@ -51097,6 +51100,7 @@ as.com##.slider-producto
 kcra.com,ketv.com,kmbc.com,wcvb.com,wpbf.com,wtae.com##.slideshowCover
 inbox.com##.slinks
 alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,squamishchief.com,tricitynews.com,vancouverisawesome.com##.slot
+iheartradio.ca##.slot-topNavigation
 independent.ie##.slot1
 independent.ie##.slot4
 boxofficemojo.com,imdb.com##.slot_wrapper
