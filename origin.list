@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 60HKWhHNyx7QCkfAO7je0w
-! Version: 202301300731
+! Checksum: 1kyjeK9LOSQVKSl2jjCGqA
+! Version: 202301300751
 ! Title: EasyList
-! Last modified: 30 Jan 2023 07:31 UTC
+! Last modified: 30 Jan 2023 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4618,7 +4618,6 @@ _prebid_
 /ibd-block-adblocker/*
 /jgc-adblocker-
 /jgcabd-detect-
-/just-detect-adblock@
 /no-adblock/*
 /wp-content/plugins/anti-block/*
 /wp-content/plugins/anti_ad_blocker/*
@@ -48823,7 +48822,7 @@ koreaherald.com###mbpAd022303
 active.com###med_rec_bottom
 active.com###med_rec_top
 wakingtimes.com###media_image-2
-apkmb.com,wbap.com###media_image-3
+airfactsjournal.com,apkmb.com,wbap.com###media_image-3
 palestinechronicle.com###media_image-4
 mostlyblogging.com###media_image-5
 linuxbabe.com###media_image-6
@@ -49498,7 +49497,6 @@ slashdot.org##.article-nel-12935
 spectator.com.au##.article-promo
 phillyvoice.com##.article-sponsor-sticky
 people.com##.articleContainer__rail
-theblockcrypto.com##.articleIAB
 audizine.com##.articleIMG
 msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
 ubergizmo.com##.article_card_promoted
@@ -49518,6 +49516,7 @@ mbl.is##.augl
 imasdk.googleapis.com##.autoalign.nonLinearContainer
 theblueoceansgroup.com##.av-label
 thehackernews.com##.av-side-box
+airfactsjournal.com##.avia_image
 kisscenter.net,kissorg.net,ksnews.me##.avm
 gameplanet.co.nz##.avt-mr
 gameplanet.co.nz##.avt-placement
@@ -49931,7 +49930,7 @@ usmagazine.com##.cy-storyblock
 bleepingcomputer.com##.cz-toa-wrapp
 blockchair.com##.d-block
 mangamiso.net##.d-flex-row
-fastpic.ru,freesteam.io,theblockcrypto.com##.d-lg-block
+fastpic.ru,freesteam.io##.d-lg-block
 thestreamable.com##.d-md-flex
 artsy.net##.dDusYa
 yourstory.com##.dJEWSq
@@ -50546,7 +50545,6 @@ comicbook.com##.mobile
 putlockers.do##.mobile-btn
 d123movies.to##.mobile-btn > div
 pcmacstore.com##.mobileHide
-theblockcrypto.com##.mobileView
 thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
