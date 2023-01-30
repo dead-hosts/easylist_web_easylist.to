@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MB+nM4z89NLh7m4xHz2G8w
-! Version: 202301301121
+! Checksum: n7a9Myf0p+TblgpgaOaITQ
+! Version: 202301301141
 ! Title: EasyList
-! Last modified: 30 Jan 2023 11:21 UTC
+! Last modified: 30 Jan 2023 11:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49343,6 +49343,7 @@ allscrabblewords.com,mpog100.com##.ad3
 chron.com,sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
 m.economictimes.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
+bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
 food.com##.ad__ad
