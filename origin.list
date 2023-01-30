@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9FtSo3YSqnLspj/2hhcO0g
-! Version: 202301301051
+! Checksum: MB+nM4z89NLh7m4xHz2G8w
+! Version: 202301301121
 ! Title: EasyList
-! Last modified: 30 Jan 2023 10:51 UTC
+! Last modified: 30 Jan 2023 11:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49402,6 +49402,8 @@ blastingnews.com##.adv-box-content
 healthleadersmedia.com##.adv-con
 pgatour.com##.adv-dummy
 junauza.com##.adv-hd
+business-standard.com##.adv-height-135
+business-standard.com##.adv-height-220
 business-standard.com##.adv-height-250
 48hills.org,audiobacon.net,bhamnow.com,coinquora.com,iconeye.com,manageditmag.co.uk,mondoweiss.net,ottverse.com,sportsspectrum.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
 sneakernews.com##.adv-parent
@@ -49804,7 +49806,7 @@ boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.
 careerindia.com##.cmscontent-top
 thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
-180gadgets.com,academicful.com,americansongwriter.com,androidsage.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,bleachernation.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,notalwaysright.com,patriotfetch.com,pureinfotech.com,quickanswer.blog,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,simscommunity.info,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,welovetrump.com,wepc.com,wisden.com,zerohanger.com##.code-block
+180gadgets.com,academicful.com,americansongwriter.com,androidsage.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,bleachernation.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,flyingmag.com,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,notalwaysright.com,patriotfetch.com,pureinfotech.com,quickanswer.blog,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,simscommunity.info,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,welovetrump.com,wepc.com,wisden.com,zerohanger.com##.code-block
 mydramalist.com##.col-lg-4 > .clear
 upi.com##.col-md-12 > table
 roseindia.net,tineye.com##.col-md-4
@@ -51323,6 +51325,7 @@ roseindia.net##.tutorialsstaticdata
 todayonline.com##.tw-flex-shrink-2
 joebucsfan.com##.tweet_div1
 karnalguide.com##.two_third > .push20
+business-standard.com##.txt-adv-panel
 shaaditimes.com##.txt[style="border: solid 1px #A299A6; background-color: #FDFCFC;"]
 tumblr.com##.uOyjG
 ubergizmo.com##.ubergizmo-dfp-ad
