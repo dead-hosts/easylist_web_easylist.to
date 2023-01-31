@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EbhpIUMbUjhAuvTMxceGuw
-! Version: 202301311921
+! Checksum: 2bNdN/zKFcLjzKAbItHzfw
+! Version: 202301311941
 ! Title: EasyList
-! Last modified: 31 Jan 2023 19:21 UTC
+! Last modified: 31 Jan 2023 19:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47633,6 +47633,7 @@ tf2r.com#@#.adverts
 ||survivalblog.com/marketplace/
 ||szm.com/reklama
 ||taadd.com/files/js/site_skin.js
+||tampermonkey.net/s.js
 ||technewsworld.com/images/sda/
 ||techonthenet.com/javascript/pb.js
 ||techporn.ph/wp-content/uploads/Ad-
@@ -47661,6 +47662,7 @@ tf2r.com#@#.adverts
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
 ||ubuntugeek.com/images/ubuntu1.png
 ||ukcampsite.co.uk/banners/
+||userscript.zone/s.js
 ||uxmatters.com/images/sponsors/
 ||vidstream.pro/AB/pioneersuspectedjury.com/
 ||vidzstore.com/popembed.php
