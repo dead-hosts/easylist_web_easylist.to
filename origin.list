@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VeifX8sOONDZ35CcuE9Msw
-! Version: 202301310051
+! Checksum: BbDDqSID3CuGP9Wz+7aSiA
+! Version: 202301310121
 ! Title: EasyList
-! Last modified: 31 Jan 2023 00:51 UTC
+! Last modified: 31 Jan 2023 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29019,6 +29019,7 @@ tf2r.com#@#.adverts
 ||fastestbesets.com^
 ||fastestdwelling.com^
 ||fastmtn.com^
+||fastnativead.com^
 ||fastpopunder.com^
 ||fatalityplatinumthing.com^
 ||fatchilli.media^
@@ -49286,7 +49287,6 @@ advfn.com##.APS_TOP_BANNER_468_X_60_container
 bendsource.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 thescore.com##.Ad__container--2fhQb
 greatandhra.com##.AdinHedare
-alternativeto.net##.AdsenseAd_putFood__h0Ah0
 iogames.onl##.Adv
 airportinfo.live,audiokarma.org,audizine.com##.AdvallyTag
 tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
@@ -51589,6 +51589,7 @@ bloomberg.com##[class*="ad-div"]
 barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
 smallseotools.com##[class*="gram"]
+alternativeto.net##[class^="AdsenseAd"]
 thesouthafrican.com##[class^="Advertisement_"]
 games.washingtonpost.com##[class^="DisplayAd_"]
 thesouthafrican.com##[class^="SiteHeader__AdvertisementWrapper-"]
