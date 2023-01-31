@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4Vb10WDbZUZavjxB/z5uTg
-! Version: 202301302331
+! Checksum: w/I8++DXfooR9y79wAbJWQ
+! Version: 202301302351
 ! Title: EasyList
-! Last modified: 30 Jan 2023 23:31 UTC
+! Last modified: 30 Jan 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48851,6 +48851,7 @@ fakeupdate.net###itemz
 googleping.com###itro_opaco
 googleping.com###itro_popup
 ceoexpress.com###kalamazooDiv
+kbb.com###kbbLockedAd-container
 thesilphroad.com###keepinTheLightsOn
 kvraudio.com###kvr300600
 peacemakeronline.com###latest_news > center
