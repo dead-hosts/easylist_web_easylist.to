@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jB16GYvNrMZz8NBfKv3kuA
-! Version: 202301310341
+! Checksum: cPGRUtU9SOIl2BfSSOd6kg
+! Version: 202301310351
 ! Title: EasyList
-! Last modified: 31 Jan 2023 03:41 UTC
+! Last modified: 31 Jan 2023 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50994,6 +50994,7 @@ arras.io##.referral
 al-monitor.com##.region--after-content
 middleeasteye.net##.region-before-navigation
 justthenews.com##.region-pre-content
+mrctv.org##.region-sidebar
 futbol24.com##.rek
 wcostream.com##.reklam_pve
 cyclingnews.com##.related-articles-wrap
