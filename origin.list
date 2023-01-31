@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 37EkFiZzuT4bqqyYvz/kBA
-! Version: 202301310851
+! Checksum: Zjrl4GVZxY1UTNJG1nvoVA
+! Version: 202301310911
 ! Title: EasyList
-! Last modified: 31 Jan 2023 08:51 UTC
+! Last modified: 31 Jan 2023 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50843,6 +50843,7 @@ hagerty.com##.placements
 plagiarismtoday.com##.plagi-widget
 trakt.tv##.playwire
 advfn.com##.plus500
+thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
 pedestrian.tv##.popular-jobs-widget
 compoundsemiconductor.net##.popular__section-newsx
