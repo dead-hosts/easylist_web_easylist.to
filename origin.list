@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ht8GOVB6M98UB2pbVeahYw
-! Version: 202302020904
+! Checksum: DqBZVuG1LEj9ewSLMTRF+w
+! Version: 202302020921
 ! Title: EasyList
-! Last modified: 02 Feb 2023 09:04 UTC
+! Last modified: 02 Feb 2023 09:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47373,7 +47373,7 @@ tf2r.com#@#.adverts
 ||cdn.ex.co^
 ||cdn.thejournal.ie/media/hpto/$image
 ||channelexco.com/player/$third-party
-||connatix.com^$third-party,domain=~accuweather.com
+||connatix.com^$third-party,domain=~accuweather.com|~miamiherald.com
 ||delivery.vidible.tv/jsonp/
 ||dywolfer.de^
 ||embed.comicbook.com^$subdocument
