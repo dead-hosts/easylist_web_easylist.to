@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kwjP0kyxxrm28uaVQyCDhQ
-! Version: 202302031011
+! Checksum: G96ouoCqmY8sSHFhOzgZRw
+! Version: 202302031031
 ! Title: EasyList
-! Last modified: 03 Feb 2023 10:11 UTC
+! Last modified: 03 Feb 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50542,6 +50542,7 @@ departures.com##.paid-banner
 optimum.net##.paidResult
 timesofindia.indiatimes.com##.paisa-wrapper
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
+insidehighered.com##.pane-dfp
 ncronline.org##.pane-ncr-blocks-home-first-ads
 ncronline.org##.pane-ncr-blocks-home-second-ads
 thebarentsobserver.com##.pane-title
