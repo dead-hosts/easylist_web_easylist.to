@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q7gudjzG5s/zlRHZxN53bA
-! Version: 202302040611
+! Checksum: 1p3Tby6oRa0KdWw0RdQDBw
+! Version: 202302040631
 ! Title: EasyList
-! Last modified: 04 Feb 2023 06:11 UTC
+! Last modified: 04 Feb 2023 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -45901,7 +45901,7 @@ tf2r.com#@#.adverts
 ||glam.com/gad/
 ||go.bloxplay.com^
 ||go.ezodn.com^
-||go.onelink.me^
+||go.onelink.me^$image,script
 ||go0gl3.pages.dev^
 ||goldmoney.com/~/media/Images/Banners/
 ||google.com/adsense/ad
