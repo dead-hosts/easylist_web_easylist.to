@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sqtHdkk9PlDMkJD4fOMH8g
-! Version: 202302042151
+! Checksum: 70ezWgeQ5WMXKFN8KmfELA
+! Version: 202302042211
 ! Title: EasyList
-! Last modified: 04 Feb 2023 21:51 UTC
+! Last modified: 04 Feb 2023 22:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49978,6 +49978,8 @@ kickasstorrents.to##.dssdffds
 digitaltrends.com##.dtads-location
 digitaltrends.com##.dtads-slot
 googleping.com##.dtext
+digitaltrends.com##.dtvideos-container
+digitaltrends.com##.dtvideos-recommended
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
 etherscan.io##.dxddkdcp7wz
