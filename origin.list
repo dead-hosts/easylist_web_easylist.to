@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8l5cYRbbIH4HY8Zh7F2S3Q
-! Version: 202302032341
+! Checksum: IypWJmqS0recsAtY6iUp5A
+! Version: 202302032351
 ! Title: EasyList
-! Last modified: 03 Feb 2023 23:41 UTC
+! Last modified: 03 Feb 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14,7 +14,6 @@
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 &adstype=
-&AdType=
 &cbrandom=
 &clicktag=http
 -ad-300x600-
@@ -25271,6 +25270,7 @@ tf2r.com#@#.adverts
 ||behalfplead.com^
 ||beharmalted.info^
 ||beheadmuffleddetached.com^
+||behick.com^
 ||beholdascared.com^
 ||behootpokeys.com^
 ||behoppipan.com^
@@ -26985,6 +26985,7 @@ tf2r.com#@#.adverts
 ||cooljony.com^
 ||coollycollegeexpertise.com^
 ||coolstreamsearch.com^
+||coonandeg.xyz^
 ||cooperatetimes.com^
 ||coostujina.com^
 ||coovouch.com^
@@ -26993,6 +26994,7 @@ tf2r.com#@#.adverts
 ||copalmmarcite.website^
 ||copcaneersand.xyz^
 ||coperledsinhe.info^
+||copict.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||cor8ni3shwerex.com^
@@ -30466,6 +30468,7 @@ tf2r.com#@#.adverts
 ||hghm4u7b61.com^
 ||hgtcfbqjtuesggc.com^
 ||hgub2polye.com^
+||hhipghbkdwql.com^
 ||hhit.xyz^
 ||hhklc.com^
 ||hhkld.com^
@@ -36156,6 +36159,7 @@ tf2r.com#@#.adverts
 ||rectificationnervous.com^
 ||recurseagin.com^
 ||recyclingbees.com^
+||red-track.xyz^
 ||redads.biz^
 ||redanludb.xyz^
 ||redbillecphory.com^
@@ -43744,6 +43748,7 @@ tf2r.com#@#.adverts
 ||jehealis.com^$popup
 ||jelulymy.pro^$popup
 ||jennyunfit.com^$popup
+||jennyvisits.com^$popup
 ||jerboasjourney.com^$popup
 ||jewelbeeperinflection.com^$popup
 ||jillbuildertuck.com^$popup
