@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dXbd059ENCPb6oqjp+wcwA
-! Version: 202302071251
+! Checksum: CQ9FNI4BTb2D+fYo7dnN8Q
+! Version: 202302071321
 ! Title: EasyList
-! Last modified: 07 Feb 2023 12:51 UTC
+! Last modified: 07 Feb 2023 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49348,6 +49348,7 @@ sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 wionews.com##.ad-height
 dailyuptea.com##.ad-info
+freepressjournal.in##.ad-slots
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
@@ -50300,6 +50301,7 @@ bizarrepedia.com##.holder
 finbold.com##.holder-bg
 radiocaroline.co.uk##.home-banner
 israelnationalnews.com##.home-subsections-banner
+freepressjournal.in##.homeMobileMiddleAdContainer
 newagebd.net##.homeSlideRightSecTwo
 pbs.org##.home__logo-pond
 carmag.co.za##.homepage-300x250-banner
