@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qStKS2HNs9QsEjky2lxIrA
-! Version: 202302080040
+! Checksum: qPOXdGAkoflFsitGcD2s0g
+! Version: 202302080104
 ! Title: EasyList
-! Last modified: 08 Feb 2023 00:40 UTC
+! Last modified: 08 Feb 2023 01:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48716,6 +48716,7 @@ investing.com###findABroker
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
+vscode.one###flamelab-convo-widget
 goodgearguide.com.au,pcworld.idg.com.au###float_leaderboard_bottom
 kissanime9.net###floatcenter
 streams.tv###flowerInGarden
@@ -49351,6 +49352,7 @@ deviantart.com##._3bkGl
 thequint.com##._4xQrn
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 gadgets360.com##.__wdgt_rhs_kpc
+vscode.one##._flamelab-ad
 tampafp.com##._ning_outer
 rumble.com##.a-break
 abcya.com##.a-leader
@@ -51389,7 +51391,6 @@ blabber.buzz##.topfeed
 drivespark.com##.topsection div[style^="float"]
 cambridge.org##.topslot-container
 collinsdictionary.com##.topslot_container
-sportplus.live##.tot
 moviemistakes.com##.tower
 towleroad.com##.towletarget
 techreen.com##.tr-block-header-ad
@@ -51399,7 +51400,6 @@ libhunt.com##.track-event
 futurism.com##.tracking-wider
 futurism.com##.tracking-widest
 bincodes.com##.transferwise
-sportplus.live##.translation__banner
 sun-sentinel.com##.trb_sf_hl
 coinmarketcap.com##.trending-sponsored
 livemint.com##.trendingSimilarHeight
