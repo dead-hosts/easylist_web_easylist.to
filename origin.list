@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I7SVcwD8Tr3BO9k2DqD9fA
-! Version: 202302080631
+! Checksum: VICtkljM+HyKaszeV5daYw
+! Version: 202302080651
 ! Title: EasyList
-! Last modified: 08 Feb 2023 06:31 UTC
+! Last modified: 08 Feb 2023 06:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50251,6 +50251,7 @@ ebay.com##.ggtm
 cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 gethuman.com##.gh-ads
 ghacks.net##.ghacks-ad
+cnx-software.com##.gigabit
 givemesport.com##.gms-ad
 givemesport.com##.gms-billboard-container
 givemesport.com##.gms-sidebar-ad
@@ -50288,7 +50289,6 @@ saultonline.com##.gsmfab
 gulf-times.com##.gt-horizontal-ad
 gulf-times.com##.gt-square-desktop-ad
 gulf-times.com##.gt-vertical-ad
-cnx-software.com##.gthaina
 animenewsnetwork.com##.gutter
 thetimes.co.uk##.gyLkkj
 tvcancelrenew.com##.h-72
