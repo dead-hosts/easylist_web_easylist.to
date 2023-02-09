@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qTUsUaHQQ6+cCMECu9tpyQ
-! Version: 202302091140
+! Checksum: 3nJU4UJ/TdkinuGpHkmBbg
+! Version: 202302091151
 ! Title: EasyList
-! Last modified: 09 Feb 2023 11:40 UTC
+! Last modified: 09 Feb 2023 11:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1003,7 +1003,7 @@
 /adocean.
 /adometry.
 /adometry?
-/adops.$domain=~adops.co.il
+/adops.$domain=~adops.gr|~adops.co.il
 /adopspush-
 /ados.js
 /ados?
@@ -26461,6 +26461,7 @@ tf2r.com#@#.adverts
 ||cheetieaha.com^
 ||cheewhoa.net^
 ||chefishoani.com^
+||chekacony.com^
 ||chekajie.com^
 ||chekseme.net^
 ||cheksoam.com^
@@ -26948,6 +26949,7 @@ tf2r.com#@#.adverts
 ||connectionads.com^
 ||connexplace.com^
 ||connextra.com^
+||conorentail.com^
 ||conoret.com^
 ||conquercaniceberg.com^
 ||conquestdrawers.com^
@@ -28154,6 +28156,7 @@ tf2r.com#@#.adverts
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
+||duwsikdimo.com^
 ||dvaminusodin.net^
 ||dviccvivms.com^
 ||dvigukindal.com^
@@ -28891,6 +28894,7 @@ tf2r.com#@#.adverts
 ||f37d6b16c3.com^
 ||f397fd95eb.com^
 ||f3a173b897.com^
+||f3abc0d1b3.com^
 ||f3udfa7nfguhni.com^
 ||f451b7f622.com^
 ||f4906b7c15ba.com^
@@ -29317,6 +29321,7 @@ tf2r.com#@#.adverts
 ||foakiwhazoja.com^
 ||foamidsputt.com^
 ||foapsovi.net^
+||fobeetch.net^
 ||focalex.com^
 ||focump.com^
 ||fogayeown.com^
@@ -31475,6 +31480,7 @@ tf2r.com#@#.adverts
 ||jhoncj.com^
 ||jhzotqafwgb.com^
 ||jiawen88.com^
+||jibaeolia.com^
 ||jibmenbebloom.com^
 ||jifdrogtovz.com^
 ||jiffehxjwvpoefo.xyz^
@@ -36491,6 +36497,7 @@ tf2r.com#@#.adverts
 ||retargetcore.com^
 ||retargeter.com^
 ||retauwhu.com^
+||retentrhason.com^
 ||rethowilmari.com^
 ||retionattings.xyz^
 ||retiringvarieties.com^
@@ -37083,6 +37090,7 @@ tf2r.com#@#.adverts
 ||saviourketonic.com^
 ||savouryliaison.com^
 ||sawedhindgut.com^
+||sawmontlookups.com^
 ||sawmonwhomble.com^
 ||sawsdaggly.com^
 ||sawyerbravery.com^
@@ -39136,6 +39144,7 @@ tf2r.com#@#.adverts
 ||tritat3.info^
 ||tritishnowy.live^
 ||triumphantplace.com^
+||trizonemellite.com^
 ||trk-aspernatur.com^
 ||trk-consulatu.com^
 ||trk-epicurei.com^
@@ -39605,6 +39614,7 @@ tf2r.com#@#.adverts
 ||uppoin.com^
 ||uppsyduckan.com^
 ||upregisteelon.com^
+||upridables.website^
 ||uprightmidsummer.com^
 ||uprimp.com^
 ||uprims.com^
