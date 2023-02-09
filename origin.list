@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QmW4D/J+WsFXrD2LSJAklQ
-! Version: 202302090951
+! Checksum: /fCI/FvdrQZ3RpmbsSyhmg
+! Version: 202302091011
 ! Title: EasyList
-! Last modified: 09 Feb 2023 09:51 UTC
+! Last modified: 09 Feb 2023 10:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51165,6 +51165,7 @@ comedy.com##.sidebar-prebid
 domainnamewire.com,repeatreplay.com##.sidebar-primary
 davidwalsh.name##.sidebar-sda-large
 ldjam.com##.sidebar-sponsor
+abovethelaw.com##.sidebar-sponsored
 indianapublicmedia.org##.sidebar-upper-underwritings
 bigleaguepolitics.com##.sidebar-widget
 thebadandugly.com##.sidebar30
@@ -51186,6 +51187,7 @@ atlasobscura.com##.siderail-bottom-affix-placeholder
 sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 metalsucks.net##.single-300-insert
+abovethelaw.com##.single-post__sponsored-post--desktop
 inoreader.com##.sinner_inner
 deshdoaba.com##.site-branding
 sassyhongkong.com##.site-leaderboard
