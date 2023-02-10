@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YQSplON/wFWKRQoK1vesMw
-! Version: 202302102231
+! Checksum: txXWwx+or+73PwueKFJDQQ
+! Version: 202302102251
 ! Title: EasyList
-! Last modified: 10 Feb 2023 22:31 UTC
+! Last modified: 10 Feb 2023 22:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54129,6 +54129,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gentside.com|nationalreview.com|voici.fr
+@@||g.doubleclick.net/pagead/ads$subdocument,domain=game.anymanager.io
 @@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com|weather.com
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
@@ -54169,8 +54170,9 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||nizista.com/api/v1/adbanner$~third-party
 @@||nnmclub.to/forum/misc/html/advert.html$~third-party
 @@||nosh.jp/build/css/chefly/advertisement-$~third-party
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=games.wkb.jp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=game.anymanager.io|games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=games.wkb.jp
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=game.anymanager.io
 @@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
 @@||pixel.adsafeprotected.com^$xmlhttprequest,domain=gentside.com
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
