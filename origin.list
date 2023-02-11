@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OB4COCcw8mam9jKXXDF6WA
-! Version: 202302112203
+! Checksum: qZaS710573HvZx1I5VbKAg
+! Version: 202302112221
 ! Title: EasyList
-! Last modified: 11 Feb 2023 22:03 UTC
+! Last modified: 11 Feb 2023 22:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47490,6 +47490,7 @@ tf2r.com#@#.adverts
 ||googlesyndication.com^$domain=blogto.com
 ||govevents.com/display-file/
 ||graphicdesignforums.co.uk/banners/
+||grow.gab.com/galahad/
 ||hamodia.co.uk/images/worldfirst-currencyconversion.jpg
 ||hearstapps.com/moapt/moapt-hdm.latest.js
 ||hearstnp.com/scripts/loadads.js
@@ -52068,6 +52069,7 @@ himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontime
 onetransistor.eu##a[onclick][target="_blank"]
 earlygame.com,i711.com##a[rel*="sponsored"]
 filma24.ch,mcrypto.club,ssrmovies.repair,themoviesflix.io##a[rel="noopener"]
+gab.com##a[rel="noopener"][target="_blank"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 searchenginereports.net##a[title="Ad"]
