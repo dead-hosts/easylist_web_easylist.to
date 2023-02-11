@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GoByfFHFhhb9dAcMxyCvAg
-! Version: 202302112120
+! Checksum: aLno+kPeJ+CggPZTW/bO5Q
+! Version: 202302112140
 ! Title: EasyList
-! Last modified: 11 Feb 2023 21:20 UTC
+! Last modified: 11 Feb 2023 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48590,6 +48590,8 @@ travelpulse.com###ab_container
 4chan.org###abc-cnt
 uinterview.com###above-content
 peacemakeronline.com###above_top_banner
+mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 sptfy.be###ad
 livescore.com###ad-holder-gad-news-article-item
 dappradar.com###ad-nft-top
@@ -48598,6 +48600,7 @@ pimpandhost.com###ad2
 exchangerates.org.uk###ad3
 comicbookmovie.com###adATFLeaderboard
 moomoo.io###adCard
+sherdog.com###adViAi
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
 all-nettools.com,britsabroad.com,filesharingtalk.com,kiwibiker.co.nz,printroot.com###ad_global_below_navbar
@@ -50350,7 +50353,7 @@ home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
 golfchannel.com##.gc-mps-ad
-kansascity.com##.gdcg-oplist
+kansascity.com,rotowire.com##.gdcg-oplist
 pcworld.co.nz##.gemini-loaded
 autoblog.com##.gemini-native
 thefederalist.com##.general-callout
