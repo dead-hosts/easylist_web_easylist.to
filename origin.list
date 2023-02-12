@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7s8F0cn7U9z9vaD3eyo9XA
-! Version: 202302120150
+! Checksum: q4c4o/vg29wK7D69L/nw+A
+! Version: 202302120211
 ! Title: EasyList
-! Last modified: 12 Feb 2023 01:50 UTC
+! Last modified: 12 Feb 2023 02:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22040,7 +22040,6 @@ cadlinecommunity.co.uk#@#.sidebar_advert
 24city.cn.ua#@#.single-ads
 hebdenbridge.co.uk#@#.smallads
 itempost.jp#@#.sp-ad
-cityam.com#@#.sponsored-post
 zdnet.com#@#.sponsoredItem
 kickoff.com#@#.takeover-ad
 kingsofchaos.com#@#.textad
@@ -49417,7 +49416,8 @@ google.com##.GC3LC41DERB + div[style="position: relative; height: 170px;"]
 google.com##.GGQPGYLCD5
 google.com##.GGQPGYLCMCB
 google.com##.GISRH3UDHB
-hitc.com,thefocus.news##.GRVMpuWrapper
+faroutmagazine.co.uk,hitc.com,thefocus.news##.GRVMpuWrapper
+faroutmagazine.co.uk##.GRVPrimisVideo
 cargurus.com##.Gi1Z6i
 naturalnews.com##.HNXEAFMIWBQP
 metservice.com##.Header
@@ -49649,6 +49649,7 @@ music-news.com,thebeet.com##.amazon
 orschlurch.net##.amazon-wrapper
 indiatimes.com##.amazonProductSidebar
 americafirstreport.com##.ameri-before-content
+faroutmagazine.co.uk##.amp-next-page-separator
 cyberciti.biz##.amp-wp-4ed0dd1
 teslaoracle.com##.amp-wp-539b047
 teslaoracle.com##.amp-wp-53ff299
@@ -50570,7 +50571,7 @@ ticketmaster.com##.jTNWic
 notateslaapp.com##.jeffdlwlxpqi
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
-techspot.com##.jobbioapp
+cityam.com,techspot.com##.jobbioapp
 marketingweek.com##.jobs-lists
 johncodeos.com##.johnc-widget
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
