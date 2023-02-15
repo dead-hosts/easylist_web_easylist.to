@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WM/2yrRhfLx2+ZUVxr62og
-! Version: 202302151720
+! Checksum: uO2Xk5n8d6QI+4fZhTKPcA
+! Version: 202302151740
 ! Title: EasyList
-! Last modified: 15 Feb 2023 17:20 UTC
+! Last modified: 15 Feb 2023 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52841,6 +52841,7 @@ slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
 imgur.com#?#div[style^="height:"]:-abp-has(.Post-item-external-ad)
+imgur.com#?#div[style^="height:"]:-abp-has(.Ad)
 insta-stories-viewer.com#?#.profile__tabs-media-item:-abp-has(.profile__adv)
 agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 u.gg#?#.video-guide:-abp-has(.content-section_header:-abp-contains(Sponsored Content))
