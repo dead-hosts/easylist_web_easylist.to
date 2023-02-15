@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VoL7Dj585mcsH5l6NH+1Gg
-! Version: 202302151110
+! Checksum: dd61nzHOgXjPnMQAfm2XoA
+! Version: 202302151130
 ! Title: EasyList
-! Last modified: 15 Feb 2023 11:10 UTC
+! Last modified: 15 Feb 2023 11:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3236,7 +3236,6 @@
 /players/ads.
 /pledgead.
 /plugin/ad/*
-/plugins/ad-ace/*
 /plugins/ad-invalid-click-protector/*$script
 /plugins/ad.
 /plugins/ads-
@@ -4433,6 +4432,10 @@ _widget_ad.
 ||serve.*/promoload?
 ! https://github.com/easylist/easylist/issues/11123
 /ed/fol457.
+! ad-ace (to avoid bait)
+/plugins/ad-ace/assets/js/coupons.js
+/plugins/ad-ace/assets/js/slot-slideup.js
+/plugins/ad-ace/includes/shoppable-images/*
 ! Amazon
 /e/cm?$subdocument
 /e/ir?$image,script
