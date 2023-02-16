@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jrM6LcU+/937zYKcvPSE+g
-! Version: 202302161220
+! Checksum: 1bhOtcomyztScPO4aEvSZg
+! Version: 202302161240
 ! Title: EasyList
-! Last modified: 16 Feb 2023 12:20 UTC
+! Last modified: 16 Feb 2023 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23630,6 +23630,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||aeroded.com^
 ||aeroplaneversion.com^
 ||aeroselabite.space^
+||aerotowrefit.com^
 ||aerugosspritz.com^
 ||afbatqo.com^
 ||afcnuchxgo.com^
@@ -26857,6 +26858,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||coderformylife.info^
 ||codesbro.com^
 ||codezap.com^
+||codsooms.net^
 ||coedmediagroup.com^
 ||coeliacclung.com^
 ||coetusnappers.com^
@@ -31318,6 +31320,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||introfykeeler.tech^
 ||intrudeaccess.com^
 ||intrudesome.com^
+||intrustplatch.com^
 ||intuitspisan.com^
 ||inuapixndextq.xyz^
 ||inuregestura.com^
@@ -35066,6 +35069,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||peirs5tbakchios.com^
 ||pejzeexukxo.com^
 ||pelagicmismate.com^
+||peliomaafb.com^
 ||pemainedperio.com^
 ||pendulumkeg.com^
 ||pengobyzant.com^
@@ -35171,6 +35175,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||pharaohsteven.com^
 ||phardain.xyz^
 ||pharmcash.com^
+||phartemt.xyz^
 ||phastoag.com^
 ||phaudree.com^
 ||phaurtuh.net^
@@ -38293,6 +38298,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmotherincomingpluck.com^
+||steppedremold.com^
 ||steppesshirvan.com^
 ||stepsothohe.pro^
 ||sterilecute.com^
@@ -52887,6 +52893,7 @@ bing.com##a[href*="/aclick?ld="]
 ! Advanced element hiding rules for Adblock Plus
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
+imgur.com#?#div[style^="height:"]:-abp-has(.Ad)
 9gag.com#?#article:-abp-has(.promoted)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
