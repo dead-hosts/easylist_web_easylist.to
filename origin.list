@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 23rQEalWoKRg/sile00csA
-! Version: 202302162020
+! Checksum: jCNsVPIbNPwUzBia5DacRw
+! Version: 202302162040
 ! Title: EasyList
-! Last modified: 16 Feb 2023 20:20 UTC
+! Last modified: 16 Feb 2023 20:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4457,6 +4457,7 @@ _widget_ad.
 /pn07uscr/f/tr/zavbn/*
 /q/tdl/95/dnt/*
 /sc4fr/rwff/f9ef/*
+/script/awesome.js
 /t/9/heis/svewg/*
 ! ezoic
 /cmbdv2.js
@@ -18941,6 +18942,7 @@ _800x80_
 ##.penci-ad_box
 ##.penci-adsense-below-slider
 ##.penci-google-adsense
+##.penci-google-adsense-1
 ##.penci-promo-link
 ##.penci_list_bannner_widget
 ##.pencil-ad
@@ -51837,6 +51839,7 @@ doodrive.com##.uk-margin > [href] > img
 igg-games.com##.uk-panel.widget-text
 softarchive.is##.un-link
 pixhost.to##.under-image
+hidefninja.com##.underads
 bobvila.com##.unit-header-container
 sciencedaily.com##.unit1
 sciencedaily.com##.unit2
