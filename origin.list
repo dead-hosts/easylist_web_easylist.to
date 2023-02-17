@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XJLr5KPvhdxfIgHLgAWu0A
-! Version: 202302170950
+! Checksum: nZ84O0baSCMJ2bX/T5xHxQ
+! Version: 202302171010
 ! Title: EasyList
-! Last modified: 17 Feb 2023 09:50 UTC
+! Last modified: 17 Feb 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49616,7 +49616,6 @@ macmillandictionary.com,macmillanthesaurus.com,oxfordlearnersdictionaries.com###
 atomic-robo.com###topspace
 google.com###topstuff > #wmxmsg
 charlieintel.com###topunit
-techpp.com###tppAdsID
 pcworld.com,techhive.com###tso
 trumparea.com###udmvid
 kuklaskorner.com###ultimate
@@ -50215,6 +50214,7 @@ primedia.co.za##.branding-sponsor
 eightieskids.com##.break
 brobible.com##.bro_vidazoo_wrap
 vaughn.live##.browsePageAbvs300x600
+techpp.com##.brxe-shortcode
 karachicorner.com##.bsa336
 arydigital.tv,barakbulletin.com##.bsac
 bloggertemplateplace.com##.bsainpost
