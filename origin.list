@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ww57O2+SBfn7rMdCd5zmJg
-! Version: 202302170650
+! Checksum: /tB0yEuCR8DFJOZb2HsBug
+! Version: 202302170710
 ! Title: EasyList
-! Last modified: 17 Feb 2023 06:50 UTC
+! Last modified: 17 Feb 2023 07:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50777,6 +50777,7 @@ freeads.co.uk##.hero_banner1
 filecrypt.cc,filecrypt.co##.hghspd
 filecrypt.cc,filecrypt.co##.hghspd + *
 daijiworld.com##.hidden-xs > [href]
+miragenews.com##.hide-in-mob
 moneycontrol.com,windowsreport.com##.hide-mobile
 johncodeos.com##.hide-on-mobile
 simpasian.net##.hideme
@@ -51442,6 +51443,7 @@ timeextension.com##.related-group > .insert
 idropnews.com##.related-posts
 ranker.com##.relatedInline_container__Ux4lS
 timesofindia.indiatimes.com##.relatedVideoWrapper
+miragenews.com##.rem-i-s
 4shared.com##.remove-rekl
 runningmagazine.ca##.repeater-bottom-leaderboard
 bbjtoday.com##.replacement
