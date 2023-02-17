@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nZ84O0baSCMJ2bX/T5xHxQ
-! Version: 202302171010
+! Checksum: tpqyOfB9svKvAld/k1QEIA
+! Version: 202302171040
 ! Title: EasyList
-! Last modified: 17 Feb 2023 10:10 UTC
+! Last modified: 17 Feb 2023 10:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4561,7 +4561,6 @@ _widget_ad.
 _prebid-$script
 _prebid.js
 _prebid8.
-_prebid_
 ~Prebid.js
 ! Invideo adverts
 /stn-player.
