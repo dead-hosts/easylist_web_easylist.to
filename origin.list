@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +/HpIfUiU/J0T7YrYCIDmQ
-! Version: 202302181331
+! Checksum: Zow/9P7f1SHVeCZD6kjrlg
+! Version: 202302181350
 ! Title: EasyList
-! Last modified: 18 Feb 2023 13:31 UTC
+! Last modified: 18 Feb 2023 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52940,10 +52940,12 @@ msn.com##[id^="native_ad_"]
 msn.com##a.nativead[target="_blank"]
 msn.com##a[aria-label="Amazon Assistant"]
 msn.com##a[aria-label="eBay"]
+msn.com##a[href^="https://clkde.tradedoubler.com/click?"]
 msn.com##a[href^="https://disneyplus.bn5x.net/"]
 msn.com##a[href^="https://rover.ebay.com/rover/"]
 msn.com##a[href^="https://ww55.affinity.net/"]
 msn.com##a[href^="https://www.jdoqocy.com/"]
+msn.com##cs-native-ad-card
 msn.com##div[aria-label="promotions"]
 msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[class^="galleryPage_bannerAd"]
