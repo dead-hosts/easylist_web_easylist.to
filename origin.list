@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IYjzpX4Hzk1wQx9GHC5AVw
-! Version: 202302181310
+! Checksum: +/HpIfUiU/J0T7YrYCIDmQ
+! Version: 202302181331
 ! Title: EasyList
-! Last modified: 18 Feb 2023 13:10 UTC
+! Last modified: 18 Feb 2023 13:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30558,6 +30558,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||hedrvszms.com^
 ||heebauch.com^
 ||heedenglish.com^
+||heedsbedeaf.guru^
 ||heelseparateddistinguished.com^
 ||heeteefu.com^
 ||heevaush.com^
@@ -31196,6 +31197,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||inediblepollingbuzz.com^
 ||inediblewiderchuckled.com^
 ||inestimabletrifling.com^
+||ineuntkilnman.digital^
 ||inexorabledemocracycurly.com^
 ||inexpedienttributereschedule.com^
 ||inexperiencedfuture.pro^
@@ -38485,6 +38487,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||suddensjesu.com^
 ||sudorwauve.com^
 ||sudrauls.com^
+||suescollum.com^
 ||sufferingslippery.com^
 ||suffertreasureapproval.com^
 ||suffeteinset.com^
@@ -52962,7 +52965,6 @@ bing.com##a[href*="/aclick?ld="]
 ! Advanced element hiding rules for Adblock Plus
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
-imgur.com#?#div[style^="height:"]:-abp-has(.Ad)
 9gag.com#?#article:-abp-has(.promoted)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
