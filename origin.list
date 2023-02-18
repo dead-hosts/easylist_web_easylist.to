@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KxQ0pxmOc34iNQfd50h4JQ
-! Version: 202302172310
+! Checksum: AzoHQz2FmYKbU/e6SCPKhQ
+! Version: 202302172330
 ! Title: EasyList
-! Last modified: 17 Feb 2023 23:10 UTC
+! Last modified: 17 Feb 2023 23:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14806,11 +14806,15 @@ _800x80_
 ##.advertising-right
 ##.advertising-right-d
 ##.advertising-right-i
+##.advertising-section
+##.advertising-side
+##.advertising-side-hp
 ##.advertising-srec
 ##.advertising-top
 ##.advertising-top-banner
 ##.advertising-top-box
 ##.advertising-top-category
+##.advertising-top-desktop
 ##.advertising-vert
 ##.advertising-wrapper
 ##.advertising1
@@ -50479,6 +50483,8 @@ flightconnections.com##.display-box
 flightconnections.com##.display-box-2
 legacy.com##.displayOverlay1
 designtaxi.com##.displayboard
+theodysseyonline.com##.distroscale_p2
+theodysseyonline.com##.distroscale_side
 readcomiconline.li##.divCloseBut
 jpost.com##.divConnatix
 tigerdroppings.com##.divHLeaderFull
@@ -51414,8 +51420,13 @@ rappler.com##.rappler-ad-container
 gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
 forebet.com##.rbannerDiv
+theodysseyonline.com##.rblad-content
 spectrum.ieee.org##.rblad-ieee_in_content
 spectrum.ieee.org##.rblad-ieee_infinite_new
+theodysseyonline.com##.rblad-infinite
+theodysseyonline.com##.rblad-sidebar_1
+theodysseyonline.com##.rblad-sidebar_2
+theodysseyonline.com##.rblad-under_image
 reverso.net##.rcacontent
 just-dice.com##.realcontent
 bettycrocker.com##.recipeAd
