@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LCLEefcP/wdhwWFRpa+qeQ
-! Version: 202302192030
+! Checksum: IgezbVGXwLFdBgWEda70LQ
+! Version: 202302192050
 ! Title: EasyList
-! Last modified: 19 Feb 2023 20:30 UTC
+! Last modified: 19 Feb 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52252,7 +52252,7 @@ goal.com##[data-type="AdComponent"]
 search.brave.com##[data-type="ad"]
 gadgetsnow.com##[data-type="mtf"]
 axios.com##[data-vars-category="sidebar_promo"]
-builtbybit.com##[data-xf-click^="fong-adsmanager"]
+builtbybit.com##[data-xf-click]
 cnn.com##[data-zone-label="Paid Partner Content"]
 faroutmagazine.co.uk,hitc.com##[dock="#primis-dock-slot"]
 complaintsingapore.com##[href*="/adv.php"]
