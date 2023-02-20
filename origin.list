@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3zfuTQr5veaSoM/F6f1PxA
-! Version: 202302201130
+! Checksum: 5Qrt135YNIvaWXN6EtP9og
+! Version: 202302201150
 ! Title: EasyList
-! Last modified: 20 Feb 2023 11:30 UTC
+! Last modified: 20 Feb 2023 11:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52212,6 +52212,7 @@ pravda.ru##.yaRtbBlock
 yardbarker.com##.yb-card-ad
 yardbarker.com##.yb-card-out
 shockwave.com##.ympb_target_banner
+saltwire.com##.youtube_article_ad
 yellowpages.co.za##.yp-object-ad-modal
 deviantart.com##.ytXUX
 buzzly.art##.z-10.w-max
