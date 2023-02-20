@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aRQmG9GCrXkdjJfqHBcBVA
-! Version: 202302202240
+! Checksum: 0usrnZN0UI0/Sw6dw7isnw
+! Version: 202302202301
 ! Title: EasyList
-! Last modified: 20 Feb 2023 22:40 UTC
+! Last modified: 20 Feb 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50103,6 +50103,7 @@ boards.4channel.org##.adc-resp
 boards.4channel.org##.adc-resp-bg
 ancient.eu,fanatix.com,gamertweak.com,gematsu.com,tucsonsentinel.com,worldhistory.org##.adcontainer
 sumanasa.com##.adcontent
+thegatewaypundit.com##.adcovery
 online-image-editor.com,thehindu.com##.add
 buzz.ie,irishpost.com,theweekendsun.co.nz##.add-block
 cricketcountry.com##.add-box
