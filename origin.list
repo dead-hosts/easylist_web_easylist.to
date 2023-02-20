@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FL+kunmdKisyWSnPGrh/AQ
-! Version: 202302200910
+! Checksum: MOrLM8xxI3kDI0/vEEK9Cw
+! Version: 202302200931
 ! Title: EasyList
-! Last modified: 20 Feb 2023 09:10 UTC
+! Last modified: 20 Feb 2023 09:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51097,6 +51097,7 @@ filmdaily.co##.lazyloaded.aligncenter
 iol.co.za##.lbMtEm
 trueachievements.com,truesteamachievements.com,truetrophies.com##.lb_holder
 coincodex.com##.ldb-top
+soaphub.com##.ldm_ad
 versus.com##.lead_top
 sgcarmart.com##.leadbadv
 thepcguild.com##.leader
@@ -51713,6 +51714,10 @@ brandsoftheworld.com##.seedling
 shortorial.com##.sgpb-popup-dialog-main-div-wrapper
 shortorial.com##.sgpb-popup-overlay
 stockhouse.com##.sh-ad
+soaphub.com##.sh-sh_belowpost
+soaphub.com##.sh-sh_inpost_1
+soaphub.com##.sh-sh_inpost_3
+soaphub.com##.sh-sh_inpost_text_1
 themeforest.net##.shared-global_footer-cross_sell_component__root
 romzie.com##.shcntr
 hypebeast.com##.shopping-break-container
