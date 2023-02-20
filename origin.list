@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OaeDDa6Ab8b2G2gw5SKQOQ
-! Version: 202302201040
+! Checksum: GXslBzkImltYSSH1gLKgKg
+! Version: 202302201110
 ! Title: EasyList
-! Last modified: 20 Feb 2023 10:40 UTC
+! Last modified: 20 Feb 2023 11:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52266,6 +52266,7 @@ target.com##[data-test="featuredProducts"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
+abcnews.go.com##[data-testid="prism-static-embed"]
 goal.com##[data-type="AdComponent"]
 search.brave.com##[data-type="ad"]
 gadgetsnow.com##[data-type="mtf"]
