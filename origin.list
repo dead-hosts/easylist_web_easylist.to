@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q+tqR698mWgYi5AevMxN2Q
-! Version: 202302201850
+! Checksum: ULRGGVq+qcf6UEdEph/QiQ
+! Version: 202302201910
 ! Title: EasyList
-! Last modified: 20 Feb 2023 18:50 UTC
+! Last modified: 20 Feb 2023 19:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50871,6 +50871,7 @@ investing.com##.generalOverlay
 perfectdailygrind.com##.gengpdg-col
 perfectdailygrind.com##.gengpdg-single
 flickr.com##.getty-search-view
+flickr.com##.getty-widget-view
 ksl.com##.gfp-slot
 hltv.org##.gg-firstcol-box
 mediacoderhq.com##.gg1
@@ -51002,7 +51003,7 @@ designspiration.com##.homepageBanner
 artandeducation.net##.homepage__banner
 radiocity.in##.horiozontal-add
 lushstories.com##.horizhide
-flv2mp3.by##.horizontal-area
+flv2mp3.by,flvto.com.mx##.horizontal-area
 getmyuni.com##.horizontalRectangle
 aarp.org##.hot-deals
 dailyrecord.co.uk##.hotjobs
@@ -51905,6 +51906,7 @@ reneweconomy.com.au##.sq_get_quotes
 ftvlive.com##.sqs-block-image-link
 nutritioninsight.com,packaginginsights.com##.squarblk
 autoaction.com.au##.square
+flvto.com.mx##.square-area
 getmyuni.com##.squareDiv
 ebay.co.uk,ebay.com,ebay.com.au##.srp-1p__link
 searchenginejournal.com##.sss_sllo_o
