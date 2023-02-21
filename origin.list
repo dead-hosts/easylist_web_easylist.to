@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pUtgbX7pWHZWF0kWL5xoRg
-! Version: 202302210330
+! Checksum: 7HZ2oMnRdOKCzNDCEVaPmA
+! Version: 202302210350
 ! Title: EasyList
-! Last modified: 21 Feb 2023 03:30 UTC
+! Last modified: 21 Feb 2023 03:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50118,6 +50118,7 @@ addictinggames.com##.add-bx
 morningstar.in##.add-container
 indianexpress.com##.add-first
 ians.in##.add-inner
+businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au##.add-item
 zeenews.india.com##.add-placeholder
 moneycontrol.com##.add-spot
 media4growth.com##.add-text
