@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7t0AC7sGwGt4sCxIFsPdDg
-! Version: 202302202320
+! Checksum: mGXiD4XHsJo/X+JWTD7VNA
+! Version: 202302202340
 ! Title: EasyList
-! Last modified: 20 Feb 2023 23:20 UTC
+! Last modified: 20 Feb 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49378,6 +49378,8 @@ energyforecastonline.co.za###endorsers
 geekwire.com###engineering-centers-sidebar
 jigzone.com###fH
 fxsforexsrbijaforum.com###fa_ticker_container
+asianjournal.com###fancybox-overlay
+asianjournal.com###fancybox-wrap
 thedrinknation.com###fcBanner
 fandom.com###featured-video__player
 fandom.com###featured-video__player-container
@@ -50045,6 +50047,7 @@ supercheats.com##.a300
 wmtips.com##.a3f17
 getpocket.com##.a47c4wn
 digminecraft.com##.a47d50c4
+thechinaproject.com##.a4d
 localtiger.com##.a9gy_lt
 scoredle.com##.aHeader
 opensubtitles.org##.a_1.a.p
@@ -50090,6 +50093,7 @@ bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
 food.com##.ad__ad
+asianjournal.com##.ad_before_title
 auto-data.net##.ad_incar
 kitco.com##.ad_space_730
 queerty.com##.adb-box-large
@@ -50256,6 +50260,7 @@ news18.com##.article_mad
 arcadespot.com##.as-incontent
 arcadespot.com##.as-label
 arcadespot.com##.as-unit
+asianjournal.com##.asian-widget
 pickmypostcode.com##.aside-right.aside
 goal.com##.aside_ad-rail__cawG6
 releasestv.com##.ast-above-header-wrap
@@ -52001,6 +52006,7 @@ babylonbee.com##.sticky-footer-image
 business2community.com##.sticky-header
 sciencing.com,sportsnet.ca##.sticky-leaderboard-container
 theportugalnews.com##.sticky-pub
+thechinaproject.com##.sticky-spacer
 oilcity.news##.sticky-sponsors-large
 litecoin-faucet.com##.sticky-top1
 theblock.co,thekitchn.com##.stickyFooter
