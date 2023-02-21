@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QNDmHzjNAagQe88D2UWzqA
-! Version: 202302212020
+! Checksum: GY/d+iGfbH1zbXwq8CgR4w
+! Version: 202302212040
 ! Title: EasyList
-! Last modified: 21 Feb 2023 20:20 UTC
+! Last modified: 21 Feb 2023 20:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50891,6 +50891,7 @@ popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-contai
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-header__desktop__article-prefill-container
 endtimeheadlines.org##.endti-widget
+floridianpress.com##.enhanced-text-widget
 kupondo.com##.entry-content > .row
 whatsmyreferer.com##.entry-content > ul
 huffingtonpost.co.uk,huffpost.com##.entry__right-rail-width-placeholder
