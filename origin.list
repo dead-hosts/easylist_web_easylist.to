@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VdeZTplEu0WIZbBANG5vXQ
-! Version: 202302222140
+! Checksum: G+s88SL0kfFshckNoT+8Hg
+! Version: 202302222201
 ! Title: EasyList
-! Last modified: 22 Feb 2023 21:40 UTC
+! Last modified: 22 Feb 2023 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50798,6 +50798,7 @@ discord.me,searchenginejournal.com##.content-unit
 ancient-origins.net##.content_add_block
 nationalmemo.com##.content_nm_placeholder
 usedcarnews.com##.continut
+metar-taf.com##.controls-right
 live-tennis.eu##.copyright
 imdb.com##.cornerstone_slot
 physicsworld.com##.corporate-partners
