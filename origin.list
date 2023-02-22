@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0OfCo6QmNRKbIozQ4elY8g
-! Version: 202302220051
+! Checksum: eDTMIYuNaIPHkafDwTzQaQ
+! Version: 202302220110
 ! Title: EasyList
-! Last modified: 22 Feb 2023 00:51 UTC
+! Last modified: 22 Feb 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12896,6 +12896,7 @@ _800x80_
 ##.ad_wrapper
 ##.ad_wrapper_300
 ##.ad_wrapper_970x90
+##.ad_wrapper_box
 ##.ad_wrapper_false
 ##.ad_wrapper_fixed
 ##.ad_wrapper_top
@@ -50072,6 +50073,7 @@ imgur.com##.PrimisPlayerContainer
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 tvzoneuk.com##.R38Z80
+realcleardefense.com##.RC-AD-TOP-BANNER
 naturalnews.com##.SXVGONQABPCH
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
