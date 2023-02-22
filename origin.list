@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +weBk/qWMobvcXB7qhB4hQ
-! Version: 202302220610
+! Checksum: jeJ/kWtXRbXkrwJA7N6v/g
+! Version: 202302220630
 ! Title: EasyList
-! Last modified: 22 Feb 2023 06:10 UTC
+! Last modified: 22 Feb 2023 06:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50516,6 +50516,7 @@ washingtonpost.com##.border-box.dn-hp-sm-to-mx
 washingtonpost.com##.border-box.dn-hp-xs
 thedailymash.co.uk##.border-brand
 standardmedia.co.ke##.border-thick-branding
+appleinsider.com##.bottom
 blockchair.com##.bottom--buttons-container
 kaskus.co.id##.bottom-frame
 reverso.net##.bottom-horizontal
@@ -50900,6 +50901,7 @@ huffingtonpost.co.uk,huffpost.com##.entry__right-rail-width-placeholder
 euronews.com##.enw-MPU
 marcadores247.com##.es_top_banner
 shtfplan.com,yournews.com##.et_pb_code_inner
+appleinsider.com##.exclusive-wrap
 metric-conversions.org##.exists
 streamingmedia.com##.expand
 appuals.com##.expu-protipeop
