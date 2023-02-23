@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0V9HcjXOgmU7u1/xK59OTg
-! Version: 202302230320
+! Checksum: wCDpx3GN9xvyN/wIZ6K6Jg
+! Version: 202302230340
 ! Title: EasyList
-! Last modified: 23 Feb 2023 03:20 UTC
+! Last modified: 23 Feb 2023 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50789,6 +50789,7 @@ autocar.co.uk##.block-autocar-ads-mpu-flexible2
 autocar.co.uk##.block-autocar-ads-mpu1
 thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
 indysmix.com,wzpl.com##.block-content > a[href^="https://sweetjack.com/local"]
+webbikeworld.com##.block-da
 stuff.tv##.block-hcm-external-blocks
 mondoweiss.net##.block-head-c
 newsweek.com##.block-ibtmedia-dfp
