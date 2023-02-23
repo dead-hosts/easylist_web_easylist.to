@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bogQcIOXr5Qf6Bni8uGH0Q
-! Version: 202302231120
+! Checksum: IR7A8/K8YPp4HFNkrq6vVg
+! Version: 202302231140
 ! Title: EasyList
-! Last modified: 23 Feb 2023 11:20 UTC
+! Last modified: 23 Feb 2023 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3799,7 +3799,6 @@
 /userad/*
 /userads/*
 /utep/ad/*
-/utep_ad.js
 /v1/ads/*
 /v2/a/push/js/*
 /v2/ads.
@@ -3967,7 +3966,6 @@
 /yieldlab.$domain=~yieldlab.com|~yieldlab.science
 /ysc_csc_news
 /yume_ad_library_
-/yzfdmoan.js
 /zanox/banner/*
 /zcredirect?
 /zcvisitor/*
