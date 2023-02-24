@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n/vDozBjoPgwZjd01YsFKw
-! Version: 202302240340
+! Checksum: LXo/ZcewqWYdNWrM+QzZ8Q
+! Version: 202302240402
 ! Title: EasyList
-! Last modified: 24 Feb 2023 03:40 UTC
+! Last modified: 24 Feb 2023 04:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50320,8 +50320,10 @@ digitalartsonline.co.uk###topLeaderContainer
 mautofied.com###topLeaderboard
 forum.wordreference.com###topSupp
 walterfootball.com###top_S
+chicagotribune.com###top_article_fluid_wrapper
 indy100.com,sportsclimax.com###top_banner
 caribpress.com###top_banner_container
+chicagotribune.com###top_fluid_wrapper
 bleedingcool.com,indy100.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
 bleedingcool.com###top_medium_rectangle
 imdb.com###top_rhs
