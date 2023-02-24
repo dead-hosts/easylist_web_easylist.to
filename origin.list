@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UJfvzwb7xyLCs30DBld12A
-! Version: 202302240831
+! Checksum: d4SCUWeI4a3ecv/mAX7+gA
+! Version: 202302240850
 ! Title: EasyList
-! Last modified: 24 Feb 2023 08:31 UTC
+! Last modified: 24 Feb 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49772,7 +49772,7 @@ whocallsme.com###cnt_btm
 linuxinsider.com###colorbox
 smbc-comics.com###comicright > div[style]
 mirror.co.uk###comments-standalone-mpu
-kotaku.com###commerce-inset-wrapper
+kotaku.com,qz.com###commerce-inset-wrapper
 cpuid.com###console_log
 miniwebtool.com###contain300-2
 gearspace.com###container__DesktopFDAdBanner
