@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rb1+1YaWrPJJT5RCw9xl2g
-! Version: 202302241201
+! Checksum: 5BXoEg6Fwk8bjxgxwcoBRw
+! Version: 202302241220
 ! Title: EasyList
-! Last modified: 24 Feb 2023 12:01 UTC
+! Last modified: 24 Feb 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21561,6 +21561,8 @@ _800x80_
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! Invideo advert: gizmodo.com,avclub.com,qz.com,lifehacker.com,theroot.com
+##.js_related-stories-inset
 ! element specific
 ##ins.adsbygoogle
 ! (NSFW) club-rileyreid.com,clubmiamalkova.com,lanarhoades.mypornstarblogs.com
