@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gK8vU9H38vjvjGDrXd3IdQ
-! Version: 202302240450
+! Checksum: v20+Fdf0ylSDfYW15g5MAg
+! Version: 202302240520
 ! Title: EasyList
-! Last modified: 24 Feb 2023 04:50 UTC
+! Last modified: 24 Feb 2023 05:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49764,6 +49764,7 @@ cbn.com###cbn_leaderboard_atf
 cloudwards.net###cbox
 linuxinsider.com###cboxOverlay
 curseforge.com###cdm-zone-03
+godbolt.org###ces
 xcalibrscans.com###close-teaser
 whocallsme.com###cnt_1
 whocallsme.com###cnt_2
