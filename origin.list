@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MfCN+JV9In673/ZagaKcUw
-! Version: 202302251050
+! Checksum: KiSZLHx0LTyeFFPKy4VZYw
+! Version: 202302251120
 ! Title: EasyList
-! Last modified: 25 Feb 2023 10:50 UTC
+! Last modified: 25 Feb 2023 11:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16034,6 +16034,7 @@ _800x80_
 ##.channel-adv
 ##.channel-icon--ad
 ##.channel-icon__ad-buffer
+##.channel-sidebar-big-box-ad
 ##.channelBoxAds
 ##.channel_ad_2016
 ##.channel_brand_ad
@@ -17439,6 +17440,7 @@ _800x80_
 ##.height_90_ad
 ##.herald-ad
 ##.hero-ad
+##.hero-ad-slot
 ##.hero-advert
 ##.heroAd
 ##.hf-top-ad
@@ -48948,6 +48950,8 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||bustle.com^*/prebid-
 ||jwplatform.com/libraries/tdeymorh.js
 ||wsj.net/pb/pb.js
+! firework
+||fireworkapi1.com^$domain=boldsky.com
 ! In-page video advertising.
 ||anyclip.com^$script,third-party
 ||api.fw.tv^
@@ -50423,6 +50427,7 @@ streams.tv###sunGarden
 dashnet.org###support
 vk.com,vk.ru###system_msg
 gumtree.com###tBanner
+oneindia.com###taboola-mid-article-thumbnails
 drivespark.com,goodreturns.in###taboola-mid-category-thumbnails
 comicbookrealm.com###tad
 google.com###tadsc
@@ -52127,6 +52132,7 @@ comicbook.com##.oas
 jpost.com##.ob-widget
 flashscore.co.za##.oddsPlacement
 softexia.com##.offer
+oneindia.com##.oi-add-block
 oneindia.com##.oi-spons-ad
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,oneindia.com##.oiad-txt
 hamodia.com##.oiomainlisting
