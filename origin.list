@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KiSZLHx0LTyeFFPKy4VZYw
-! Version: 202302251120
+! Checksum: 7gTXBoggZbghiRw0QP5dUg
+! Version: 202302251140
 ! Title: EasyList
-! Last modified: 25 Feb 2023 11:20 UTC
+! Last modified: 25 Feb 2023 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12935,6 +12935,7 @@ _800x80_
 ##.adbckgrnd
 ##.adbelowfirstpost
 ##.adbetween
+##.adbetweenarticles
 ##.adbkgnd
 ##.adblade
 ##.adblade-container
@@ -50725,6 +50726,7 @@ allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.c
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
 chron.com,greenwichtime.com,sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
+bigislandnow.com##.adBreak
 m.economictimes.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
 bramptonguardian.com##.adSlot___3IQ8M
@@ -50733,6 +50735,7 @@ healthnfitness.net##.adTrack
 food.com##.ad__ad
 asianjournal.com##.ad_before_title
 auto-data.net##.ad_incar
+bigislandnow.com##.ad_mobileleaderboard
 kitco.com##.ad_space_730
 queerty.com##.adb-box-large
 queerty.com##.adb-top-lb
@@ -51747,6 +51750,7 @@ hindustantimes.com##.ht_taboola
 barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
+wtop.com##.hubb-at-rad-header
 extremetech.com##.hybrid-bar + div
 myabandonware.com##.i528
 animenewsnetwork.com##.iab
@@ -52211,6 +52215,7 @@ washingtonpost.com##.pb-sm.pt-sm.b
 caixinglobal.com##.pc-ad-left01
 thegatewaypundit.com,westernjournal.com,wnd.com##.persistent-footer
 apkmb.com##.personalizadas
+post-gazette.com##.pg-mobile-adhesionbanner
 post-gazette.com##.pgevoke-flexbanner-innerwrapper
 post-gazette.com##.pgevoke-superpromo-innerwrapper
 drivespark.com,filmibeat.com,gizbot.com##.photos-add
