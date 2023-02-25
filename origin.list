@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GXTteFlwmGW5mxIAX6HYtg
-! Version: 202302242301
+! Checksum: bR8qZzY/KUH1zk86Bon/cA
+! Version: 202302242320
 ! Title: EasyList
-! Last modified: 24 Feb 2023 23:01 UTC
+! Last modified: 24 Feb 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6451,6 +6451,7 @@ _800x80_
 ###ads-outer
 ###ads-pagetop
 ###ads-panel
+###ads-pop
 ###ads-position-header-desktop
 ###ads-right
 ###ads-right-bottom
@@ -21148,6 +21149,7 @@ _800x80_
 ##AD-TRIPLE-BOX
 ##ADS-RIGHT
 ##DFP-AD
+##[class^="adDisplay-module"]
 ##[class^="amp-ad-"]
 ##[class^="div-gpt-ad"]
 ##[data-ad-cls]
@@ -29967,6 +29969,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||g5fzq2l.com^
 ||g5rillh2awn8.com^
 ||ga-ads.com^
+||gabledrotonda.com^
 ||gadgetforester.com^
 ||gadsabs.com^
 ||gadsabz.com^
@@ -35603,6 +35606,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||peirs5tbakchios.com^
 ||pejzeexukxo.com^
 ||pelagicmismate.com^
+||pelamydlours.com^
 ||peliomaafb.com^
 ||pemainedperio.com^
 ||pendulumkeg.com^
@@ -49548,6 +49552,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||vipergirls.to/clientscript/popcode_v6.js
 ||vipergirls.to/clientscript/poptrigger_
 ||vipergirls.to/files/k2s.gif
+||vndevtop.com/lvcsm/abck-banners/
 ||voyeurhit.com/ffpqvfaczp/
 ||warashi-asian-pornstars.fr/wapdb-img/ep/
 ||watch-my-gf.com/list/
@@ -52630,6 +52635,7 @@ indiedb.com,moddb.com##.supporter
 techreen.com##.svc_next_content
 timesofmalta.com##.sw-Top
 saltwire.com##.sw-banner
+swimswam.com##.swimswam-acf
 khmertimeskh.com##.swiper-container-horizontal
 khmertimeskh.com##.swiper-wrapper
 sbenny.com##.t3-masthead
@@ -52852,6 +52858,7 @@ fijisun.com.fj##.widget-1
 fijisun.com.fj##.widget-3
 kyivpost.com##.widget-300-250
 wikikeep.com##.widget-area
+superdeluxeedition.com##.widget-bg-image__deal-alert
 cinemaexpress.com##.widget-container-133
 thebeet.com##.widget-promotion
 dawn.com##.widget-sponsoredcontent
@@ -53648,6 +53655,7 @@ videogames.si.com##.m-video
 bestrecipes.com.au,delicious.com.au,taste.com.au##.news-video
 sciencetimes.com##.player
 bossip.com##.player-wrapper-inner
+swimswam.com##.polls-461
 comicbook.com,popculture.com##.popculture-embed
 kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
@@ -53834,6 +53842,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[class^="sc-"] > div[data-ad-unit-path])
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
@@ -54100,6 +54109,7 @@ porntop.com###s-suggesters
 sexyandfunny.com###sexy-links
 javtiful.com###showerm
 3movs.com###side_col_video_view
+vndevtop.com###sidebar_right
 pornhub.com###singleFeedSection > .emptyBlockSpace
 adult-sex-games.com,postyourpuss.com###skyscraper
 hentaifox.com###slider
