@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: V0wNcBVtorbBrb9GyyC4Sw
-! Version: 202302261020
+! Checksum: voVsf0eJ1p9vAiveTGxzGg
+! Version: 202302261040
 ! Title: EasyList
-! Last modified: 26 Feb 2023 10:20 UTC
+! Last modified: 26 Feb 2023 10:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50917,6 +50917,7 @@ christianpost.com##.article-divider
 scoop.co.nz##.article-left-box
 slashdot.org##.article-nel-12935
 spectator.com.au##.article-promo
+iai.tv##.article-sidebar-adimage
 phillyvoice.com##.article-sponsor-sticky
 people.com##.articleContainer__rail
 audizine.com##.articleIMG
@@ -50936,6 +50937,7 @@ tvtropes.org##.atf_banner
 audiobacon.net##.audio-widget.et_pb_widget
 mbl.is##.augl
 imasdk.googleapis.com##.autoalign.nonLinearContainer
+iai.tv##.auw--container
 theblueoceansgroup.com##.av-label
 thehackernews.com##.av-side-box-1
 airfactsjournal.com##.avia_image
@@ -51780,6 +51782,7 @@ animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
 tripadvisor.com##.iab_leaBoa
 tripadvisor.com##.iab_medRec
+iai.tv##.iai-article--footer-image
 infobetting.com##.ibBanner
 ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
