@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jXBUtXTZUQRw1Io+CuLnPg
-! Version: 202302260150
+! Checksum: aKYfBgsDEo3227ffSxDYig
+! Version: 202302260210
 ! Title: EasyList
-! Last modified: 26 Feb 2023 01:50 UTC
+! Last modified: 26 Feb 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50659,6 +50659,7 @@ kentonline.co.uk##.PSDRGC
 ask.com##.PartialKelkooResults
 hulu.com##.PauseAdCreative-wrap
 imgur.com##.PrimisPlayerContainer
+citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 tvzoneuk.com##.R38Z80
