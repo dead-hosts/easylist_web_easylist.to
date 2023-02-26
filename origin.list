@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 02uamPYZVGW4Pjaig4fx2A
-! Version: 202302261301
+! Checksum: acpXGnlj6P1A7Vz1hYIphg
+! Version: 202302261321
 ! Title: EasyList
-! Last modified: 26 Feb 2023 13:01 UTC
+! Last modified: 26 Feb 2023 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52040,6 +52040,7 @@ byrdie.com,investopedia.com,verywellhealth.com##.mntl-leaderboard-spacer
 comicbook.com##.mobile
 putlockers.do##.mobile-btn
 d123movies.to##.mobile-btn > div
+businessplus.ie##.mobile-mpu-widget
 pcmacstore.com##.mobileHide
 thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
