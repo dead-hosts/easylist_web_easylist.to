@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bE98nayq6tQ3qac8fiuiYw
-! Version: 202302262101
+! Checksum: 7ox34b5nVuFrOJIyW8lGxg
+! Version: 202302262120
 ! Title: EasyList
-! Last modified: 26 Feb 2023 21:01 UTC
+! Last modified: 26 Feb 2023 21:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11558,7 +11558,6 @@ _800x80_
 ##.ad-space
 ##.ad-space-mpu-box
 ##.ad-space-topbanner
-##.ad-spacer
 ##.ad-spacing
 ##.ad-span
 ##.ad-special-article
@@ -50499,6 +50498,7 @@ supercheats.com###titlebar_banner
 box-core.net,mma-core.com###tlbrd
 technewsworld.com###tnavad
 accuweather.com,phonescoop.com###top
+coingecko.com###top-announcement-header
 cheese.com,fantasypros.com,foodlovers.co.nz,foodnetwork.ca,investorplace.com,kurocore.com,skift.com,thedailywtf.com,theportugalnews.com###top-banner
 independent.co.uk###top-banner-wrapper
 missingremote.com###top-bar
@@ -52664,6 +52664,7 @@ coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
 breakingdefense.com##.sponsored-inline
 hellomagazine.com##.sponsored-news
+coingecko.com##.sponsored-v2
 investing.com##.sponsoredArticle
 coinmarketcap.com##.sponsoredMark
 cultofmac.com##.sponsored_paragraph
@@ -53081,6 +53082,7 @@ washingtonpost.com##[data-qa="right-rail-ad"]
 ginx.tv##[data-ref]
 washingtonpost.com##[data-sc-c="adslot"]
 trakt.tv##[data-snigel-id]
+coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
