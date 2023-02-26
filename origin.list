@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pk1oblpVHEvLu9mY2/svAw
-! Version: 202302260930
+! Checksum: 9D+GhCgkTt+GM2ozmg03NQ
+! Version: 202302260950
 ! Title: EasyList
-! Last modified: 26 Feb 2023 09:30 UTC
+! Last modified: 26 Feb 2023 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50809,8 +50809,10 @@ games2jolly.com##.ads_310_610_sidebar_new
 lightnovelpub.com##.adsbox
 informer.com##.adsbygoogle
 gayvegas.com,looktothestars.org,nintandbox.net,plurk.com,rockpasta.com,thebarentsobserver.com,tolonews.com,webtor.io##.adsense
+bolnews.com##.adsheading
 nepallivetoday.com##.adsimage
 search.b1.org##.adslabel
+bolnews.com##.adspadding
 miamitodaynews.com##.adtext
 ansamed.info,baltic-course.com,futbol24.com,gatewaynews.co.za,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,prohaircut.com,zbani.com##.adv
 blastingnews.com##.adv-box-content
@@ -50842,7 +50844,7 @@ atlasobscura.com##.advertisement-shadow
 radiocity.in##.advertisement-text
 structurae.net##.advertisements
 scmp.com##.advertisers
-afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,brw.com.au,cio.co.ke,gq.co.za,imageupscaler.com,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,yourdictionary.com##.advertising
+afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,cio.co.ke,gq.co.za,imageupscaler.com,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,yourdictionary.com##.advertising
 satdl.com##.advertizement
 hurriyetdailynews.com##.advertorial-square-type-1
 148apps.com##.advnote
@@ -53953,6 +53955,7 @@ agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 u.gg#?#.video-guide:-abp-has(.content-section_header:-abp-contains(Sponsored Content))
 engadget.com#?#[class^="Py"]:-abp-has([data-ylk]:-abp-contains(Sponsored))
 fortune.com#?#.homepage:-abp-has(> div[id^="InStream"])
+bolnews.com#?#[style*="center"]:-abp-contains(Ad)
 timesnownews.com#?#div:-abp-has(> .bggrayAd)
 goodreturns.in,gizbot.com,filmibeat.com,oneindia.com#?#ul>li:-abp-has(> div[id^="taboola-mid-home-stream"])
 oneindia.com#?#ul>li:-abp-has(> div[class^="adg_"])
