@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d8Oe3T5OeXuxkrPfhk5/Mg
-! Version: 202302270910
+! Checksum: 97bxkCaTR3j/dkGydlfhvg
+! Version: 202302270940
 ! Title: EasyList
-! Last modified: 27 Feb 2023 09:10 UTC
+! Last modified: 27 Feb 2023 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50599,6 +50599,7 @@ advfn.com##.APS_TOP_BANNER_468_X_60_container
 bendsource.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 thescore.com##.Ad__container--2fhQb
 greatandhra.com##.AdinHedare
+coingape.com##.AdsMid
 iogames.onl##.Adv
 airportinfo.live,audiokarma.org,audizine.com##.AdvallyTag
 tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
@@ -50671,6 +50672,7 @@ realcleardefense.com##.RC-AD-TOP-BANNER
 naturalnews.com##.SXVGONQABPCH
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
+coingape.com##.Sidemads
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 thedailybeast.com##.Sizer
 coingape.com##.SponserdBtn
@@ -51427,6 +51429,7 @@ nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
 investing.com##.dfp-native
 dailyfx.com##.dfx-article__sidebar
 kiplinger.com##.dianomi_gallery_wrapper
+coingape.com##.diplay-m-ad
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
 notes.io##.directMessageBanner
 premiumtimesng.com##.directcampaign
