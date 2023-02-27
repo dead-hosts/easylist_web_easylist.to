@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6I+owT/d5R6+lHjpA26A3w
-! Version: 202302270831
+! Checksum: fYHItiaFvsC37Zx2NBZohA
+! Version: 202302270850
 ! Title: EasyList
-! Last modified: 27 Feb 2023 08:31 UTC
+! Last modified: 27 Feb 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17879,6 +17879,7 @@ _800x80_
 ##.js-advertising__placeholder1
 ##.js-adzone
 ##.js-anchor-ad
+##.js-article-advert-injected
 ##.js-billboard-advert
 ##.js-cardview_ad-320x180
 ##.js-cardview_ad-320x50
@@ -51398,7 +51399,7 @@ standard.co.uk##.dXaqls
 counter.dev,lindaikejisblog.com##.da
 smartprix.com##.dadow-box
 lifewire.com##.daily-deal
-boards.4channel.org##.danbo-slot
+boards.4chan.org,boards.4channel.org##.danbo-slot
 webuser.co.uk##.dart-tag
 cnbctv18.com##.davos-top-ad
 sportshub.stream##.db783ekndd812sdz-ads
