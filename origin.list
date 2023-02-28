@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fgjH7wRgr/Aj4LEtJSBfmw
-! Version: 202302280240
+! Checksum: DaY7LrzRZMjUa3y4kxq0/g
+! Version: 202302280301
 ! Title: EasyList
-! Last modified: 28 Feb 2023 02:40 UTC
+! Last modified: 28 Feb 2023 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14171,6 +14171,7 @@ _800x80_
 ##.adthrive-content
 ##.adthrive-header
 ##.adthrive-header-container
+##.adthrive-video-player
 ##.adthrive_custom_ad
 ##.adthx
 ##.adtile
@@ -50322,6 +50323,7 @@ nbcsports.com###nbcsports-leaderboard
 my.juno.com###newsCarousel
 livelaw.in###news_on_exit
 canberratimes.com.au,theland.com.au###newswell-leaderboard-container
+nextshark.com###nextshark_com_leaderboard_top
 searchfiles.de###nextuse
 seroundtable.com###ninja_box
 pcgamebenchmark.com,pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
@@ -50514,6 +50516,7 @@ arenaev.com,gsmarena.com###subHeader
 ebaumsworld.com###subheader_atf_wrapper
 searchenginejournal.com###summita-wrapa-1
 streams.tv###sunGarden
+eenewseurope.com###superBanner
 dashnet.org###support
 vk.com,vk.ru###system_msg
 gumtree.com###tBanner
@@ -50827,6 +50830,7 @@ bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
 food.com##.ad__ad
+nationalpost.com,vancouversun.com##.ad__inner
 asianjournal.com##.ad_before_title
 auto-data.net##.ad_incar
 bigislandnow.com##.ad_mobileleaderboard
