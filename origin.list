@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SIZYzEuhQrrKmnLD8LXLmA
-! Version: 202303010240
+! Checksum: kTpJACnYIwBbM7IYxa2bsw
+! Version: 202303010302
 ! Title: EasyList
-! Last modified: 01 Mar 2023 02:40 UTC
+! Last modified: 01 Mar 2023 03:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21639,6 +21639,7 @@ _800x80_
 ##.van_vid_carousel
 ##.vid-present > .van_vid_carousel__padding
 ##.vidible-wrapper
+##.wps-player-wrap
 ##[class^="s2nPlayer"]
 ! Ad widgets
 ##.BeOpWidget
