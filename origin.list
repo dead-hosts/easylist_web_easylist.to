@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FBxUDQaRZ2sKeTC+WWWkPw
-! Version: 202302282350
+! Checksum: Qi9dZ5asnOgjGJpy1M/13Q
+! Version: 202303010010
 ! Title: EasyList
-! Last modified: 28 Feb 2023 23:50 UTC
+! Last modified: 01 Mar 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2022,7 +2022,6 @@
 /asrv/campaign/*
 /asset/ad/*
 /asset/adv/*
-/assets/ad-
 /assets/ad/*
 /assets/ads-
 /assets/ads/*$domain=~outlook.live.com
@@ -29742,6 +29741,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||flexlinks.com^
 ||flhoggrhrupeie.xyz^
 ||fliedridgin.com^
+||flintedkickers.com^
 ||flinthastened.com^
 ||flipool.com^
 ||flippantbliss.com^
@@ -30432,6 +30432,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||glootang.net^
 ||gloovids.com^
 ||glorialoft.com^
+||gloriespiuri.com^
 ||gloriousexternal.com^
 ||glossaunbrown.website^
 ||glossisobelhay.com^
@@ -44435,6 +44436,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||amatrck.com^$popup
 ||amenityremorse.com^$popup
 ||ammankeyan.com^$popup
+||ammunitionconsiderinstitution.com^popup
 ||ancientsend.com^$popup
 ||andbegant.one^$popup
 ||angege.com^$popup
@@ -50131,7 +50133,7 @@ coinlisting.info###carousel-example-generic
 csdb.dk###casdivhor
 csdb.dk###casdivver
 cbn.com###cbn_leaderboard_atf
-cloudwards.net###cbox
+cloudwards.net,guitaradvise.com###cbox
 linuxinsider.com###cboxOverlay
 curseforge.com###cdm-zone-03
 godbolt.org###ces
@@ -53182,6 +53184,7 @@ windowsloop.com##.wl-prakatana
 cryptopolitan.com##.wordp-leaderboard
 cryptopolitan.com##.wordp-siderbar-new-theme
 warontherocks.com##.wotr_top_lbjspot
+guitaradvise.com##.wp-block-affiliate-plugin-lasso
 gamepur.com##.wp-block-dotesports-affiliate-button
 cryptofeeds.news,gamenguides.com,millennial-grind.com,teslaoracle.com##.wp-block-image
 livability.com##.wp-block-jci-ad-area-two
@@ -53582,6 +53585,7 @@ tetris.com##a[onclick*="open"]
 himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontimes.com##a[onclick]
 onetransistor.eu##a[onclick][target="_blank"]
 earlygame.com,i711.com##a[rel*="sponsored"]
+amishamerica.com##a[rel="nofollow"]
 filma24.ch,mcrypto.club,ssrmovies.repair,themoviesflix.io##a[rel="noopener"]
 gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
