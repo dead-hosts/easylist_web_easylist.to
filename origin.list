@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wgao3+Gh73O1iChGrE2rAg
-! Version: 202303032250
+! Checksum: dPgwxJtvgnw1smIMqy8j1w
+! Version: 202303032310
 ! Title: EasyList
-! Last modified: 03 Mar 2023 22:50 UTC
+! Last modified: 03 Mar 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50103,6 +50103,7 @@ dailydot.com###DD_Desktop_HP_Content2
 dailydot.com###DD_Desktop_HP_Content3
 healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
+stripes.com###FeatureAd
 road.cc###Footer-Billboard
 titantv.com###GridPlayer
 fanlesstech.com###HTML2 > .widget-content
@@ -52812,6 +52813,7 @@ infobel.com##.results-top-banner-container
 latimes.com,sandiegouniontribune.com##.revcontent
 al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.revenue-display
 hindustantimes.com##.rgtAdSection
+indianexpress.com##.rhs-banner-carousel
 siteslike.com##.rif
 terminal.hackernoon.com##.right
 cnbctv18.com##.right-ad-amp
