@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ojEMCzbYjHfY9AABFYtkjA
-! Version: 202303031120
+! Checksum: 8AszQU0gdRYhUfpkp9NvyQ
+! Version: 202303031140
 ! Title: EasyList
-! Last modified: 03 Mar 2023 11:20 UTC
+! Last modified: 03 Mar 2023 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21995,7 +21995,7 @@ forbes.com#@#.ads-loaded
 juicesky.com#@#.ads-title
 pop-music.ir#@#.ads-top
 mastersclub.jp#@#.ads.widget
-getwallpapers.com,wallpaperset.com#@#.ads1
+getwallpapers.com,wallpaperaccess.com,wallpaperset.com#@#.ads1
 jw.org#@#.adsBlock
 cars.mitula.ae#@#.adsList
 trustnet.com#@#.ads_right
@@ -53553,6 +53553,7 @@ techadvisor.com,transfermarkt.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
 dappradar.com,thefinancialbrand.com##[rel*="sponsored"]
 audioz.download##[src*="/promo/"]
+wallpaperaccess.com##[src="/continue.png"]
 brmangas.com##[src="https://manjiroinflu.com/streams.php"]
 webcamtests.com##[src^="/MyShowroom/view.php?medium="]
 manganelo.com##[src^="/ads/"]
