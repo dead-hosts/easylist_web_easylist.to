@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YbBuArz1n8dwkG8hXWayLA
-! Version: 202303060101
+! Checksum: kBUgj4dlC82zJMtx2UmUlg
+! Version: 202303060120
 ! Title: EasyList
-! Last modified: 06 Mar 2023 01:01 UTC
+! Last modified: 06 Mar 2023 01:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51632,6 +51632,7 @@ money.com##.ca-widget-inline
 thecable.ng##.cableads_mid
 cafonline.com##.caf-o-sponsors-nav
 challonge.com##.cake-unit
+thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
 u.today##.card--something-md
 devdiscourse.com##.carousel
@@ -52862,6 +52863,7 @@ infobel.com##.results-middle-banner-container
 infobel.com##.results-top-banner-container
 latimes.com,sandiegouniontribune.com##.revcontent
 al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.revenue-display
+grammar.yourdictionary.com##.revenue-placeholder
 hindustantimes.com##.rgtAdSection
 indianexpress.com##.rhs-banner-carousel
 siteslike.com##.rif
@@ -53303,6 +53305,7 @@ tumblr.com##.uOyjG
 ubergizmo.com##.ubergizmo-dfp-ad
 darko.audio##.ubm_widget
 momjunction.com##.ubvideoad
+grammar.yourdictionary.com##.ui-advertisement
 businessday.ng##.uiazojl
 nullpress.net##.uinyk-link
 zpaste.net##.uk-animation-shake
