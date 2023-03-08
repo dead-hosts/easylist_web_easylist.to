@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tj2xvQof4cxgHfg/sy2F2Q
-! Version: 202303080940
+! Checksum: KNL+XoFrPE9zD/OqPhjRkw
+! Version: 202303081001
 ! Title: EasyList
-! Last modified: 08 Mar 2023 09:40 UTC
+! Last modified: 08 Mar 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53643,8 +53643,8 @@ trakt.tv##[data-snigel-id]
 coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
-coles.com.au##[data-testid="banner-container-desktop"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
+coles.com.au##[data-testid="banner-container-desktop"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 abcnews.go.com##[data-testid="prism-static-embed"]
