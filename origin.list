@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qpPbB1CykAZwW7tEbS3Umw
-! Version: 202303080550
+! Checksum: jDrHoZWlB++FUwhd8klaLA
+! Version: 202303080610
 ! Title: EasyList
-! Last modified: 08 Mar 2023 05:50 UTC
+! Last modified: 08 Mar 2023 06:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17933,6 +17933,8 @@ _800x80_
 ##.kakao_ad_area
 ##.keen_ad
 ##.klicked-ads
+##.kumpulads-post
+##.kumpulads-side
 ##.l-ad
 ##.l-ad-top
 ##.l-ads
@@ -21174,6 +21176,7 @@ _800x80_
 ##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
+##[href="//sexcams.plus/"]
 ##[href="https://jdrucker.com/gold"] > img
 ##[href="https://masstortfinancing.com"] img
 ##[href="https://ourgoldguy.com/contact/"] img
@@ -36500,6 +36503,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||portoteamo.com^
 ||portoutsid.xyz^
 ||portserratic.com^
+||posawaj.com^
 ||poseidthewave.com^
 ||poseurtwicet.digital^
 ||poshhateful.com^
@@ -54670,6 +54674,7 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+tgstat.com#?#.slider-editors-choice:-abp-has([data-src*="/sponsored-info"])
 tympanus.net#?#article:-abp-has(header:-abp-has(.ct-sponsored))
 unsplash.com#?#.MbNnd:-abp-has(a:-abp-contains(Sponsored))
 wikiprocedure.com#?##mw-content-text > div:-abp-contains(/^Advertisement$/)
