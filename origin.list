@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F4ji7PZAv+60sUsQ12a+hQ
-! Version: 202303082250
+! Checksum: ZpL3cNcKtr4FTu8uBoPeWw
+! Version: 202303082310
 ! Title: EasyList
-! Last modified: 08 Mar 2023 22:50 UTC
+! Last modified: 08 Mar 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10315,7 +10315,6 @@ _800x80_
 ##.PrintAd-Slider
 ##.ProductAd
 ##.PushdownAd
-##.RC-AD
 ##.RectangleAd
 ##.Rectangle_1-ad-holder
 ##.Rectangle_2-ad-holder
@@ -21574,6 +21573,12 @@ _800x80_
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! realclear
+##.RC-AD
+##.RC-AD-BOX-BOTTOM
+##.RC-AD-BOX-MIDDLE
+##.RC-AD-BOX-TOP
+##.RC-AD-TOP-BANNER
 ! Invideo advert: gizmodo.com,avclub.com,qz.com,lifehacker.com,theroot.com
 ##.js_related-stories-inset
 ! element specific
@@ -51218,7 +51223,6 @@ citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 tvzoneuk.com##.R38Z80
-realcleardefense.com##.RC-AD-TOP-BANNER
 naturalnews.com##.SXVGONQABPCH
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
@@ -51229,6 +51233,7 @@ coingape.com##.SponserdBtn
 newstarget.com##.Sponsor
 coin360.com##.Sticky_Hitbtc
 slant.co##.SummaryPage-LustreEmbed
+dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
 poebuilds.net##.W_tBwY
@@ -52749,6 +52754,7 @@ techspot.com##.oneText
 lowtoxlife.com##.openpay-footer
 thedigitalfix.com##.ot-widget-banner
 otakuusamagazine.com##.otaku_big_ad
+thesaurus.com##.otd-item__bottom
 advocate.com,out.com##.ourSponsors
 mma-core.com##.outVidAd
 egmnow.com##.outbrain-wrapper
@@ -54004,7 +54010,6 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##art
 greatist.com##aside
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 thefinancialbrand.com##aside[class][style*="cursor:"]
-dictionary.com,thesaurus.com##aside[id$="728x90"]
 psycom.net##center > .vh-quiz-qborder
 mangas-raw.com##center > div[style]
 greekreporter.com##center > p > [href]
