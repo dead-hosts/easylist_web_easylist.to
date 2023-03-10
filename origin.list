@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r/0TZJA0QkDoHEcEcN4KCg
-! Version: 202303102140
+! Checksum: FeOfTmgGCc1jRpqocijk/Q
+! Version: 202303102201
 ! Title: EasyList
-! Last modified: 10 Mar 2023 21:40 UTC
+! Last modified: 10 Mar 2023 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50903,6 +50903,7 @@ alternet.org###leaderboard-placeholder
 narcity.com###leaderboard-wrapper
 drdobbs.com###leaderboard1
 fixya.com###leaderboardContainer
+macrotrends.net###leaderboardTag
 games2jolly.com###leaderboard_area
 games2jolly.com###leaderboard_area_home
 bulbagarden.net,planetminecraft.com###leaderboard_atf
@@ -51168,6 +51169,7 @@ semiconductor-today.com###storyHorAdd
 animixplay.to###streambottomright
 web-capture.net###stw_ad
 arenaev.com,gsmarena.com###subHeader
+macrotrends.net###subLeaderboardTag
 ebaumsworld.com###subheader_atf_wrapper
 searchenginejournal.com###summita-wrapa-1
 streams.tv###sunGarden
