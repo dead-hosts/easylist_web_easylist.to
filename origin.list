@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aVtngNrzk5mtJYKKNDg8HQ
-! Version: 202303092330
+! Checksum: XLEvXswNKZ8QT5rHPfXwpw
+! Version: 202303092350
 ! Title: EasyList
-! Last modified: 09 Mar 2023 23:30 UTC
+! Last modified: 09 Mar 2023 23:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20846,6 +20846,7 @@ _800x80_
 ##.video_ads
 ##.videoad
 ##.videoad2
+##.videootv
 ##.videos-ad
 ##.videos-ad-wrap
 ##.view-Advertisment
@@ -43343,6 +43344,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||adthrive.com^$third-party
 ||adthurst.com^$third-party
 ||adtival.network^$third-party
+||adtonos.com^$third-party
 ||adtraction.com^$third-party
 ||adtrix.com^$third-party
 ||adtrue.com^$third-party
@@ -44549,6 +44551,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||videoegg.com^$third-party
 ||videohub.com^$third-party
 ||videologygroup.com^$third-party
+||videoo.tv^$third-party
 ||videoplaza.com^$third-party
 ||videoplaza.tv^$third-party
 ||videoroll.net^$third-party
