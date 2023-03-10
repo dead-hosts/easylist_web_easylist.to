@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AmsPSnNlO7Ncknw8Z4nKxA
-! Version: 202303100940
+! Checksum: JrGx76/QG4De2RIEyEmRRA
+! Version: 202303101001
 ! Title: EasyList
-! Last modified: 10 Mar 2023 09:40 UTC
+! Last modified: 10 Mar 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52766,6 +52766,7 @@ gadgetsnow.com##.mercwapper
 audiokarma.org##.message > center b
 eawaz.com##.metaslider
 metro.co.uk##.metro-discounts
+moviefone.com##.mf-incontent
 moneycontrol.com##.mf_radarad
 wethegeek.com##.mfp-content
 cryptoreporter.info,palestinechronicle.com##.mh-header-widget-2
