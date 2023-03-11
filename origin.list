@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D6IxMKk0wltdGYl+c2T9OA
-! Version: 202303112210
+! Checksum: SsGv98Yn4ebRKECfLwQl1w
+! Version: 202303112240
 ! Title: EasyList
-! Last modified: 11 Mar 2023 22:10 UTC
+! Last modified: 11 Mar 2023 22:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3371,7 +3371,6 @@
 /puff_ad?
 /pullads.
 /punder-rotate.
-/punder.js
 /punder.php
 /pup-a9-header-bidder/*
 /purch-ad-
