@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iUbrnrbyyMrXiw+0f1vCzg
-! Version: 202303121940
+! Checksum: goK5KzmUNnZM7bE/YarfMw
+! Version: 202303122001
 ! Title: EasyList
-! Last modified: 12 Mar 2023 19:40 UTC
+! Last modified: 12 Mar 2023 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52574,6 +52574,7 @@ si.com##.l-inline.m-detail--feature-container
 ptonline.com##.large-horizontal-banner
 weatherpro.com##.large-leaderboard
 democraticunderground.com##.largeleaderboard-container
+fantasygames.nascar.com##.larger-banner-wrapper
 golfworkoutprogram.com##.lasso-container
 tech-latest.com##.lates-art-top
 flava.co.nz,hauraki.co.nz,mixonline.co.nz,thehits.co.nz,zmonline.com##.layout__background
