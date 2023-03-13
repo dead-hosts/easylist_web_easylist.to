@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KIJqHvhvzQUpiJuDhRNKwQ
-! Version: 202303130050
+! Checksum: lXl95JHKPBGwmifUSBnN5w
+! Version: 202303130110
 ! Title: EasyList
-! Last modified: 13 Mar 2023 00:50 UTC
+! Last modified: 13 Mar 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52742,6 +52742,7 @@ thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
 etxt.biz##.mod-cabinet__sidebar-info
+notateslaapp.com##.mod-sponsors
 breakingenergy.com##.modal-backdrop
 livelaw.in##.modal_wrapper_frame
 autoevolution.com##.modeladmid
@@ -52842,6 +52843,7 @@ mondoweiss.net##.notrack
 bleepingcomputer.com##.noty_bar
 pcgamebenchmark.com##.nova_wrapper
 zimbio.com##.npd-video-break
+notateslaapp.com##.npwlwgucml
 crypto-news-flash.com##.nso_ad_under_article
 designtaxi.com##.nt
 designtaxi.com##.nt-displayboard
