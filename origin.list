@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AkuJ+4m0vc7lJQnNVP+rDA
-! Version: 202303142131
+! Checksum: tw2iR1WcpACpSz6hhIKRdA
+! Version: 202303142150
 ! Title: EasyList
-! Last modified: 14 Mar 2023 21:31 UTC
+! Last modified: 14 Mar 2023 21:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -44322,7 +44322,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||rubyblu.com^$third-party
 ||salvador24.com^$third-party
 ||sape.ru^$third-party
-||saymedia.com^$third-party
 ||sba.about.co.kr^$third-party
 ||sbaffiliates.com^$third-party
 ||sbcpower.com^$third-party
@@ -47953,6 +47952,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||adform.net/serving/$third-party
 ||ads-yallo-production.imgix.net^
 ||ads.linkedin.com^$third-party
+||ads.saymedia.com^
 ||ads.servebom.com^
 ||ads.sportradar.com^
 ||ads.yahoo.com^$~image
