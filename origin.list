@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q6cP/C/HQEnu8uN8JfFaHA
-! Version: 202303140950
+! Checksum: 9BZ/vLhMQuDm6cH/A+fiaQ
+! Version: 202303141010
 ! Title: EasyList
-! Last modified: 14 Mar 2023 09:50 UTC
+! Last modified: 14 Mar 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52174,6 +52174,7 @@ randomarchive.com##.desktop[style="text-align:center"]
 coingape.com##.desktopds
 flashscore.co.za,soccer24.com##.detailLeaderboard
 nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
+gazette.com##.dfp-ad
 investing.com##.dfp-native
 dailyfx.com##.dfx-article__sidebar
 kiplinger.com##.dianomi_gallery_wrapper
