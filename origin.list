@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SvDohepxXKoJaYj5CHa0mw
-! Version: 202303140040
+! Checksum: 589bewKuGvkhjut6POxDgQ
+! Version: 202303140102
 ! Title: EasyList
-! Last modified: 14 Mar 2023 00:40 UTC
+! Last modified: 14 Mar 2023 01:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49747,6 +49747,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||fireworkapi1.com^$domain=boldsky.com
 ! In-page video advertising.
 ||anyclip.com^$script,third-party
+||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
 ||boomselljamwelunch.com^
@@ -49764,7 +49765,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
 ||g.ibtimes.sg/sys/js/minified-video.js
-||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph
+||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
 ||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|kiplinger.com|spokesman-recorder.com|tomshardware.com|variety.com|videogames.si.com|whathifi.com
