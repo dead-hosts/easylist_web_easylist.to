@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6Cd5bGljH4Zy3MSIvFH5/w
-! Version: 202303142230
+! Checksum: RcabXRR1n3EAwRIVzzhNJQ
+! Version: 202303142301
 ! Title: EasyList
-! Last modified: 14 Mar 2023 22:30 UTC
+! Last modified: 14 Mar 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54035,6 +54035,7 @@ calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
+decrypt.co##[style^="min-width: 728px;"]
 ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
 zenger.news##[style^="text-align:center;min-height:"]
@@ -54337,7 +54338,6 @@ gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 nohat.cc##div[style="min-height:250px"]
 askdifference.com##div[style="min-height:280px;"]
 bulbagarden.net##div[style="min-height:315px;"]
-metabattle.com##div[style="min-width: 300px; max-width: 300px; min-height: 250px; max-height: 250px; background: #1d1d1d; overflow: hidden;"]
 technical.city##div[style="padding-bottom: 20px"] > div[style="min-height: 250px"]
 bitcoin-otc.com##div[style="padding-left: 10px; padding-bottom: 10px; text-align: center; font-family: Helvetica;"]
 shaaditimes.com##div[style="padding: 5 0 0 0px; height: 138px; text-align:center; width:780px; background: url('/imgs/top-ad-bg.gif') repeat-x left bottom; background-color:#FFF9D0;"]
@@ -54371,6 +54371,7 @@ abcnews.go.com##div[style^="min-height: 90px"]
 gamerdvr.com##div[style^="min-height:"]
 news18.com##div[style^="min-height:1170px"]
 add0n.com##div[style^="min-height:90px"]
+decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 9gag.com##div[style^="position: relative; z-index: 10;"]
 keybr.com##div[style^="position:relative;min-width:"]
 gtaforums.com##div[style^="text-align: center; margin: 0px 0px 10px;"]
@@ -54734,6 +54735,7 @@ independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[cl
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
+decrypt.co#?#span:-abp-contains(AD)
 protrumpnews.com#?#.show-on-ptn:-abp-has(.pre-announcement)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
