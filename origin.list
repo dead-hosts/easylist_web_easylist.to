@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9PnksUqv2av84npTJAli9w
-! Version: 202303142340
+! Checksum: WFPmIHMKr82QaGwzguqsuQ
+! Version: 202303150002
 ! Title: EasyList
-! Last modified: 14 Mar 2023 23:40 UTC
+! Last modified: 15 Mar 2023 00:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54608,6 +54608,7 @@ youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-compact-promoted-video-renderer
 youtube.com##.ytd-companion-slot-renderer
+youtube.com##.ytd-in-feed-ad-layout-renderer
 youtube.com##.ytd-merch-shelf-renderer
 youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
