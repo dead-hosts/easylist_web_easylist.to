@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LCDzXX/61tNPc+NTkE6iNA
-! Version: 202303152001
+! Checksum: GYVHdVd/KJbKszQj4Qu/lw
+! Version: 202303152020
 ! Title: EasyList
-! Last modified: 15 Mar 2023 20:01 UTC
+! Last modified: 15 Mar 2023 20:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -381,7 +381,6 @@
 .za/ads/$domain=~ananzi.co.za
 .zm/ads/
 .zw/ads/
-/AA/entrepreneurrestorationthereby.com
 /?affiliateId=*&realDomain=
 /?view=ad
 /_adslot/*
@@ -2431,6 +2430,7 @@
 /embed/ad/*
 /embed/ads.
 /embed_ad.
+/entrepreneurrestorationthereby.com/*
 /ero-ads-
 /ero-ads_
 /ero-advertising.
@@ -55835,6 +55835,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||adservex.media.net/videoAds.js?$script,domain=forbes.com
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
+@@||adt.redventures.io^$stylesheet,xmlhttprequest,domain=security.adt.com
 @@||airplaydirect.com/openx/www/images/$image
 @@||akamaized.net^*.stream/$domain=naver.com
 @@||akamaized.net^*/playlist.m3u8?$domain=naver.com
