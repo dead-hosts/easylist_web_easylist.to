@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NrlOyGyPzbpQzeXDJDp58A
-! Version: 202303161040
+! Checksum: Cx1SlgsOZCyIGBm4RBBvrA
+! Version: 202303161101
 ! Title: EasyList
-! Last modified: 16 Mar 2023 10:40 UTC
+! Last modified: 16 Mar 2023 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -409,7 +409,6 @@
 /ad-box-
 /ad-boxes-
 /ad-cache.
-/ad-cdn.$domain=~ad-cdn.getro.com
 /ad-choices-
 /ad-choices.
 /ad-controller.
