@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DhtOpMH9X/jk1LNFs7YeHg
-! Version: 202303160340
+! Checksum: NR1X+JhN0xV5cgLn8xKp1A
+! Version: 202303160402
 ! Title: EasyList
-! Last modified: 16 Mar 2023 03:40 UTC
+! Last modified: 16 Mar 2023 04:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50350,6 +50350,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||fapnado.com/bump
 ||fappenist.com/fojytyzzkm.php
 ||fapxl.com/view/spot/
+||fetishshrine.com/js/customscript.js
 ||files.wordpress.com^$domain=hentaigasm.com
 ||fmgroupdist.com/mafanikio/$image,domain=bdsmtest.org
 ||footztube.com/b_
@@ -55145,6 +55146,7 @@ acdn.live###toprek
 motherless.com###topsites
 creampietubeporn.com,fullxxxtube.com,xxxxsextube.com###ubr
 hd-easyporn.com###udwysI3c7p
+fetishshrine.com###under-player
 fetishshrine.com,pervclips.com###under-video
 wetpussygames.com###under728
 kisscos.net###v-overlay
@@ -55264,14 +55266,15 @@ xnxxvideoporn.com##.bot_bns
 here.xxx,jagaporn.com##.botad
 pornoreino.com##.bottom-bang
 hentaigamer.org##.bottom-banner-home
-alphaporno.com,fetishshrine.com,sleazyneasy.com##.bottom-banners
+alphaporno.com,sleazyneasy.com##.bottom-banners
 elephanttube.world##.bottom-block
 dailyporn.club,risextube.com##.bottom-blocks
-fetishshrine.com,pornwhite.com##.bottom-items
+fetishshrine.com##.bottom-container
+pornwhite.com##.bottom-items
 teenpornvideo.xxx##.bottom-spots
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
-fetishshrine.com,rexxx.com##.bottom_banners
+rexxx.com##.bottom_banners
 porn-plus.com##.bottom_player_a
 dixyporn.com##.bottom_spot
 sexvid.xxx##.bottom_spots
@@ -55309,10 +55312,9 @@ playvids.com##.col-lg-6.col-xl-4
 whoreshub.com##.col-second
 totsantcugat.info##.col-sm-6 > [href="http://totsantcugat.info/wp-content/video.php"]
 perfectgirls.net##.container + div + .additional-block-bg
-pornwhite.com##.container-aside
+fetishshrine.com,pornwhite.com##.container-aside
 pornfap.tv##.conteiner_info
-fetishshrine.com,pornwhite.com,sleazyneasy.com##.content-aside
-fetishshrine.com##.content-aside > b
+pornwhite.com,sleazyneasy.com##.content-aside
 watchmygf.me##.content-footer
 xxxdessert.com##.content-gallery_banner
 sexyandfunny.com##.content-source
