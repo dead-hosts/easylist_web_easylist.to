@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TYPYxHHTOm9VfLGUjrlarQ
-! Version: 202303170150
+! Checksum: +SCCHNCNYuQmyEfSjoKg6w
+! Version: 202303170210
 ! Title: EasyList
-! Last modified: 17 Mar 2023 01:50 UTC
+! Last modified: 17 Mar 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52139,6 +52139,7 @@ money.com##.ca-widget-inline
 thecable.ng##.cableads_mid
 cafonline.com##.caf-o-sponsors-nav
 challonge.com##.cake-unit
+bloomberg.com##.canopy-container
 thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
 u.today##.card--something-md
