@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rMeWRXAljoNtaxG3CMtGLg
-! Version: 202303172340
+! Checksum: D4/6mxtY6kj3QbUu4EgJuA
+! Version: 202303180002
 ! Title: EasyList
-! Last modified: 17 Mar 2023 23:40 UTC
+! Last modified: 18 Mar 2023 00:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54917,6 +54917,7 @@ bing.com##a[href*="/aclick?ld="]
 ! Advanced element hiding rules for Adblock Plus
 independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[class^="sc-"] > div[data-ad-unit-path])
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
+privacytools.io#?#.container:-abp-has(.tag .fa-adversal)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
 decrypt.co#?#span:-abp-contains(AD)
