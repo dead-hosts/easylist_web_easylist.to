@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q/DjFVGbPeCsOwQfslTnIw
-! Version: 202303190950
+! Checksum: wEUeESeT/a1rXdvEPE6ZrA
+! Version: 202303191010
 ! Title: EasyList
-! Last modified: 19 Mar 2023 09:50 UTC
+! Last modified: 19 Mar 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50894,6 +50894,7 @@ comicbookmovie.com###adATFLeaderboard
 moomoo.io###adCard
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sherdog.com###adViAi
+cheatcodes.com###ad_atf_970
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
 all-nettools.com,britsabroad.com,filesharingtalk.com,kiwibiker.co.nz,printroot.com###ad_global_below_navbar
@@ -51152,6 +51153,7 @@ fxstreet.com###fxs-sposorBroker-topBanner
 colourlovers.com###ga-above-footer
 colourlovers.com###ga-below-header
 9bis.net###gad
+cheatcodes.com###game_details_ad
 geekwire.com###geekwork
 engadget.com###gemini-right-rail-thumbnails
 investing.com###generalOverlay
@@ -51843,6 +51845,7 @@ disqus.com##.ad__adh-wrapper
 nationalpost.com,vancouversun.com##.ad__inner
 politico.eu##.ad__mobile
 asianjournal.com##.ad_before_title
+cheatcodes.com##.ad_btf_728
 auto-data.net##.ad_incar
 bigislandnow.com##.ad_mobileleaderboard
 kitco.com##.ad_space_730
