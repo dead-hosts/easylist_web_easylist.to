@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yTI99D1Etv2DXW2x9kFo6g
-! Version: 202303192030
+! Checksum: RoakSv39GzJH9xGWaeJLIw
+! Version: 202303192050
 ! Title: EasyList
-! Last modified: 19 Mar 2023 20:30 UTC
+! Last modified: 19 Mar 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53082,6 +53082,7 @@ allnurses.com##.medrec
 techrepublic.com##.medusa-list
 compoundsemiconductor.net##.mega-bar
 theweather.net##.megabanner
+mentalmars.com##.menta-target
 2ip.me##.menu_banner
 gadgetsnow.com##.mercwapper
 audiokarma.org##.message > center b
