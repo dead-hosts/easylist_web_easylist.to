@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ljI0lo4390m9/Mi52GqLGg
-! Version: 202303222120
+! Checksum: 0mDL7Fu4lKf/14zv6m8PcA
+! Version: 202303222140
 ! Title: EasyList
-! Last modified: 22 Mar 2023 21:20 UTC
+! Last modified: 22 Mar 2023 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52810,6 +52810,7 @@ tripstodiscover.com##.fs-dynamic__label
 alphr.com##.fs-pushdown-sticky
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
+ghacks.net##.ftd-item
 livability.com##.full-width-off-white
 theblock.co##.fullWidthDisplay
 whatismybrowser.com##.fun-info-footer
