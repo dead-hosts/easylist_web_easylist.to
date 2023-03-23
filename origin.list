@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eQt82o+aFnDpbbjd4y0nfg
-! Version: 202303222350
+! Checksum: 0sojf/LdHkDYxOjcwyX0Gw
+! Version: 202303230010
 ! Title: EasyList
-! Last modified: 22 Mar 2023 23:50 UTC
+! Last modified: 23 Mar 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21473,6 +21473,7 @@ _800x80_
 ##a[href^="https://www.5mno3.com/"]
 ##a[href^="https://www.adskeeper.com"]
 ##a[href^="https://www.adultempire.com/"][href*="?partner_id="]
+##a[href^="https://www.adxsrve.com/"]
 ##a[href^="https://www.bang.com/?aff="]
 ##a[href^="https://www.bet365.com/"][href*="affiliate="]
 ##a[href^="https://www.brazzersnetwork.com/landing/"]
@@ -53472,6 +53473,7 @@ wweek.com##.pb-f-phanzu-phanzu-ad-code
 dogtime.com,playstationlifestyle.net,thefashionspot.com##.pb-in-article-content
 playbuzz.com##.pb-site-player
 washingtonpost.com##.pb-sm.pt-sm.b
+recipesandcooker.com##.pbl
 caixinglobal.com##.pc-ad-left01
 thegatewaypundit.com,westernjournal.com,wnd.com##.persistent-footer
 apkmb.com##.personalizadas
