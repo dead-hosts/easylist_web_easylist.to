@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5Qy0UNwka3cIZPgXlZy8AQ
-! Version: 202303240310
+! Checksum: ZIX3BVJibriCbBiVQStQCA
+! Version: 202303240330
 ! Title: EasyList
-! Last modified: 24 Mar 2023 03:10 UTC
+! Last modified: 24 Mar 2023 03:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21185,11 +21185,13 @@ _800x80_
 ##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://antiagingbed.com/discount/"] > img
 ##[href^="https://awbbjmp.com/"]
+##[href^="https://charmingdatings.life/"]
 ##[href^="https://cipledecline.buzz/"]
 ##[href^="https://click2cvs.com/"]
 ##[href^="https://cpa.10kfreesilver.com/"]
 ##[href^="https://detachedbates.com/"]
 ##[href^="https://engine.gettopple.com/"]
+##[href^="https://fancentro.com/"]
 ##[href^="https://glersakr.com/"]
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
@@ -52777,6 +52779,7 @@ digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 digitaltrends.com##.dtvideos-container
 digitaltrends.com##.dtvideos-recommended
+everythingrf.com##.dummydiv
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
 etherscan.io##.dxddkdcp7wz
