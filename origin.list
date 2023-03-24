@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DBK60hu0hOsG8pqhTOZ3SQ
-! Version: 202303240250
+! Checksum: 5Qy0UNwka3cIZPgXlZy8AQ
+! Version: 202303240310
 ! Title: EasyList
-! Last modified: 24 Mar 2023 02:50 UTC
+! Last modified: 24 Mar 2023 03:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -842,7 +842,6 @@
 /adentry.
 /adevent.$domain=~adevent.com
 /adevents.$domain=~adevents.com|~adevents.com.au|~adevents.nl
-/adex.js
 /adexternal.
 /adfactor_
 /adfactory-
@@ -3480,7 +3479,6 @@
 /searchad.
 /searchad_
 /secureads.
-/securepubads.
 /select_adv?
 /serv.ads.
 /servads.
@@ -4022,7 +4020,6 @@
 ?adPageCd=
 ?adsdata=
 ?adsite=
-?adsize=
 ?adslot=
 ?adspot_
 ?adTagUrl=
@@ -44206,8 +44203,8 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||domainadvertising.com^$third-party
 ||domainsponsor.com^$third-party
 ||dotomi.com^$third-party
-||doubleclick.com^$third-party
-||doubleclick.net^$third-party
+||doubleclick.com^
+||doubleclick.net^
 ||dpbolvw.net/image-
 ||dpbolvw.net/placeholder-
 ||dreamaquarium.com^$third-party
