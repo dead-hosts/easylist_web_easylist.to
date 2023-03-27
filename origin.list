@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4xZ6UD9+5y8JLUTDFWcLMA
-! Version: 202303262310
+! Checksum: jRCA/hEKIsxGq2ZbQIMlSw
+! Version: 202303262331
 ! Title: EasyList
-! Last modified: 26 Mar 2023 23:10 UTC
+! Last modified: 26 Mar 2023 23:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54124,6 +54124,7 @@ coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
 breakingdefense.com##.sponsored-inline
 hellomagazine.com##.sponsored-news
+search.brave.com##.sponsored-unit_wrapper
 coingecko.com##.sponsored-v2
 investing.com##.sponsoredArticle
 coinmarketcap.com##.sponsoredMark
