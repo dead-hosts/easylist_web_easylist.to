@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fBPCq8xZNTP7fouJoONvzQ
-! Version: 202303270302
+! Checksum: SAYGTJf4K7G+LJT2YCk7iA
+! Version: 202303270320
 ! Title: EasyList
-! Last modified: 27 Mar 2023 03:02 UTC
+! Last modified: 27 Mar 2023 03:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34789,6 +34789,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||mushesarrear.com^
 ||music-home.info^
 ||musicnote.info^
+||musk-give.com^
 ||musmentportal.com^
 ||musmrebitfic.com^
 ||musselchangeableskier.com^
@@ -46731,6 +46732,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||mungfali.com^$popup
 ||muralshelvesdeposition.com^$popup
 ||murkilyergots.com^$popup
+||musk-give.com^$popup
 ||mutux.cfd^$popup
 ||muvflix.com^$popup
 ||mvmbs.com^$popup
@@ -52302,7 +52304,7 @@ freepik.com##.adobe-detail
 freepik.com##.adobe-grid-design
 flightglobal.com,thriftyfun.com##.adp
 vice.com##.adph
-1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,cryptonomist.ch,currencyrate.today,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,geo.tv,govtrack.us,gramfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,knowyourmeme.com,m.economictimes.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,mugshots.com,myfitnesspal.com,nbc.na,news.nom.co,nsfwyoutube.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,y8.com,yummy.ph##.ads
+1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,cryptonomist.ch,currencyrate.today,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,geo.tv,govtrack.us,gramfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,knowyourmeme.com,m.economictimes.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,myfitnesspal.com,nbc.na,news.nom.co,nsfwyoutube.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,y8.com,yummy.ph##.ads
 dallasinnovates.com##.ads-article-body
 gosunoob.com,indianexpress.com,roblox.com,spotify.com,wccftech.com##.ads-container
 fintech.tv##.ads-img
@@ -57101,8 +57103,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||nizista.com/api/v1/adbanner$~third-party
 @@||nnmclub.to/forum/misc/html/advert.html$~third-party
 @@||nosh.jp/build/css/chefly/advertisement-$~third-party
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=game.anymanager.io|games.wkb.jp
-@@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=games.wkb.jp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlecats-db.com|game.anymanager.io|games.wkb.jp
+@@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=battlecats-db.com|games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=game.anymanager.io
 @@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
 @@||pixel.adsafeprotected.com^$xmlhttprequest,domain=gentside.com
