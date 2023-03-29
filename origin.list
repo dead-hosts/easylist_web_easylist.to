@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /Nh7rZCO2219BdOHK8lc/A
-! Version: 202303291210
+! Checksum: UbO9wpbiM1CiqPl4dWf5xw
+! Version: 202303291240
 ! Title: EasyList
-! Last modified: 29 Mar 2023 12:10 UTC
+! Last modified: 29 Mar 2023 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22101,6 +22101,7 @@ javynow.com#@#.videos-ad
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
+fancentro.com#@#[href^="https://fancentro.com/"]
 mypatriotsupply.com#@#[href^="https://mypatriotsupply.com/"] > img
 mypillow.com#@#[href^="https://mypillow.com/"] > img
 mystore.com#@#[href^="https://mystore.com/"] > img
