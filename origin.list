@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wTkqzLbmV342hmxYFC202g
-! Version: 202303300631
+! Checksum: YUUi3Ie4RAVDCBRW8+pm9g
+! Version: 202303300650
 ! Title: EasyList
-! Last modified: 30 Mar 2023 06:31 UTC
+! Last modified: 30 Mar 2023 06:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52653,6 +52653,7 @@ sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 wionews.com##.ad-height
 dailyuptea.com##.ad-info
+thedrive.com##.ad-slot-wrapper
 freepressjournal.in##.ad-slots
 techinformed.com##.ad-text-styles
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
