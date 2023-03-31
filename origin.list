@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fWC9CHQx9XDGikDon3ao6Q
-! Version: 202303310010
+! Checksum: yST18CzXHHHQ96m0X1/eqg
+! Version: 202303310031
 ! Title: EasyList
-! Last modified: 31 Mar 2023 00:10 UTC
+! Last modified: 31 Mar 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22045,6 +22045,7 @@ stuff.tv#@#.c-ad
 deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,freedom-shift.net,lovepanky.com,markekaizen.jp,netafull.net,photopoint.com.ua,posh-samples.com#@#.category-ad:not(html):not(body)
 business-hack.net,clip.m-boso.net,iine-tachikawa.net,meihong.work#@#.category-ads:not(html):not(body)
 studio55.fi#@#.column-ad
+huffpost.com#@#.connatix-wrapper
 fontspace.com,skyrimcommands.com#@#.container-ads
 verizonwireless.com#@#.contentAds
 disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.uz,freevoipdeal.com,voipstunt.com,yadi.sk#@#.content_ads
