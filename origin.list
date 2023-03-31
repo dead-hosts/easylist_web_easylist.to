@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3gCCkK4tZukBOHT3IKJwZg
-! Version: 202303310310
+! Checksum: YjI08NmzFu/LTwTcvbskpA
+! Version: 202303310330
 ! Title: EasyList
-! Last modified: 31 Mar 2023 03:10 UTC
+! Last modified: 31 Mar 2023 03:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52895,6 +52895,7 @@ imasdk.googleapis.com##.autoalign.nonLinearContainer
 iai.tv##.auw--container
 theblueoceansgroup.com##.av-label
 thehackernews.com##.av-side-box-1
+tutsplus.com##.avert
 airfactsjournal.com##.avia_image
 kisscenter.net,kissorg.net,ksnews.me##.avm
 gameplanet.co.nz##.avt-mr
