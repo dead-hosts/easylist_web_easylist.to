@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bdz/B3b+V02iQeUgTGGCmA
-! Version: 202304021140
+! Checksum: Wn7MKsoa8/apPUddOLVjIw
+! Version: 202304021201
 ! Title: EasyList
-! Last modified: 02 Apr 2023 11:40 UTC
+! Last modified: 02 Apr 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3207,6 +3207,7 @@
 /pictureads/*
 /pictures/ads/*
 /pilot_ad.
+/pioneersuspectedjury.com/*
 /pix/ads/*
 /pixel/puclc?
 /pixel/pure
