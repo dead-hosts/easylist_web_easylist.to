@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8Tx9yPij9MGOUmxL0aDkdg
-! Version: 202304031010
+! Checksum: CLSs7dddoWNJQMGvaw8dfA
+! Version: 202304031031
 ! Title: EasyList
-! Last modified: 03 Apr 2023 10:10 UTC
+! Last modified: 03 Apr 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53156,6 +53156,7 @@ hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 cointelegraph.com##.componentAdbutler_UHZMO
+dailymail.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
 washingtontimes.com##.connatixcontainer
 beincrypto.com##.cont-wrapper
