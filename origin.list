@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FSIH69K5MsPKoinLfm5tbQ
-! Version: 202304032240
+! Checksum: c739dxOQS4dW4AWuHXt+zA
+! Version: 202304032301
 ! Title: EasyList
-! Last modified: 03 Apr 2023 22:40 UTC
+! Last modified: 03 Apr 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -216,7 +216,6 @@
 .box.ad.
 .br/ads/
 .bz/ads/
-.ca/ads-
 .ca/ads/
 .cfm?ad=
 .cgi?ad=
@@ -1052,7 +1051,6 @@
 /ads-admin.
 /ads-arc.
 /ads-async.
-/ads-beacon.
 /ads-common.
 /ads-config.
 /ads-foot.
