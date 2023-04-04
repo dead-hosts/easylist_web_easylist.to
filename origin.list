@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DPWkBscMlHDN2istYyihVg
-! Version: 202304040950
+! Checksum: 3ydkAVrQmohB3R2Oy8Vdig
+! Version: 202304041010
 ! Title: EasyList
-! Last modified: 04 Apr 2023 09:50 UTC
+! Last modified: 04 Apr 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2635,7 +2635,6 @@
 /google/ad?
 /google_ad_
 /google_ads/*
-/google_ads_$script
 /google_adsense-
 /google_adv/*
 /google_afc.
@@ -2762,7 +2761,6 @@
 /images/adz/*
 /images/aff-
 /images/affs/*
-/images/gads_
 /images/vghd
 /images1/ad_
 /images2/Ads/*
@@ -22066,7 +22064,7 @@ kingsofchaos.com#@#.textad
 cp24.com#@#.topAd
 outinthepaddock.com.au#@#.topads
 codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
-youtube.com#@#.video-ads
+ads.google.com,youtube.com#@#.video-ads
 javynow.com#@#.videos-ad
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
