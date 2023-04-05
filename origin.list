@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OUYJ8vc6k85ax+a5sKPKGw
-! Version: 202304051340
+! Checksum: /xyxTyXFCnlXlcbVoRTFEg
+! Version: 202304051410
 ! Title: EasyList
-! Last modified: 05 Apr 2023 13:40 UTC
+! Last modified: 05 Apr 2023 14:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56002,6 +56002,7 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 ! Filter for testpages.adblockplus.org
 testpages.adblockplus.org###abptest
 ! MSN
+msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.galleryPage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.intra-article-ad-half
 msn.com##.modernRightRail_stickyTopBannerAd-DS-EntryPoint1-1
