@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aXFnWm4NGSQZ13QL+g9ZEw
-! Version: 202304050320
+! Checksum: ZkYFW7QavOLIiVs0aQdkBQ
+! Version: 202304050340
 ! Title: EasyList
-! Last modified: 05 Apr 2023 03:20 UTC
+! Last modified: 05 Apr 2023 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52278,7 +52278,7 @@ electronicproducts.com,powvideo.net,streamplay.to,uxstyle.com###overlay
 dokicloud.one,fmoviefree.net###overlay-center
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
-hardwaretimes.com###parentDiv0
+hardwaretimes.com,oneindia.com###parentDiv0
 hwbot.org###partner-tiles
 cnn.com###partner-zone
 limesurvey.org###partnerbanner
@@ -54830,6 +54830,7 @@ sun-sentinel.com##.trb_sf_hl
 coinmarketcap.com##.trending-sponsored
 livemint.com##.trendingSimilarHeight
 thumbsnap.com##.ts-blurb-wrap
+telegraphindia.com##.ttdadbox310
 venturebeat.com##.tude-cw-wrap
 tutorialink.com##.tutorialink-ad1
 tutorialink.com##.tutorialink-ad2
@@ -54849,6 +54850,7 @@ grammar.yourdictionary.com##.ui-advertisement
 businessday.ng##.uiazojl
 nullpress.net##.uinyk-link
 zpaste.net##.uk-animation-shake
+telegraphindia.com##.uk-background-muted
 doodrive.com##.uk-margin > [href] > img
 igg-games.com##.uk-panel.widget-text
 softarchive.is##.un-link
@@ -55043,6 +55045,7 @@ greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 builtbybit.com##[data-advertisement-id]
 jobstreet.com.sg##[data-automation="homepage-banner-ads"]
 jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
+apnews.com##[data-card-id="sovrn-article-midarticle"]
 theblaze.com##[data-category="SPONSORED"]
 gab.com##[data-comment="gab-ad-comment"]
 curbed.com##[data-concert="prelude"]
