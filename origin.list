@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pykGO9YxdPIBElsMFcK9dA
-! Version: 202304042310
+! Checksum: rcQZYaRSmDpVL01HdovWaA
+! Version: 202304042331
 ! Title: EasyList
-! Last modified: 04 Apr 2023 23:10 UTC
+! Last modified: 04 Apr 2023 23:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -954,7 +954,7 @@
 /adman/*
 /adman_
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com
-/admanager/*$~object,domain=~konograma.com
+/admanager/*$~object,domain=~blog.google|~konograma.com
 /admanager3.
 /admanager_$domain=~konograma.com
 /admanagers/*
@@ -2633,7 +2633,6 @@
 /google-afc.
 /google-dfp-
 /google/ad?
-/google_ad_
 /google_ads/*
 /google_adsense-
 /google_adv/*
