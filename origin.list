@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NDA092kkePX7JNq6IJgEUA
-! Version: 202304072211
+! Checksum: D1XYoL+JyoZ2eHeIuG/7pg
+! Version: 202304072230
 ! Title: EasyList
-! Last modified: 07 Apr 2023 22:11 UTC
+! Last modified: 07 Apr 2023 22:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21422,6 +21422,7 @@ _800x80_
 ##a[href^="https://see.kmisln.com/"]
 ##a[href^="https://serve.awmdelivery.com/"]
 ##a[href^="https://spygasm.com/track?"]
+##a[href^="https://startgAming.net/tienda/"]
 ##a[href^="https://static.fleshlight.com/images/banners/"]
 ##a[href^="https://streamate.com/landing/click/"]
 ##a[href^="https://syndication.dynsrvtbg.com/"]
@@ -49703,6 +49704,9 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ||allthingsvegas.com/qygfenwalditeqyg/
 ||aupetitparieur.com//
 ||aupetitparieur.com/vy4-G/
+||bigleaguepolitics.com//
+||bigleaguepolitics.com/4nH14-G/
+||bigleaguepolitics.com/M69_5B/
 ||canadafreepress.com//
 ||canadafreepress.com/pFz5_A/
 ||concomber.com//
@@ -51980,7 +51984,8 @@ animefire.net##.divSection3
 ebaumsworld.com,greedyfinance.com##.divider
 thelist.com##.divider-heading-container
 karachicorner.com##.divimg
-weather.us##.dkpw-billboard-margin
+meteologix.com##.dkpw
+meteologix.com,weather.us##.dkpw-billboard-margin
 dongknows.com##.dkt-amz-deals
 dongknows.com##.dkt-banner-ads
 mazterize.com##.dl-g
@@ -51996,6 +52001,7 @@ capitalfm.com,radiox.co.uk,smoothradio.com##.download
 thepiratebay3.to##.download_buutoon
 drivespark.com##.dp-add-block
 thesun.co.uk##.dpa-slot
+bigleaguepolitics.com##.dpwv7kuyulez
 dola.com##.ds-brand
 dola.com##.ds-display-ad
 cryptonews.com##.dslot
@@ -53277,7 +53283,7 @@ igg-games.com##.taxonomy-description
 zenger.news##.tb_e2rr695
 bookriot.com##.tbr-promo
 ghpage.com##.td-a-ad
-aptoslife.com,aviacionline.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com##.td-a-rec
+aptoslife.com,aviacionline.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com##.td-a-rec
 zycrypto.com##.td-a-rec-id-content_bottom
 zycrypto.com##.td-a-rec-id-custom_ad_2
 unlockboot.com##.td-ads-home
@@ -53559,6 +53565,7 @@ coin360.com##.y49o7q
 titantv.com##.yRDh6z2_d0DkfsT3
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 pravda.ru##.yaRtbBlock
+bigleaguepolitics.com##.yav123
 yardbarker.com##.yb-card-ad
 yardbarker.com##.yb-card-out
 shockwave.com##.ympb_target_banner
@@ -53802,6 +53809,7 @@ calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
+fandomwire.com##[style^="min-height: 320px"]
 decrypt.co##[style^="min-width: 728px;"]
 ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
