@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4PHxQRkJ3dmDUE74GRRAVw
-! Version: 202304101650
+! Checksum: qbOJ+qZGAmZzdOKFEqAIxA
+! Version: 202304101710
 ! Title: EasyList
-! Last modified: 10 Apr 2023 16:50 UTC
+! Last modified: 10 Apr 2023 17:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2766,7 +2766,6 @@
 /img/_ad.
 /img/ad-
 /img/ad/*
-/img/ad_$domain=~kazi.co.jp|~rakuten.co.jp
 /img/ads/*$domain=~save.ca
 /img/adv.
 /img/adv/*
@@ -5519,6 +5518,7 @@ _800x80_
 ###ad-right-top
 ###ad-right2
 ###ad-right3
+###ad-rotator
 ###ad-row
 ###ad-section
 ###ad-separator
@@ -56256,7 +56256,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||borneobulletin.com.bn/wp-content/banners/bblogo.jpg$~third-party
 @@||brave.com/static-assets/$image,~third-party
 @@||britannica.com/mendel-resources/3-52/js/libs/prebid4.$script,~third-party
-@@||canadianlisted.com/img/ad_img/$~third-party
 @@||canadianlisted.com^*/ad/index.css$stylesheet,~third-party
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
 @@||carandclassic.co.uk/images/free_advert/$image,~third-party
@@ -56293,7 +56292,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||forum.miuiturkiye.net/konu/reklam.$~third-party,xmlhttprequest
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
 @@||franklymedia.com/*/300x150_WBNQ_TEXT.png$image,domain=wbnq.com
-@@||freelitecoin.vip/assets/img/ad_$~third-party
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fwmrm.net^*/AdManager.js$script
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|chromatographyonline.com|formularywatch.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com
