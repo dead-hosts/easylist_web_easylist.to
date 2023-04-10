@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0E0hkUb7BICNlNpk/ih7Sw
-! Version: 202304100940
+! Checksum: 7ZQ7tZIcYY4GeKmUA1JXaQ
+! Version: 202304101001
 ! Title: EasyList
-! Last modified: 10 Apr 2023 09:40 UTC
+! Last modified: 10 Apr 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50079,6 +50079,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||avantisvideo.com^$third-party
 ||boomselljamwelunch.com^
 ||brid.tv^$script,domain=67hailhail.com|deepdaledigest.com|forevergeek.com|geordiebootboys.com|hammers.news|hitc.com|molineux.news|nottinghamforest.news|rangersnews.uk|realitytitbit.com|spin.com|tbrfootball.com|thechelseachronicle.com|thefocus.news|thewrap.com|washingtonexaminer.com
+||caffeine.tv/embed.js
 ||cdn.ex.co^
 ||cdn.thejournal.ie/media/hpto/$image
 ||channelexco.com/player/$third-party
@@ -54893,6 +54894,7 @@ givemesport.com##.gms-videos-container
 anandtech.com##.jwplayer
 gamesradar.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 southernliving.com##.karma-sticky-rail
+gearjunkie.com##.ldm_ad
 videogames.si.com##.m-video
 bestrecipes.com.au,delicious.com.au,taste.com.au##.news-video
 sciencetimes.com##.player
@@ -54904,6 +54906,7 @@ playbuzz.com##.stickyplayer-container
 mentalfloss.com##.style_k8mr7b-o_O-style_1ts1q2h
 gamesradar.com,tomshardware.com,whathifi.com##.vid-present
 petapixel.com##.video-aspect-wrapper
+gearjunkie.com##.video-jwplayer
 consequence.net##.video_container
 hollywoodreporter.com##[id^="jwplayer"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
