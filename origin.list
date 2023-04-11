@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xgRR4dra8kdAcgUuri8CVg
-! Version: 202304111201
+! Checksum: rBHc/c5ecS+G+7DC9+pSDA
+! Version: 202304111220
 ! Title: EasyList
-! Last modified: 11 Apr 2023 12:01 UTC
+! Last modified: 11 Apr 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54890,6 +54890,7 @@ broadbandforum.co##ins[data-ad-client]
 unmineablesbest.com##ins[style^="display:inline-block;width:300px;height:250px;"]
 natureworldnews.com##label
 linkedin.com##li[data-is-sponsored="true"]
+linkvertise.com##lv-taboola-ctr-ad-dummy
 aniwatcher.com##main > [href] > [src]
 hentai-foundry.com##main > p
 porsche.com##myservices-cookie-banner
