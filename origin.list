@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BJR08jkWU8AT3gdIJV5DCg
-! Version: 202304110330
+! Checksum: GpC71YulT+69j6XXej2VvA
+! Version: 202304110350
 ! Title: EasyList
-! Last modified: 11 Apr 2023 03:30 UTC
+! Last modified: 11 Apr 2023 03:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51691,7 +51691,7 @@ missingremote.com###top-bar
 dotesports.com###top-billboard
 returnyoutubedislike.com###top-donors
 capetownmagazine.com###top-leader-wrapper
-carmag.co.za,thegazette.com###top-leaderboard
+austinchronicle.com,carmag.co.za,thegazette.com###top-leaderboard
 gogetaroomie.com###top-space
 progameguides.com###top-sticky-sidebar-container
 dotesports.com,gamepur.com###top-sticky-sidebar-wrapper
@@ -51838,6 +51838,7 @@ naturalnews.com##.INGHZXMVDCUF
 inverness-courier.co.uk##.LLKGTX
 kentonline.co.uk##.LeaderBack
 apnews.com##.Leaderboard
+fivebooks.com##.Leaderboard-container
 nationalgeographic.com##.LinkedImage
 inverness-courier.co.uk,johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
 wayfair.com##.MediaNativePlacement-wrapper-link
