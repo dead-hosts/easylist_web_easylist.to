@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: awBxytJ9KFg01OD/iTTwfA
-! Version: 202304121051
+! Checksum: FBDcknxYeISzCmPXBjWoww
+! Version: 202304121110
 ! Title: EasyList
-! Last modified: 12 Apr 2023 10:51 UTC
+! Last modified: 12 Apr 2023 11:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56540,6 +56540,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||securenetsystems.net/v5/scripts/
 @@||serviceads.co.uk/api/ad/$~third-party,xmlhttprequest
+@@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
 @@||showcase.codethislab.com/banners/$image,~third-party
 @@||shreemaruticourier.com/banners/$~third-party
