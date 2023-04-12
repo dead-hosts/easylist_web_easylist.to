@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lmr+G3DXh6FX2GROJq+iuA
-! Version: 202304120430
+! Checksum: 6jkSIDcqO8DlTcmSUmH0tg
+! Version: 202304120501
 ! Title: EasyList
-! Last modified: 12 Apr 2023 04:30 UTC
+! Last modified: 12 Apr 2023 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54409,7 +54409,7 @@ wccftech.com##[href^="https://cutt.ly/"]
 topfiveforex.com##[href^="https://fbs.com/promo/"]
 torrentgalaxy.to##[href^="https://gen4ever.com/"]
 pastemytxt.com##[href^="https://geturl.us/"]
-ahaan.co.uk,emailnator.com,scrolller.com##[href^="https://go.nordvpn.net/"]
+ahaan.co.uk,emailnator.com,myip.is,scrolller.com##[href^="https://go.nordvpn.net/"]
 bitcoiner.tv##[href^="https://go.stormgain.com/"]
 coinpaprika.com##[href^="https://go2nft.io"]
 imagetwist.com##[href^="https://imagetwist.com/pxt/"]
