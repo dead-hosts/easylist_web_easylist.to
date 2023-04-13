@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /tqOpCYScW+tXdgm9yHYTg
-! Version: 202304130150
+! Checksum: U8CwpRi6PN30hJuPA1Bd+w
+! Version: 202304130210
 ! Title: EasyList
-! Last modified: 13 Apr 2023 01:50 UTC
+! Last modified: 13 Apr 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3956,7 +3956,7 @@
 ://affiliates2.$third-party
 ://banner.$third-party
 ://banners.$third-party
-://promo.$third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
+://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 =admeld&
 =adshow&
 =adslot&
@@ -52015,6 +52015,7 @@ apnews.com##.Leaderboard
 fivebooks.com##.Leaderboard-container
 nationalgeographic.com##.LinkedImage
 inverness-courier.co.uk,johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
+modrinth.com##.MYYLVTXBPUVWMLVBPVSDLHADDRYFBF
 wayfair.com##.MediaNativePlacement-wrapper-link
 medievalists.net##.Mnet_TopLeft_970x250
 metservice.com##.Mrec-min-height
@@ -54520,6 +54521,7 @@ royalroad.com##[href^="/advertising/redirect"]
 discord.me##[href^="/cr/"]
 audiobookbay.nl##[href^="/down-"]
 ar15.com##[href^="/forums/transfer.html"]
+modrinth.com##[href^="http://bisecthosting.com/"]
 radiotoday.co.uk##[href^="http://go.radiotoday.co.uk/"]
 pooletown.co.uk,tossinggames.com,urbanartassociation.com##[href^="http://redirect.viglink.com"]
 eevblog.com##[href^="http://s.click.aliexpress.com/"]
@@ -56190,7 +56192,7 @@ cliniqueregain.com,tallermaintenancar.com##.thumbs
 smutty.com##.tig_following_tags2
 drtuber.com##.title-sponsored
 boundhub.com##.to1p
-scatxxxporn.com,daporn.com,fpo.xxx,hentai-moon.com,pornmix.org##.top
+daporn.com,fpo.xxx,hentai-moon.com,pornmix.org,scatxxxporn.com##.top
 jav.work##.top-banner
 pornfaia.com##.top-banner-single
 sexvid.xxx##.top-cube
