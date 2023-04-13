@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FIKAk20dq3K1MphAlS0r6Q
-! Version: 202304130231
+! Checksum: 69vSeOhwEzQFTX1ufm5QYw
+! Version: 202304130250
 ! Title: EasyList
-! Last modified: 13 Apr 2023 02:31 UTC
+! Last modified: 13 Apr 2023 02:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51703,6 +51703,8 @@ box-core.net,mma-core.com###rrec
 anisearch.com###rrightX
 noqreport.com###rumble_vj59vh
 protocol.com###sHome_0_0_3_0_0_5_1_0_2
+out.com###sPost_Layout_Default_0_0_14_0_0_2_2
+advocate.com###sPost_Layout_Default_0_0_16_0_0_2_2
 digminecraft.com###sabl
 flatpanelshd.com###sb-site > .hidden-xs.container
 wowway.net###sc_home_header_banner
@@ -52942,7 +52944,7 @@ comedy.com##.floater-prebid
 chaseyoursport.com##.floating-adv
 momjunction.com##.flying-carpet-wrapper
 radiozindagi.com##.foot_top
-emergencyemail.org,out.com##.footer
+advocate.com,emergencyemail.org,out.com##.footer
 allthatsinteresting.com,scientificamerican.com##.footer-banner
 supercars.com##.footer-promo
 filma24.ch##.footer-reklama
@@ -53553,7 +53555,6 @@ lowtoxlife.com##.openpay-footer
 thedigitalfix.com##.ot-widget-banner
 otakuusamagazine.com##.otaku_big_ad
 thesaurus.com##.otd-item__bottom
-advocate.com,out.com##.ourSponsors
 mma-core.com##.outVidAd
 egmnow.com##.outbrain-wrapper
 techadvisor.com##.outer-wrapper
