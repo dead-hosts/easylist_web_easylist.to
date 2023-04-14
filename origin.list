@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Hcg1mdoSeF4Jden9cyS1Dg
-! Version: 202304140610
+! Checksum: 64r6wYvU+hJ/6mId8mzILQ
+! Version: 202304140631
 ! Title: EasyList
-! Last modified: 14 Apr 2023 06:10 UTC
+! Last modified: 14 Apr 2023 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54244,7 +54244,7 @@ justjared.com,justjaredjr.com##.top_rail_shell
 allnigerianrecipes.com,antimusic.com,roadtests.com##.topad
 eurointegration.com.ua##.topban_r
 axisbank.com##.topbandBg_New
-allmonitors24.com,streamable.com##.topbanner
+algemeiner.com,allmonitors24.com,streamable.com##.topbanner
 drugs.com##.topbanner-wrap
 belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 blabber.buzz##.topfeed
@@ -54683,6 +54683,7 @@ timesnownews.com##[style="min-height: 181px;"]
 calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
+newagebd.net##[style^="float:left; width:320px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
 fandomwire.com##[style^="min-height: 320px"]
 decrypt.co##[style^="min-width: 728px;"]
