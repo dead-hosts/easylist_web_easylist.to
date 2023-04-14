@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cH4N9eE0qRLringdMTGWRg
-! Version: 202304140820
+! Checksum: XrshWlOUFV9Yn/SFWfdLZg
+! Version: 202304140840
 ! Title: EasyList
-! Last modified: 14 Apr 2023 08:20 UTC
+! Last modified: 14 Apr 2023 08:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51627,6 +51627,7 @@ moomoo.io###menuContainer > .menuCard
 peacemakeronline.com###middle_banner_section
 bleedingcool.com###middle_medium_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
+dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
 sportskeeda.com###mob3-cnx-container-bottom
 pocketgamer.com###mobile-background
@@ -53703,6 +53704,7 @@ thetowner.com##.powered
 thecoinrise.com##.pp_ad_block
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
+oneesports.gg##.pr-sm-4
 foxbusiness.com##.pre-content
 sassymamahk.com##.pre_header_widget
 vivo.sx##.preload
@@ -54123,6 +54125,7 @@ todayuknews.com##.stream-item-top-wrapper
 hardwaretimes.com##.stream-item-widget
 coinpedia.org##.stream-title
 stellar.ie##.stuck
+dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 troypoint.com##.su-box
 gearspace.com##.subforum-sponsor
