@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ARsIBTsR/1hMJStBl2x/dQ
-! Version: 202304140720
+! Checksum: 4/uSg+7qH0wSoKL72eXoKQ
+! Version: 202304140740
 ! Title: EasyList
-! Last modified: 14 Apr 2023 07:20 UTC
+! Last modified: 14 Apr 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51870,7 +51870,7 @@ premiumtimesng.com###text-440
 eevblog.com###text-49
 computips.org,techlife.com,technipages.com###text-5
 2smsupernetwork.com###text-50
-2smsupernetwork.com,times.co.zm###text-6
+2smsupernetwork.com,snowbrains.com,times.co.zm###text-6
 yugatech.com###text-69
 kollelbudget.com###text-70
 kollelbudget.com###text-78
@@ -53591,6 +53591,7 @@ otakuusamagazine.com##.otaku_big_ad
 thesaurus.com##.otd-item__bottom
 mma-core.com##.outVidAd
 egmnow.com##.outbrain-wrapper
+businesstoday.in##.outer-add-section
 techadvisor.com##.outer-wrapper
 aminoapps.com##.overflow-scroll-sidebar > div
 golfweather.com##.ox300x250
