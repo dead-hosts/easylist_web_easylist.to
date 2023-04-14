@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: r6WAV8qEC/AtaCUiSujaJg
-! Version: 202304142040
+! Checksum: XGOKiA2uXLTTwwHpZ9CRng
+! Version: 202304142101
 ! Title: EasyList
-! Last modified: 14 Apr 2023 20:40 UTC
+! Last modified: 14 Apr 2023 21:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52966,6 +52966,7 @@ marcadores247.com##.es_top_banner
 shtfplan.com,yournews.com##.et_pb_code_inner
 appleinsider.com##.exclusive-wrap
 mashable.com##.exco
+nypost.com##.exco-video__container
 metric-conversions.org##.exists
 streamingmedia.com##.expand
 appuals.com##.expu-protipeop
