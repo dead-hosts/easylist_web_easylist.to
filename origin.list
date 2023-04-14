@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fCPPHER03x9avTw9wHrnsg
-! Version: 202304140240
+! Checksum: MwEC04AMvKjfbFCE2T9enw
+! Version: 202304140302
 ! Title: EasyList
-! Last modified: 14 Apr 2023 02:40 UTC
+! Last modified: 14 Apr 2023 03:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -929,7 +929,7 @@
 /adlantis.
 /adlayer.
 /adlayer/*
-/adlead.$domain=~adlead.com|~adlead.pro|~adlead.ru
+/adlead.$domain=~adlead.co.il|~adlead.com|~adlead.pro|~adlead.ru
 /adleader.
 /adleft.
 /adleft/*
