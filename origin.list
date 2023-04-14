@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MwEC04AMvKjfbFCE2T9enw
-! Version: 202304140302
+! Checksum: FSIVFdIn82Yq9Y/WEPvV8w
+! Version: 202304140320
 ! Title: EasyList
-! Last modified: 14 Apr 2023 03:02 UTC
+! Last modified: 14 Apr 2023 03:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50237,6 +50237,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
 ||sermonaudio.com/images/sponsors/
+||serve.v3rmillion.net^
 ||sgtreport.com/wp-content/uploads/*Banner
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
@@ -51747,6 +51748,7 @@ hometheaterreview.com###section-246-102074
 neoseeker.com###section-pagetop
 searchenginejournal.com###sej-pop-wrapper
 analyticsinsight.net###sgpb-popup-dialog-main-div-wrapper
+v3rmillion.net###sharingPlace
 filedropper.com,lifenews.com###sidebar
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
 tellymix.co.uk###sidebar > div[style]
