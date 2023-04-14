@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZpawQp6+oIoIEJhhNMFRzw
-! Version: 202304140550
+! Checksum: Hcg1mdoSeF4Jden9cyS1Dg
+! Version: 202304140610
 ! Title: EasyList
-! Last modified: 14 Apr 2023 05:50 UTC
+! Last modified: 14 Apr 2023 06:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52177,6 +52177,7 @@ cheatcodes.com##.ad_btf_728
 auto-data.net##.ad_incar
 bigislandnow.com##.ad_mobileleaderboard
 kitco.com##.ad_space_730
+outlookindia.com##.ad_unit_728x90
 queerty.com##.adb-box-large
 queerty.com##.adb-top-lb
 tellymix.co.uk##.adb_top
