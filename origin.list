@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 64r6wYvU+hJ/6mId8mzILQ
-! Version: 202304140631
+! Checksum: LYxDmXHc/JRXYmo6G+N5EA
+! Version: 202304140650
 ! Title: EasyList
-! Last modified: 14 Apr 2023 06:31 UTC
+! Last modified: 14 Apr 2023 06:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23605,6 +23605,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||adsyst.biz^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
 ||adtaily.com^
@@ -53082,6 +53083,7 @@ topminecraftservers.org##.grey-section
 teleboy.ch##.grid-col-content-leaderboard
 groovypost.com##.groov-adlabel
 saultonline.com##.gsmfab
+gulftoday.ae##.gt-ad-center
 gulf-times.com##.gt-horizontal-ad
 gulf-times.com##.gt-square-desktop-ad
 gulf-times.com##.gt-vertical-ad
