@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UOzkeBQJbdgtmnWtEr2n4Q
-! Version: 202304151150
+! Checksum: E12PSEm4h6RnDEWo6PRs1A
+! Version: 202304151210
 ! Title: EasyList
-! Last modified: 15 Apr 2023 11:50 UTC
+! Last modified: 15 Apr 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10139,7 +10139,7 @@ _800x80_
 ##.AdsBoxSection
 ##.AdsBoxTop
 ##.AdsInnov_responsive_ad
-##.AdsLayout
+##.AdsLayout__top-container
 ##.AdsSections
 ##.AdsSlot
 ##.Ads_3
@@ -55659,6 +55659,7 @@ privacytools.io#?#.container:-abp-has(.tag .fa-adversal)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
 decrypt.co#?#span:-abp-contains(AD)
+qwant.com#?#.is-sidebar:-abp-has(a[data-testid="advertiserAdsLink"])
 outlook.live.com#?#div.customScrollBar > div > div.full:-abp-has(img[src$="/images/ads-olk-icon.png"])
 search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 playpilot.com#?#.search-preview .side:-abp-has(> .provider)
