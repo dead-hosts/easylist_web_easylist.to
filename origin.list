@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OwiE0n2E2A/xpo6CmhpprA
-! Version: 202304150851
+! Checksum: Yt3vMx1+rN1bUAK0BpVVGg
+! Version: 202304150911
 ! Title: EasyList
-! Last modified: 15 Apr 2023 08:51 UTC
+! Last modified: 15 Apr 2023 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52560,7 +52560,9 @@ thelocal.com,thelocal.dk,thelocal.se##.article-sponsored
 people.com##.articleContainer__rail
 audizine.com##.articleIMG
 ubergizmo.com##.article_card_promoted
+wikiwand.com##.article_footerStickyAd__wvdui
 news18.com##.article_mad
+wikiwand.com##.article_sectionAd__rMyBc
 arcadespot.com##.as-incontent
 arcadespot.com##.as-label
 arcadespot.com##.as-unit
@@ -52927,6 +52929,7 @@ businessinsider.com.au##.content-section-banner
 crmbuyer.com,ectnews.com,macnewsworld.com,technewsworld.com##.content-tab-slinks
 discord.me,searchenginejournal.com##.content-unit
 ancient-origins.net##.content_add_block
+wikiwand.com##.content_headerAd__USjzd
 nationalmemo.com##.content_nm_placeholder
 usedcarnews.com##.continut
 metar-taf.com##.controls-right
