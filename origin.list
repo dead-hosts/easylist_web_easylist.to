@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SgsmOEAFuIN3lmWBsTNfzQ
-! Version: 202304150210
+! Checksum: olOKzV40a7nd5GZr9jVBew
+! Version: 202304150231
 ! Title: EasyList
-! Last modified: 15 Apr 2023 02:10 UTC
+! Last modified: 15 Apr 2023 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55171,7 +55171,7 @@ airplaydirect.com,cultofcalcio.com,dailynews.lk,economicconfidential.com,newzimb
 windycitymediagroup.com,windycitytimes.com##img[name="Sponsor"]
 callofwar.com,supremacy1914.com##img[referrerpolicy]
 nsfwyoutube.com##img[src*="data"]
-duplichecker.com##img[src*="data:image"]
+1337x.to,duplichecker.com##img[src*="data:image"]
 eevblog.com##img[src^="https://www.eevblog.com/images/comm/eevblog_banner_"]
 bcmagazine.net##img[style^="width:300px;"]
 abpclub.co.uk##img[width="118"]
