@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BgE6Bv1OfX6mjLGkLc05SQ
-! Version: 202304150831
+! Checksum: OwiE0n2E2A/xpo6CmhpprA
+! Version: 202304150851
 ! Title: EasyList
-! Last modified: 15 Apr 2023 08:31 UTC
+! Last modified: 15 Apr 2023 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2365,6 +2365,7 @@
 /dfp_async.
 /dfp_js/*
 /dfpNew.
+/didna_config.js
 /directrev.
 /discourse-adplugin-
 /discuss_ad/*
@@ -52900,7 +52901,7 @@ hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 cointelegraph.com##.componentAdbutler_UHZMO
-dailymail.co.uk##.connatix-wrapper
+dailymail.co.uk,thisismoney.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
 washingtontimes.com##.connatixcontainer
 beincrypto.com##.cont-wrapper
@@ -54305,7 +54306,7 @@ kathmandupost.com##.sticky--bottom
 rugbyonslaught.com##.sticky-add
 gr8.cc,psycatgames.com##.sticky-banner
 note.nkmk.me##.sticky-block
-golfmagic.com,kbb.com##.sticky-container
+golfmagic.com,kbb.com,thisismoney.co.uk##.sticky-container
 goterriers.com##.sticky-footer
 walletinvestor.com##.sticky-footer-content
 babylonbee.com##.sticky-footer-image
@@ -55653,6 +55654,7 @@ slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
 decrypt.co#?#span:-abp-contains(AD)
 search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
+playpilot.com#?#.search-preview .side:-abp-has(> .provider)
 protrumpnews.com#?#.show-on-ptn:-abp-has(.pre-announcement)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
@@ -56678,11 +56680,13 @@ lewdgamer.com##div[id^="spot-"]
 hentaiff.com##div[id^="teaser"]
 pornhub.com,youporngay.com##div[onclick*="bp1.com"]
 simpcity.su##div[style="text-align:center;margin-bottom:20px;"]
+redgifs.com##div[style="width: 300px; height: 250px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 pornpics.network##div[style^="height: 250px;"]
 gay0day.com##div[style^="height:250px;"]
 thehentai.net##div[style^="width:300px; height:250px;"]
 rateherpussy.com##font[size="1"][face="Verdana"]
+smutty.com##iframe[scrolling="no"]
 xcafe.com##iframe[src]
 watchteencam.com##iframe[src^="http://watchteencam.com/images/"]
 manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
