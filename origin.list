@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c58wtYSc4bMezpj+sX50AA
-! Version: 202304170601
+! Checksum: mPXWiJGE0sOPB4fosrI+Zg
+! Version: 202304170620
 ! Title: EasyList
-! Last modified: 17 Apr 2023 06:01 UTC
+! Last modified: 17 Apr 2023 06:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55562,6 +55562,9 @@ consequence.net##.video_container
 hollywoodreporter.com##[id^="jwplayer"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
+! dark pattern adverts
+booking.com##.js_sr_persuation_msg
+booking.com##.sr-motivate-messages
 ! Google https://forums.lanik.us/viewtopic.php?f=62&t=45153
 ##.section-subheader > .section-hotel-prices-header
 ! yahoo
