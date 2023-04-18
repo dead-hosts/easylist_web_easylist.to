@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /6SAgbVA62eH5GkzdSWHkQ
-! Version: 202304180350
+! Checksum: WeNou2S91VCQGYJNswgzvw
+! Version: 202304180410
 ! Title: EasyList
-! Last modified: 18 Apr 2023 03:50 UTC
+! Last modified: 18 Apr 2023 04:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2359,7 +2359,6 @@
 /dfp.min.js$third-party
 /dfp/async.
 /dfp/dc.js
-/dfp/dfp-
 /dfp/head/*
 /dfp/jquery.
 /dfp_async.
