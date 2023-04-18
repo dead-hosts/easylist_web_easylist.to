@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QS+PJm1h+/Tc+rDNTxDmxw
-! Version: 202304180720
+! Checksum: WTsyqX3Rqk8iXqOXRaI70w
+! Version: 202304180740
 ! Title: EasyList
-! Last modified: 18 Apr 2023 07:20 UTC
+! Last modified: 18 Apr 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52595,6 +52595,7 @@ businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au#
 zeenews.india.com##.add-placeholder
 moneycontrol.com##.add-spot
 media4growth.com##.add-text
+brandingmag.com##.add-wrap
 ndtv.com##.add-wrp
 muslimobserver.com##.add2
 projectorcentral.com##.addDiv2
