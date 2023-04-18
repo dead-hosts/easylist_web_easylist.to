@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4SJtjRT0T5P1I1NDbRK9cQ
-! Version: 202304180140
+! Checksum: wQufxLcXbBJIDRRCtID2VQ
+! Version: 202304180202
 ! Title: EasyList
-! Last modified: 18 Apr 2023 01:40 UTC
+! Last modified: 18 Apr 2023 02:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57539,6 +57539,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
 @@||hutchgo.advertserve.com^$popup,domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||serving-sys.com/Serving/adServer.bs?$popup,domain=spaargids.be
+@@||trace.playwright.dev^$popup
 @@||vk.com/ads?$popup,domain=vk.com
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
 @@||youtube.com/ads/preferences/$popup
