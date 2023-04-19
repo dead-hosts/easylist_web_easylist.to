@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Yh113b4uqCchk8UBzqTpaw
-! Version: 202304190940
+! Checksum: tOYEsaVc+gEO9PWIHdqbPA
+! Version: 202304191001
 ! Title: EasyList
-! Last modified: 19 Apr 2023 09:40 UTC
+! Last modified: 19 Apr 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21968,6 +21968,7 @@ bavaria86.com,ransquawk.com,trh.sk#@#.adverts
 stjornartidindi.is#@#.adverttext
 staircase.pl#@#.adwords
 consumerist.com#@#.after-post-ad
+dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
 dr.dk#@#.banner-ad-container
@@ -52202,7 +52203,7 @@ palestinechronicle.com###media_image-4
 mostlyblogging.com###media_image-5
 cgchannel.com###mediumRectangle
 moomoo.io###menuContainer > .menuCard
-voiranime.com###mg_vd 
+voiranime.com###mg_vd
 peacemakeronline.com###middle_banner_section
 bleedingcool.com###middle_medium_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
