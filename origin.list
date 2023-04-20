@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZHk1xJuFbUvPHCxYQQn/2w
-! Version: 202304200231
+! Checksum: PPh5vmqxt8CkdZ4WCjzZKw
+! Version: 202304200250
 ! Title: EasyList
-! Last modified: 20 Apr 2023 02:31 UTC
+! Last modified: 20 Apr 2023 02:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54868,6 +54868,7 @@ ghpage.com##.tdi_63
 coinedition.com##.tdi_95
 coinedition.com##.tdm-inline-image-wrap
 who.is##.teaser-bar
+technology.org##.techorg-banner
 sporcle.com##.temp-unit
 macrumors.com##.tertiary
 ericpetersautos.com##.text-109
