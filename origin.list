@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IlYog25tyoTJMtJktwF49A
-! Version: 202304200831
+! Checksum: ExqoNe+Mam+W0az70PgAjg
+! Version: 202304200850
 ! Title: EasyList
-! Last modified: 20 Apr 2023 08:31 UTC
+! Last modified: 20 Apr 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56270,6 +56270,7 @@ sainsburys.co.uk#?#.productESpot:-abp-has(.strapline:-abp-contains(Sponsored))
 independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[class^="sc-"] > div[data-ad-unit-path])
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 privacytools.io#?#.container:-abp-has(.tag .fa-adversal)
+backpack.tf#?#.panel:-abp-contains(createAd)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
 decrypt.co#?#span:-abp-contains(AD)
