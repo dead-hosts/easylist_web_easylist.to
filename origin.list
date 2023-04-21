@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4yacSe1Hg3V/IUl/sOh1Vw
-! Version: 202304210820
+! Checksum: Kd7qkvsgEYPQs4PyzbU6LA
+! Version: 202304210840
 ! Title: EasyList
-! Last modified: 21 Apr 2023 08:20 UTC
+! Last modified: 21 Apr 2023 08:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52764,7 +52764,7 @@ androidauthority.com##.-Yc
 porndoe.com##.-h-banner-svg-desktop
 hellomagazine.com##.-variation-megabanner
 advfn.com##.APS_TOP_BANNER_468_X_60_container
-bendsource.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
+bendsource.com,buzzfeed.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
 thescore.com##.Ad__container--2fhQb
 therealdeal.com##.Ad_rootHomepage__mSzqh
@@ -53434,6 +53434,7 @@ challonge.com##.cake-unit
 bloomberg.com##.canopy-container
 thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
+buzzfeed.com##.card--article-ad
 u.today##.card--something-md
 devdiscourse.com##.carousel
 faroutmagazine.co.uk,hitc.com##.carpet-border
