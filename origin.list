@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rADLIaFAV8jDzkGdA78QjQ
-! Version: 202304220320
+! Checksum: rJ5/xlvBphRAjgmmN3D4aQ
+! Version: 202304220340
 ! Title: EasyList
-! Last modified: 22 Apr 2023 03:20 UTC
+! Last modified: 22 Apr 2023 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14400,7 +14400,6 @@ _800x80_
 ##.adver_bot
 ##.adver_cont_below
 ##.adver_home
-##.advert--aside
 ##.advert--background
 ##.advert--banner-wrap
 ##.advert--fallback
@@ -14555,7 +14554,6 @@ _800x80_
 ##.advert_300x250
 ##.advert_336
 ##.advert_468x60
-##.advert__autofill_vertical
 ##.advert__container
 ##.advert__fullbanner
 ##.advert__leaderboard
@@ -51122,6 +51120,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||breitbart.com/t/assets/js/prebid
 ||bustle.com^*/prebid-
 ||jwplatform.com/libraries/tdeymorh.js
+||purexbox.com/javascript/gn/prebid-
 ||wsj.net/pb/pb.js
 ! firework
 ||fireworkapi1.com^$domain=boldsky.com
