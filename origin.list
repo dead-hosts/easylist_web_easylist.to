@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9gQGUMogj89nRdOmWkqR0A
-! Version: 202304221940
+! Checksum: OS84n14TZCEwQRwUx67H7A
+! Version: 202304222001
 ! Title: EasyList
-! Last modified: 22 Apr 2023 19:40 UTC
+! Last modified: 22 Apr 2023 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49475,6 +49475,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||legitonlinejobs.com/images/$third-party
 ||lesmeilleurs-jeux.net/images/ban/
 ||lessemf.com/images/banner-
+||libcdnjs.com/js/script.js
 ||link.link.ru^
 ||linkconnector.com/tr.php
 ||linkconnector.com/traffic_record.php
@@ -56327,6 +56328,9 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+cargurus.com#?#div[data-cg-ft="car-blade"]:-abp-has(div[data-cg-ft="sponsored-listing-badge"])
+sephora.com#?#div[class^="css-"]:-abp-has(>a:-abp-has(span:-abp-contains(Sponsored)))
+sephora.com#?#div[data-comp^="RmnBanner"]:-abp-has(p:-abp-contains(Sponsored))
 booking.com#?#div[data-testid="property-card"]:-abp-has(div[data-testid="new-ad-design-badge"])
 booking.com#?#div[data-testid="property-card"]:-abp-has(span[data-testid="new-ad-design-badge"])
 countdown.co.nz#?#cdx-card:-abp-has(product-badge-list)
