@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NfI2eahRYtNnngI+BWTzkg
-! Version: 202304231140
+! Checksum: VtnUSC85YrtVcnoBCcpjng
+! Version: 202304231201
 ! Title: EasyList
-! Last modified: 23 Apr 2023 11:40 UTC
+! Last modified: 23 Apr 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56020,7 +56020,7 @@ decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 keybr.com##div[style^="position:relative;min-width:"]
 gtaforums.com##div[style^="text-align: center; margin: 0px 0px 10px;"]
 live365.com##div[style^="width: 300px;"]
-integral-calculator.com,live365.com,passiveaggressivenotes.com,twcenter.net##div[style^="width: 728px;"]
+gelbooru.com,integral-calculator.com,live365.com,passiveaggressivenotes.com,twcenter.net##div[style^="width: 728px;"]
 thejournal-news.net##div[style^="width:300px;"]
 napuzba.com##div[style^="width:336px"]
 jwire.com.au##div[style^="width:468px;"]
