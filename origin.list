@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OpP+1I2rvkRCEUQ54pjB1g
-! Version: 202304222350
+! Checksum: fU+VFMATPWvD7KUzHU+ZQA
+! Version: 202304230010
 ! Title: EasyList
-! Last modified: 22 Apr 2023 23:50 UTC
+! Last modified: 23 Apr 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54126,6 +54126,7 @@ tuko.co.ke##.l-adv-branding__top
 iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
 si.com##.l-inline.m-detail--feature-container
+3dprint.com##.lap-block-items
 ptonline.com##.large-horizontal-banner
 weatherpro.com##.large-leaderboard
 dispatchtribunal.com,thelincolnianonline.com##.large-show
