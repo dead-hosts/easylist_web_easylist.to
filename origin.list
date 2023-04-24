@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +Az/qiLF0vPhtJh4OJyunA
-! Version: 202304232340
+! Checksum: 7DF1S3O8IFJTwNuBkSLj6A
+! Version: 202304240002
 ! Title: EasyList
-! Last modified: 23 Apr 2023 23:40 UTC
+! Last modified: 24 Apr 2023 00:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52969,6 +52969,7 @@ govtech.com##.Page-billboard
 ask.com##.PartialKelkooResults
 hulu.com##.PauseAdCreative-wrap
 imgur.com##.PrimisPlayerContainer
+tech.hindustantimes.com##.ProductAffilateWrapper
 citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
@@ -53715,6 +53716,7 @@ genius.com##.cujBpY
 speedrun.com##.curse
 addictivetips.com,coinweek.com,simscommunity.info##.custom-html-widget
 noqreport.com##.custom-html-widget [href] > [src]
+breakingnews.ie##.custom-mpu-container
 ehitavada.com##.custom-popup
 trancentral.tv##.custom_banners_big_link
 total-croatia-news.com##.custombanner
@@ -55206,6 +55208,7 @@ cryptoslate.com##.top-sticky
 playbuzz.com##.top-stickyplayer-container
 ada.org,globes.co.il,techcentral.ie,texteditor.co,versus.com##.topBanner
 pcworld.com##.topDeals
+tech.hindustantimes.com##.topGadgetsAppend
 tutorviacomputer.com##.topMargin15
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com##.topWrapper
 giveawayoftheday.com,informer.com##.top_ab
