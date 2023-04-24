@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PoR0J2sP7Buzwy/sqyz6xg
-! Version: 202304240840
+! Checksum: UHRwSA0qdNVtkjutJWj7Lg
+! Version: 202304240901
 ! Title: EasyList
-! Last modified: 24 Apr 2023 08:40 UTC
+! Last modified: 24 Apr 2023 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54491,6 +54491,7 @@ dailymail.co.uk##.mpu_puff_wrapper
 mapquest.com##.mq-bizLocs-container
 mapquest.co.uk,mapquest.com##.mqBizLocsContainer
 10play.com.au,geo.tv,jozifm.co.za,nwherald.com,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
+auto.economictimes.indiatimes.com##.mrec-ads-slot
 dkoding.in##.mrf-adv__wrapper
 motorsport.com##.ms-ap
 autosport.com##.ms-apb
