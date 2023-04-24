@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NhLgDUng/IKbh2Os5UyRtw
-! Version: 202304232320
+! Checksum: +Az/qiLF0vPhtJh4OJyunA
+! Version: 202304232340
 ! Title: EasyList
-! Last modified: 23 Apr 2023 23:20 UTC
+! Last modified: 23 Apr 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53383,6 +53383,7 @@ domainnamewire.com,ghostbin.me,i24news.tv,marinetechnologynews.com,maritimepropu
 theportugalnews.com##.banners-250
 rt.com##.banners__border
 unixmen.com##.banners_home
+kildarenow.com##.bannervcms
 m.economictimes.com##.bannerwrapper
 barrons.com##.barrons-body-ad-placement
 marketscreener.com##.bas
@@ -55218,7 +55219,7 @@ axisbank.com##.topbandBg_New
 algemeiner.com,allmonitors24.com,streamable.com##.topbanner
 drugs.com##.topbanner-wrap
 papermag.com##.topbarplaceholder
-belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
+belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 blabber.buzz##.topfeed
 drivespark.com##.topsection div[style^="float"]
 cambridge.org##.topslot-container
