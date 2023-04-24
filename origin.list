@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H4zR/oCCBlerjowmFayacw
-! Version: 202304240020
+! Checksum: KI8YBBScPc4P9zBaMc79Ng
+! Version: 202304240040
 ! Title: EasyList
-! Last modified: 24 Apr 2023 00:20 UTC
+! Last modified: 24 Apr 2023 00:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54165,6 +54165,7 @@ pcgamesn.com,pockettactics.com,theloadout.com##.inlinerail
 nzbindex.com##.inner
 inquirer.com##.inno-ad
 inquirer.com##.inno-ad__ad
+donegaldaily.com##.inpage_banner
 nintendolife.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
