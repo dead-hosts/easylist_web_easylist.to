@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 12SSpuiCaBBbz+fnZxw59A
-! Version: 202304251801
+! Checksum: lakvZF5mQlGCMOTFyw8jvw
+! Version: 202304251820
 ! Title: EasyList
-! Last modified: 25 Apr 2023 18:01 UTC
+! Last modified: 25 Apr 2023 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1963,7 +1963,8 @@
 /amp-ad-
 /amp-connatix-
 /amp4ads-
-/ane-popup-banner/ane-popup-banner.js
+/ane-popup-banner.js
+/ane-popup.js
 /ane-preroll/preroll.js
 /annonse.$domain=~annonse.nu
 /annonse/*
@@ -3208,6 +3209,7 @@
 /plugins/ads/*
 /plugins/adsanity-
 /plugins/advanced-ads/*$domain=~wordpress.org
+/plugins/ane-banners-
 /plugins/ane-preroll-
 /plugins/cactus-ads/*$script,stylesheet
 /plugins/cpx-advert/*$script
@@ -49150,6 +49152,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||realitycash.com^$third-party
 ||realitytraffic.com^$third-party
 ||recreativ.ru^$third-party
+||red-bees.com^$third-party
 ||redlightcenter.com^$third-party
 ||redpineapplemedia.com^$third-party
 ||reliablebanners.com^$third-party
@@ -50618,6 +50621,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||4fcams.com/in/?track=$subdocument,third-party
 ||4tube.com/iframe/$third-party
 ||69games.xxx/ajax/skr?
+||a.adult-videos.org^
 ||a1tb.com/300x250$subdocument
 ||adult.xyz^$script,third-party
 ||adultfriendfinder.com/go/$third-party
