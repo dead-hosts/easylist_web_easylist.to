@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cZJspF02uNBrFQu4+jxAEA
-! Version: 202304250240
+! Checksum: 1t6lZCDRUNadAkKCqPwTjA
+! Version: 202304250302
 ! Title: EasyList
-! Last modified: 25 Apr 2023 02:40 UTC
+! Last modified: 25 Apr 2023 03:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53265,7 +53265,6 @@ ip-address.org##.aduns2
 ansamed.info,baltic-course.com,futbol24.com,gatewaynews.co.za,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,prohaircut.com,railcolornews.com,zbani.com##.adv
 blastingnews.com##.adv-box-content
 healthleadersmedia.com##.adv-con
-pgatour.com##.adv-dummy
 junauza.com##.adv-hd
 business-standard.com##.adv-height-135
 business-standard.com##.adv-height-220
@@ -53779,6 +53778,7 @@ gamingbible.co.uk##.css-1i2p7ui
 bmj.com##.css-1jjs1rx
 cruisecritic.co.uk,cruisecritic.com,cruisecritic.com.au##.css-1kyizeh
 infowars.com##.css-1nbwp0k
+pgatour.com##.css-1p0f086
 eviemagazine.com##.css-1pm6hh5
 keeb-finder.com##.css-1s33rak
 infowars.com##.css-1upmbem
@@ -53787,6 +53787,7 @@ infowars.com##.css-1vj1npn
 healthline.com,medicalnewstoday.com##.css-1wm8u43
 stylist.co.uk##.css-8me5ln
 eviemagazine.com##.css-9n98hk
+pgatour.com##.css-cl2hq
 eviemagazine.com##.css-ipk9pc
 nytimes.com##.css-oeful5
 eviemagazine.com##.css-re7z9l
@@ -53882,6 +53883,7 @@ animefire.net##.divSection3
 ebaumsworld.com,greedyfinance.com##.divider
 thelist.com##.divider-heading-container
 karachicorner.com##.divimg
+fruitnet.com##.dk-ad-250
 meteologix.com##.dkpw
 meteologix.com,weather.us##.dkpw-billboard-margin
 dongknows.com##.dkt-amz-deals
@@ -54498,6 +54500,7 @@ ibtimes.co.uk##.middle-leaderboard
 spectator.com.au##.middle-promo
 coincodex.com##.middle3
 thefastmode.com##.middlebanner
+fruitnet.com##.midpageAdvert
 extremetech.com##.min-h-24
 stripes.com##.min-h90
 kitco.com##.mining-banner-container
@@ -55267,6 +55270,7 @@ putlockers.do##.textb
 sciencedaily.com##.textrule
 evilbeetgossip.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
 tftcentral.co.uk##.tftce-adlabel
+thejakartapost.com##.the-brief
 vaughn.live##.theMvnAbvsLowerThird
 steelersdepot.com##.theiaStickySidebar
 aardvark.co.nz##.tinyprint
