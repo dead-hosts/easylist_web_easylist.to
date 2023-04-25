@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +PFVOBPJDe9Im0LwaeRQEQ
-! Version: 202304250120
+! Checksum: ekD6yQZUCqv73ESCSXkLOQ
+! Version: 202304250140
 ! Title: EasyList
-! Last modified: 25 Apr 2023 01:20 UTC
+! Last modified: 25 Apr 2023 01:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52350,6 +52350,7 @@ cheese.com,investorplace.com###bottom-banner
 audioreview.com###bottom-leaderboard
 reverso.net###bottom-mega-rca-box
 nytimes.com,nytimes3xbfgragh.onion###bottom-wrapper
+streetinsider.com###bottom_ad_fixed
 finbold.com###bottom_anchor
 funkypotato.com###bottom_banner_wrapper
 bleedingcool.com,jamaicaobserver.com###bottom_leaderboard
@@ -54910,6 +54911,7 @@ jta.org##.right-rail-container
 medpagetoday.com##.right-rail-panel
 jpost.com##.right-side-banner
 slickdeals.net##.rightRailBannerSection
+boomlive.in##.right_ad_4
 gamemodding.com##.right_banner
 softicons.com##.right_ga
 smartasset.com##.riklam-container
