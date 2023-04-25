@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rKdkvfTJ8dsuG5BwQwSSdQ
-! Version: 202304250701
+! Checksum: zBMzZiD33/R2xUcd12Qr7Q
+! Version: 202304250720
 ! Title: EasyList
-! Last modified: 25 Apr 2023 07:01 UTC
+! Last modified: 25 Apr 2023 07:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54227,6 +54227,7 @@ barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 wtop.com##.hubb-at-rad-header
+huddle.today##.huddle-big-box-placement
 myabandonware.com##.i528
 animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
@@ -55058,6 +55059,7 @@ sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 metalsucks.net##.single-300-insert
 abovethelaw.com##.single-post__sponsored-post--desktop
+policyoptions.irpp.org##.single__ad
 deshdoaba.com##.site-branding
 sassyhongkong.com##.site-leaderboard
 dailycoffeenews.com##.site-top-ad-desktop
