@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CqodIdk9JThp5nDJEyDjQQ
-! Version: 202304261530
+! Checksum: 0nVaPRkzmS6IQ86h1tcKMA
+! Version: 202304261550
 ! Title: EasyList
-! Last modified: 26 Apr 2023 15:30 UTC
+! Last modified: 26 Apr 2023 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21197,6 +21197,7 @@ _800x80_
 ##a[href*=".engine.adglare.net/"]
 ##a[href*="//lkstrck2.com/"]
 ##a[href^="//a.bestcontentfare.top/"]
+##a[href^="//go.eabids.com/"]
 ##a[href^="//pubads.g.doubleclick.net/"]
 ##a[href^="http://ad.doubleclick.net/"]
 ##a[href^="http://adf.ly/?id="]
