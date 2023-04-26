@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vyUOXbKeEHr6g6UElyxd7Q
-! Version: 202304260851
+! Checksum: JOKIfAGTgSu6lMnE5xRvKw
+! Version: 202304260910
 ! Title: EasyList
-! Last modified: 26 Apr 2023 08:51 UTC
+! Last modified: 26 Apr 2023 09:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56684,7 +56684,7 @@ gamersnexus.net#?##right_col > div:-abp-has(p:-abp-contains(Advertisement))
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#?#div[style="max-width: 390px; min-width: 190px;"]:-abp-has(a[href^="/ads/"])
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#?#._6y8t:-abp-has(a[href="/ads/about/?entry_product=ad_preferences"])
 gankrin.org#?#.code-block:-abp-has(.adsbygoogle)
-youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
+youtube.com#?#ytd-rich-item-renderer.style-scope.ytd-rich-grid-row:-abp-has(ytd-display-ad-renderer)
 gankrin.org#?#.widget_custom_html:-abp-has(.adsbygoogle)
 geekzone.co.nz#?#.container:-abp-has(.adsbygoogle)
 geekzone.co.nz#?#.container:-abp-has(a[title="Affiliate link"])
