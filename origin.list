@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v/TjRhjrDUHg1YfCrZq7lA
-! Version: 202304270831
+! Checksum: nDJYz6QE+/MGkQBAnNyzdg
+! Version: 202304270850
 ! Title: EasyList
-! Last modified: 27 Apr 2023 08:31 UTC
+! Last modified: 27 Apr 2023 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23859,6 +23859,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||afk-i.com^
 ||afkqgiwq.com^
 ||afm01.com^
+||afootulnas.com^
 ||aforepayoffstutter.com^
 ||afosseel.net^
 ||afotbyxrlddkclk.com^
@@ -30544,6 +30545,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||flaxlistedleague.com^
 ||flaxseedssoenrh4372ojd.com^
 ||fldes6fq.de^
+||fleshlyzombis.com^
 ||flewke.com^
 ||flexlinks.com^
 ||fliedridgin.com^
@@ -31116,6 +31118,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||gettingtoe.com^
 ||gettjohytn.com^
 ||gettraffnews.com^
+||getupwoleai.com^
 ||getxml.org^
 ||getyourbitco.in^
 ||getyoursoft.ru^
@@ -31929,6 +31932,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||henrithisheprat.com^
 ||hentaibiz.com^
 ||hentaionline.net^
+||henwilethysen.com^
 ||heodeidsoanadthe.info^
 ||hepani.com^
 ||hepare.com^
@@ -33330,6 +33334,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||kaminari.click^
 ||kaminari.club^
 ||kamnebo.info^
+||kanatventose.com^
 ||kangaroocame.com^
 ||kangaroohiccups.com^
 ||kanoodle.com^
@@ -43191,6 +43196,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||weatherbarbecue.com^
 ||weatherplllatform.com^
 ||weaveradrenaline.com^
+||web0.eu^
 ||web-affiliation.com^
 ||web-guardian.xyz^
 ||web-security.cloud^
@@ -51746,6 +51752,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||chikiporn.com/sqkqzwrecy/
 ||clicknplay.to/q3gSxw5.js
 ||cloud.hentai-moon.com/contents/hdd337st/$media
+||creative.thefaplive.com^
 ||creative.live.missav.com^
 ||creative.live.tktube.com^
 ||creative.live7mm.tv^
@@ -52049,8 +52056,8 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||xbooru.com/script/application.js
 ||xcity.org/tc2ca02c24c5.js
 ||xgirls.agency/pg/c/
-||xgroovy.com/63cb7d180a44epop/
-||xgroovy.com/642d38ebcd3a9php/
+||xgroovy.com/*pop/
+||xgroovy.com/*php/
 ||xgroovy.com/static/js/script.js
 ||xiaoshenke.net/js/ads_pt.js?
 ||xmilf.com/fjwucyfpo/
@@ -52075,6 +52082,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||xxxxsx.com/sw.js
 ||ynoymse4.xhamster.com^
 ||yotta.scrolller.com^
+||youjizz.com/KWIKY*.mp4$rewrite=abp-resource:blank-mp4,domain=youjizz.com
 ||youporn.com^$script,subdocument,domain=youporn.com|youporngay.com
 ||yourlust.com*/serve
 ||yourlust.com/assets/script.js
@@ -57054,6 +57062,8 @@ ah-me.com,gaygo.tv##.flirt-block
 asiangaysex.net,gaysex.tv##.float-ck
 risextube.com##.floating
 yourlust.com##.fluid_html_on_pause
+xgroovy.com##.fluid_next_video_left
+xgroovy.com##.fluid_next_video_right
 stileproject.com##.fluid_nonLinear_bottom
 porn.com##.foot-zn
 hclips.com,thegay.com,tporn.xxx,tubepornclassic.com##.footer-banners
