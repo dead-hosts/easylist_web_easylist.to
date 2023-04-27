@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: okWEl5y/Jbt3ipBSus3u/w
-! Version: 202304270050
+! Checksum: /ic4gxn2vGtQhTA1j+TxEQ
+! Version: 202304270110
 ! Title: EasyList
-! Last modified: 27 Apr 2023 00:50 UTC
+! Last modified: 27 Apr 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49684,6 +49684,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||pages.etoro.com/widgets/$third-party
 ||parking.godaddy.com^$third-party
 ||partner.e-conomic.com^
+||partner.vecteezy.com^
 ||partners.autotrader.co.uk^
 ||partners.betus.com^
 ||partners.dogtime.com^
@@ -54953,6 +54954,7 @@ apotelyt.com##.sdbrUnitFlex250b
 apotelyt.com##.sdbrUnitFlex250c
 apotelyt.com##.sdbrUnitFlex600
 userscript.zone##.searcad
+dryicons.com##.search-related__sponsored
 semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
 wbur.org##.section--breakout
