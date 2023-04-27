@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iw1roFjB0NpgTqcVTpXDTw
-! Version: 202304272240
+! Checksum: Ipc4x4aIqI8gnC6FIHl7Mg
+! Version: 202304272301
 ! Title: EasyList
-! Last modified: 27 Apr 2023 22:40 UTC
+! Last modified: 27 Apr 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -46157,6 +46157,14 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||zeropark.com^$third-party
 ||ziffdavis.com^$third-party
 ||zwaar.org^$third-party
+! Chinese google (https://github.com/easylist/easylist/issues/15643)
+||2mdn-cn.net^
+||admob-cn.com^
+||doubleclick-cn.net^
+||googleads-cn.com^
+||googleadservices-cn.com^
+||googleadsserving.cn^
+||googlevads-cn.com^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
