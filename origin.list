@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tC8ohtZBWSpUdZ9jsH4/ew
-! Version: 202304281710
+! Checksum: A0CjmBoD9hG2jwzr+pEAig
+! Version: 202304281731
 ! Title: EasyList
-! Last modified: 28 Apr 2023 17:10 UTC
+! Last modified: 28 Apr 2023 17:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52375,6 +52375,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ||icepbns.com^$popup,domain=iceporn.com
 ||livejasmin.com/pu/$popup
 ||missav.com/pop?$popup
+||pornhub.com/_xa/ads?$popup
 ||videowood.tv/pop?$popup
 ||xtapes.to/out.php$popup
 ||xteen.name/xtn/$popup
@@ -57262,6 +57263,7 @@ stepmom.one##.cblrghts
 porntry.com##.center-spot
 thefappeningblog.com##.cl-exl
 bigtitsgallery.net##.classifiedAd
+xhamster.com##.clipstore-bottom
 sunporno.com##.close-invid
 fyptt.to,japaneseasmr.com##.code-block
 tube8.com,tube8.es,tube8.fr##.col-3-lg.col-4-md.col-4
@@ -57488,6 +57490,7 @@ cam4.com##.presentation
 pornjam.com##.productora
 perfectgirls.net,xnostars.com##.promo
 nablog.org##.promo-archive-all
+xhamster.com##.promo-message
 nablog.org##.promo-single-3-2sidebars
 perfectgirls.net##.promo__item
 viptube.com##.promotion
@@ -57696,6 +57699,10 @@ xhamster.com##.ytd-jcams-widget
 xhamster.com##.ytd-jsp-a
 xhamster.com##.yxd-jcam-thumb
 xhamster.com##.yxd-jcams-widget
+xhamster.com##.yxd-jdbanner
+xhamster.com##.yxd-jdcam-thumb
+xhamster.com##.yxd-jdcams-widget
+xhamster.com##.yxd-jdsp-l-tab
 xhamster.com##.yxd-jsp-a
 pussy.org##.zone
 momxxxfun.com##.zone-2
