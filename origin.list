@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UkP6Jv7DbuWEUjpz6Q6IFw
-! Version: 202304281110
+! Checksum: W5bRXGU/gXmAw0viTWZmGQ
+! Version: 202304281140
 ! Title: EasyList
-! Last modified: 28 Apr 2023 11:10 UTC
+! Last modified: 28 Apr 2023 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13824,6 +13824,7 @@ _800x80_
 ##.adscontentcenter
 ##.adscontntad
 ##.adscreen
+##.adsdelivery
 ##.adsdesktop
 ##.adsdiv
 ##.adsection_a2
@@ -33544,6 +33545,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||kinebuilder.com^
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
+||kingads.space^
 ||kingucoelect.website^
 ||kingwitheaa.lol^
 ||kingyonlendir.link^
@@ -57815,6 +57817,7 @@ hentaicomics.pro#?#.single-portfolio:-abp-has(.xxx-banner)
 hoes.tube#?#.item:-abp-has(> .ads)
 jav4tv.com#?#aside:-abp-has(.ads_300_250)
 kbjfree.com#?#.relative.w-full:-abp-has(> .video-card[target="_blank"])
+picsporn.net#?#.box:-abp-has(> .dip-exms)
 porngames.com#?#.contentbox:-abp-has(a[href="javascript:void(0);"])
 porngames.com#?#.contentbox:-abp-has(iframe[src^="//"])
 pornhub.com#?#.sectionWrapper:-abp-has(> #bottomVideos > .wrapVideoBlock)
