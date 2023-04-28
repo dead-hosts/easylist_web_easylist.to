@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bLGpc2uYUH/Y+Kbh8Fyolg
-! Version: 202304280950
+! Checksum: bMR5+fYeFbNsQXDNuRc0jw
+! Version: 202304281010
 ! Title: EasyList
-! Last modified: 28 Apr 2023 09:50 UTC
+! Last modified: 28 Apr 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49399,7 +49399,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||trafficholder.com^$third-party
 ||trafficlearn.com^$third-party
 ||trafficmagnates.com^$third-party
-||trafficmanager.com^$third-party
+||trafficman.io^$third-party
 ||trafficpimps.com^$third-party
 ||trafficstars.com^$third-party
 ||traffictraffickers.com^$third-party
