@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: W5bRXGU/gXmAw0viTWZmGQ
-! Version: 202304281140
+! Checksum: JrYnLAfxsXQ7F18mubV2dw
+! Version: 202304281201
 ! Title: EasyList
-! Last modified: 28 Apr 2023 11:40 UTC
+! Last modified: 28 Apr 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1466,6 +1466,7 @@
 /adsdaqbox_
 /adsdaqsky_
 /adsdelivery.
+/adsdelivery/*
 /adsDesktop.
 /adsdm.
 /adsearch.$domain=~adsearch.fr
