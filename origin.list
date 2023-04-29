@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GEX49Rne1Ut7CKcCh7Silw
-! Version: 202304290140
+! Checksum: U6Pf00GbKpmOBLfc9jdg7w
+! Version: 202304290210
 ! Title: EasyList
-! Last modified: 29 Apr 2023 01:40 UTC
+! Last modified: 29 Apr 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21871,6 +21871,7 @@ video.tv-tokyo.co.jp#@##adspace
 globalsecurity.org#@##adtop
 ewybory.eu#@##adv-text
 basinnow.com,oxfordlearnersdictionaries.com#@##advertise
+justthenews.com#@##aniview--player
 fcbarcelona.dk#@##article_ad
 catb.org#@##banner-ad
 hifi-forsale.co.uk#@##centerads
@@ -21984,6 +21985,7 @@ consumerist.com#@#.after-post-ad
 dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
+justthenews.com#@#.avp-p-wrapper
 dr.dk#@#.banner-ad-container
 popporn.com,webphunu.net#@#.block-ad
 shop.asobistore.jp#@#.block-sponsor
@@ -53783,6 +53785,7 @@ stuff.tv##.block-hcm-external-blocks
 mondoweiss.net##.block-head-c
 newsweek.com##.block-ibtmedia-dfp
 endocrineweb.com,practicalpainmanagement.com##.block-oas
+justthenews.com##.block-simple-blockad-728-90
 kaotic.com##.block-toplist
 worldtimebuddy.com##.block2
 macmusic.org##.block440Adv
@@ -55118,7 +55121,6 @@ redferret.net##.redfads
 arras.io##.referral
 al-monitor.com##.region--after-content
 middleeasteye.net##.region-before-navigation
-justthenews.com##.region-pre-content
 mrctv.org##.region-sidebar
 futbol24.com##.rek
 wcostream.com##.reklam_pve
