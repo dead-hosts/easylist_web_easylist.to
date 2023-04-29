@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DKNgpEJqZZwLXn3r0d3qNw
-! Version: 202304291320
+! Checksum: LsHexBb04LEeZyweMerCqQ
+! Version: 202304291340
 ! Title: EasyList
-! Last modified: 29 Apr 2023 13:20 UTC
+! Last modified: 29 Apr 2023 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49993,6 +49993,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sascdn.com/tag/
 ||saveit.us/img/$third-party
 ||sbhc.portalhc.com^
+||screen13.com/publishers/
 ||scriptadmin.com/scripts/popunder.js
 ||secure.money.com^$third-party
 ||service.smscoin.com/js/sendpic.js
