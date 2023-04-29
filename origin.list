@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yXCCqnhKg+GpEYaq70RGCQ
-! Version: 202304282301
+! Checksum: DCFGg2DOK7aZBDe8fLg00g
+! Version: 202304282320
 ! Title: EasyList
-! Last modified: 28 Apr 2023 23:01 UTC
+! Last modified: 28 Apr 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51221,6 +51221,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||dirproxy.com/helper-js
 ||dj1symwmxvldi.cloudfront.net/r/$image,domain=coderwall.com
 ||dmxleo.dailymotion.com^
+||dnslytics.com/images/ads/
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com/wp-content/themes/dominicantoday/banners/
 ||draftkings.bbgi.com^$subdocument
@@ -51464,7 +51465,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||srilankamirror.com/images/banners/
 ||srware.net/iron/assets/img/av/
 ||startpage.com/sp/adsense/
-||static.dnslytics.com/legacy/images/ads/
 ||static.fastpic.org^$subdocument
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||steamanalyst.com/steem/delivery/
@@ -53424,6 +53424,7 @@ asianjournal.com##.ad_before_title
 cheatcodes.com##.ad_btf_728
 auto-data.net##.ad_incar
 bigislandnow.com##.ad_mobileleaderboard
+upi.com##.ad_slot_inread
 kitco.com##.ad_space_730
 outlookindia.com##.ad_unit_728x90
 queerty.com##.adb-box-large
@@ -55497,7 +55498,7 @@ ghpage.com##.tdi_63
 coinedition.com##.tdi_95
 coinedition.com##.tdm-inline-image-wrap
 who.is##.teaser-bar
-manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
+liverpoolecho.co.uk,manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
 technology.org##.techorg-banner
 sporcle.com##.temp-unit
 macrumors.com##.tertiary
