@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: F8S4XTRAuM9bLlFNsYD8hw
-! Version: 202304290250
+! Checksum: Vk2GscAji+mQL2lXqYahWQ
+! Version: 202304290310
 ! Title: EasyList
-! Last modified: 29 Apr 2023 02:50 UTC
+! Last modified: 29 Apr 2023 03:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1804,7 +1804,6 @@
 /adverserve.
 /adversting/*
 /adversting?
-/advert-$domain=~advert-ai-landing.firebaseapp.com|~advert-ai-landing.web.app|~advert-ai.com|~advert-solutions.com|~advert-technology.com|~advert-technology.ru
 /advert.$~script,domain=~advert.ae|~advert.club|~advert.com.tr|~advert.ee|~advert.ge|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
 /advert01.
 /advert1.
