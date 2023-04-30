@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YvQcu9L0TCEaUkVgedr+jg
-! Version: 202304300340
+! Checksum: xKu6JCHUPzJcyV3LJxm/WQ
+! Version: 202304300410
 ! Title: EasyList
-! Last modified: 30 Apr 2023 03:40 UTC
+! Last modified: 30 Apr 2023 04:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20933,6 +20933,7 @@ _800x80_
 ##.widget-highlight-ads
 ##.widget-sponsor
 ##.widget-text-ad
+##.widget.carbonads-widget
 ##.widget1-ad
 ##.widget10-ad
 ##.widget4-ad
@@ -54016,6 +54017,7 @@ challonge.com##.cake-unit
 bloomberg.com##.canopy-container
 thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
+speakerdeck.com##.carbon-container
 buzzfeed.com##.card--article-ad
 u.today##.card--something-md
 devdiscourse.com##.carousel
