@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OAo0l082pqpxZVOxE/3mYA
-! Version: 202304301040
+! Checksum: 9QwRdyEHodfQhoks/g6cWw
+! Version: 202304301101
 ! Title: EasyList
-! Last modified: 30 Apr 2023 10:40 UTC
+! Last modified: 30 Apr 2023 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52589,6 +52589,7 @@ imagebam.com###aad-header-3
 travelpulse.com###ab_container
 4chan.org###abc-cnt
 uinterview.com###above-content
+pastemagazine.com###above_logo
 peacemakeronline.com###above_top_banner
 mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
 mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
@@ -52993,6 +52994,7 @@ moomoo.io###menuContainer > .menuCard
 voiranime.com###mg_vd
 peacemakeronline.com###middle_banner_section
 bleedingcool.com###middle_medium_rectangle
+pastemagazine.com###middle_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
 dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
@@ -53287,6 +53289,7 @@ caribpress.com###top_banner_container
 chicagotribune.com###top_fluid_wrapper
 bleedingcool.com,indy100.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
 bleedingcool.com###top_medium_rectangle
+pastemagazine.com###top_rectangle
 imdb.com###top_rhs
 bookriot.com###top_takeover
 w3newspapers.com###topads
