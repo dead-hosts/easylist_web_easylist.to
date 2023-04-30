@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rr4MvlgiCoNYL8KTg8AkcQ
-! Version: 202304301140
+! Checksum: I5FHp39gNSuStA9VMNQanQ
+! Version: 202304301202
 ! Title: EasyList
-! Last modified: 30 Apr 2023 11:40 UTC
+! Last modified: 30 Apr 2023 12:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58392,6 +58392,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||destinationamerica.com^$generichide
 @@||geekzone.co.nz^$generichide
 @@||history.com^$generichide
+@@||megaup.net^$generichide
 @@||sciencechannel.com^$generichide
 @@||smallseotools.com^$generichide
 @@||sonichits.com^$generichide
