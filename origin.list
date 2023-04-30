@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ydtTYPtgUHsXv5LzULdYJw
-! Version: 202304301001
+! Checksum: vK2dT+5t1WzSZ3uSVigcuQ
+! Version: 202304301020
 ! Title: EasyList
-! Last modified: 30 Apr 2023 10:01 UTC
+! Last modified: 30 Apr 2023 10:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58041,6 +58041,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
+@@||adnxs.com/ast/ast.js$domain=zone.msn.com
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com
 @@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=adamtheautomator.com|mediaite.com|packhacker.com
 @@||ads.adthrive.com/sites/$script,domain=adamtheautomator.com|mediaite.com|packhacker.com
