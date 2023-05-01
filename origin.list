@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3BjMvKVLoy/vnNaT3J9idw
-! Version: 202305010230
+! Checksum: I6mpn8oj7cW3jqYNyAtibg
+! Version: 202305010250
 ! Title: EasyList
-! Last modified: 01 May 2023 02:30 UTC
+! Last modified: 01 May 2023 02:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53359,6 +53359,7 @@ androidauthority.com##.--qc
 talkingpointsmemo.com##.--span\:12.AdSlot
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
+bigissue.com##.-ad
 porndoe.com##.-h-banner-svg-desktop
 hellomagazine.com##.-variation-megabanner
 advfn.com##.APS_TOP_BANNER_468_X_60_container
@@ -53381,6 +53382,7 @@ interestingengineering.com##.Anyclip_conBody__jtq8a
 technicalarp.com##.Arpian-ads
 rankedboost.com##.Article-A-Align
 cruisecritic.com,cruisecritic.com.au##.ArticleItem_scrollTextContainer__GrBC_
+whatcar.com##.ArticleTemplate_masthead__oY950
 photonics.com##.BOX_CarouselAd
 freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
@@ -53443,6 +53445,7 @@ citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 tvzoneuk.com##.R38Z80
+whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
 naturalnews.com##.SXVGONQABPCH
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
@@ -55127,6 +55130,7 @@ advfn.com##.plus500
 thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
+bigissue.com##.polaris__simple-grid--full
 pedestrian.tv##.popular-jobs-widget
 compoundsemiconductor.net##.popular__section-newsx
 wethegeek.com##.popup-dialog
