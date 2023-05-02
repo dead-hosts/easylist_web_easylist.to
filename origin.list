@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z1b4AE7l/3QYOChmE4kFlQ
-! Version: 202305021831
+! Checksum: fVVE9OG0Jod3T5JBIgLiKA
+! Version: 202305021850
 ! Title: EasyList
-! Last modified: 02 May 2023 18:31 UTC
+! Last modified: 02 May 2023 18:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21079,7 +21079,6 @@ _800x80_
 ##[href^="https://cpa.10kfreesilver.com/"]
 ##[href^="https://detachedbates.com/"]
 ##[href^="https://engine.gettopple.com/"]
-##[href^="https://fancentro.com/"]
 ##[href^="https://glersakr.com/"]
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
@@ -21986,7 +21985,6 @@ javynow.com#@#.videos-ad
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
-fancentro.com#@#[href^="https://fancentro.com/"]
 mypatriotsupply.com#@#[href^="https://mypatriotsupply.com/"] > img
 mypillow.com#@#[href^="https://mypillow.com/"] > img
 mystore.com#@#[href^="https://mystore.com/"] > img
