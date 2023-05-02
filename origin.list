@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DOfIeXUwx0AmO1g3w69P/Q
-! Version: 202305020440
+! Checksum: vcWrXfyirEBloDyTa5ZQ8g
+! Version: 202305020502
 ! Title: EasyList
-! Last modified: 02 May 2023 04:40 UTC
+! Last modified: 02 May 2023 05:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53276,6 +53276,7 @@ supercheats.com###titlebar
 supercheats.com###titlebar_banner
 box-core.net,mma-core.com###tlbrd
 technewsworld.com###tnavad
+bramptonguardian.com###tncms-region-global-container-bottom
 accuweather.com,phonescoop.com###top
 bookriot.com###top-alt-content
 coingecko.com###top-announcement-header
@@ -53568,6 +53569,7 @@ chron.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,sfchronicle.co
 bigislandnow.com##.adBreak
 m.economictimes.com,someecards.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
+bramptonguardian.com##.adLabelWrapper
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
@@ -54753,6 +54755,7 @@ iol.co.za##.lbMtEm
 trueachievements.com,truesteamachievements.com,truetrophies.com##.lb_holder
 coincodex.com##.ldb-top
 soaphub.com##.ldm_ad
+lethbridgenewsnow.com##.lead-in
 versus.com##.lead_top
 sgcarmart.com##.leadbadv
 thepcguild.com##.leader
@@ -55144,12 +55147,13 @@ advfn.com##.plus500
 thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
+bramptonguardian.com##.polarBlock
 bigissue.com##.polaris__simple-grid--full
 pedestrian.tv##.popular-jobs-widget
 compoundsemiconductor.net##.popular__section-newsx
 wethegeek.com##.popup-dialog
 acestream.net##.popup2
-battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
+battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,lethbridgenewsnow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
 charlieintel.com##.position-sticky
 wtop.com##.post--sponsored
 kiplinger.com##.post-gallery-item-ad
@@ -55374,6 +55378,7 @@ newindianexpress.com##.scc
 radiotimes.com##.schedule__row-list-item-advert
 hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_video_master
 readmng.com##.scroll_target_top
+lethbridgenewsnow.com##.scroller
 9anime.to,cyclinguptodate.com,tennisuptodate.com##.sda
 apotelyt.com##.sdbrUnitFlex100a
 apotelyt.com##.sdbrUnitFlex250b
@@ -55492,7 +55497,7 @@ everythingrf.com,futbol24.com##.skyscrapper
 zimbio.com##.slide-break
 as.com##.slider-producto
 inbox.com##.slinks
-alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,squamishchief.com,tricitynews.com,vancouverisawesome.com##.slot
+alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,squamishchief.com,stalbertgazette.com,townandcountrytoday.com,tricitynews.com,vancouverisawesome.com##.slot
 iheartradio.ca##.slot-topNavigation
 independent.ie##.slot1
 independent.ie##.slot4
