@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7B09Fa3AGWF+YwwNWaJL4Q
-! Version: 202305031730
+! Checksum: 0uN07A464uo6wLGU461Pqg
+! Version: 202305031750
 ! Title: EasyList
-! Last modified: 03 May 2023 17:30 UTC
+! Last modified: 03 May 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58634,4 +58634,191 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||assoc-amazon.com/widgets/cm?$subdocument,domain=atcoder.jp
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
 @@||banc.jp/images/ad/$image,~third-party
-@@
+@@||banki.ru/bitrix/*/advertising.block/$stylesheet
+@@||bloominc.jp/adtool/$~third-party
+@@||book.com.tw/image/getImage?$domain=books.com.tw
+@@||c.ad6media.fr/l.js$domain=scan-manga.com
+@@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
+@@||cinema.pia.co.jp/img/ad/$image,~third-party
+@@||clj.valuecommerce.com/*/vcushion.min.js
+@@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
+@@||core.windows.net^*/annonser/$image,domain=kmauto.no
+@@||daumcdn.net/adfit/static/ad-native.min.js$domain=daum.net
+@@||daumcdn.net/adfit/static/ad.min.js$script,domain=daum.net
+@@||discordapp.com/banners/$image
+@@||displayad.naver.com^$~third-party
+@@||ebaykorea.com/ADS/$image,domain=gmarket.co.kr
+@@||forexprostools.com^$subdocument,domain=fx-rashinban.com
+@@||freeride.se/img/admarket/$~third-party
+@@||friends.ponta.jp/app/assets/images/$~third-party
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
+@@||g.doubleclick.net/pagead/ads$subdocument,domain=game.anymanager.io
+@@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com|telsu.fi|weather.com
+@@||gakushuin.ac.jp/ad/common/$~third-party
+@@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
+@@||getjad.io/library/$script,domain=allocine.fr
+@@||googletagmanager.com/gtag/js$script,domain=factory.pixiv.net
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|tv-asahi.co.jp|vlive.tv|voici.fr
+@@||gunosy.co.jp/img/ad/$image,~third-party
+@@||hatenacorp.jp/_next/static/chunks/pages/ads-$script,~third-party
+@@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
+@@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
+@@||iejima.org/ad-banner/$image,~third-party
+@@||innervision.co.jp/var/ezwebin_site/storage/images/ad/$image,~third-party
+@@||jmedj.co.jp/files/$image,~third-party
+@@||jobs.bg/front_job_search.php$~third-party
+@@||kanalfrederikshavn.dk^*/jquery.openx.js?
+@@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
+@@||kmsv.jp/images/ad/$image,~third-party
+@@||live.lequipe.fr/thirdparty/prebid.js$~third-party
+@@||mail.bg/mail/index/getads/$xmlhttprequest
+@@||meduza.io/static/ads/$media,~third-party
+@@||microapp.bytedance.com/docs/page-data/$~third-party
+@@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
+@@||minigame.aeriagames.jp/css/videoad.css
+@@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
+@@||mjhobbymassan.se/r/annonser/$image,~third-party
+@@||musictrack.jp/a/ad/banner_member.jpg
+@@||mysmth.net/nForum/*/ADAgent_$~third-party
+@@||netmile.co.jp/ad/images/$image
+@@||nintendo.co.jp/ring/*/adv$~third-party
+@@||nizista.com/api/v1/adbanner$~third-party
+@@||nnmclub.to/forum/misc/html/advert.html$~third-party
+@@||nosh.jp/build/css/chefly/advertisement-$~third-party
+@@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
+@@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
+@@||politiken.dk/static/$script
+@@||popin.cc/popin_discovery/recommend?$~third-party
+@@||pro-foto.jp/ads/img/$~third-party
+@@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
+@@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
+@@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
+@@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
+@@||s0.2mdn.net/ads/studio/Enabler.js$domain=yuukinohana.co.jp
+@@||s0.2mdn.net/instream/html5/ima3.js$script,domain=tilt.fi
+@@||samplefan.com/img/ad/$image
+@@||scan-manga.eu/*pageID=$~third-party
+@@||search.spotxchange.com/vmap/*&content_page_url=www.bsfuji.tv$xmlhttprequest,domain=imasdk.googleapis.com
+@@||searchad.naver.com^$~third-party
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=olx.pl|telsu.fi
+@@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
+@@||smarters.ro/academy$~third-party,xmlhttprequest
+@@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
+@@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp
+@@||stranger.se/socket.io/$~third-party
+@@||strangermeetup.com/socket.io/$~third-party
+@@||suntory.co.jp/beer/kinmugi/css2020/ad.css?
+@@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
+@@||supabase.co/rest/v1/advert$domain=matchers.fr
+@@||tabiat.gov.tr/KACMS/Files/ad-$image,~third-party
+@@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
+@@||trj.valuecommerce.com/vcushion.js
+@@||uze-ads.com/ads/$~third-party
+@@||valuecommerce.com^$image,domain=pointtown.com
+@@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
+@@||yuru-mbti.com/static/css/adsense.css$~third-party
+! Allowlists to fix broken pages of advertisers
+! Google
+@@||ads.google.com^$domain=ads.google.com|analytics.google.com
+@@||cloud.google.com^$~third-party
+@@||developers.google.com^$domain=developers.google.com
+@@||support.google.com^$domain=support.google.com
+! https://github.com/easylist/easylist/issues/12681
+@@||v.fwmrm.net/ad/g/1?*_html5_live$domain=~gulli.fr|~msn.com
+! Healthy Advertising (Spanish)
+@@||healthyadvertising.es^$~third-party
+! VK.ru/.com
+@@||api.vigo.ru^*/network_status?$object,xmlhttprequest,domain=vk.com
+@@||paymentgate.ru/payment/*_Advert/
+@@||vk.com/ads$generichide
+@@||vk.com/ads.php$~third-party,xmlhttprequest
+@@||vk.com/ads.php?$subdocument,domain=vk.com
+@@||vk.com/ads?act=$~third-party
+@@||vk.com/ads?act=payments&type$script,stylesheet
+@@||vk.com/ads_*php?$subdocument,~third-party
+@@||vk.com/images/ads_$domain=vk.com
+@@||vk.com/js/al/ads.js?$domain=vk.com
+@@||vk.com^*/ads.css$domain=vk.com
+@@||vk.me/css/al/ads.css$domain=vk.com
+@@||vk.me/images/ads_$domain=vk.com
+! Yahoo
+@@||gemini.yahoo.com/advertiser/$domain=gemini.yahoo.com
+@@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
+! Twitter
+@@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
+@@||ads.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
+! *** easylist:easylist/easylist_allowlist_dimensions.txt ***
+@@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
+@@||arnhemland-safaris.com/images/made/$image,~third-party
+@@||cloud.mail.ru^$image,~third-party
+@@||crystalmark.info/wp-content/uploads/*-300x250.$image,~third-party
+@@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
+@@||government-and-constitution.org/images/presidential-seal-300-250.gif$image,~third-party
+@@||hiveworkscomics.com/frontboxes/300x250_$image,~third-party
+@@||leffatykki.com/media/banners/tykkibanneri-728x90.png$image,~third-party
+@@||nc-myus.com/images/pub/www/uploads/merchant-logos/$image,~third-party
+@@||nihasi.ru/upload/resize_cache/*/300_250_$image,~third-party
+@@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
+@@||radiosun.fi/wp-content/uploads/*300x250$image,~third-party
+@@||reastatic.net/150x200-$domain=realestate.com.au
+@@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
+@@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
+@@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
+@@||yimg.jp/images/news-web/all/images/jsonld_image_300x250.png$domain=news.yahoo.co.jp
+! *** easylist:easylist/easylist_allowlist_popup.txt ***
+@@^utm_source=aff^$popup,domain=gamble.co.uk|gokkeninonlinecasino.nl|top5casinosites.co.uk
+@@|data:text^$popup,domain=box.com|clker.com|labcorp.com
+@@||accounts.google.com^$popup
+@@||ad.doubleclick.net/clk*&destinationURL=$popup
+@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
+@@||ad.doubleclick.net/ddm/clk/*http$popup
+@@||ad.doubleclick.net/ddm/trackclk/*http$popup
+@@||admin.mgid.com^$popup
+@@||ads.amazon^$popup
+@@||ads.askgamblers.com^$popup
+@@||ads.com^$popup
+@@||ads.cs.washington.edu^$popup
+@@||ads.doordash.com^$popup
+@@||ads.elevateplatform.co.uk^$popup
+@@||ads.emarketer.com/redirect.spark?$popup,domain=emarketer.com
+@@||ads.finance^$popup
+@@||ads.google.$popup,domain=google.ac|google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.by|google.com.bz|google.com.cn|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.jo|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.ru|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tn|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.ve|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hk|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.it.ao|google.je|google.jo|google.jp|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.ne.jp|google.ng|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tl|google.tm|google.tn|google.to|google.tt|google.us|google.vg|google.vu|google.ws
+@@||ads.google.com^$popup,domain=smallbusiness.withgoogle.com
+@@||ads.instacart.com^$popup
+@@||ads.kazakh-zerno.net^$popup
+@@||ads.listonic.com^$popup
+@@||ads.lollipod.de^$popup
+@@||ads.microsoft.com^$popup
+@@||ads.midwayusa.com^$popup
+@@||ads.pinterest.com^$popup
+@@||ads.shopee.*/$popup
+@@||ads.spotify.com^$popup
+@@||ads.taboola.com^$popup
+@@||ads.tiktok.com^$popup
+@@||ads.twitter.com^$popup,~third-party
+@@||ads.vk.com^$popup
+@@||adv.asahi.com^$popup
+@@||adv.cr^$popup
+@@||adv.gg^$popup
+@@||adv.welaika.com^$popup
+@@||dashboard.mgid.com^$popup
+@@||doubleclick.net/clk;$popup,domain=3g.co.uk|4g.co.uk|hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com
+@@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
+@@||hutchgo.advertserve.com^$popup,domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
+@@||serving-sys.com/Serving/adServer.bs?$popup,domain=spaargids.be
+@@||trace.playwright.dev^$popup
+@@||vk.com/ads?$popup,domain=vk.com
+@@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
+@@||youtube.com/ads/preferences/$popup
+! *** easylist:easylist_adult/adult_allowlist.txt ***
+@@||exosrv.com/video-slider.js$domain=xfreehd.com
+@@||gaynetwork.co.uk/Images/ads/bg/$image,~third-party
+@@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
+! Anti-Adblock
+@@||gaybeeg.info^$generichide
+@@||milfzr.com^$generichide
+@@||pornbraze.com^$generichide
+@@||rule34hentai.net^$generichide
+@@||urlgalleries.net^$generichide
+@@||xfreehd.com^$generichide
+! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
