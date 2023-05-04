@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hrQed5FnmgIgkEEbyIHJSQ
-! Version: 202305040150
+! Checksum: //MYyfvgqAlRwZHAFqA2qA
+! Version: 202305040210
 ! Title: EasyList
-! Last modified: 04 May 2023 01:50 UTC
+! Last modified: 04 May 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56878,6 +56878,7 @@ uproxx.com###upx-mm-player-wrap
 newseveryday.com###vplayer_large
 telegraph.co.uk##.article-betting-unit-container
 sciencetimes.com##.article-videoplayer
+people.com##.article__broad-video
 thewrap.com##.aspect-ratio-box-inside
 thewrap.com##.brid-default-skin
 zdnet.com##.c-avStickyVideo
