@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1SRaeT97SZvxAzDEo152tg
-! Version: 202305032320
+! Checksum: uVbOWXJ/32w9mnc3CZbwdQ
+! Version: 202305032340
 ! Title: EasyList
-! Last modified: 03 May 2023 23:20 UTC
+! Last modified: 03 May 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50031,7 +50031,6 @@ browsershots.org#@#.advert_area
 ||btcnews.one/adsbanner_
 ||btguard.com/images/
 ||btr.domywife.com^
-||bytro.com^$image,third-party
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
@@ -56517,7 +56516,7 @@ gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 searchenginereports.net##a[title="Ad"]
-abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,netuplayer.top,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
+abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 kroger.com##a[title^="Advertisement:"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
 greatist.com##aside
