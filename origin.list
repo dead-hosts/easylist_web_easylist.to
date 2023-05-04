@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g+i5vYtDgS3JOLMtuDk7wg
-! Version: 202305041231
+! Checksum: bm4D854akHNL5JzH21OCLg
+! Version: 202305041301
 ! Title: EasyList
-! Last modified: 04 May 2023 12:31 UTC
+! Last modified: 04 May 2023 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3744,7 +3744,6 @@
 /VideoAdContent?
 /videoadrenderer.
 /videoadroll.
-/videoads.
 /videoads/*
 /videoadv-
 /videoadv.
