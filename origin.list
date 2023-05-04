@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fr8h1f/6gllcgTm/2yME1g
-! Version: 202305040640
+! Checksum: MR9DjbdhShT/ebXP8ul8Nw
+! Version: 202305040701
 ! Title: EasyList
-! Last modified: 04 May 2023 06:40 UTC
+! Last modified: 04 May 2023 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52916,6 +52916,7 @@ djchuang.com###amazon3
 wtechnews.com###aniBox
 timesofmalta.com###article-sponsored
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
+fool.com###article_sidebar_small-container
 thehindu.com###articledivrec
 findmysoft.com###as_336
 flyordie.com###asf
@@ -54935,6 +54936,7 @@ canarymedia.com##.inset-x-0
 serverhunter.com##.instant-visit
 flixboss.com##.instream-dynamic
 coincarp.com##.interact-mobileBox
+fool.com##.interad
 allnurses.com##.ipsAreaBackground
 1tamilmv.click##.ipsCarousel
 uk420.com##.ipsLayout_container > div[align="center"]
@@ -55473,6 +55475,7 @@ texasmonthly.com##.promo__vertical
 uxmatters.com##.promo_block
 reviversoft.com##.promo_dr
 core77.com##.promo_zone
+fool.com##.promobox-container
 thedailydigest.com##.promocion_celda
 thedailydigest.com##.promocion_lat
 hellomagazine.com##.promohola
