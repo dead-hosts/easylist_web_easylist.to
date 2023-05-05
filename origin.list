@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XYH/VE3s14EIAhkLkrJdpg
-! Version: 202305051201
+! Checksum: EnwYTJqppn6vTfdQAfVmHg
+! Version: 202305051220
 ! Title: EasyList
-! Last modified: 05 May 2023 12:01 UTC
+! Last modified: 05 May 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2838,7 +2838,6 @@
 /leftads.
 /legion-advertising-atlasastro/*
 /lg.php?adid=
-/lib/ad.js
 /lijit-ad-
 /lijitads.
 /linkad2.
@@ -3451,7 +3450,6 @@
 /site/ads?
 /site=*/size=*/viewid=
 /site=*/viewid=*/size=
-/site_ads.$~script
 /site_ads/*
 /site_under.
 /siteads.
