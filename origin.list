@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BwyU6fe9otT6lhj3dWi/1w
-! Version: 202305051531
+! Checksum: ypP1iHuh3IuUs8m1K45g+w
+! Version: 202305051550
 ! Title: EasyList
-! Last modified: 05 May 2023 15:31 UTC
+! Last modified: 05 May 2023 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21414,6 +21414,7 @@ _800x80_
 ##div[id^="google_dfp_"]
 ##div[id^="gpt_ad_"]
 ##div[id^="lazyad-"]
+##div[id^="optidigital-adslot"]
 ##div[id^="rc-widget-"]
 ##div[id^="sticky_ad_"]
 ##div[id^="vuukle-ad-"]
@@ -25954,6 +25955,7 @@ browsershots.org#@#.advert_area
 ||bfxytxdpnk.com^
 ||bg4nxu2u5t.com^
 ||bgdieyiho.xyz^
+||bgevhldiekl.xyz^
 ||bgkrbh.com^
 ||bguhieaksqmrlfo.xyz^
 ||bgun5cxxi2dv.com^
@@ -27891,6 +27893,7 @@ browsershots.org#@#.advert_area
 ||copesfirmans.com^
 ||cophoe.com^
 ||copict.com^
+||copperseafoodearphones.com^
 ||copterunrayed.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
@@ -28984,6 +28987,7 @@ browsershots.org#@#.advert_area
 ||dlmewheniyv.xyz^
 ||dlrcoalbin.com^
 ||dlski.space^
+||dlsrwpvbu.com^
 ||dlzm790g.com^
 ||dmakingbyth.com^
 ||dmm-video.online^
@@ -29839,6 +29843,7 @@ browsershots.org#@#.advert_area
 ||englingedrxa.club^
 ||englishheadlight.com^
 ||englutzydecos.com^
+||enguis.com^
 ||enherappedo.cc^
 ||enherthertindown.xyz^
 ||enhwy.com^
@@ -30480,6 +30485,7 @@ browsershots.org#@#.advert_area
 ||fegivja.com^
 ||feignoccasionedmound.com^
 ||feignthat.com^
+||feistyhelicopter.com^
 ||fejla.com^
 ||felidaeyojuane.com^
 ||felied.com^
@@ -32331,6 +32337,7 @@ browsershots.org#@#.advert_area
 ||hoistchart.com^
 ||holdsoutset.com^
 ||holebnnjuom.xyz^
+||holict.com^
 ||hollekeamboina.com^
 ||hollercatastrophe.co^
 ||hollercatastrophe.com^
@@ -32522,6 +32529,7 @@ browsershots.org#@#.advert_area
 ||husfly.com^
 ||hushpub.com^
 ||hushta.com^
+||husky-chain.pro^
 ||huskydesigner.pro^
 ||huskypartydance.com^
 ||huskytrustworthy.com^
@@ -33322,6 +33330,7 @@ browsershots.org#@#.advert_area
 ||jeperdee.net^
 ||jeqixokniyny.com^
 ||jeribpupiled.com^
+||jerkarmlesspuppy.com^
 ||jerridlarded.com^
 ||jersit.com^
 ||jervinreverdi.uno^
@@ -38464,6 +38473,7 @@ browsershots.org#@#.advert_area
 ||ptechait.com^
 ||ptecmooz.net^
 ||ptecmuny.com^
+||pteevaih.xyz^
 ||pteftagu.com^
 ||pternafreckly.com^
 ||pternafurcate.com^
@@ -43257,6 +43267,7 @@ browsershots.org#@#.advert_area
 ||vanderebony.pro^
 ||vanderlisten.pro^
 ||vanenow.com^
+||vanhonker.com^
 ||vaniacozzolino.com^
 ||vanillaincidentfeed.com^
 ||vanmanbarble.uno^
@@ -43479,6 +43490,7 @@ browsershots.org#@#.advert_area
 ||vigorous-hurt.pro^
 ||vigraghe.net^
 ||vihub.ru^
+||viicasu.com^
 ||viifogyp.com^
 ||viihot.com^
 ||viiigle.com^
@@ -43569,6 +43581,7 @@ browsershots.org#@#.advert_area
 ||vntsm.io^
 ||voacheph.xyz^
 ||voaglazy.com^
+||voahacrn.com^
 ||voapozol.com^
 ||voastauz.net^
 ||vocaivie.xyz^
@@ -47656,6 +47669,7 @@ browsershots.org#@#.advert_area
 ||fivb-downloads.org^$popup
 ||fixespreoccupation.com^$popup
 ||fla4n6ne7r8ydcohcojnnor.com^$popup
+||flamebeard.top^$popup
 ||flashymass.com^$popup
 ||flingforyou.com^$popup
 ||flippantbliss.com^$popup
@@ -47986,6 +48000,7 @@ browsershots.org#@#.advert_area
 ||interclics.com^$popup
 ||interesteddeterminedeurope.com^$popup
 ||internewsweb.com^$popup
+||interpersonalskillse.info^$popup
 ||intimidatekerneljames.com^$popup
 ||intorterraon.com^$popup
 ||invaderannihilationperky.com^$popup
@@ -48026,6 +48041,7 @@ browsershots.org#@#.advert_area
 ||jennyunfit.com^$popup
 ||jennyvisits.com^$popup
 ||jerboasjourney.com^$popup
+||jerkarmlesspuppy.com^$popup
 ||jetordinarilysouvenirs.com^$popup
 ||jewelbeeperinflection.com^$popup
 ||jillbuildertuck.com^$popup
@@ -49369,6 +49385,7 @@ browsershots.org#@#.advert_area
 ||videoadblockerpro.com^$popup
 ||videocampaign.co^$popup
 ||viewlnk.com^$popup
+||viicasu.com^$popup
 ||viiucwwa.com^$popup
 ||violationphysics.click^$popup
 ||vionito.com^$popup
@@ -50835,6 +50852,7 @@ browsershots.org#@#.advert_area
 ||d1p3zboe6tz3yy.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
+||d1pvpz0cs1cjk8.cloudfront.net^
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
 ||d1qggq1at2gusn.cloudfront.net^
