@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qgOUkTJtvV7rbSBbufWQdQ
-! Version: 202305060950
+! Checksum: PKd28RvWgwffaCUjlFMV+A
+! Version: 202305061010
 ! Title: EasyList
-! Last modified: 06 May 2023 09:50 UTC
+! Last modified: 06 May 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54291,6 +54291,7 @@ ubergizmo.com##.article_card_promoted
 wikiwand.com##.article_footerStickyAd__wvdui
 news18.com##.article_mad
 wikiwand.com##.article_sectionAd__rMyBc
+news.artnet.com##.artnet-ads-ad
 arcadespot.com##.as-incontent
 arcadespot.com##.as-label
 arcadespot.com##.as-unit
