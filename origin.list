@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T/78HchRUrNFXSNZnCHfaw
-! Version: 202305060930
+! Checksum: qgOUkTJtvV7rbSBbufWQdQ
+! Version: 202305060950
 ! Title: EasyList
-! Last modified: 06 May 2023 09:30 UTC
+! Last modified: 06 May 2023 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53346,6 +53346,7 @@ thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
 vscode.one###flamelab-convo-widget
+clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 streams.tv###flowerInGarden
 fanlesstech.com###footer-1
 metasrc.com###footer-content
@@ -56474,7 +56475,7 @@ tekdeeps.com##.zAzfDBzdxq3
 windows101tricks.com##.zanui-container
 antimusic.com##.zerg
 thehackernews.com##.zoho-box-1
-bellinghamherald.com,charlotteobserver.com,fresnobee.com,heraldonline.com,idahostatesman.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,modbee.com,newsobserver.com,sacbee.com,thenewstribune.com,thestate.com,tri-cityherald.com##.zone
+bellinghamherald.com,charlotteobserver.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,modbee.com,newsobserver.com,sacbee.com,thenewstribune.com,thestate.com,tri-cityherald.com##.zone
 bellinghamherald.com##.zone-el
 exchangerates.org.uk##[alt="banner"]
 urbandictionary.com##[aria-label*="Advertise"]
