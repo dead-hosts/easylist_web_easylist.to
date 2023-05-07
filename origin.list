@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c4Wif6xEBMsOGGe8zphADQ
-! Version: 202305070220
+! Checksum: +Z2qFrT6OTh6HwBR4DPEAA
+! Version: 202305070240
 ! Title: EasyList
-! Last modified: 07 May 2023 02:20 UTC
+! Last modified: 07 May 2023 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54804,6 +54804,7 @@ hanime.tv##.desktop.htvad
 randomarchive.com##.desktop[style="text-align:center"]
 coingape.com##.desktopds
 flashscore.co.za,soccer24.com##.detailLeaderboard
+coingape.com##.dfd
 nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
 gazette.com##.dfp-ad
 investing.com##.dfp-native
@@ -55508,6 +55509,7 @@ motorsport.com##.ms-apb-dmpu
 autosport.com,motorsport.com##.ms-hapb
 autosport.com##.ms-side-items--with-banner
 codeproject.com##.msg-300x250
+cryptoticker.io##.mso-cls-wrapper
 marinetraffic.com##.mt-desktop-mode
 zerolives.com##.munder-fn5udnsn
 d123movies.to,yifymovies.one##.mvic-btn
@@ -56160,6 +56162,7 @@ todayuknews.com##.stream-item-top-wrapper
 hardwaretimes.com##.stream-item-widget
 coinpedia.org##.stream-title
 stellar.ie##.stuck
+news.stv.tv##.stv-article-gam-slot
 dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 troypoint.com##.su-box
