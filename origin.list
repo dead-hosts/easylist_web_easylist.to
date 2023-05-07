@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kbY7Z4lnDq1fzy6E9oIksw
-! Version: 202305070530
+! Checksum: zLwDX4MzuJpCxJ1oz/Sp5A
+! Version: 202305070550
 ! Title: EasyList
-! Last modified: 07 May 2023 05:30 UTC
+! Last modified: 07 May 2023 05:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2760,7 +2760,6 @@
 /iserver/ccid=
 /iserver/site=
 /JavaScript/Ads-
-/javascript/ads/*
 /javascript/gpt-
 /javascript/oas.
 /javascript/oas?
