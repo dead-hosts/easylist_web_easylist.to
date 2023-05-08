@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dn6pkXsIksewez9aNhTOaQ
-! Version: 202305082201
+! Checksum: nO1RxxCyIkyCR2YcSP1NSQ
+! Version: 202305082231
 ! Title: EasyList
-! Last modified: 08 May 2023 22:01 UTC
+! Last modified: 08 May 2023 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3187,7 +3187,6 @@
 /popunder?
 /popunder_
 /popunderjs/*
-/popunders.
 /popunders/*
 /popunderWeb-
 /popundr.
@@ -42819,7 +42818,6 @@ browsershots.org#@#.advert_area
 ||tytostaracar.lol^
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
-||tzegilo.com^
 ||tzugumojfm.com^
 ||u0054.com^
 ||u0064.com^
@@ -54610,6 +54608,7 @@ bnonews.com##.bnone-widget
 evertiq.com,mediamanager.co.za##.bnr
 thecompleteuniversityguide.co.uk##.bnr_out
 armenpress.am##.bnrcontainer
+apkmody.io##.body-fixed-footer
 saharareporters.com##.body-inject
 btcmanager.com##.boo_3oo_6oo
 cmo.com.au##.boombox
