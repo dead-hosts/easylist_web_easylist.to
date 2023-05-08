@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ce0PNP6zGInQjEe/XabzMg
-! Version: 202305081250
+! Checksum: 3vlH08OEiiYjDkg1jyelOQ
+! Version: 202305081310
 ! Title: EasyList
-! Last modified: 08 May 2023 12:50 UTC
+! Last modified: 08 May 2023 13:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -46689,6 +46689,7 @@ browsershots.org#@#.advert_area
 ||trker.com^$third-party
 ||truex.com^$third-party
 ||trustx.org^$third-party
+||trytada.com^$third-party
 ||tubeadvertising.eu^$third-party
 ||tubereplay.com^$third-party
 ||tyroo.com^$third-party
