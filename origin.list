@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KlffD0UxPd18lVGNKmIdRw
-! Version: 202305080301
+! Checksum: 0j1vd4jriBccz/pfdHtL6g
+! Version: 202305080320
 ! Title: EasyList
-! Last modified: 08 May 2023 03:01 UTC
+! Last modified: 08 May 2023 03:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50368,6 +50368,7 @@ browsershots.org#@#.advert_area
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
+||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
 ||ak.imgaft.com^
 ||akamacdn.com/api/spots/
