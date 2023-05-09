@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mtAklt6v3k3w/KRdfq+syA
-! Version: 202305090951
+! Checksum: z7DuOJkA4hDqmUBZIL5/0g
+! Version: 202305091010
 ! Title: EasyList
-! Last modified: 09 May 2023 09:51 UTC
+! Last modified: 09 May 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53227,6 +53227,7 @@ mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
 mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 sptfy.be###ad
 livescore.com###ad-holder-gad-news-article-item
+dvdsreleasedates.com###ad-movie
 dappradar.com###ad-nft-top
 thedailymash.co.uk,thepoke.co.uk###ad-sidebar-1
 thedailymash.co.uk,thepoke.co.uk###ad-sidebar-2
@@ -53236,6 +53237,7 @@ boards.net,investing.com,mtaeta.info,notbanksyforum.com,pimpandhost.com,realgear
 investing.com,pimpandhost.com###ad2
 exchangerates.org.uk,investing.com###ad3
 comicbookmovie.com###adATFLeaderboard
+mdpi.com###adBannerContent
 moomoo.io###adCard
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sherdog.com###adViAi
@@ -53825,6 +53827,7 @@ tinyurl.is###stand-with
 geekwire.com###startup-resources-sidebar
 newcartestdrive.com###static-asset-placeholder-2
 newcartestdrive.com###static-asset-placeholder-3
+dvdsreleasedates.com###sticky
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sticky-bottom
 ccm.net###sticky1
 independent.co.uk,standard.co.uk###stickyFooterRoot
@@ -56623,7 +56626,7 @@ tekdeeps.com##.zAzfDBzdxq3
 windows101tricks.com##.zanui-container
 antimusic.com##.zerg
 thehackernews.com##.zoho-box-1
-bellinghamherald.com,charlotteobserver.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,modbee.com,newsobserver.com,sacbee.com,thenewstribune.com,thestate.com,tri-cityherald.com##.zone
+bellinghamherald.com,charlotteobserver.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,modbee.com,newsobserver.com,sacbee.com,sunherald.com,thenewstribune.com,thestate.com,tri-cityherald.com##.zone
 bellinghamherald.com##.zone-el
 exchangerates.org.uk##[alt="banner"]
 urbandictionary.com##[aria-label*="Advertise"]
@@ -56861,6 +56864,7 @@ tenforums.com##[style="height:280px;"]
 geekzone.co.nz##[style="height:90px"]
 timesnownews.com##[style="min-height: 181px;"]
 calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
+dvdsreleasedates.com##[style="padding:15px 0 15px 0;width:728px;height:90px;text-align:center;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 newagebd.net##[style^="float:left; width:320px;"]
