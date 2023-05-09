@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zfLd2V9YMtP42Jy7tqUZtQ
-! Version: 202305090110
+! Checksum: 1oXOsq074m/lNWibpyRzAg
+! Version: 202305090131
 ! Title: EasyList
-! Last modified: 09 May 2023 01:10 UTC
+! Last modified: 09 May 2023 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55539,7 +55539,9 @@ metro.co.uk##.metro-discounts
 metro.co.uk##.metro-ow-modules
 moviefone.com##.mf-incontent
 moneycontrol.com##.mf_radarad
+analyticsinsight.net##.mfp-bg
 wethegeek.com##.mfp-content
+analyticsinsight.net##.mfp-ready
 cryptoreporter.info,palestinechronicle.com##.mh-header-widget-2
 investing.com##.midHeader
 newsday.com##.midPg
@@ -56824,7 +56826,7 @@ apkcombo.com##[onclick*="_blank"]
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
 techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
-dappradar.com,thefinancialbrand.com##[rel*="sponsored"]
+dappradar.com,euroweeklynews.com,thefinancialbrand.com##[rel*="sponsored"]
 audioz.download##[src*="/promo/"]
 transfermarkt.com##[src*="https://www.transfermarkt.com/image/"]
 wallpaperaccess.com##[src="/continue.png"]
