@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jUF45Wo09F2d4buSO8B5VQ
-! Version: 202305090150
+! Checksum: EFmQQQATulp9hIG6hOyPGg
+! Version: 202305090210
 ! Title: EasyList
-! Last modified: 09 May 2023 01:50 UTC
+! Last modified: 09 May 2023 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54731,6 +54731,7 @@ thefastmode.com##.channel_long
 coincodex.com##.chart-pos.mobile-b
 sevenforums.com,tenforums.com##.chill
 bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com##.clickout-banner-native_table_box-bottom
+cryptonews.com##.clickout-native_table_box-a
 businessinsider.in##.clmb_eoa
 kissanime.com.ru##.close_ad_button
 computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
@@ -54804,6 +54805,9 @@ realsport101.com##.cpaAd
 chronline.com##.cq-creative
 theweather.net##.creatividad
 mma-core.com##.crec
+cryptopolitan.com##.crp_ads
+cryptopolitan.com##.crp_inarticle_ads_container
+cryptopolitan.com##.crp_sidebar_ads_container
 thesimsresource.com##.crtv-top-wrapper
 irishtimes.com##.cs-teaser
 c-span.org##.cspan-ad-still-wrapper
