@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Irvlh07dm/MQDHx2Uy0LNw
-! Version: 202305101240
+! Checksum: qRcmXfslVY7yC+1suosDcg
+! Version: 202305110440
 ! Title: EasyList
-! Last modified: 10 May 2023 12:40 UTC
+! Last modified: 11 May 2023 04:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -521,7 +521,6 @@
 /ad3.$domain=~ad3.eu|~vereinslinie.de
 /ad300.
 /ad4.$domain=~ad4.fr|~ad4.wpengine.com|~vereinslinie.de
-/ad468.
 /ad468x60.
 /ad468x80.
 /ad5.
@@ -21563,11 +21562,13 @@ _800x80_
 ##[onclick*="content.ad/"]
 ! ampproject
 ##.amp-adv-container
+##.amp-article-ad-element
 ##.amp-flying-carpet-text-border
 ##.amp_ad_1
 ##.amp_ad_header
 ##.amp_ad_wrapper
 ##.ampad
+##.ct_ampad
 ##.spotim-amp-list-ad
 ##AMP-AD
 ##amp-fx-flying-carpet
@@ -23147,6 +23148,7 @@ browsershots.org#@#.advert_area
 ||accusationloop.com^
 ||accustomedinaccessible.com^
 ||accustomreview.com^
+||acdbidoxmfu.com^
 ||acdcdn.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
@@ -23640,6 +23642,7 @@ browsershots.org#@#.advert_area
 ||adventurercraft.com^
 ||adventureurgently.com^
 ||adventurouscomprehendhold.com^
+||adventurouscondensedrebuff.com^
 ||adverbwaist.com^
 ||adverpub.com^
 ||adversaldisplay.com^
@@ -24344,6 +24347,7 @@ browsershots.org#@#.advert_area
 ||amntx1.net^
 ||amoddishor.com^
 ||amonar.com^
+||amonor.com^
 ||amountdonutproxy.com^
 ||amourmelilot.com^
 ||amouroachoo.com^
@@ -24360,6 +24364,7 @@ browsershots.org#@#.advert_area
 ||amre.work^
 ||amrtbbnr.com^
 ||amshirethfne.xyz^
+||amshroomishan.com^
 ||amstkqlvcitds.com^
 ||amsvplhvxipufkp.xyz^
 ||amtcwixpdsjurjm.com^
@@ -24544,6 +24549,7 @@ browsershots.org#@#.advert_area
 ||aoredi.com^
 ||aosmicdossety.website^
 ||aosmicvirago.com^
+||aowykupwwnqrg.xyz^
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apartblot.com^
@@ -25012,7 +25018,9 @@ browsershots.org#@#.advert_area
 ||atripplotx.com^
 ||atroer.com^
 ||atservineor.com^
+||atshroomisha.com^
 ||atsocmotcar.com^
+||atsuhrvfppyk.com^
 ||attacheastely.com^
 ||attachedt.xyz^
 ||attachtranquilizer.com^
@@ -25533,6 +25541,7 @@ browsershots.org#@#.advert_area
 ||bangingpunk.com^
 ||bangtopads.com^
 ||bangtyranclank.com^
+||bangute.xyz^
 ||banhq.com^
 ||banicywan.com^
 ||banisterspast.com^
@@ -27950,6 +27959,7 @@ browsershots.org#@#.advert_area
 ||cosmeticsgenerosity.com^
 ||cosmjs.com^
 ||costaquire.com^
+||costatevamped.com^
 ||costhandbookfolder.com^
 ||cosydrbrewing.com^
 ||cotalles.com^
@@ -28582,6 +28592,7 @@ browsershots.org#@#.advert_area
 ||degeronium.com^
 ||degmfmog.xyz^
 ||degrainbro.website^
+||degutu.xyz^
 ||dehornstrigged.live^
 ||dehornuplock.com^
 ||deiligejenter.com^
@@ -28966,6 +28977,7 @@ browsershots.org#@#.advert_area
 ||displeasurepigeons.com^
 ||disploot.com^
 ||dispop.com^
+||dispositiondata.com^
 ||disqualifybatesclung.com^
 ||disregardbuymigrant.com^
 ||disreputablegenuinelyhonorary.com^
@@ -30099,6 +30111,7 @@ browsershots.org#@#.advert_area
 ||eucleu.com^
 ||eudoxia-myr.com^
 ||euizhltcd6ih.com^
+||euonymcalvous.com^
 ||euosicjxjv.com^
 ||euouaeslurped.com^
 ||eupathyroching.store^
@@ -30321,6 +30334,7 @@ browsershots.org#@#.advert_area
 ||f9pennsy3glvkm6ania.com^
 ||fa3f0c1e3f.com^
 ||fa9123763f.com^
+||fa9b667e4e.com^
 ||faa39957a3.com^
 ||fabrkrup.com^
 ||facaltow.net^
@@ -30395,6 +30409,7 @@ browsershots.org#@#.advert_area
 ||familyborn.com^
 ||familyliar.com^
 ||faminedealergirl.com^
+||famoot.com^
 ||famousletterss.online^
 ||famousremainedshaft.com^
 ||fampfage.com^
@@ -30548,6 +30563,7 @@ browsershots.org#@#.advert_area
 ||femin.online^
 ||femindexkilog.xyz^
 ||fenacheaverage.com^
+||fenchylsoonish.com^
 ||fenixm.com^
 ||fensough.xyz^
 ||fer2oxheou4nd.com^
@@ -30820,6 +30836,7 @@ browsershots.org#@#.advert_area
 ||foapsovi.net^
 ||fobeetch.net^
 ||focalex.com^
+||focath.com^
 ||foetusconductfold.com^
 ||fogayeown.com^
 ||foggytube.com^
@@ -30956,6 +30973,7 @@ browsershots.org#@#.advert_area
 ||fpofvdovrk.com^
 ||fppmnvrubgl.xyz^
 ||fpskctncgj.xyz^
+||fqanulluixeis.com^
 ||fqqxpudpmuo.xyz^
 ||fqtfwulmcdw.com^
 ||frabwiccy.com^
@@ -31707,6 +31725,7 @@ browsershots.org#@#.advert_area
 ||gqubkbuinx.com^
 ||gr8y7z1xaq30.com^
 ||gracaiko.net^
+||gracedschelly.com^
 ||gracefulbayonetlukewarm.com^
 ||gracelessaffected.com^
 ||gracelesssolicitor.com^
@@ -33422,6 +33441,8 @@ browsershots.org#@#.advert_area
 ||jf71qh5v14.com^
 ||jfivafkigju.com^
 ||jgqskdjkorwvh.xyz^
+||jgszymcphwcege.com^
+||jguepxraix.xyz^
 ||jheelsplotch.com^
 ||jhoncj.com^
 ||jhxqfgbj.com^
@@ -33740,6 +33761,7 @@ browsershots.org#@#.advert_area
 ||kegsandremembrance.com^
 ||kehalim.com^
 ||keidweneth.com^
+||keihel.com^
 ||keikh.com^
 ||kektds.com^
 ||kekw.website^
@@ -34461,6 +34483,7 @@ browsershots.org#@#.advert_area
 ||liquorsswouned.com^
 ||lispingwraths.space^
 ||listeraislatory.site^
+||listguineaelementary.com^
 ||literacysufficientlymicroscope.com^
 ||literalcorpulent.com^
 ||literallisten.com^
@@ -36476,6 +36499,7 @@ browsershots.org#@#.advert_area
 ||objectstutted.store^
 ||objureexamen.life^
 ||oblivionwatcherrebellious.com^
+||oblong-pool.pro^
 ||oblongseller.com^
 ||obmnimarmos.com^
 ||obnarium.com^
@@ -36608,6 +36632,7 @@ browsershots.org#@#.advert_area
 ||ogle-0740lb.com^
 ||ogleskys.live^
 ||oglooque.com^
+||ognimyjm.com^
 ||ograuwih.com^
 ||ogrltiahldr.com^
 ||ogskle.com^
@@ -37158,6 +37183,7 @@ browsershots.org#@#.advert_area
 ||overzubatan.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
+||ovoordie.xyz^
 ||ovpekubdewm.com^
 ||ovsliqrcwqsqfxf.xyz^
 ||ovvwunawrt.com^
@@ -37287,6 +37313,7 @@ browsershots.org#@#.advert_area
 ||palama2.com^
 ||palasidesdoor.com^
 ||palaverpageboy.com^
+||palemanpathlet.com^
 ||palibs.tech^
 ||pallaliven.com^
 ||palpablefungussome.com^
@@ -37689,6 +37716,7 @@ browsershots.org#@#.advert_area
 ||phatchoa.net^
 ||phaucmoa.net^
 ||phaudree.com^
+||phauftee.xyz^
 ||phaurtuh.net^
 ||phca85g3n400.com^
 ||phdwxsui.xyz^
@@ -38211,6 +38239,7 @@ browsershots.org#@#.advert_area
 ||ppclinking.com^
 ||ppcnt.pro^
 ||ppfrlfe.com^
+||ppgjebhcyu.com^
 ||pphauantic.com^
 ||ppikhedas.com^
 ||pplferio.com^
@@ -38498,6 +38527,7 @@ browsershots.org#@#.advert_area
 ||psaisegn.net^
 ||psaithou.com^
 ||psaizeemit.com^
+||psaltard.net^
 ||psaltauw.net^
 ||psapsiph.net^
 ||psardaub.net^
@@ -38875,6 +38905,7 @@ browsershots.org#@#.advert_area
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
 ||qgoqkcpw.xyz^
+||qgpmpaohkcrx.com^
 ||qgxbluhsgad.com^
 ||qhnwj.com^
 ||qibkkioqqw.com^
@@ -40192,6 +40223,7 @@ browsershots.org#@#.advert_area
 ||sawsdaggly.com^
 ||sawyerbravery.com^
 ||saycasksabnegation.com^
+||sayelo.xyz^
 ||saylnk.com^
 ||sb-stat1.com^
 ||sb4you1.com^
@@ -40544,6 +40576,7 @@ browsershots.org#@#.advert_area
 ||shieldthanks.com^
 ||shiftclang.com^
 ||shihewoo.com^
+||shijoorg.xyz^
 ||shikroux.net^
 ||shillivee.pro^
 ||shimmedlocated.com^
@@ -41223,6 +41256,7 @@ browsershots.org#@#.advert_area
 ||squirtburpimplore.com^
 ||srcsmrtgs.com^
 ||sreamyourvids.online^
+||sreamyourvids.space^
 ||srgev.com^
 ||sridujhkagpe.com^
 ||srigbxxv.com^
@@ -41373,6 +41407,7 @@ browsershots.org#@#.advert_area
 ||sticmilt.xyz^
 ||sticmoar.com^
 ||stiffenshave.com^
+||stiflerivers.com^
 ||stifletunnelsang.com^
 ||stigat.com^
 ||stilaikr.com^
@@ -41570,6 +41605,7 @@ browsershots.org#@#.advert_area
 ||sundersetrgh.site^
 ||sungarnonsane.com^
 ||sunglassesmentallyproficient.com^
+||sungzionism.com^
 ||sunnybluecoral.com^
 ||sunnycategoryopening.com^
 ||sunnyseries.com^
@@ -43675,6 +43711,7 @@ browsershots.org#@#.advert_area
 ||visiblemeasures.com^
 ||visitingdeandwell.com^
 ||visitmightyethnic.com^
+||visitplaywrightlyrical.com^
 ||visitsfunk.com^
 ||visitstats.com^
 ||visitstrack.com^
@@ -43697,6 +43734,7 @@ browsershots.org#@#.advert_area
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vkrvjvpqcqk.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
@@ -43953,6 +43991,7 @@ browsershots.org#@#.advert_area
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
+||watchyourvids.online^
 ||waterlinesheet.org^
 ||waterproofmanipulativereunion.com^
 ||watwait.com^
@@ -44719,6 +44758,7 @@ browsershots.org#@#.advert_area
 ||xmvftaoz.com^
 ||xmxgvfjyrvr.xyz^
 ||xne3wmanew.com^
+||xnkjlnyefuohbgn.xyz^
 ||xnlehgdpvsslk.xyz^
 ||xo28pclotovi.com^
 ||xoalt.com^
@@ -45037,6 +45077,7 @@ browsershots.org#@#.advert_area
 ||yvoria.com^
 ||yvzgazds6d.com^
 ||ywasnothyc.buzz^
+||ywyeetvrjx.xyz^
 ||yx-ads6.com^
 ||yxajqsrsij.com^
 ||yxhkonfmbe.com^
@@ -45195,6 +45236,7 @@ browsershots.org#@#.advert_area
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkm.com^
+||zljwhbuagdvl.com^
 ||zlx.com.br^
 ||zm232.com^
 ||zmenmuol.com^
@@ -47400,6 +47442,7 @@ browsershots.org#@#.advert_area
 ||c43a3cd8f99413891.com^$popup
 ||cadlsyndicate.com^$popup
 ||cadsans.com^$popup
+||caffeinecontainerakin.com^$popup
 ||cagothie.net^$popup
 ||calcch.com^$popup
 ||calvali.com^$popup
@@ -49557,6 +49600,7 @@ browsershots.org#@#.advert_area
 ||virginyoungestrust.com^$popup
 ||virtuous-father.pro^$popup
 ||visibilitymondaydisappeared.com^$popup
+||visitplaywrightlyrical.com^$popup
 ||visitstats.com^$popup
 ||visors-airminal.com^$popup
 ||vkcdnservice.com^$popup
@@ -50459,6 +50503,7 @@ browsershots.org#@#.advert_area
 ||adform.net/serving/$third-party
 ||adrackpush.azurewebsites.net^
 ||ads-yallo-production.imgix.net^
+||ads.betfair.com^
 ||ads.linkedin.com^$third-party
 ||ads.saymedia.com^
 ||ads.servebom.com^
@@ -50808,6 +50853,7 @@ browsershots.org#@#.advert_area
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||sunflowerbright104.io/sdk.js
 ||supply.upjers.com^
+||surdotly.com/js/Surly.min.js
 ||surveymonkey.com/jspop.aspx?
 ||sweeva.com/images/banner250.gif
 ||syndicate.payloadz.com^
@@ -50850,6 +50896,7 @@ browsershots.org#@#.advert_area
 ||vultr.com/media/banner
 ||vuukle.com/ads/
 ||web.adblade.com^
+||webinstaller.screen13.com^
 ||webseed.com/WP/
 ||weby.aaas.org^
 ||whatismyipaddress.cyou/assets/images/ip-banner.png
@@ -53917,7 +53964,6 @@ gumtree.com###tBanner
 oneindia.com###taboola-mid-article-thumbnails
 drivespark.com,goodreturns.in###taboola-mid-category-thumbnails
 comicbookrealm.com###tad
-google.com###tadsc
 cyclingtips.com###takeover
 romsgames.net###td-top-leaderboard
 based-politics.com###tdi_107
@@ -54013,7 +54059,6 @@ semiconductor-today.com###topheaderimage
 worldtimebuddy.com###toprek
 macmillandictionary.com,macmillanthesaurus.com,oxfordlearnersdictionaries.com###topslot_container
 atomic-robo.com###topspace
-google.com###topstuff > #wmxmsg
 charlieintel.com###topunit
 pcworld.com,techhive.com###tso
 trumparea.com###udmvid
@@ -55703,7 +55748,6 @@ koreaherald.com##.mythiell-mid-container
 exportfromnigeria.info##.mytopads
 hoteldesigns.net##.n2-ss-slider
 naturalblaze.com##.n553lfzn75
-google.com##.nH.MC
 mail.google.com##.nH.PS
 cryptobriefing.com##.na-item.item
 nascar.com##.nascar-ad-container
@@ -56728,6 +56772,7 @@ greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-empty]
 tvzoneuk.com##[data-hook="HtmlComponent"]
 jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
+duckduckgo.com##[data-layout="ad"]
 goal.com##[data-name="ad-leaderboard"]
 polygon.com##[data-native-ad-id^="container"]
 namepros.com##[data-np-ga-event="ad"]
@@ -57132,7 +57177,7 @@ walmart.com##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
 arkadium.com##div[class^="Ad-adContainer"]
 dailymotion.com##div[class^="AdBanner"]
 thingiverse.com##div[class^="AdCard__card"]
-topgear.com##div[class^="AdContainer-"]
+breastcancer.org,topgear.com##div[class^="AdContainer"]
 reuters.com##div[class^="AdSlot__container"]
 tunefind.com##div[class^="AdSlot_inner_"]
 usnews.com##div[class^="Ad__Container-"]
@@ -57210,7 +57255,6 @@ qwant.com##div[data-monitoring="adsWebSerpOk"]
 opentable.ae,opentable.ca,opentable.co.th,opentable.co.uk,opentable.com,opentable.com.au,opentable.com.mx,opentable.de,opentable.es,opentable.hk,opentable.ie,opentable.it,opentable.jp,opentable.nl,opentable.sg##div[data-promoted="true"]
 momondo.at,momondo.be,momondo.ca,momondo.ch,momondo.cl,momondo.co.nz,momondo.co.uk,momondo.co.za,momondo.com,momondo.com.ar,momondo.com.au,momondo.com.br,momondo.com.co,momondo.com.pe,momondo.com.tr,momondo.cz,momondo.de,momondo.dk,momondo.ee,momondo.es,momondo.fi,momondo.fr,momondo.hk,momondo.ie,momondo.in,momondo.it,momondo.mx,momondo.nl,momondo.no,momondo.pl,momondo.pt,momondo.ro,momondo.se,momondo.tw,momondo.ua##div[data-resultid$="-sponsored"]
 linustechtips.com##div[data-role="sidebarAd"]
-google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[data-section-id$="__adb"]
 ecosia.org##div[data-test-id="mainline-result-ad"]
 investing.com##div[data-test="ad-slot-visible"]
 qwant.com##div[data-testid="productAdsMicrosoft.container"]
@@ -57288,7 +57332,6 @@ titantv.com##div[style^="height:265px;"]
 malaysiakini.com##div[style^="height:600px"]
 whatmobile.com.pk##div[style^="height:610px"]
 point2homes.com,propertyshark.com##div[style^="margin-bottom: 10px;"]
-google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk##div[style^="margin-bottom:15px"][class^="jsx-"]
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 bleachernation.com##div[style^="margin: 25px 0px 35px 0px;"]
 thetealmango.com##div[style^="margin: 8px auto; text-align:"]
@@ -57578,16 +57621,10 @@ youtube.com##ytm-promoted-sparkles-web-renderer
 ! Site Specific filters (used with $generichide)
 thefreedictionary.com###Content_CA_AD_0_BC
 thefreedictionary.com###Content_CA_AD_1_BC
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###atvcap > .cu-container > div > div[data-pla="1"]
 sonichits.com###bottom_ad
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 sonichits.com###divStickyRight
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###div[jsdata*="SinglePLA-"][data-id^="SinglePLA-"]
 spanishdict.com###removeAdsSidebar
 sonichits.com###right-ad
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tads[aria-label]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tadsb[aria-label]
 sonichits.com###top-ad-outer
 sonichits.com###top-top-ad
 spanishdict.com##.ad--1zZdAdPU
@@ -57595,13 +57632,6 @@ tweaktown.com##.adcon
 geekzone.co.nz##.adsbygoogle
 apkmirror.com##.ains-apkm_outbrain_ad
 tweaktown.com##.center-tag-rightad
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-desktop-rhs > div[jscontroller="YD5eo"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-desktop-rhs:not(.mnr-c)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-mobile-bottom
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-mobile-top > .v7hl4d
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-mobile-top > div[data-pla="1"]
 duckduckgo.com##.js-results-ads
 duckduckgo.com##.js-sidebar-ads > .nrn-react-div
 history.com##.m-balloon-header--ad
@@ -57609,24 +57639,21 @@ history.com##.m-in-content-ad
 history.com##.m-in-content-ad-row
 impartialreporter.com,polygon.com##.ob-smartfeed-wrapper
 duckduckgo.com##.results--ads
+geekzone.co.nz##div.cornered.box > center
+yandex.com##div[id^="yandex_ad"]
+! Google
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tads[aria-label]
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tadsb[aria-label]
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-desktop-rhs:not(.mnr-c)
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.commercial-unit-mobile-top > div[data-pla="1"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##.uEierd
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##AMP-AD
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##[data-text-ad]
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##a[href^="/aclk?sa="][href*="&adurl=&placesheetAdFix=1"]
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##a[href^="/aclk?sa="][href*="&adurl=&placesheetAdFix=1"] + button
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##body#yDmH0d [data-is-promoted="true"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##button[jsaction="pane.adBanner.whyThisAdClick"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div#main > div.D1fz0e
-geekzone.co.nz##div.cornered.box > center
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[aria-label="Ads"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[data-crl="true"][data-id^="CarouselPLA-"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
-yandex.com##div[id^="yandex_ad"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jsdata*="SinglePLA-"][data-id^="SinglePLA-"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jstcache] > a[href^="/aclk?"]
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[role="navigation"] + c-wiz > div > .kxhcC
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##html[itemtype="http://schema.org/SearchResultsPage"] #cnt div[class$="sh-sr__tau"][style]
 ! Filter for testpages.adblockplus.org
 testpages.adblockplus.org###abptest
@@ -57804,17 +57831,8 @@ geekzone.co.nz#?#.container:-abp-has(.adsbygoogle)
 geekzone.co.nz#?#.container:-abp-has(a[title="Affiliate link"])
 ggrecon.com#?#.artSideWrapBox:-abp-contains(Advertisement)
 ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored/))
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:"]:-abp-has(span.irmCpc)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane"]:-abp-has(div[class*="-haAclf-"] > div.UzWqLb)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane"]:-abp-has(span[class$="-badge-haAclf"] > span[class$="-badge"])
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane"]:-abp-has(span[class$="-haAclf"] > span > button)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="pane."]:-abp-has(span.ARktye-Btuy5e)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="pane.place.carousel.card"]:-abp-has(span.ARktye-badge)
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane."]:-abp-has(span.jHLihd)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd) + div
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sbsb_c:-abp-has(span.jHLihd)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[data-section-id]:-abp-has(a[href^="/aclk?sa="][href$="&adurl=&placesheetAdFix=1"])
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:"]:-abp-has(a[href^="/aclk?sa="][href$="&adurl="])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sh-sr__shop-result-group[data-hveid]:-abp-has(g-scrolling-carousel)
 guru99.com#?#.content2:-abp-has(div[id^="div-gpt-ad"])
 guru99.com#?#.moduletable:-abp-has(div[id^="div-gpt-ad"])
