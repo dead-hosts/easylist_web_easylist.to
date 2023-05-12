@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yv24E53dL2z9zrGmpAXzGw
-! Version: 202305121550
+! Checksum: t/ZFCbo0cQRGM07ZfR16jQ
+! Version: 202305121610
 ! Title: EasyList
-! Last modified: 12 May 2023 15:50 UTC
+! Last modified: 12 May 2023 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57708,6 +57708,7 @@ msn.com##.articlePage_bannerAd_wrapper-DS-EntryPoint1-1
 msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
 msn.com##.drrTopAdWrapper
+msn.com##.galleryPage_eoabContent_new-DS-EntryPoint1-1
 msn.com##.galleryPage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.intra-article-ad-full
 msn.com##.intra-article-ad-half
