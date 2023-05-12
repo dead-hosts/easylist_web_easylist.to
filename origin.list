@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oiM6i/ExjzskBFsg/l6VMw
-! Version: 202305121302
+! Checksum: b3XtHl3ngwZKGHasKD3MzA
+! Version: 202305121320
 ! Title: EasyList
-! Last modified: 12 May 2023 13:02 UTC
+! Last modified: 12 May 2023 13:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55213,6 +55213,7 @@ theblock.co##.fixedUnit
 fixya.com##.fixya_primis_container
 whatismyipaddress.com##.fl-module-wipa-concerns
 omniglot.com##.flex-container
+bgr.com##.flex.bg-black
 libhunt.com##.flex.mt-5.boxed
 ice.hockey##.flex_container_werbung
 klmanga.net,shareae.com##.float-ck
