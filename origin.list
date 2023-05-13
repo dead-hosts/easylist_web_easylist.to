@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D4/Svz2zDCXd8SQOQ0qwjQ
-! Version: 202305130910
+! Checksum: zwWPmCTPqispgrzLedmjeQ
+! Version: 202305130930
 ! Title: EasyList
-! Last modified: 13 May 2023 09:10 UTC
+! Last modified: 13 May 2023 09:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54395,6 +54395,7 @@ disqus.com##.ad__adh-wrapper
 stuff.co.nz##.ad__caption
 nationalpost.com,vancouversun.com##.ad__inner
 politico.eu##.ad__mobile
+thedrive.com##.ad__slot
 asianjournal.com##.ad_before_title
 cheatcodes.com##.ad_btf_728
 auto-data.net##.ad_incar
