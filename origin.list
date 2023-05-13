@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q0XbrmxitoehuDb7Z/uSTA
-! Version: 202305130410
+! Checksum: 1SPocX/bRkGDSd1s2ZJk5Q
+! Version: 202305130431
 ! Title: EasyList
-! Last modified: 13 May 2023 04:10 UTC
+! Last modified: 13 May 2023 04:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55317,6 +55317,7 @@ hltv.org##.gg-firstcol-box
 cometbird.com##.gg_250x250
 cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 ghacks.net##.ghacks-ad
+ghacks.net##.ghacks_ad_code
 goodmenproject.com##.gmp-instream-wrap
 givemesport.com##.gms-ad
 givemesport.com##.gms-billboard-container
