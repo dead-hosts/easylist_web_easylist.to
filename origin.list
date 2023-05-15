@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y2LdbMybKcDl6OfsGNonJQ
-! Version: 202305151820
+! Checksum: Mk7lT8ID/pUvS59rDh9oEg
+! Version: 202305151840
 ! Title: EasyList
-! Last modified: 15 May 2023 18:20 UTC
+! Last modified: 15 May 2023 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58257,6 +58257,8 @@ beeg.com##.GreyFox
 hentaivideo.tube##.UVPAnnotationJavascriptNormal
 xtube.com##.ZBTBTTr93ez9.ktZk9knDKFfB
 porndoe.com##.\-f-banners
+xhamster.com##._80e65-containerBottomSpot
+xhamster.com##._80e65-containerPauseSpot
 tubepornclassic.com##.___it0h1l3u2se2lo
 pichunter.com##.__autofooterwidth
 sunporno.com##.a-block
@@ -58855,6 +58857,10 @@ megaxh.com##.xplayer-banner-bottom
 xhamster.com##.xplayer-hover-menu
 hqbang.com##.xpot-horizontal
 theyarehuge.com##.yellow
+xhamster.com##.yfd-fdcam-thumb
+xhamster.com##.yfd-fdcams-widget
+xhamster.com##.yfd-fdclipstore-bottom
+xhamster.com##.yfd-fdsp-b
 xhamster.com##.ytd-jcam-thumb
 xhamster.com##.ytd-jcams-widget
 xhamster.com##.ytd-jsp-a
