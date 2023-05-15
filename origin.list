@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A+CM40GS6dhEQTnmXkHgiQ
-! Version: 202305150901
+! Checksum: chvnrejOQev2Et6ngzTs6Q
+! Version: 202305150920
 ! Title: EasyList
-! Last modified: 15 May 2023 09:01 UTC
+! Last modified: 15 May 2023 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55730,6 +55730,7 @@ thestar.com.my##.med-rec
 gamezone.com##.med-rect-ph
 ghanaweb.com##.med_rec_lg_min
 webmd.com##.medianet-ctr
+gfinityesports.com##.mediavine_sidebar-atf_wrapper
 allmusic.com##.medium-rectangle
 weatherpro.com##.medium-rectangle-wrapper-2
 ebaumsworld.com##.mediumRect
