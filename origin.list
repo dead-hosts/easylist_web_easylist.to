@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /3NuDM7IEghB2WL2h8y1MA
-! Version: 202305162031
+! Checksum: x0DxOFPutWjlbaQRukwLtw
+! Version: 202305162101
 ! Title: EasyList
-! Last modified: 16 May 2023 20:31 UTC
+! Last modified: 16 May 2023 21:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54513,6 +54513,7 @@ beincrypto.com##.ad-post-right-sidebar-1
 beincrypto.com##.ad-post-right-sidebar-2
 atlasobscura.com##.ad-site-top-full-width
 nationalreview.com##.ad-skeleton
+cnn.com##.ad-slot-header__wrapper
 freepressjournal.in##.ad-slots
 techinformed.com##.ad-text-styles
 smithsonianmag.com##.ad-wrapper
