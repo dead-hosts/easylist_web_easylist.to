@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wCYqzccXO0Ao/NTH3GXWeA
-! Version: 202305160030
+! Checksum: oopha2sRiR8ijiMK+RXlTA
+! Version: 202305160050
 ! Title: EasyList
-! Last modified: 16 May 2023 00:30 UTC
+! Last modified: 16 May 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11203,7 +11203,6 @@ _800x80_
 ##.ad-placeholder-wrapper
 ##.ad-placeholder-wrapper-dynamic
 ##.ad-placeholder__inner
-##.ad-placement
 ##.ad-placement-left
 ##.ad-placement-right
 ##.ad-placement_desktop-top-sticky
@@ -54490,8 +54489,8 @@ pinkvilla.com##.ad-heder-320-50
 dailyuptea.com##.ad-info
 mariopartylegacy.com##.ad-long
 constructionenquirer.com##.ad-page-takeover
-beincrypto.com##.ad-post-right-sidebar
 beincrypto.com##.ad-post-right-sidebar-1
+beincrypto.com##.ad-post-right-sidebar-2
 atlasobscura.com##.ad-site-top-full-width
 nationalreview.com##.ad-skeleton
 thedrive.com##.ad-slot-wrapper
@@ -56517,7 +56516,6 @@ cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
 2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
-beincrypto.com##.sponsored-badge
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
