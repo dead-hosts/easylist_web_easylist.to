@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hOX1xEh6oO075UK8Og/n/A
-! Version: 202305171601
+! Checksum: D/gMadv9p/8xc19xrAXKEQ
+! Version: 202305171620
 ! Title: EasyList
-! Last modified: 17 May 2023 16:01 UTC
+! Last modified: 17 May 2023 16:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52289,6 +52289,8 @@ browsershots.org#@#.advert_area
 ||fentent.streampiay.fun^
 ||fentent.streampiay.me^
 ||file-upload.site/page.js
+||filehippo.com/best-recommended-apps^
+||filehippo.com/revamp.js
 ||filemoon.*/js/baf.js
 ||filemoon.*/js/dola.js
 ||filemoon.*/js/skrrt.js
