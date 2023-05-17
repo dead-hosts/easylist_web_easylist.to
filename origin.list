@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AT6USfTnaKo15qll+InXaA
-! Version: 202305170041
+! Checksum: T6DO2022F+2gCp63OMXN8A
+! Version: 202305170110
 ! Title: EasyList
-! Last modified: 17 May 2023 00:41 UTC
+! Last modified: 17 May 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5010,7 +5010,6 @@ _800x80_
 ###AnchorAd
 ###ArticleContentAd
 ###BB1-ad
-###BandeauCNIL
 ###Banner728x90
 ###BannerAd
 ###BannerAds
@@ -7120,11 +7119,6 @@ _800x80_
 ###background_ads
 ###backgroundadvert
 ###banADbanner
-###bandeau-cookies
-###bandeau2cookie
-###bandeau_cookie
-###bandeau_cookie_cnil
-###bandeaucookie-wrapper
 ###banner-300x250
 ###banner-468x60
 ###banner-728
@@ -7518,8 +7512,6 @@ _800x80_
 ###contextual-ads
 ###contextual-ads-block
 ###contextualad
-###cookieBandeauConsentement
-###cookiebandeau
 ###corner_ad
 ###cornerad
 ###coverads
@@ -15118,8 +15110,6 @@ _800x80_
 ##.background-adv
 ##.backgroundAd
 ##.bam-ad-slot
-##.bandeauCookies
-##.bandeau_cookie
 ##.bank-rate-ad
 ##.banmanad
 ##.banner--ad
@@ -16109,7 +16099,6 @@ _800x80_
 ##.contextualAds
 ##.contextual_ad_unit
 ##.converter-ad
-##.cookieBandeau
 ##.copy-adChoices
 ##.core-adplace
 ##.coreAdsPlacer
