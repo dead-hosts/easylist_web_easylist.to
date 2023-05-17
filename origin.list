@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d9H26kKF+4tnBDc7xIkVNw
-! Version: 202305170810
+! Checksum: sM/J4KzklXuMC5NM55eV0w
+! Version: 202305170830
 ! Title: EasyList
-! Last modified: 17 May 2023 08:10 UTC
+! Last modified: 17 May 2023 08:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51087,6 +51087,7 @@ browsershots.org#@#.advert_area
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
+||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||windows.net/banners/$domain=hortidaily.com
@@ -57608,7 +57609,6 @@ linkedin.com##li[data-is-sponsored="true"]
 linkvertise.com##lv-taboola-ctr-ad-dummy
 aniwatcher.com##main > [href] > [src]
 hentai-foundry.com##main > p
-porsche.com##myservices-cookie-banner
 escorenews.com##noindex
 adblock-tester.com##object[width="240"]
 mrchecker.net##p > [href^="https://www.mrchecker.net/"]
