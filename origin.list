@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P+J+/y3UMRMlyPyUynFpcQ
-! Version: 202305180140
+! Checksum: n00/O1TwgzBAIN2UXCxLMw
+! Version: 202305180202
 ! Title: EasyList
-! Last modified: 18 May 2023 01:40 UTC
+! Last modified: 18 May 2023 02:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53607,6 +53607,7 @@ healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
 doubtnut.com###Desktop_VideoPage_Side_Banner_1-container
 stripes.com###FeatureAd
+howlongagogo.com###FreeStarVideoAdContainer
 titantv.com###GridPlayer
 fanlesstech.com###HTML2 > .widget-content
 fanlesstech.com###HTML3
@@ -55540,6 +55541,7 @@ gelbooru.com##.footerAd2
 businessnow.mt,igamingcapital.mt,maltaceos.mt,whoswho.mt##.footer__second
 pbs.org##.footer__sub
 satbeams.com##.footer_banner
+techopedia.com##.footer_inner_ads
 realmadrid.com##.footer_rm_sponsors_container
 tiresandparts.net##.footer_top_banner
 ocado.com##.fops-item--advert
@@ -55694,6 +55696,7 @@ thehits.co.nz##.header__main
 gifcompressor.com,heic2jpg.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.header__right
 manofmany.com##.header_banner_wrap
 koreaherald.com##.header_bnn
+techopedia.com##.header_inner_ads
 steroid.com##.header_right
 everythingrf.com##.headerblock
 phonearena.com##.heading-deal
@@ -55759,6 +55762,7 @@ exchangerates.org.uk##.imt4
 carscoops.com##.in-asd-content
 thecanary.co##.in-content-ad
 businessinsider.com,insider.com##.in-post-sticky
+faithpot.com##.inarticle-ad
 crash.net##.inarticle-wrapper
 motherjones.com##.incontent-promo
 brudirect.com##.index-banner
@@ -56817,6 +56821,7 @@ coinedition.com##.tdm-inline-image-wrap
 hltv.org##.team-player-profile-below-trophies-placement
 who.is##.teaser-bar
 liverpoolecho.co.uk,manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
+techopedia.com##.techo-adlabel
 technology.org##.techorg-banner
 sporcle.com##.temp-unit
 macrumors.com##.tertiary
