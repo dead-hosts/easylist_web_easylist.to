@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uub4+qPGnxJwClKMBDj1Yw
-! Version: 202305181040
+! Checksum: uErOMKKhyheK+XTn4QTZ7w
+! Version: 202305181101
 ! Title: EasyList
-! Last modified: 18 May 2023 10:40 UTC
+! Last modified: 18 May 2023 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21007,6 +21007,7 @@ _800x80_
 ##[data-m-ad-id]
 ##[data-mobile-ad-id]
 ##[data-name="adaptiveConstructorAd"]
+##[data-rc-widget]
 ##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
@@ -55652,6 +55653,7 @@ tvcancelrenew.com##.h-72
 buzzly.art##.h-min.overflow-hidden
 target.com##.h-position-fixed-bottom
 lyricsmode.com##.h113
+opoyi.com##.hLYYlN
 marketscreener.com##.hPubRight2
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hTgZCF
 gifcompressor.com,heic2jpg.com,imagecompressor.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.ha
@@ -57332,6 +57334,7 @@ cbn.com##[style="display:block !important; min-height:90px;"]
 tenforums.com##[style="height:280px;"]
 geekzone.co.nz##[style="height:90px"]
 timesnownews.com##[style="min-height: 181px;"]
+namemc.com##[style="min-height: 238px"]
 calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 dvdsreleasedates.com##[style="padding:15px 0 15px 0;width:728px;height:90px;text-align:center;"]
 analyticsinsight.net##[style="text-align: center;"]
