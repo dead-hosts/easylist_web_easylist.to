@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zbIxu95ZVUjqWT8gHFCwmw
-! Version: 202305182250
+! Checksum: MeFxE+7a+jX7NbjL+jO87g
+! Version: 202305182310
 ! Title: EasyList
-! Last modified: 18 May 2023 22:50 UTC
+! Last modified: 18 May 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7789,6 +7789,7 @@ _800x80_
 ###floatingAds
 ###floating_ad
 ###floating_ad_container
+###floating_ads_bottom_textcss_container
 ###floorAdWrapper
 ###foot-ad-wrap
 ###foot-ad2-wrap
@@ -55940,7 +55941,6 @@ getbukkit.org##.limit
 linuxize.com##.linaff
 jpost.com##.line-left-side-before-and-after-container
 jpost.com##.line-one-row-before-and-after-container
-builtbybit.com##.link--external
 architecturesideas.com##.linkpub_right_img
 babynamegenie.com,forless.com,worldtimeserver.com##.links
 weatherpro.com##.list-city-ad
@@ -56685,7 +56685,7 @@ newsroom.co.nz##.sponsor-logos2
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,freebmd.org.uk,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
