@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rTK6Lo+FQ0poVN8zljQSIw
-! Version: 202305190031
+! Checksum: lM58LaQrkf2wLdbWeMeFSg
+! Version: 202305190050
 ! Title: EasyList
-! Last modified: 19 May 2023 00:31 UTC
+! Last modified: 19 May 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55446,8 +55446,7 @@ artsy.net##.ePrLqP
 euractiv.com##.ea-gat-slot-wrapper
 coin360.com##.earnMenuButton-link
 expats.cz##.eas
-itwire.com##.eb-init
-nativenewsonline.net##.eb-visible
+itwire.com,nativenewsonline.net##.eb-init
 gfinityesports.com##.ecommerceUnit
 newagebd.net##.editorialMid
 sashares.co.za##.elementor-48612
