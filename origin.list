@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fRlb3xx3ZDwQB3iyaZJd6A
-! Version: 202305200440
+! Checksum: l8s7yEyAhc3yfnDRo9J7zA
+! Version: 202305200501
 ! Title: EasyList
-! Last modified: 20 May 2023 04:40 UTC
+! Last modified: 20 May 2023 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3880,7 +3880,6 @@
 =admeld&
 =adshow&
 =adslot&
-=adunit&
 =advanced-ads-
 =advert/
 =advertiser/
@@ -52363,7 +52362,7 @@ browsershots.org#@#.advert_area
 ||ganjingworld.com/v1s/adsserver/
 ||gentent.streampiay.fun^
 ||gocdkeys.com/images/background
-||googlesyndication.com^$domain=blogto.com
+||googlesyndication.com^$domain=blogto.com|youtube.com
 ||govevents.com/display-file/
 ||graphicdesignforums.co.uk/banners/
 ||grow.gab.com/galahad/
