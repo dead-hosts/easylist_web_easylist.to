@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tEdJ+fySWwUNebHfai+eYA
-! Version: 202305202240
+! Checksum: Lp7H6mO2JoXTUSvHbXEMoQ
+! Version: 202305202301
 ! Title: EasyList
-! Last modified: 20 May 2023 22:40 UTC
+! Last modified: 20 May 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53842,6 +53842,8 @@ thedrinknation.com###fcBanner
 fandom.com###featured-video__player
 fandom.com###featured-video__player-container
 investing.com###findABroker
+healthshots.com###fitnessTools
+healthshots.com###fitnessToolsAdBot
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
@@ -54232,6 +54234,7 @@ eurogamer.net,rockpapershotgun.com###sticky_leaderboard
 medicinehatnews.com###stickyleaderboard
 sun-sentinel.com###stnWrapperDiv
 rawstory.com###story-top-ad
+healthshots.com###storyBlockOne
 semiconductor-today.com###storyHorAdd
 web-capture.net###stw_ad
 arenaev.com,gsmarena.com###subHeader
@@ -55519,7 +55522,7 @@ ferrarichat.com##.funzone
 savemyexams.co.uk##.fuse-desktop-h-250
 savemyexams.co.uk##.fuse-h-90
 fxstreet.com##.fxs_leaderboard
-aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
+aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
 coinweek.com##.g-389
 domainnamewire.com,goodthingsguy.com##.g-single
 yellowise.com##.g-widget-block
@@ -56691,6 +56694,7 @@ minecraftlist.org##.stickywrapper
 romzie.com##.stksht
 dailyherald.com##.stnContainer
 dailycoffeenews.com##.story-ad-horizontal
+healthshots.com##.storyBlockOne
 datingscammer.info,kayifamily.net##.stream-item
 siasat.com##.stream-item-below-post-content
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.stream-item-group-start[label="promoted"]
