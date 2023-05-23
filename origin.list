@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oO/ddl4o9lUwhHvIHfbXlA
-! Version: 202305231710
+! Checksum: BXJvuGeFl5o382aonrK+ow
+! Version: 202305231730
 ! Title: EasyList
-! Last modified: 23 May 2023 17:10 UTC
+! Last modified: 23 May 2023 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12621,6 +12621,7 @@ _800x80_
 ##.ad_size_160x600
 ##.ad_skin
 ##.ad_sky
+##.ad_sky2
 ##.ad_sky2_2
 ##.ad_skyscpr
 ##.ad_skyscraper
@@ -51152,6 +51153,7 @@ browsershots.org#@#.advert_area
 ||fembedta.com/pub?
 ||fileboom.me/images/i/$third-party
 ||filterforge.com/images/banners/
+||financeads.net/tb.php$third-party
 ||flowplayer.com/releases/ads/
 ||free-btc.org/banner/$third-party
 ||free.xjs.lol^
