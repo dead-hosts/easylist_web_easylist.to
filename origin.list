@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q1J4DHnI3Dk6BKvCkZTR7w
-! Version: 202305232101
+! Checksum: Z4ojSIRct5wsPDl+HQB5nQ
+! Version: 202305232120
 ! Title: EasyList
-! Last modified: 23 May 2023 21:01 UTC
+! Last modified: 23 May 2023 21:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55342,6 +55342,7 @@ functions-online.com##.box_wide
 retailgazette.co.uk##.boxzilla-overlay
 retailgazette.co.uk##.boxzilla-popup-advert
 businessplus.ie##.bp_billboard_single
+petkeen.com##.br-10
 kisscartoon.city##.brand_resp
 eightieskids.com##.break
 broadsheet.com.au##.breakout-section-inverse
