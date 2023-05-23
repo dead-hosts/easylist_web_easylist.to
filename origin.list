@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GQV2V4kkw5xGHUVaYTUKnA
-! Version: 202305231140
+! Checksum: hRofAgB6wIN8RcgUpjOW/A
+! Version: 202305231202
 ! Title: EasyList
-! Last modified: 23 May 2023 11:40 UTC
+! Last modified: 23 May 2023 12:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59329,6 +59329,7 @@ analpornpix.com##[src^="https://analpornpix.com/t/153"]
 tubedupe.com##[src^="https://tubedupe.com/player/html.php?aid="]
 hentai-gamer.com##[src^="https://www.hentai-gamer.com/pics/"]
 pornhub.com##[srcdoc]
+pornhub.com##[srcset*="bloB:"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="base64"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]:not(video)
 xozilla.com##[style="height: 220px !important; overflow: hidden;"]
