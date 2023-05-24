@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tv/xcbw6Xpt40TgqFolxjA
-! Version: 202305241031
+! Checksum: OK1zdf7EyAfKzq60gY4pfw
+! Version: 202305241050
 ! Title: EasyList
-! Last modified: 24 May 2023 10:31 UTC
+! Last modified: 24 May 2023 10:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53012,8 +53012,8 @@ browsershots.org#@#.advert_area
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
 ||ubuntugeek.com/images/ubuntu1.png
 ||ukcampsite.co.uk/banners/
-||util-*.simply-hentai.com^
 ||userscript.zone/s.js
+||util-*.simply-hentai.com^
 ||uxmatters.com/images/sponsors/
 ||v3cars.com/load-ads.php
 ||vastz.b-cdn.net/hsr/HSR*.mp4
@@ -59895,6 +59895,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||paramountplus.com^$generichide
 @@||peacocktv.com^$generichide
 @@||photos.google.com^$generichide
+@@||play.max.com^$generichide
 @@||publicwww.com^$generichide
 @@||slack.com^$generichide
 @@||sourcegraph.com^$generichide
