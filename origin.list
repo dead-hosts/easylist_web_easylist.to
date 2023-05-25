@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DKvBzRkbdTAz4zahCW1OGA
-! Version: 202305250910
+! Checksum: QbxNIz3KlS2Y3rhL3Ho4/w
+! Version: 202305250930
 ! Title: EasyList
-! Last modified: 25 May 2023 09:10 UTC
+! Last modified: 25 May 2023 09:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55326,7 +55326,7 @@ mamul.am##.bannerb
 gamertweak.com##.bannerdiv
 flatpanelshd.com##.bannerdiv_twopage
 arcadebomb.com##.bannerext
-2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
+2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,rapidtvnews.com,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
 saigoneer.com##.bannergroup-main
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
 domainnamewire.com,ghostbin.me,i24news.tv,marinetechnologynews.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
@@ -56559,6 +56559,7 @@ egmnow.com##.outbrain-wrapper
 businesstoday.in##.outer-add-section
 techadvisor.com##.outer-wrapper
 aminoapps.com##.overflow-scroll-sidebar > div
+shtfplan.com##.overlay-container
 golfweather.com##.ox300x250
 afkgaming.com##.ozw5N
 breakingnews.ie##.p-2.bg-gray-100
