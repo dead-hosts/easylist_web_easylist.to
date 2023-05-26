@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6KO8wHfUm5l63uhaxN6rfQ
-! Version: 202305260231
+! Checksum: 5GTfThliFHz8ZHSM1O0LeQ
+! Version: 202305260250
 ! Title: EasyList
-! Last modified: 26 May 2023 02:31 UTC
+! Last modified: 26 May 2023 02:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55177,6 +55177,7 @@ petitchef.com,station-drivers.com,tennistemple.com##.akcelo-wrapper
 lyricsmode.com##.al-c-banner
 wikihow.com##.al_method
 altfi.com##.alert
+accessnow.org##.alert-banner
 majorgeeks.com##.alford > tbody > tr
 shortlist.com##.align-xl-content-between
 livejournal.com##.allbanners
@@ -55547,7 +55548,6 @@ spiceworks.com##.centerthe1
 thefastmode.com##.channel_long
 coincodex.com##.chart-pos.mobile-b
 sevenforums.com,tenforums.com##.chill
-cryptonews.com,insidebitcoins.com##.clickout-native_table_box-a
 businessinsider.in##.clmb_eoa
 kissanime.com.ru##.close_ad_button
 computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
@@ -56176,6 +56176,7 @@ ticketmaster.com##.jTNWic
 notateslaapp.com##.jeffdlwlxpqi
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
+dot.la##.job-wrapper
 cityam.com,techspot.com##.jobbioapp
 marketingweek.com##.jobs-lists
 johncodeos.com##.johnc-widget
@@ -57487,7 +57488,7 @@ everydaykoala.com,playjunkie.com##[class*="__adspot-title-container"]
 everydaykoala.com,playjunkie.com##[class*="__adv-block"]
 barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
-bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com##[class*="clickout-"]
+bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com,insidebitcoins##[class*="clickout-"]
 smallseotools.com##[class*="gram"]
 alternativeto.net##[class^="AdsenseAd"]
 thesouthafrican.com##[class^="Advertisement_"]
