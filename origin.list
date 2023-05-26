@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PBX77YsPYiAtvj6c2xUQPA
-! Version: 202305260541
+! Checksum: 5JFWLINqHy3sHP5Z/ooflg
+! Version: 202305260602
 ! Title: EasyList
-! Last modified: 26 May 2023 05:41 UTC
+! Last modified: 26 May 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54491,6 +54491,7 @@ fastseduction.com,independent.co.uk###partners
 arrivealive.co.za###partners_container
 binaries4all.com###payserver
 demap.info###pcad
+shine.cn###pdfModal
 petco.com###pencil-banner
 investopedia.com###performance-marketing_1-0
 premierguitar.com###pg_leaderboard
@@ -56417,7 +56418,7 @@ criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
 etxt.biz##.mod-cabinet__sidebar-info
 notateslaapp.com##.mod-sponsors
-breakingenergy.com##.modal-backdrop
+breakingenergy.com,shine.cn##.modal-backdrop
 livelaw.in##.modal_wrapper_frame
 autoevolution.com##.modeladmid
 finextra.com##.module--sponsor
