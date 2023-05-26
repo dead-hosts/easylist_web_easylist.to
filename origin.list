@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FG1uDk+uCRepCzKkGI0C1Q
-! Version: 202305260702
+! Checksum: n5h205hRHlUYLWdWEBft9Q
+! Version: 202305260731
 ! Title: EasyList
-! Last modified: 26 May 2023 07:02 UTC
+! Last modified: 26 May 2023 07:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51354,6 +51354,7 @@ browsershots.org#@#.advert_area
 ||ipp.littlecdn.com^
 ||jam.hearstapps.com/js/renderer.js
 ||jinx.com/content/banner/
+||jobs.sciencecareers.org^$subdocument,third-party
 ||jobtarget.com/distrib_pages/
 ||join.megaphonetv.com^$third-party
 ||jvzoo.com/assets/widget/
@@ -56588,6 +56589,7 @@ rateyourmusic.com##.page_creative_frame
 trustedreviews.com##.page_header_container
 nzcity.co.nz##.page_skyscraper
 calculatorsoup.com##.pages
+topic.com##.pages-Article-adContainer
 livejournal.com##.pagewide-wrapper
 departures.com##.paid-banner
 timesofindia.indiatimes.com##.paisa-wrapper
