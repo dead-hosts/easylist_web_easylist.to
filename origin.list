@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QR4aL90mBFOZNcp62Ns8Ww
-! Version: 202305260310
+! Checksum: 1mxWRS0GIRjtmOwptHS9GQ
+! Version: 202305260331
 ! Title: EasyList
-! Last modified: 26 May 2023 03:10 UTC
+! Last modified: 26 May 2023 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56820,6 +56820,7 @@ al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.
 grammar.yourdictionary.com##.revenue-placeholder
 hindustantimes.com##.rgtAdSection
 indianexpress.com##.rhs-banner-carousel
+cnbctv18.com##.rhs-home-second-ad
 dailyo.in##.rhsAdvertisement300
 siteslike.com##.rif
 terminal.hackernoon.com##.right
