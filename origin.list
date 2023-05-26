@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: leOZcgPSOawPbWnOw6c/9A
-! Version: 202305260930
+! Checksum: siGuRWX0cGtMECLGrqrwuQ
+! Version: 202305260950
 ! Title: EasyList
-! Last modified: 26 May 2023 09:30 UTC
+! Last modified: 26 May 2023 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51999,7 +51999,6 @@ browsershots.org#@#.advert_area
 ||d3fkv551xkjrmm.cloudfront.net^
 ||d3flai6f7brtcx.cloudfront.net^
 ||d3frqqoat98cng.cloudfront.net^
-||d3fw5vlhllyvee.cloudfront.net^
 ||d3g4s1p0bmuj5f.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
@@ -56627,6 +56626,7 @@ wweek.com##.pb-f-phanzu-phanzu-ad-code
 dogtime.com,playstationlifestyle.net,thefashionspot.com##.pb-in-article-content
 playbuzz.com##.pb-site-player
 washingtonpost.com##.pb-sm.pt-sm.b
+publicbooks.org##.pb_ads_widget
 recipesandcooker.com##.pbl
 caixinglobal.com##.pc-ad-left01
 thefintechtimes.com##.penci-widget-sidebar
@@ -57429,6 +57429,7 @@ gamertweak.com##.widget_srlzycxh
 dailyboulder.com,lostintechnology.com,ripplecoinnews.com,webkinznewz.ganzworld.com##.widget_text
 nypost.com##.widget_text.no-mobile.box
 tutorialink.com##.widget_ti_add_widget
+carpeludum.com##.widget_widget_catchevolution_adwidget
 techpout.com##.widget_xyz_insert_php_widget
 wethegeek.com##.win
 dailywire.com##.wisepops-block-image
