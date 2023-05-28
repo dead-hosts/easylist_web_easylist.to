@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dkKmJg2dO9F6bJI1GhzNXA
-! Version: 202305280650
+! Checksum: LsBE1VXPZIEIQEpIPWSKbA
+! Version: 202305280710
 ! Title: EasyList
-! Last modified: 28 May 2023 06:50 UTC
+! Last modified: 28 May 2023 07:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54668,6 +54668,7 @@ independent.co.uk,standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
 bostonglobe.com###sticky_container.width_full
 eurogamer.net,rockpapershotgun.com###sticky_leaderboard
+lethbridgeherald.com###stickybox
 medicinehatnews.com###stickyleaderboard
 sun-sentinel.com###stnWrapperDiv
 rawstory.com###story-top-ad
@@ -57066,7 +57067,7 @@ thebestcakerecipes.com##.slick-film-strip
 zimbio.com##.slide-break
 as.com##.slider-producto
 inbox.com##.slinks
-alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,sasktoday.ca,squamishchief.com,stalbertgazette.com,townandcountrytoday.com,tricitynews.com,vancouverisawesome.com##.slot
+airdriecityview.com,alaskahighwaynews.ca,albertaprimetimes.com,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,cochraneeagle.ca,delta-optimist.com,moosejawtoday.com,mountainviewtoday.ca,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,rmoutlook.com,sasktoday.ca,squamishchief.com,stalbertgazette.com,theorca.ca,townandcountrytoday.com,tricitynews.com,vancouverisawesome.com,westerninvestor.com,westernwheel.ca##.slot
 iheartradio.ca##.slot-topNavigation
 independent.ie##.slot1
 independent.ie##.slot4
