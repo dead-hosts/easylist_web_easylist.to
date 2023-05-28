@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S43arDNDF9q3K3RF/Ted6A
-! Version: 202305280740
+! Checksum: wOjyO63SnyQ+eyLBQjFlcw
+! Version: 202305280801
 ! Title: EasyList
-! Last modified: 28 May 2023 07:40 UTC
+! Last modified: 28 May 2023 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11298,6 +11298,7 @@ _800x80_
 ##.ad-sense
 ##.ad-sense-ad
 ##.ad-sep
+##.ad-separator
 ##.ad-sharethrough-top
 ##.ad-shifted
 ##.ad-show-label
@@ -21443,6 +21444,7 @@ _800x80_
 ##.card-captioned.crd > .crd--cnt > .s2nPlayer
 ##.ck-anyclips
 ##.ck-anyclips-article
+##.ez-sidebar-wall-ad
 ##.ez-video-wrap
 ##.inline-iframe.article--content-embed
 ##.js-widget-distroscale
@@ -57889,6 +57891,7 @@ emalm.com##a[href^="https://offer.alibaba.com/"]
 blix.gg##a[href^="https://partnerbcgame.com/"]
 nosubjectlosangeles.com,richardvigilantebooks.com##a[href^="https://rebrand.ly/"]
 disasterscans.com##a[href^="https://recall-email.onelink.me/"]
+narkive.com##a[href^="https://rfnm.io/?"]
 emalm.com##a[href^="https://s.click.aliexpress.com/"]
 997wpro.com##a[href^="https://seascapeinc.com/"]
 everybithelps.co.uk##a[href^="https://shop.trezor.io/"]
