@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6KPL4NiDLphCBJqYssgdfQ
-! Version: 202305290340
+! Checksum: jhjlZiGPSrJ9YkwTqu7OQQ
+! Version: 202305290402
 ! Title: EasyList
-! Last modified: 29 May 2023 03:40 UTC
+! Last modified: 29 May 2023 04:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56378,6 +56378,7 @@ gadgets360.com##.lhs_top_banner
 mobygames.com##.lifesupport-header
 trakt.tv##.light
 iheartradio.ca##.lightbox-wrapper
+rebelnews.com##.lighter-gray-bg
 getbukkit.org##.limit
 linuxize.com##.linaff
 jpost.com##.line-left-side-before-and-after-container
@@ -56936,7 +56937,6 @@ rocket-league.com##.rlg-trading-spacer
 indiatimes.com##.rmfp
 rebelnews.com##.rn-article-ad
 rebelnews.com##.rn-sidebar-ad
-rebelnews.com##.rn_widgets_content
 realitytea.com##.roadblock
 surinenglish.com##.roba
 roblox.com##.roblox-skyscraper
