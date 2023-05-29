@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Bgkl1LTfsP7vspzRNO3a+A
-! Version: 202305290850
+! Checksum: 8VP0/gEgNyqVokkg3odpeg
+! Version: 202305290910
 ! Title: EasyList
-! Last modified: 29 May 2023 08:50 UTC
+! Last modified: 29 May 2023 09:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60255,20 +60255,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||v.fwmrm.net/ad/g/1?*_html5_live$domain=~gulli.fr|~msn.com
 ! Healthy Advertising (Spanish)
 @@||healthyadvertising.es^$~third-party
-! VK.ru/.com
-@@||api.vigo.ru^*/network_status?$object,xmlhttprequest,domain=vk.com
-@@||paymentgate.ru/payment/*_Advert/
-@@||vk.com/ads$generichide
-@@||vk.com/ads.php$~third-party,xmlhttprequest
-@@||vk.com/ads.php?$subdocument,domain=vk.com
-@@||vk.com/ads?act=$~third-party
-@@||vk.com/ads?act=payments&type$script,stylesheet
-@@||vk.com/ads_*php?$subdocument,~third-party
-@@||vk.com/images/ads_$domain=vk.com
-@@||vk.com/js/al/ads.js?$domain=vk.com
-@@||vk.com^*/ads.css$domain=vk.com
-@@||vk.me/css/al/ads.css$domain=vk.com
-@@||vk.me/images/ads_$domain=vk.com
 ! Yahoo
 @@||gemini.yahoo.com/advertiser/$domain=gemini.yahoo.com
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
