@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7nEVyT6QrJ+4yHYtOYwdTA
-! Version: 202305301901
+! Checksum: ChZKmVuNdMzVuSBNnSFZAw
+! Version: 202305301920
 ! Title: EasyList
-! Last modified: 30 May 2023 19:01 UTC
+! Last modified: 30 May 2023 19:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55279,8 +55279,7 @@ domainnamewire.com##.after-header
 venea.net##.ag_banner
 venea.net##.ag_line
 nexusmods.com##.agroup
-picnob.com##.ah-box-i-w
-picnob.com##.ah-box-n-w
+picnob.com##.ah-box
 techpp.com##.ai-attributes
 onlineradious.com##.ai-placement
 uploadvr.com##.ai-sticky-widget
