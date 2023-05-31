@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PmJkjtOKP9nHVP5MSgpvaw
-! Version: 202305310520
+! Checksum: HGqBa/Kq+2h5xPDbz7xzOA
+! Version: 202305310540
 ! Title: EasyList
-! Last modified: 31 May 2023 05:20 UTC
+! Last modified: 31 May 2023 05:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56489,6 +56489,8 @@ heatmap.news##.middle_leaderboard
 thefastmode.com##.middlebanner
 fruitnet.com##.midpageAdvert
 extremetech.com##.min-h-24
+uwufufu.com##.min-h-\[253px\]
+uwufufu.com##.min-h-\[300px\]
 stripes.com##.min-h90
 kitco.com##.mining-banner-container
 ar15.com##.minis
