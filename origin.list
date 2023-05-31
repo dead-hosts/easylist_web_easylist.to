@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6F0zD9uaq8SFFCSUtUEHfQ
-! Version: 202305310210
+! Checksum: 3p2gNoaty/nPhpQQCXnpeA
+! Version: 202305310231
 ! Title: EasyList
-! Last modified: 31 May 2023 02:10 UTC
+! Last modified: 31 May 2023 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4924,10 +4924,7 @@ _800x80_
 ###AdSense1
 ###AdSense2
 ###AdSense3
-###AdSenseBottomAds
 ###AdSenseDiv
-###AdSenseMiddleAds
-###AdSenseTopAds
 ###AdServer
 ###AdServer_Banner_1
 ###AdServer_Banner_2
@@ -7074,7 +7071,6 @@ _800x80_
 ###articleLeftAdColumn
 ###articleSideAd
 ###articleTop-ads
-###article_SponsoredLinks
 ###article_ad
 ###article_ad_1
 ###article_ad_3
@@ -7103,9 +7099,7 @@ _800x80_
 ###ax-billboard-bottom
 ###ax-billboard-sub
 ###ax-billboard-top
-###b-ad-choices
 ###backad
-###background-ad-cover
 ###background-adv
 ###background_ad_left
 ###background_ad_right
@@ -8015,8 +8009,6 @@ _800x80_
 ###grid_ad
 ###gtm_dfp_leaderboard_top
 ###h-ad
-###hAd
-###hAdv
 ###half-page-ad
 ###halfPageAd
 ###half_page_ad_300x600
@@ -8635,8 +8627,6 @@ _800x80_
 ###nbcShowcaseAds
 ###networkads
 ###newAd
-###newPostProfileAd
-###newPostProfileVerticalAd
 ###ng-ad
 ###ng-ad-lbl
 ###ni-ad-row
@@ -8648,17 +8638,13 @@ _800x80_
 ###online_ad
 ###openx-text-ad
 ###openx-widget
-###openx_iframe
 ###optadATF
-###or-ad
-###ovAdWrap
 ###ovadsense
 ###overlay-ad-bg
 ###overlay-advertising
 ###overlay_ad
 ###overlayad
 ###overlayadd
-###overtureSponsoredLinks
 ###p-Ad
 ###p-advert
 ###p-googlead
@@ -8681,12 +8667,10 @@ _800x80_
 ###page__outside-advertsing
 ###page_ad
 ###page_ad_top
-###page_content_top_ad
 ###page_top_ad
 ###pageads_top
 ###pagebottomAd
 ###pagination-advert
-###paidlistingAds
 ###panel-ad
 ###panelAd
 ###panel_ad1
@@ -8899,18 +8883,10 @@ _800x80_
 ###right-content-ad
 ###right-featured-ad
 ###right-rail-ad-slot-content-top
-###right-widget-b-ads_widget-26
-###right-widget-b-ads_widget-29
 ###right-widget-b-ads_widget-9
-###right-widget-c-ads_widget-24
-###right-widget-c-ads_widget-30
 ###right-widget-c-ads_widget-7
 ###right-widget-d-ads_widget-36
-###right-widget-d-ads_widget-37
-###right-widget-d-ads_widget-38
-###right-widget-top-ads_widget-21
 ###right-widget-top-ads_widget-23
-###right-widget-top-ads_widget-28
 ###right1-ad
 ###right1ad
 ###rightAD
@@ -8923,14 +8899,10 @@ _800x80_
 ###rightAdDiv1
 ###rightAdDiv2
 ###rightAdDiv3
-###rightAdHideLinkContainer
 ###rightAdHolder
 ###rightAdUnit
-###rightAd_Iframe
-###rightAd_rdr
 ###rightAds
 ###rightAdsDiv
-###rightBanner-ad
 ###rightBlockAd
 ###rightBottomAd
 ###rightColAd
@@ -9017,8 +8989,6 @@ _800x80_
 ###rm-adslot-bigsizebanner_1
 ###rm-adslot-contentad_1
 ###rm_ad_text
-###rn_ad_native_ppkpu
-###rolldown-ad
 ###ros_ad
 ###rotating-ad-display
 ###rotating-ads-wrap
@@ -15080,7 +15050,6 @@ _800x80_
 ##.b-ad
 ##.b-ad-main
 ##.b-adhesion
-##.b-ads_gpt
 ##.b-adv
 ##.b-advert
 ##.b-advertising__down-menu
@@ -17057,7 +17026,6 @@ _800x80_
 ##.gpAdBox
 ##.gpAdFooter
 ##.gpAds
-##.gpnad
 ##.gpt-ad
 ##.gpt-ad-container
 ##.gpt-ad-sidebar-wrap
@@ -18767,7 +18735,6 @@ _800x80_
 ##.pcads_widget
 ##.pd-ads-mpu
 ##.pdpads_desktop
-##.peg_ad
 ##.penci-ad-box
 ##.penci-ad-image
 ##.penci-ad_box
@@ -18880,7 +18847,6 @@ _800x80_
 ##.poster_ad
 ##.postfooterad
 ##.posts-ad
-##.powerinbox
 ##.pp-ad-container
 ##.pp_ad_code_adtxt
 ##.ppb_ads
@@ -18901,7 +18867,6 @@ _800x80_
 ##.primary-ad
 ##.primary-ad-widget
 ##.primary-advertisment
-##.primary_sidebar_ad
 ##.primis-video
 ##.primis-wrapper
 ##.print-ad-wrapper
@@ -18917,8 +18882,6 @@ _800x80_
 ##.profile__ad-wrapper
 ##.profile_ad_bottom
 ##.profile_ad_top
-##.proftopad
-##.programmatic-ad
 ##.programtic-ads
 ##.promo-ad
 ##.promo-mpu
@@ -56827,7 +56790,6 @@ nymag.com##.products-package
 nymag.com##.products-package_single
 filehippo.com##.program-actions-header__promo
 filehippo.com##.program-description__slot
-channelnewsasia.com##.programtic-ads
 as.com,gokunming.com##.prom
 delicious.com.au,taste.com.au##.prom-header
 babynamegenie.com,ecaytrade.com,nbcbayarea.com,nwherald.com,planetsourcecode.com,sciagaj.org,themuslimvibe.com,totalxbox.com,varsity.com,w3techs.com,wgxa.tv##.promo
