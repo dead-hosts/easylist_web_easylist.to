@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TXbt3k3Gnv6BTWeyvyuZ4A
-! Version: 202306011610
+! Checksum: cvU1o+gqWpwscpAy7eHhxg
+! Version: 202306011630
 ! Title: EasyList
-! Last modified: 01 Jun 2023 16:10 UTC
+! Last modified: 01 Jun 2023 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15111,6 +15111,7 @@ _800x80_
 ##.banner-adsense
 ##.banner-adv
 ##.banner-advert
+##.banner-advert-wrapper
 ##.banner-advertisement
 ##.banner-advertising
 ##.banner-adverts
