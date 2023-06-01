@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T9QZDFN2oz2LNdmOqOK1QA
-! Version: 202306011001
+! Checksum: xsuePuqIZU35Cb3xOKeTpA
+! Version: 202306011020
 ! Title: EasyList
-! Last modified: 01 Jun 2023 10:01 UTC
+! Last modified: 01 Jun 2023 10:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -47117,6 +47117,7 @@ browsershots.org#@#.advert_area
 ||partnerstack.com^$third-party
 ||partycasino.com^$third-party
 ||partypoker.com^$third-party
+||passendo.com^$third-party
 ||passive-earner.com^$third-party
 ||paydemic.com^$third-party
 ||paydotcom.com^$third-party
