@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LEa4SG3yzZPN9fti2PIAzw
-! Version: 202306010140
+! Checksum: w0DN+BPfIttcr4ji6hoYqQ
+! Version: 202306010202
 ! Title: EasyList
-! Last modified: 01 Jun 2023 01:40 UTC
+! Last modified: 01 Jun 2023 02:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57775,6 +57775,7 @@ cheaptickets.com,ebookers.com,expedia.com,hotels.com,orbitz.com,travelocity.com,
 coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
+reuters.com##[data-testid="ResponsiveAdSlot"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
 coles.com.au##[data-testid="banner-container-desktop"]
 forbes.com##[data-testid="locked-top-ad-container"]
@@ -57961,7 +57962,6 @@ ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
 zenger.news##[style^="text-align:center;min-height:"]
 filmdaily.co,gelbooru.com,integral-calculator.com,live365.com,passiveaggressivenotes.com,twcenter.net##[style^="width: 728px;"]
-reuters##[testid="ResponsiveAdSlot"]
 myfitnesspal.com##[title*="Ad"]
 check-host.net##[title="DDOS-Guard"]
 modrinth.com##[type="banner"]
