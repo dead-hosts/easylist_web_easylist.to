@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Vv6J8N46U8QWjBVBHZFCXw
-! Version: 202306020640
+! Checksum: woLRIkWpLaFwhu1U75YTmQ
+! Version: 202306020701
 ! Title: EasyList
-! Last modified: 02 Jun 2023 06:40 UTC
+! Last modified: 02 Jun 2023 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57732,7 +57732,7 @@ yellowpages.co.za##.yp-object-ad-modal
 buzzly.art##.z-10.w-max
 howstuffworks.com##.z-999
 tekdeeps.com##.zAzfDBzdxq3
-ign.com##.zad
+ign.com,pcmag.com##.zad
 windows101tricks.com##.zanui-container
 antimusic.com##.zerg
 thehackernews.com##.zoho-box-1
