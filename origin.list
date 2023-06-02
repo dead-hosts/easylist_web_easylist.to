@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C62n+5F2lHq+WTuz3XV7wQ
-! Version: 202306020750
+! Checksum: szMqNb7Hb7MSwkyxdiWC+Q
+! Version: 202306020810
 ! Title: EasyList
-! Last modified: 02 Jun 2023 07:50 UTC
+! Last modified: 02 Jun 2023 08:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55919,6 +55919,7 @@ noqreport.com##.custom-html-widget [href] > [src]
 breakingnews.ie##.custom-mpu-container
 ehitavada.com##.custom-popup
 trancentral.tv##.custom_banners_big_link
+fandomwire.com##.customad
 total-croatia-news.com##.custombanner
 coincarp.com##.customspon
 futurecurrencyforecast.com##.cwc-tor-widget
