@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M1hncRYIMKLesOoI6S/u8A
-! Version: 202306021051
+! Checksum: qSFf/u9tOzyF9GMbor0DsQ
+! Version: 202306021110
 ! Title: EasyList
-! Last modified: 02 Jun 2023 10:51 UTC
+! Last modified: 02 Jun 2023 11:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55730,6 +55730,8 @@ radiotoday.co.uk##.byglhsmf
 insurancejournal.com##.bzn
 insidebitcoins.com##.c-FloatingPrompt
 globalnews.ca##.c-ad
+stuff.tv##.c-ad--mpu-bottom
+stuff.tv##.c-ad--mpu-top
 zdnet.com##.c-adDisplay_container_incontent-all-top
 tuko.co.ke##.c-adv
 legit.ng##.c-adv--video-placeholder
