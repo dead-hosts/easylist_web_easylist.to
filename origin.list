@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Nn5PcQNogscpGwsUjpmLFw
-! Version: 202306030940
+! Checksum: AddQKGg9CQGmLBLUVBLWug
+! Version: 202306031001
 ! Title: EasyList
-! Last modified: 03 Jun 2023 09:40 UTC
+! Last modified: 03 Jun 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13983,6 +13983,8 @@ _800x80_
 ##.adthrive-header
 ##.adthrive-header-container
 ##.adthrive-placeholder-content
+##.adthrive-placeholder-header
+##.adthrive-placeholder-static-sidebar
 ##.adthrive-video-player
 ##.adthrive_custom_ad
 ##.adthx
@@ -55873,6 +55875,7 @@ imdb.com##.cornerstone_slot
 physicsworld.com##.corporate-partners
 kiss-anime.asia,kissanime.mobi##.countdown.btn
 pcworld.com##.coupons
+coursedrive.org##.cours-adsense-in-feed
 wolfstream.tv##.cover2
 coinpaprika.com##.cp-table__row--ad-row
 realsport101.com##.cpaAd
