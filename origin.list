@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ttxkxLGPAZltyy0xu+zFKw
-! Version: 202306040002
+! Checksum: yELGq9stN3Cq6G0ehjv3lw
+! Version: 202306040020
 ! Title: EasyList
-! Last modified: 04 Jun 2023 00:02 UTC
+! Last modified: 04 Jun 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -437,7 +437,6 @@
 /ad-top-
 /ad-top.
 /ad-unit-
-/ad-units.
 /ad-vert.
 /ad-view-
 /ad-web.
@@ -57775,6 +57774,7 @@ barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
 beincrypto.com,bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com,insidebitcoins.com##[class*="clickout-"]
 smallseotools.com##[class*="gram"]
+levels.fyi##[class*="submissions-table-promo_promoContainer"]
 alternativeto.net##[class^="AdsenseAd"]
 thesouthafrican.com##[class^="Advertisement_"]
 games.washingtonpost.com##[class^="DisplayAd_"]
