@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BI/SnfOVhtYvwx8W2/lZ+g
-! Version: 202306042250
+! Checksum: 2RvY0jMLhVWE5DMZztnKNg
+! Version: 202306042310
 ! Title: EasyList
-! Last modified: 04 Jun 2023 22:50 UTC
+! Last modified: 04 Jun 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16493,6 +16493,7 @@ _800x80_
 ##.fixadheight
 ##.fixadheightbottom
 ##.fixed-ad-aside
+##.fixed-ad-bottom
 ##.fixed-ads
 ##.fixed-bottom-ad
 ##.fixed-sidebar-ad
@@ -55300,6 +55301,8 @@ thegatewaypundit.com##.adcovery
 thegatewaypundit.com##.adcovery-home-01
 thegatewaypundit.com##.adcovery-postbelow-01
 online-image-editor.com,thehindu.com##.add
+mid-day.com##.add-300x250
+mid-day.com##.add-970x250
 buzz.ie,irishpost.com,theweekendsun.co.nz##.add-block
 cricketcountry.com##.add-box
 addictinggames.com##.add-bx
@@ -55393,7 +55396,7 @@ atlasobscura.com##.advertisement-disclaimer
 radiocity.in##.advertisement-horizontal-small
 trumparea.com##.advertisement-list
 atlasobscura.com##.advertisement-shadow
-radiocity.in##.advertisement-text
+mid-day.com,radiocity.in##.advertisement-text
 comedy.com##.advertisement-video-slot
 structurae.net##.advertisements
 scmp.com##.advertisers
@@ -56174,6 +56177,7 @@ purexbox.com,pushsquare.com##.for-mobile.below-article
 flatpanelshd.com##.forsideboks2
 permies.com##.forum-top-banner
 newsroom.co.nz##.foundingpartners
+freepresskashmir.news##.fpkdonate
 theiphoneappreview.com##.frame
 freedomfirstnetwork.com##.freed-1
 moviemistakes.com##.freestarad
@@ -57698,7 +57702,7 @@ wplift.com##.widget_bsa
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 theiphoneappreview.com##.widget_links
-aboutcrypto.info,appleworld.today,captainaltcoin.com,closerweekly.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+aboutcrypto.info,appleworld.today,captainaltcoin.com,closerweekly.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.widget_nypost_vivid_concerts_widget
 dailynewsegypt.com##.widget_rotatingbanners
