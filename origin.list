@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IW3y8rh8sGlWU2nmwVmVSA
-! Version: 202306041231
+! Checksum: XtQLbgxp0dG93Ur/AfyXTA
+! Version: 202306041250
 ! Title: EasyList
-! Last modified: 04 Jun 2023 12:31 UTC
+! Last modified: 04 Jun 2023 12:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23549,6 +23549,7 @@ browsershots.org#@#.advert_area
 ||adsxyz.com^
 ||adt328.com^
 ||adt545.net^
+||adt567.net^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
@@ -56113,6 +56114,7 @@ forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 whatismyipaddress.com##.fbx-player-wrapper
 digminecraft.com##.fc2e5688
+businessinsider.in##.fc_clmb_ad_mrec
 filmdaily.co##.fd-article-sidebar-ad
 filmdaily.co##.fd-article-top-banner
 filmdaily.co##.fd-home-sidebar-inline-rect
