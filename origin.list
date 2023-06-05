@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0gKVJCXHk/C+KcH4MyzvQw
-! Version: 202306050731
+! Checksum: up1D09VRe0atzwAQjtRTvw
+! Version: 202306050750
 ! Title: EasyList
-! Last modified: 05 Jun 2023 07:31 UTC
+! Last modified: 05 Jun 2023 07:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10804,6 +10804,7 @@ _800x80_
 ##.ad-divider
 ##.ad-dog
 ##.ad-dog__cnx-container
+##.ad-dog__ratio-16x9
 ##.ad-dt
 ##.ad-dx_wrp
 ##.ad-dynamic-showcase-top
@@ -56043,11 +56044,9 @@ dola.com##.ds-brand
 dola.com##.ds-display-ad
 cryptonews.com##.dslot
 kickasstorrents.to##.dssdffds
+digitaltrends.com##.dt-primis
 digitaltrends.com##.dtads-location
-digitaltrends.com##.dtads-slot
 googleping.com##.dtext
-digitaltrends.com##.dtvideos-container
-digitaltrends.com##.dtvideos-recommended
 everythingrf.com##.dummydiv
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
