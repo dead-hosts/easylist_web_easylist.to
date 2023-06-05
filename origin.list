@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: up1D09VRe0atzwAQjtRTvw
-! Version: 202306050750
+! Checksum: wY5ow7e8Rw4U4RtL3FzSmQ
+! Version: 202306050810
 ! Title: EasyList
-! Last modified: 05 Jun 2023 07:50 UTC
+! Last modified: 05 Jun 2023 08:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55363,6 +55363,7 @@ nepallivetoday.com##.adsimage
 search.b1.org##.adslabel
 bolnews.com##.adspadding
 miamitodaynews.com##.adtext
+mp1st.com##.adthrive
 quadraphonicquad.com##.adthrive-placeholder-header
 quadraphonicquad.com##.adthrive-placeholder-static-sidebar
 pinchofyum.com##.adthrive_header_ad
