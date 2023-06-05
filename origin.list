@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o0tUk9gPx4YBB58RjPZtEg
-! Version: 202306051240
+! Checksum: EqsDoUgmslR423mBWLegeg
+! Version: 202306051301
 ! Title: EasyList
-! Last modified: 05 Jun 2023 12:40 UTC
+! Last modified: 05 Jun 2023 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21125,7 +21125,7 @@ _800x80_
 ##a[href^="https://click.candyoffers.com/"]
 ##a[href^="https://click.dtiserv2.com/"]
 ##a[href^="https://click.hoolig.app/"]
-##a[href^="https://click.linksynergy.com/fs-bin/"]
+##a[href^="https://click.linksynergy.com/fs-bin/"] > img
 ##a[href^="https://clickadilla.com/"]
 ##a[href^="https://clicks.pipaffiliates.com/"]
 ##a[href^="https://clixtrac.com/"]
