@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M0+RuywZEFfjcjXA7OLo/w
-! Version: 202306051520
+! Checksum: Uo82jXYs/gWaOtgwMfRcVw
+! Version: 202306051540
 ! Title: EasyList
-! Last modified: 05 Jun 2023 15:20 UTC
+! Last modified: 05 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -363,6 +363,7 @@
 .zm/ads/
 .zw/ads/
 /?affiliateId=*&realDomain=
+/?fp=*&poru=$subdocument
 /?view=ad
 /_adslot/*
 /_global/ads/*
@@ -21037,6 +21038,7 @@ _800x80_
 ##[name^="google_ads_iframe"]
 ##[onclick^="location.href='http://www.reimageplus.com"]
 ##a-ad
+##a[href*=".cfm?fp="][href*="&maxads="]
 ##a[href*=".engine.adglare.net/"]
 ##a[href*="//lkstrck2.com/"]
 ##a[href^="//a.bestcontentfare.top/"]
@@ -40843,6 +40845,7 @@ browsershots.org#@#.advert_area
 ||sealedsimplicitynoun.com^
 ||sealeryshilpit.com^
 ||sealerysuppler.com^
+||sealthatleak.com^
 ||seamankidding.com^
 ||seamloring.life^
 ||seapolo.com^
@@ -44032,6 +44035,7 @@ browsershots.org#@#.advert_area
 ||vaccinationwear.com^
 ||vaccinegrownparliamentary.com^
 ||vacuolewhilter.com^
+||vacuomedogeys.com^
 ||vacuomehautain.tech^
 ||vacuts.com^
 ||vacwrite.com^
@@ -47891,6 +47895,7 @@ browsershots.org#@#.advert_area
 ||affelseaeinera.org^$popup
 ||affiliate-wg.com^$popup
 ||affilirise.com^$popup
+||affinity.net^$popup
 ||afflat3e1.com^$popup
 ||affluentshinymulticultural.com^$popup
 ||afk-i.com^$popup
@@ -49929,6 +49934,7 @@ browsershots.org#@#.advert_area
 ||scenbe.com^$popup
 ||schemeabsolutejanuary.com^$popup
 ||screenov.site^$popup
+||sealthatleak.com^$popup
 ||search4y.com^$popup
 ||searchenhancements.com^$popup
 ||searchmulty.com^$popup
