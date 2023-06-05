@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q/n60gHgSb/KHRucMR+wmQ
-! Version: 202306051830
+! Checksum: EHx6sXsU7E5vbxfjMVp5aA
+! Version: 202306051850
 ! Title: EasyList
-! Last modified: 05 Jun 2023 18:30 UTC
+! Last modified: 05 Jun 2023 18:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32639,6 +32639,7 @@ browsershots.org#@#.advert_area
 ||histormedengi.xyz^
 ||hisurnhuh.com^
 ||hiswhelectu.xyz^
+||hitbip.com^
 ||hitchrational.com^
 ||hitcpm.com^
 ||hitlnk.com^
@@ -49033,6 +49034,7 @@ browsershots.org#@#.advert_area
 ||jsmptjmp.com^$popup
 ||jubhahsfurzier.digital^$popup
 ||jubsaugn.com^$popup
+||juiceadv.com^$popup
 ||juicyads.com^$popup
 ||jujaufur.net^$popup
 ||julia-liz.com^$popup
@@ -49944,6 +49946,7 @@ browsershots.org#@#.advert_area
 ||securecloud-smart.com^$popup
 ||securecloud-sml.com^$popup
 ||securedcdn.com^$popup
+||securedsmcd.com^$popup
 ||securegate9.com^$popup
 ||securegfm.com^$popup
 ||secureintl.com^$popup
@@ -58789,6 +58792,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
 mg.co.za#?#article:-abp-has(.sponsored-single)
 metager.org#?#.result:-abp-has(.advertisement-mark)
 metager.org#?#.result:-abp-has(span:-abp-contains(partnershop))
