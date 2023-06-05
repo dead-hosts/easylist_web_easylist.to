@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wY5ow7e8Rw4U4RtL3FzSmQ
-! Version: 202306050810
+! Checksum: zPpL4F7n6SnVGnK4suGDBA
+! Version: 202306050830
 ! Title: EasyList
-! Last modified: 05 Jun 2023 08:10 UTC
+! Last modified: 05 Jun 2023 08:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54983,6 +54983,7 @@ bleedingcool.com,indy100.com,jamaicaobserver.com,pastemagazine.com###top_leaderb
 bleedingcool.com###top_medium_rectangle
 pastemagazine.com###top_rectangle
 imdb.com###top_rhs
+bleedingcool.com###top_spacer
 bookriot.com###top_takeover
 w3newspapers.com###topads
 absolutelyrics.com,cdrlabs.com,exiledonline.com,findtheword.info,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
@@ -56954,6 +56955,7 @@ newagebd.net##.postPageRightInTop
 newagebd.net##.postPageRightInTopIn
 thetrek.co##.post__in-content-ad
 fastcompany.com##.post__promotion
+bleedingcool.com##.post_content_spacer
 ultrabookreview.com##.postzzif3
 redketchup.io##.potato_sticky
 redketchup.io##.potato_viewer
@@ -57255,6 +57257,7 @@ hepper.com##.sidebar__placement
 snopes.com##.sidebar_ad
 pcgamesn.com##.sidebar_affiliate_disclaimer
 bxr.com##.sidebar_promo
+bleedingcool.com##.sidebar_spacer
 alternet.org##.sidebar_sticky_container
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
