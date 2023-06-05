@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NiywAFzPjsS719YTLhWH3A
-! Version: 202306050420
+! Checksum: EpacO3e6GPkFv28DoLd29g
+! Version: 202306050441
 ! Title: EasyList
-! Last modified: 05 Jun 2023 04:20 UTC
+! Last modified: 05 Jun 2023 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56301,6 +56301,7 @@ plos.org##.head-top
 realmadrid.com##.head_sponsors
 organicfacts.net##.header-ad
 boldsky.com##.header-ad-block
+scmp.com##.header-ad-slot
 worldpress.org##.header-b
 adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,warisboring.com##.header-banner
 mercurynews.com,nssmag.com##.header-banners
