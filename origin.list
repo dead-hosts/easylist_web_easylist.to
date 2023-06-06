@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M3r6ztmoTBaYFprkIUNpCA
-! Version: 202306060540
+! Checksum: smS+rE5zCe4FiWWrC2USFQ
+! Version: 202306060602
 ! Title: EasyList
-! Last modified: 06 Jun 2023 05:40 UTC
+! Last modified: 06 Jun 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18819,6 +18819,7 @@ _800x80_
 ##.pmg-sponsoredlinks
 ##.polar-ad
 ##.polaris-ad--wrapper-desktop
+##.polarisMarketing
 ##.polaris__ad
 ##.polaris__teads
 ##.position-ads
