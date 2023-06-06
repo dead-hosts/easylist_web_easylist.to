@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 209VlMEfNFyy+/ZGYOxTUg
-! Version: 202306060815
+! Checksum: aUezbT0hsQ4c733e3x04pw
+! Version: 202306060858
 ! Title: EasyList
-! Last modified: 06 Jun 2023 08:15 UTC
+! Last modified: 06 Jun 2023 08:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4412,7 +4412,6 @@ _widget_ad.
 /prebidlink/*
 /prebidtest.
 /prodprebidheader-
-/pubfig.js
 /pubfig.min.js
 /tagman/*
 _prebid-$script
@@ -56361,6 +56360,7 @@ phonearena.com##.heading-deal
 autoplius.lt##.headtop
 igorslab.de##.herald-sidebar
 provideocoalition.com##.hero-promotions
+azuremagazine.com##.hero__metadata-left-rail
 freeads.co.uk##.hero_banner1
 filecrypt.cc,filecrypt.co##.hghspd
 filecrypt.cc,filecrypt.co##.hghspd + *
@@ -58221,6 +58221,7 @@ baking-forums.com,windows10forums.com##div.message--post.message
 inverse.com##div.zz
 liverpoolway.co.uk##div[align="center"] > a[href]
 nexusradio.com##div[align=center]
+azuremagazine.com##div[class$="azoa"]
 independent.co.uk##div[class*="Ad__Wrapper-"]
 sportbible.com##div[class*="Advert"]
 theatlantic.com##div[class*="Leaderboard_placeholder_"]
