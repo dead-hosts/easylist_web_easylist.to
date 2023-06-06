@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wAAEriPi0LXZ+eRR/4wkjQ
-! Version: 202306060410
+! Checksum: 1yjcTwnD/v1rlx0+BgkEsw
+! Version: 202306060431
 ! Title: EasyList
-! Last modified: 06 Jun 2023 04:10 UTC
+! Last modified: 06 Jun 2023 04:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55114,6 +55114,7 @@ thedailybeast.com##.Cheat__top-ad
 tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
 swarajyamag.com##.CrIrA
+lithub.com##.Custom_Ads
 inverness-courier.co.uk,johnogroat-journal.co.uk##.DMPU
 naturalnews.com##.DVFNRYKUTQEP
 realityblurb.com##.Desktop-Sticky
@@ -56439,6 +56440,7 @@ kijiji.ca##.inline-banner
 swiftcurrentonline.com##.inline-billboard
 freebeacon.com##.inline-campaign-wrapper
 stocksnap.io##.inline-carbon
+sfgate.com##.inline-iframe
 parkers.co.uk##.inline-leaderboard-ad-wrapper
 pcgamesn.com,pockettactics.com,theloadout.com##.inlinerail
 nzbindex.com##.inner
