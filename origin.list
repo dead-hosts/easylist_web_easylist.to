@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DcIzUo2udfwMK+orlm7EGA
-! Version: 202306060020
+! Checksum: jokyUxdNaHOJuY4kOMOzcw
+! Version: 202306060040
 ! Title: EasyList
-! Last modified: 06 Jun 2023 00:20 UTC
+! Last modified: 06 Jun 2023 00:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21038,7 +21038,6 @@ _800x80_
 ##[name^="google_ads_iframe"]
 ##[onclick^="location.href='http://www.reimageplus.com"]
 ##a-ad
-##a[href*=".cfm?fp="][href*="&maxads="]
 ##a[href*=".engine.adglare.net/"]
 ##a[href*="//lkstrck2.com/"]
 ##a[href^="//a.bestcontentfare.top/"]
@@ -21357,6 +21356,8 @@ _800x80_
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! Ads for parked domains https://github.com/easylist/easylist/commit/f96a71b82c
+##a[href*=".cfm?fp="][href*="&maxads="]
 ! CitrusAd
 ##.CitrusBannerWrapper--enollj
 ##[class^="tile-picker__CitrusBannerContainer-sc-"]
