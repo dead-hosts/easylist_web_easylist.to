@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H/OZlh3rqIuhXPB9iR9jpQ
-! Version: 202306060101
+! Checksum: o4O+/5wDxRqOYwLxvM3h/A
+! Version: 202306060121
 ! Title: EasyList
-! Last modified: 06 Jun 2023 01:01 UTC
+! Last modified: 06 Jun 2023 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2548,7 +2548,6 @@
 /google-afc.
 /google-dfp-
 /google/ad?
-/google_ads/*
 /google_adsense-
 /google_adv/*
 /google_afc.
