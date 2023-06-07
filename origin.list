@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7r3mNSAL0UzHWjLkCOmAxw
-! Version: 202306071210
+! Checksum: wnwcZCf3kY+UVTk6/EZCsg
+! Version: 202306071311
 ! Title: EasyList
-! Last modified: 07 Jun 2023 12:10 UTC
+! Last modified: 07 Jun 2023 13:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57896,6 +57896,7 @@ woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
 reuters.com##[data-testid="ResponsiveAdSlot"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
+coles.com.au##[data-testid="ad"]
 coles.com.au##[data-testid="banner-container-desktop"]
 forbes.com##[data-testid="locked-top-ad-container"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
@@ -58833,6 +58834,8 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
+nordstrom.com#?#.ivm_G:-abp-contains(Sponsored)
 noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
 mg.co.za#?#article:-abp-has(.sponsored-single)
 metager.org#?#.result:-abp-has(.advertisement-mark)
