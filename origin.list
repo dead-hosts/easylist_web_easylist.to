@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XDQpSDJDHvjptaPT77/cNg
-! Version: 202306080010
+! Checksum: Gm7TULC27GPEohrEVEB+3g
+! Version: 202306080030
 ! Title: EasyList
-! Last modified: 08 Jun 2023 00:10 UTC
+! Last modified: 08 Jun 2023 00:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58068,6 +58068,7 @@ wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
 englishclub.com##[href^="https://www.wordupapp.co/"]
 gelbooru.com##[href^='https://realbooru.com/']
 smallseotools.com##[id*="gram"]
+producebluebook.com##[id^="BBS"]
 beforeitsnews.com##[id^="banners_"]
 pluggedingolf.com##[id^="black-studio-tinymce-"]
 scmp.com##[id^="div-ad-"]
