@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Nwq0mhikxvKXQbky51YQgQ
-! Version: 202306082320
+! Checksum: 5Te8UlzAs3ZhliEdRfUYzQ
+! Version: 202306082340
 ! Title: EasyList
-! Last modified: 08 Jun 2023 23:20 UTC
+! Last modified: 08 Jun 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26049,7 +26049,6 @@ browsershots.org#@#.advert_area
 ||bigotpenniless.com^
 ||bigprizesonline.com^
 ||bigrourg.net^
-||bigsport.today^
 ||bijitsoa.com^
 ||bijwawr.com^
 ||bikehowfaded.com^
@@ -27577,7 +27576,6 @@ browsershots.org#@#.advert_area
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
-||clickadu.com^
 ||clickagy.com^
 ||clickallow.net^
 ||clickaslu.com^
@@ -46700,6 +46698,7 @@ browsershots.org#@#.advert_area
 ||clickable.com^$third-party
 ||clickad.pl^$third-party
 ||clickadilla.com^$third-party
+||clickadu.com^$third-party
 ||clickbet88.com^$third-party
 ||clickcertain.com^$third-party
 ||clickdaly.com^$third-party
@@ -50836,7 +50835,6 @@ browsershots.org#@#.advert_area
 ||chatinator.com^$third-party
 ||chereogatsa.art^
 ||citysex.com^$third-party
-||clickadu.com^$third-party
 ||clickaine.com^$third-party
 ||clipxn.com^$third-party
 ||cross-system.com^$script,third-party
