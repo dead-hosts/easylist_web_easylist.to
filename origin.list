@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9vx4jkWT9nAcy7E1oTGX3w
-! Version: 202306100950
+! Checksum: YRIZhMTHmExc21SXncRUxQ
+! Version: 202306101010
 ! Title: EasyList
-! Last modified: 10 Jun 2023 09:50 UTC
+! Last modified: 10 Jun 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55746,6 +55746,7 @@ simkl.com##.blockplacecente
 wowhead.com##.blocks
 mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
+failory.com##.blog-column-ad
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
 techspot.com##.blu
