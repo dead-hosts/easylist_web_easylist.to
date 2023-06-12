@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m7OPuAeeowd9F/6VPXGNTQ
-! Version: 202306120231
+! Checksum: CToKLP+2vIKGSPPqsRpECw
+! Version: 202306120251
 ! Title: EasyList
-! Last modified: 12 Jun 2023 02:31 UTC
+! Last modified: 12 Jun 2023 02:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54600,6 +54600,7 @@ northcountrypublicradio.org###business
 music-news.com###buy-tickets
 channel4.com###c4ad-Top
 timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
+chordify.net###campaign_banner
 coinlisting.info###carousel-example-generic
 csdb.dk###casdivhor
 csdb.dk###casdivver
@@ -55404,6 +55405,7 @@ backthetruckup.com,trendstorys.com##.a-wrap
 breitbart.com##.a-wrapper
 crypto.news##.a041deaef15__wrapper
 getpocket.com##.a1cawpek
+chordify.net##.a1p2y5ib
 informer.com##.a2
 supercheats.com##.a300
 wmtips.com##.a3f17
