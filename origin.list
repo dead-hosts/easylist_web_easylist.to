@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cJ4D+obKRwbcBF++2E+4GA
-! Version: 202306120620
+! Checksum: gO45rNbcU5Arl+wDy99lEg
+! Version: 202306120640
 ! Title: EasyList
-! Last modified: 12 Jun 2023 06:20 UTC
+! Last modified: 12 Jun 2023 06:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -98,7 +98,6 @@
 -advertising/vast/
 -advertising_
 -advertisment-
--advertorial.
 -adverts.min.
 -adwords.$domain=~consultant-adwords.com|~consultant-adwords.fr|~expert-adwords.com|~freelance-adwords.com|~freelance-adwords.fr
 -article-ad-
@@ -111,8 +110,6 @@
 -banner-ad/
 -banner-ad_
 -banner-ads-$~script
--content-ad-
--content-ad.
 -contrib-ads.$~stylesheet
 -cpm-ad.
 -cpm-ads.
@@ -294,7 +291,6 @@
 .net/pfadj/
 .ng/ads/
 .nl/ad2/
-.no/ads/
 .nu/ads/
 .openad.$domain=~openad.lv
 .openx.$domain=~openx.com|~openx.solar
@@ -514,7 +510,6 @@
 /ad3.$domain=~ad3.eu|~vereinslinie.de
 /ad300.
 /ad4.$domain=~ad4.fr|~ad4.wpengine.com|~vereinslinie.de
-/ad468x60.
 /ad468x80.
 /ad5.
 /ad6.
@@ -542,18 +537,11 @@
 /ad_bar_
 /ad_base.
 /ad_big_
-/ad_blog.
-/ad_bot.
 /ad_bottom.
 /ad_box.
-/ad_box1.
-/ad_box2.
 /ad_box?
 /ad_box_
-/ad_boxes/*
 /ad_break?
-/ad_button.
-/ad_cache/*
 /ad_campaign?
 /ad_caption.
 /ad_choices.
@@ -572,7 +560,6 @@
 /ad_engine?
 /ad_entry_
 /ad_exo.
-/ad_fallback/*
 /ad_feed.
 /ad_feedback_
 /ad_footer.
@@ -738,7 +725,6 @@
 /adbox1.
 /adbox2.
 /adbox_
-/adboxes/*
 /adbreak_
 /adbridg.
 /adbrite-
@@ -789,7 +775,6 @@
 /adcontents_
 /adcontrol.$domain=~adcinjector.com|~adcontrol.sk
 /adcontrol/*$~image
-/adcontroller.
 /adcore.$domain=~adcore.be|~adcore.ch|~adcore.com.au|~adcore.ua
 /adcore_$domain=~adcore.ch|~adcore.com.au
 /adcount.$domain=~adcount.com|~adcount.fi
@@ -850,8 +835,6 @@
 /adhese_
 /adhost.$domain=~adhost.dk
 /adhref.$domain=~adhref.com
-/adiframe.
-/adiframe/*
 /adiframe?
 /adiframe_
 /adiframe|*|adtech;
@@ -872,18 +855,15 @@
 /adinsert.
 /adinsertionplugin.
 /adiro.$domain=~adiro.se
-/aditems/*$~image
 /adition.
 /adj.php?
 /adjk.
 /adjoin.
 /adjs.php
-/adjs/*$~image
 /adjs?
 /adjs_
 /adjsmp.
 /adjson.
-/adjson?
 /adjug.
 /adjuggler?
 /adkeys.
@@ -891,9 +871,6 @@
 /adkingpro/*
 /adlabel.$domain=~adlabel.adgoal.de
 /adlabel_
-/AdLanding.
-/adlanding/*
-/adlandr.
 /adlantis.
 /adlayer.
 /adlayer/*
@@ -956,7 +933,6 @@
 /adnews.$domain=~adnews.com.br|~adnews.galitt.com|~adnews.pl
 /adnex.
 /adnext.$domain=~adnext.lt|~adnext.pl
-/adnexus-
 /adning/*
 /adnostic/*
 /adnotice.
@@ -971,11 +947,6 @@
 /adotubeplugin.
 /adoverlay.
 /adoverlay/*
-/adpage-$domain=~adpage.com.ua|~adpage.io
-/adpage.$domain=~adpage.com.ua|~adpage.io
-/adpage/*$domain=~adpage.com.ua|~adpage.io
-/adphoto.$domain=~adphoto.eu|~adphoto.fr|~adphoto.pl
-/adpicture.
 /adPlaceholder.
 /adplacement.
 /adplayer.$script,domain=~adplayer.media|~adplayer.pro
@@ -1085,8 +1056,6 @@
 /ads/config/*
 /ads/core.
 /ads/create_
-/ads/cube-
-/ads/dart.
 /ads/default_
 /ads/delivery.
 /ads/delivery?
@@ -1094,24 +1063,13 @@
 /ads/desktop-
 /ads/dfp.
 /ads/dfp?
-/ads/dhtml/*
 /ads/display/*
-/ads/drive.
-/ads/empty.
-/ads/exit.
 /ads/fixed/*
 /ads/footer-
 /ads/footer.
 /ads/footer_
-/ads/forum-
-/ads/forums/*
-/ads/freewheel/*
 /ads/get/*
-/ads/getall
-/ads/getPositions?
 /ads/gpt/*
-/ads/gpt_
-/ads/head.
 /ads/header-
 /ads/header.
 /ads/header/*
@@ -1119,7 +1077,6 @@
 /ads/home/*
 /ads/homepage/*
 /ads/horizontal/*
-/ads/house/*
 /ads/house_
 /ads/html/*
 /ads/iframe
@@ -1134,84 +1091,53 @@
 /ads/indexmarket.
 /ads/info/*
 /ads/inline.
-/ads/js.
 /ads/js/*
-/ads/js_
 /ads/leaderboard-
 /ads/leaderboard.
 /ads/leaderboard/*
 /ads/leaderboard?
 /ads/leaderboard_
-/ads/leaderbox.
 /ads/loading.
-/ads/main.
-/ads/marketing/*
-/ads/masthead_
-/ads/menu_
 /ads/middle/*
-/ads/mpu/*
-/ads/mpu2?
-/ads/mpu?
 /ads/native.
 /ads/native/*
 /ads/oas-
 /ads/oas/*
 /ads/oas_
-/ads/oscar/*
 /ads/outbrain?
 /ads/page.
 /ads/panel.
-/ads/payload/*
-/ads/pc.
-/ads/pencil/*
 /ads/player-
-/ads/plugs/*
 /ads/popout.
 /ads/popshow.
 /ads/popup.
 /ads/popup_
 /ads/post-
 /ads/postscribe.
-/ads/preloader/*
 /ads/preroll-
 /ads/preroll/*
 /ads/preroll_
-/ads/pro/*
 /ads/prod/*
-/ads/profile/*
-/ads/profile_
 /ads/promo_
 /ads/proxy-
 /ads/rect_
 /ads/rectangle_
-/ads/request.
-/ads/reskins/*
 /ads/revgen.
 /ads/right.
 /ads/right/*
-/ads/ringtone_
-/ads/scriptinject.
 /ads/scripts/*
-/ads/select/*
 /ads/serve?
-/ads/serveIt/*
 /ads/show.
 /ads/show/*
 /ads/side-
 /ads/sidebar-
-/ads/sidedoor/*
-/ads/sitewide_
 /ads/skins/*
 /ads/sky_
 /ads/slideup.
-/ads/smi24-
 /ads/spacer.
 /ads/sponsor
 /ads/square-
 /ads/square.
-/ads/square2.
-/ads/square3.
-/ads/src/*
 /ads/sub/*
 /ads/syndicated/*
 /ads/taboola/*
@@ -1229,17 +1155,14 @@
 /ads/v/*
 /ads/v2/*
 /ads/vertical/*
-/ads/vg/*
 /ads/video/*
 /ads/video_
 /ads/view.
 /ads/view/*
 /ads/views/*
-/ads/vip_
 /ads/web/*
 /ads/webplayer.
 /ads/webplayer?
-/ads/welcomescreen.
 /ads/widebanner.
 /ads/widget.
 /ads/widget/*
@@ -1287,7 +1210,6 @@
 /ads728x90a.
 /ads790.
 /ads8.
-/ads8/*
 /ads88.
 /ads9.
 /ads9/*
@@ -1314,7 +1236,6 @@
 /ads_bottom.
 /ads_bottom_
 /ads_box_
-/ads_code.
 /ads_codes/*
 /ads_config.
 /ads_controller.
@@ -1359,7 +1280,6 @@
 /adsandbox.
 /adsandtps/*
 /adsAPI.$domain=~snap.com|~snapchat.com
-/adsatt.
 /adsbanner-
 /adsbanner.
 /adsbanner/*
@@ -1404,7 +1324,6 @@
 /adsense?
 /adsenseClient-
 /adsensegoogle.
-/adsensets.
 /adsensev2.
 /adseo.$domain=~adseo.com|~adseo.no|~adseo.pl
 /adseo/*
@@ -1415,7 +1334,6 @@
 /adserv1.
 /adserv2.
 /adserv3.
-/adserv_
 /adserve-
 /adserve.
 /adserve/*
@@ -1754,7 +1672,6 @@
 /advertisment1-
 /advertisment_
 /advertisments/*
-/advertize_
 /advertlayer.
 /advertmedia/*
 /advertorial-
@@ -2413,7 +2330,6 @@
 /forums/ad/*
 /frame_ads_
 /framead-
-/framead.
 /framead_
 /frameads.
 /frameads1.
@@ -2922,7 +2838,6 @@
 /newad?
 /newadcfg/*
 /newads.
-/newads/*$domain=~ingles-markets.com
 /newadv/*
 /newadvert/*
 /newaff/float
@@ -3078,7 +2993,6 @@
 /play/ad/*
 /player/ad/*
 /player/ads/*
-/player_ads/*
 /playerjs/ads.
 /players/ads.
 /pledgead.
@@ -3301,7 +3215,6 @@
 /rightads.$domain=~rightads.co.uk
 /rollad.
 /rolloverads/*
-/rotateads.
 /rotatingad.
 /rotationad.
 /s.ashx?btag
@@ -3917,7 +3830,6 @@ _ad_domain_
 _ad_end_
 _ad_engine/
 _ad_expand_
-_ad_feed.
 _ad_footer.
 _ad_footer_
 _ad_frame.
@@ -4494,7 +4406,6 @@ _atblockdetector/
 .480x60/
 .480x60_
 .728x90-
-.728x90.
 .728x90/
 .728x90_
 .900x100.
@@ -4571,7 +4482,6 @@ _atblockdetector/
 /468x72_
 /468x80-
 /468x80.
-/468x80/*
 /468x80_
 /470x030_
 /480x030.
