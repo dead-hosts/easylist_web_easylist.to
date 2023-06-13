@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LbeEYx1t6JRMoNfC1EIa4g
-! Version: 202306130220
+! Checksum: 7a2D5hbuNgebMaXv1HJEAQ
+! Version: 202306130240
 ! Title: EasyList
-! Last modified: 13 Jun 2023 02:20 UTC
+! Last modified: 13 Jun 2023 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17551,6 +17551,7 @@ _800x80_
 ##.js-gptAd
 ##.js-header-ad
 ##.js-header-ad-wrapper
+##.js-lazy-ad
 ##.js-mapped-ad
 ##.js-mpu
 ##.js-native-ad
@@ -54928,6 +54929,7 @@ pastemagazine.com###middle_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
 dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
+byrdie.com,investopedia.com,thespruce.com,verywellhealth.com###mntl-leaderboard-header_1-0
 sportskeeda.com###mob3-cnx-container-bottom
 pocketgamer.com###mobile-background
 express.co.uk###mobile_floating_test
@@ -55105,6 +55107,7 @@ point2homes.com###smartAsset
 247wallst.com###smartasset
 givemesport.com###sn_gg_ad_wrapper
 gpfans.com###snack_ldb
+ghacks.net###snhb-snhb_ghacks_bottom-0
 thedriven.io###solarchoice_banner_1
 wcny.org###soliloquy-12716
 flaticon.com###soul-p
@@ -56966,7 +56969,6 @@ ar15.com##.minis
 revolutionsoccer.net##.mls-o-adv-container
 thinkcivics.com##.mmt-primary
 inhabitat.com##.mn-wrapper
-byrdie.com,investopedia.com,thespruce.com,verywellhealth.com##.mntl-leaderboard-spacer
 comicbook.com##.mobile
 putlockers.do##.mobile-btn
 d123movies.to##.mobile-btn > div
