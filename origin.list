@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GQTQy3lVuMLuYa13geCy3g
-! Version: 202306141051
+! Checksum: sDH8U3ePWAfVjFy+cCIGiA
+! Version: 202306141111
 ! Title: EasyList
-! Last modified: 14 Jun 2023 10:51 UTC
+! Last modified: 14 Jun 2023 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18349,6 +18349,7 @@ _800x80_
 ##.parent-ad-desktop
 ##.partial-ad
 ##.partner-ad
+##.partner-ad-module-wrapper
 ##.partner-ads-list
 ##.partner-adsonar
 ##.partnerAd
@@ -20958,6 +20959,7 @@ _800x80_
 ##guj-ad
 ##hl-adsense
 ##img[src^="https://images.purevpnaffiliates.com"]
+##ps-connatix-module
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
@@ -56229,12 +56231,13 @@ democraticunderground.com##.mediumrectangle-placeholder
 allnurses.com##.medrec
 techrepublic.com##.medusa-list
 compoundsemiconductor.net##.mega-bar
-theweather.net##.megabanner
+theweather.com,theweather.net,yourweather.co.uk##.megabanner
 mentalmars.com##.menta-target
 2ip.me##.menu_banner
 gadgetsnow.com##.mercwapper
 audiokarma.org##.message > center b
 eawaz.com##.metaslider
+theweather.com,theweather.net,yourweather.co.uk##.meteored-ads
 metro.co.uk##.metro-discounts
 metro.co.uk##.metro-ow-modules
 moviefone.com##.mf-incontent
