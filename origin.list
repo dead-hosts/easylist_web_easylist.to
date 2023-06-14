@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZZc9SwzkEn35OREGKdxHpg
-! Version: 202306142150
+! Checksum: HvGjW+8+3G3hqeGB6KeKeQ
+! Version: 202306142211
 ! Title: EasyList
-! Last modified: 14 Jun 2023 21:50 UTC
+! Last modified: 14 Jun 2023 22:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9788,6 +9788,7 @@ _800x80_
 ##.MiddleRightRadvertisement
 ##.NA_ad
 ##.NR-Ads
+##.NativeAdContainerRegion
 ##.NavBarAd
 ##.Normal-add
 ##.OAS_wrap
@@ -57445,6 +57446,7 @@ forbes.com##[data-testid="locked-top-ad-container"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 abcnews.go.com##[data-testid="prism-static-embed"]
+abcnews.go.com##[data-testid="prism-sticky-ad"]
 goal.com##[data-type="AdComponent"]
 search.brave.com##[data-type="ad"]
 gadgetsnow.com##[data-type="mtf"]
