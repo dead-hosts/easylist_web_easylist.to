@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c/CRYkIkqDMyEHRdO0M9yQ
-! Version: 202306150650
+! Checksum: gFH6foGbTvlE9Md3hE2g/Q
+! Version: 202306150710
 ! Title: EasyList
-! Last modified: 15 Jun 2023 06:50 UTC
+! Last modified: 15 Jun 2023 07:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59758,7 +59758,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
-@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com
+@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|mediaite.com
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|blastingnews.com|bloomberg.com|chromatographyonline.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|games.coolgames.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|physicianspractice.com|standard.co.uk|theta.tv|weather.com
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||gbf.wiki/images/$image,~third-party
