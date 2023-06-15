@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K0Uinq9/FuEmnMwYhk+QeQ
-! Version: 202306151140
+! Checksum: 8nIKxGjI8qQ12B7hxeOyqw
+! Version: 202306151201
 ! Title: EasyList
-! Last modified: 15 Jun 2023 11:40 UTC
+! Last modified: 15 Jun 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54906,6 +54906,7 @@ mobilesyrup.com##.ad-goes-here
 pinkvilla.com##.ad-heder-320-50
 dailyuptea.com##.ad-info
 mariopartylegacy.com##.ad-long
+pedestrian.tv##.ad-no-mobile
 constructionenquirer.com##.ad-page-takeover
 computerworld.com,networkworld.com,probuildstats.com##.ad-placement
 comedy.com##.ad-placement-wrapper
@@ -56615,11 +56616,10 @@ thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
 bramptonguardian.com##.polarBlock
+autoexpress.co.uk##.polaris__below-header-ad-wrapper
 bigissue.com##.polaris__simple-grid--full
-pedestrian.tv##.popular-jobs-widget
 compoundsemiconductor.net##.popular__section-newsx
 wethegeek.com##.popup-dialog
-acestream.net##.popup2
 battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,lethbridgenewsnow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
 charlieintel.com##.position-sticky
 wtop.com##.post--sponsored
@@ -57408,6 +57408,7 @@ gamepur.com##.wp-block-dotesports-affiliate-button
 cryptofeeds.news,gamenguides.com,millennial-grind.com,teslaoracle.com##.wp-block-image
 livability.com##.wp-block-jci-ad-area-two
 bangordailynews.com##.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+pedestrian.tv##.wp-block-ped-theme-blocks-pedestrian-recent-jobs
 hyperallergic.com,repeatreplay.com##.wp-block-spacer
 c19-worldnews.com##.wp-caption
 onepagerules.com##.wp-container-6.wp-block-columns
