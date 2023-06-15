@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c2Z5VZnDWuaHvYP0+tI2XQ
-! Version: 202306151850
+! Checksum: z8XTOvpEOlDczYVXtYUnHQ
+! Version: 202306151920
 ! Title: EasyList
-! Last modified: 15 Jun 2023 18:50 UTC
+! Last modified: 15 Jun 2023 19:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1568,7 +1568,7 @@
 /advertbuttons_
 /advertical.$domain=~advertical.hu
 /advertise-$~script,domain=~ads.microsoft.com|~advertise-solution.nl|~bingads.microsoft.com
-/advertise/*$domain=~legl.co
+/advertise/*$domain=~legl.co|~payju.ir
 /advertise_
 /advertisehere.
 /advertisement-$~script,domain=~berlin-airport.de
@@ -59663,7 +59663,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
-@@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
+@@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads3.xumo.com^$domain=2vnews.com|redbox.com
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
