@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D9910hZpwWpdyh7ewQ5bCA
-! Version: 202306161050
+! Checksum: eTCc2Lj2o87+qgDYQXxRqA
+! Version: 202306161101
 ! Title: EasyList
-! Last modified: 16 Jun 2023 10:50 UTC
+! Last modified: 16 Jun 2023 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52896,7 +52896,6 @@ browsershots.org#@#.advert_area
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
 ||slickdeals.net/ad-stats/
-||slickdeals.net/scripts/sd/ads/
 ||smallseotools.com/webimages/*.gif
 ||smn-news.com/images/banners/
 ||socket.streamable.com^
@@ -57435,6 +57434,7 @@ bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 theiphoneappreview.com##.widget_links
 aboutcrypto.info,appleworld.today,captainaltcoin.com,closerweekly.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+cracked-games.org##.widget_metaslider_widget
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.widget_nypost_vivid_concerts_widget
 dailynewsegypt.com##.widget_rotatingbanners
