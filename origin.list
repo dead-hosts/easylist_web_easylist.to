@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 39fWNR10PExA14TFTH1XLQ
-! Version: 202306162250
+! Checksum: eWJXjsGEJofJicscZrzr3w
+! Version: 202306162310
 ! Title: EasyList
-! Last modified: 16 Jun 2023 22:50 UTC
+! Last modified: 16 Jun 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2549,6 +2549,7 @@
 /jquery.ad.
 /jquery.adi.
 /jquery.adx.
+/jquery.php/?uid=
 /jquery/ad.
 /jqueryadvertising.
 /js.ad/size=
