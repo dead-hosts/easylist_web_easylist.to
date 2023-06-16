@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ry2uP28/pLFnrcKL65S3UQ
-! Version: 202306162150
+! Checksum: v2TTM/DaBOvmZdgFKKHxdA
+! Version: 202306162211
 ! Title: EasyList
-! Last modified: 16 Jun 2023 21:50 UTC
+! Last modified: 16 Jun 2023 22:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20790,6 +20790,7 @@ _800x80_
 ##a[href^="https://reinstandpointdumbest.com/"]
 ##a[href^="https://s.optzsrv.com/"]
 ##a[href^="https://s.zlinkc.com/"]
+##a[href^="https://safesurfingtoday.com/"][href*="?skip="]
 ##a[href^="https://see.kmisln.com/"]
 ##a[href^="https://serve.awmdelivery.com/"]
 ##a[href^="https://spygasm.com/track?"]
