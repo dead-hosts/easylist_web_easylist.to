@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v2TTM/DaBOvmZdgFKKHxdA
-! Version: 202306162211
+! Checksum: txDmzkno91qrXeMKSHP08w
+! Version: 202306162231
 ! Title: EasyList
-! Last modified: 16 Jun 2023 22:11 UTC
+! Last modified: 16 Jun 2023 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54148,6 +54148,7 @@ classicreload.com###content-top
 kbb.com###contentFor_kbbAdsSimplifiedNativeAd
 lineageos18.com###contentLocker
 notebookcheck.net###contenta
+alt-codes.net###copyModal .modal-body
 wsj.com###coupon-links
 lordz.io###crossPromotion
 croxyproxy.rocks###croxyExtraZapper
@@ -58210,6 +58211,7 @@ courier-journal.com,courierpress.com,detroitnews.com,freep.com,greenbaypressgaze
 healthgrades.com##ps-action-intercept
 mashable.com##section.mt-4 > div
 bbc.com##section[data-e2e="advertisement"]
+thesaurus.com##section[data-type="ad-horizontal-module"]
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
 tempostorm.com##side-banners
 smartprix.com##sm-dap
