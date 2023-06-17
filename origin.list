@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WOo4t/cy/JzkMZr/++XqEw
-! Version: 202306162350
+! Checksum: iYoZQ2BXCU+Y2FYLryQzoQ
+! Version: 202306170010
 ! Title: EasyList
-! Last modified: 16 Jun 2023 23:50 UTC
+! Last modified: 17 Jun 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57700,6 +57700,7 @@ bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
 health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
+anonfiles.com##[href^="https://www.encrouter.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 perezhilton.com##[href^="https://www.mytrue10.com/"]
@@ -59999,6 +60000,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||drive.google.com^$generichide
 @@||dropbox.com^$generichide
 @@||fastmail.com^$generichide
+@@||figma.com^$generichide
 @@||github.com^$generichide
 @@||gitlab.com^$generichide
 @@||hbomax.com^$generichide
