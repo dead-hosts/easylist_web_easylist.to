@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 61erSshjPzCkovPq87antQ
-! Version: 202306181240
+! Checksum: blpkpsJjU8ZVgUEt03AGnA
+! Version: 202306181301
 ! Title: EasyList
-! Last modified: 18 Jun 2023 12:40 UTC
+! Last modified: 18 Jun 2023 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2613,6 +2613,7 @@
 /leftads.
 /legion-advertising-atlasastro/*
 /lg.php?adid=
+/li.blogtrottr.com/imp?
 /lijit-ad-
 /lijitads.
 /linkad2.
@@ -20629,6 +20630,7 @@ _800x80_
 ##a[href^="http://d2.zedo.com/"]
 ##a[href^="http://go.xtbaffiliates.com/"]
 ##a[href^="http://googleads.g.doubleclick.net/pcs/click"]
+##a[href^="http://li.blogtrottr.com/click?"]
 ##a[href^="http://partners.etoro.com/"]
 ##a[href^="http://static.fleshlight.com/images/banners/"]
 ##a[href^="http://tc.tradetracker.net/"] > img
