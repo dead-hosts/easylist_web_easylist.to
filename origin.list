@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SFSot96gN4bpm/FurhyYXw
-! Version: 202306180920
+! Checksum: moM48SCuHqSGfOSF84klQA
+! Version: 202306180940
 ! Title: EasyList
-! Last modified: 18 Jun 2023 09:20 UTC
+! Last modified: 18 Jun 2023 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3371,6 +3371,7 @@
 /tabads/*
 /taboola-footer.
 /taboola-header.
+/taboola_7.4.1.js
 /taboola_ads.js
 /taboola_header.
 /taboolaArticle.
@@ -31388,6 +31389,7 @@ browsershots.org#@#.advert_area
 ||gobbinsantos.store^
 ||gobiaesker.uno^
 ||gobicyice.com^
+||gobitta.info^
 ||gobmodfoe.com^
 ||godating.pw^
 ||goddamnhowks.tech^
