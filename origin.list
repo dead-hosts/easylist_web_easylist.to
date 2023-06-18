@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IA7XxlDeIO/YWJdJ1EaLNw
-! Version: 202306181001
+! Checksum: Gi3RJxPTPM/K8SOnmg4MRg
+! Version: 202306181020
 ! Title: EasyList
-! Last modified: 18 Jun 2023 10:01 UTC
+! Last modified: 18 Jun 2023 10:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56242,6 +56242,7 @@ itweb.co.za##.itw-content-zone
 ownedcore.com##.iv-note
 india.com##.iwplhdbanner-wrap
 ticketmaster.com##.jTNWic
+ticketmaster.com##.jUIMbR
 notateslaapp.com##.jeffdlwlxpqi
 psypost.org##.jeg_midbar
 sabcnews.com##.jeg_topbar
@@ -56834,6 +56835,7 @@ giantfreakinrobot.com##.pw-med-rect-atf-container
 giantfreakinrobot.com##.pw-med-rect-btf-container
 smallseotools.com##.px304
 breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
+quora.com##.q-sticky
 euronews.com##.qa-dfpLeaderBoard
 thegatewaypundit.com##.qh1aqgd
 revolution935.com##.qt-sponsor
@@ -57114,6 +57116,7 @@ greatandhra.com##.sortable-item_top_add123
 khmertimeskh.com##.sow-slider-image
 freeonlineapps.net##.sp
 flaticon.com##.sp-slidesgo-container
+quora.com##.spacing_log_question_page_ad
 infoq.com##.spns
 informer.com##.spnsd
 sundayworld.co.za##.spnsorhome
@@ -60341,6 +60344,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||trace.playwright.dev^$popup
 @@||vk.com/ads?$popup,domain=vk.com
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
+@@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@||youtube.com/ads/preferences/$popup
 ! *** easylist:easylist_adult/adult_allowlist.txt ***
 @@||exosrv.com/video-slider.js$domain=xfreehd.com
