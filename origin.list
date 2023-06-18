@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T1MCW7XBF3f0R+MeSVo3mg
-! Version: 202306180901
+! Checksum: SFSot96gN4bpm/FurhyYXw
+! Version: 202306180920
 ! Title: EasyList
-! Last modified: 18 Jun 2023 09:01 UTC
+! Last modified: 18 Jun 2023 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -40811,7 +40811,6 @@ browsershots.org#@#.advert_area
 ||shrinkmesh.com^
 ||shrinkstorey.com^
 ||shritebehinds.space^
-||shrtfly.com^
 ||shrugartisticelder.com^
 ||shrupsthan.life^
 ||shrust.com^
@@ -46972,6 +46971,7 @@ browsershots.org#@#.advert_area
 ||showcasead.com^$third-party
 ||showyoursite.com^$third-party
 ||shrinkearn.com^$third-party
+||shrtfly.com^$third-party
 ||simpio.com^$third-party
 ||simpletraffic.co^$third-party
 ||simplyhired.com^$third-party
@@ -51603,7 +51603,6 @@ browsershots.org#@#.advert_area
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1ayv3a7nyno3a.cloudfront.net^
-||d1ayxb9ooonjts.cloudfront.net^
 ||d1az618or4kzj8.cloudfront.net^
 ||d1aznprfp4xena.cloudfront.net^
 ||d1azpphj80lavy.cloudfront.net^
