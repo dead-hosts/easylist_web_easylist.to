@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: moM48SCuHqSGfOSF84klQA
-! Version: 202306180940
+! Checksum: IA7XxlDeIO/YWJdJ1EaLNw
+! Version: 202306181001
 ! Title: EasyList
-! Last modified: 18 Jun 2023 09:40 UTC
+! Last modified: 18 Jun 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -55357,6 +55357,7 @@ dfiles.eu##.banner1
 gsprating.com##.banner2
 britsabroad.com##.bannerBox
 securenetsystems.net##.bannerPrerollArea
+mumbrella.com.au##.bannerSide
 thejc.com##.banner__
 financemagnates.com##.banner__outer-wrapper
 tass.com##.banner__wrapper
@@ -55933,6 +55934,7 @@ theblock.co##.fixedUnit
 2conv.com##.fixed_banner
 fixya.com##.fixya_primis_container
 whatismyipaddress.com##.fl-module-wipa-concerns
+whatismyipaddress.com##.fl-photo
 omniglot.com##.flex-container
 bgr.com##.flex.bg-black
 libhunt.com##.flex.mt-5.boxed
