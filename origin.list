@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mesSqVWHFfD1VgITR6sstw
-! Version: 202306182302
+! Checksum: AASLpXjkxwLzyZaQTS9Fag
+! Version: 202306182320
 ! Title: EasyList
-! Last modified: 18 Jun 2023 23:02 UTC
+! Last modified: 18 Jun 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58494,6 +58494,7 @@ history.com##.m-in-content-ad
 history.com##.m-in-content-ad-row
 impartialreporter.com,polygon.com##.ob-smartfeed-wrapper
 duckduckgo.com##.results--ads
+mail.google.com##a[href^="http://li.blogtrottr.com/click?"]
 geekzone.co.nz##div.cornered.box > center
 yandex.com##div[id^="yandex_ad"]
 ! Google
